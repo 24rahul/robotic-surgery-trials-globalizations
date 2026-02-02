@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">37905524</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>08</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1557-900X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>38</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of endourology</Title>
+          <ISOAbbreviation>J Endourol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Artificial Intelligence-Based Video Feedback to Improve Novice Performance on Robotic Suturing Skills: A Pilot Study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>884-891</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1089/end.2023.0328</ELocationID>
+        <Abstract>
+          <AbstractText><b><i>Introduction:</i></b> Automated skills assessment can provide surgical trainees with objective, personalized feedback during training. Here, we measure the efficacy of artificial intelligence (AI)-based feedback on a robotic suturing task. <b><i>Materials and Methods:</i></b> Forty-two participants with no robotic surgical experience were randomized to a control or feedback group and video-recorded while completing two rounds (R1 and R2) of suturing tasks on a da Vinci surgical robot. Participants were assessed on needle handling and needle driving, and feedback was provided via a visual interface after R1. For feedback group, participants were informed of their AI-based skill assessment and presented with specific video clips from R1. For control group, participants were presented with randomly selected video clips from R1 as a placebo. Participants from each group were further labeled as underperformers or innate-performers based on a median split of their technical skill scores from R1. <b><i>Results:</i></b> Demographic features were similar between the control (<i>n</i> = 20) and feedback group (<i>n</i> = 22) (<i>p</i> &gt; 0.05). Observing the improvement from R1 to R2, the feedback group had a significantly larger improvement in needle handling score (0.30 <i>vs</i> -0.02, <i>p</i> = 0.018) when compared with the control group, although the improvement of needle driving score was not significant when compared with the control group (0.17 <i>vs</i> -0.40, <i>p</i> = 0.074). All innate-performers exhibited similar improvements across rounds, regardless of feedback (<i>p</i> &gt; 0.05). In contrast, underperformers in the feedback group improved more than the control group in needle handling (<i>p</i> = 0.02). <b><i>Conclusion:</i></b> AI-based feedback facilitates surgical trainees' acquisition of robotic technical skills, especially underperformers. Future research will extend AI-based feedback to additional suturing skills, surgical tasks, and experience groups.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ma</LastName>
+            <ForeName>Runzhuo</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kiyasseh</LastName>
+            <ForeName>Dani</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computing and Mathematical Sciences, California Institute of Technology, Pasadena, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Laca</LastName>
+            <ForeName>Jasper A</ForeName>
+            <Initials>JA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kocielnik</LastName>
+            <ForeName>Rafal</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computing and Mathematical Sciences, California Institute of Technology, Pasadena, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wong</LastName>
+            <ForeName>Elyssa Y</ForeName>
+            <Initials>EY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chu</LastName>
+            <ForeName>Timothy N</ForeName>
+            <Initials>TN</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cen</LastName>
+            <ForeName>Steven</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Radiology Department, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Cherine H</ForeName>
+            <Initials>CH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dalieh</LastName>
+            <ForeName>Istabraq S</ForeName>
+            <Initials>IS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Haque</LastName>
+            <ForeName>Taseen F</ForeName>
+            <Initials>TF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goldenberg</LastName>
+            <ForeName>Mitch G</ForeName>
+            <Initials>MG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Xiuzhen</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Computational Biomedicine, Cedars-Sinai Medical Center, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Anandkumar</LastName>
+            <ForeName>Anima</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computing and Mathematical Sciences, California Institute of Technology, Pasadena, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hung</LastName>
+            <ForeName>Andrew J</ForeName>
+            <Initials>AJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>01</Month>
+          <Day>29</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Endourol</MedlineTA>
+        <NlmUniqueID>8807503</NlmUniqueID>
+        <ISSNLinking>0892-7790</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="Y">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013536" MajorTopicYN="Y">Suture Techniques</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001185" MajorTopicYN="Y">Artificial Intelligence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014741" MajorTopicYN="N">Video Recording</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005246" MajorTopicYN="N">Feedback</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">artificial intelligence</Keyword>
+        <Keyword MajorTopicYN="N">education</Keyword>
+        <Keyword MajorTopicYN="N">feedback</Keyword>
+        <Keyword MajorTopicYN="N">robotics</Keyword>
+        <Keyword MajorTopicYN="N">suturing</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>8</Month>
+          <Day>9</Day>
+          <Hour>18</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>31</Day>
+          <Hour>12</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>31</Day>
+          <Hour>7</Hour>
+          <Minute>12</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37905524</ArticleId>
+        <ArticleId IdType="doi">10.1089/end.2023.0328</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Int J Comput Assist Radiol Surg. 2019 Apr;14(4):697-707</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30460490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol Open Sci. 2022 Oct 22;46:15-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36506257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Biomed Eng. 2023 Jun;7(6):780-796</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36997732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2006 Jun;243(6):864-71; discussion 871-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16772790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 2013 Apr;205(4):434-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23422320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2017 Oct;266(4):582-594</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28742711</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urol Pract. 2022 Nov;9(6):532-539</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36844996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stat Med. 2019 Feb 20;38(4):636-649</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30298551</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2015 Aug;29(8):2235-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25318372</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA Surg. 2021 Nov 1;156(11):1059-1060</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34524401</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>NPJ Digit Med. 2022 Mar 3;5(1):24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35241760</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Educ. 2019 Nov - Dec;76(6):1629-1639</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31272846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA Netw Open. 2020 Mar 2;3(3):e201664</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32227178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40148848</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1471-2407</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>25</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Mar</Month>
+              <Day>27</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>BMC cancer</Title>
+          <ISOAbbreviation>BMC Cancer</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effectiveness of bilateral tongue base mucosectomy by transoral robotic surgery or transoral laser microsurgery in combination with tonsillectomy in identifying head and neck primary cancer of unknown primary: a randomized phase 2 protocol (RoboCUP trial).</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>551</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12885-025-13913-7</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In cases of prevalent lymphadenopathy in the head and neck cancer region, identifying the primary tumor site allows for more precise radiotherapy targeting. This improves treatment by reducing the volumes of mucosal irradiation and potentially lowering morbidity. An extensive diagnostic workup, including FDG PET-CT imaging and bilateral tonsillectomy, has been shown to identify the primary cancer in 60% of cases. Mucosectomy of the tongue base holds promise for detecting additional primary sites. When performed using minimally invasive endoscopic techniques such as transoral robotic surgery (TORS) or transoral laser microsurgery (TLM), mucosectomy results in minimal morbidity. However, the effectiveness of tongue base mucosectomy in detecting primary tumors has yet to be evaluated in a randomized trial involving patients with lymphadenopathy of unknown primary.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">The RoboCUP trial is a multicentre, open-label, randomized, non-comparative phase 2 trial aiming to evaluate the benefit of bilateral TORS or TLM-assisted tongue base mucosectomy in association to tonsillectomy in the assessment of prevalent cervical lymphadenopathy with a negative exhaustive diagnostic workup. The main endpoint is the proportion of patients with detection of a primary cancer. Surgery will consist in tongue base mucosectomy plus tonsillectomy in the experimental arm, and the standard of care, i.e. tonsillectomy alone in the control arm. Patients will then be treated by intensity modulated radiotherapy, possibly with chemotherapy as radiosensitizer, per current guidelines. Using a single-stage Fleming design, 36 patients will be enrolled in the experimental arm, and 36 patients in the control arm.</AbstractText>
+          <AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">This trial aims to improve the diagnostic performances, i.e. detection of primary tumor, in patients with head and neck carcinoma of unknown primary. It is expected that the subsequent therapeutic changes could enhance radiotherapy accuracy, and could improve the prognosis, toxicity profiles and quality-of-life of patients.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">NCT04767048, registered February, 19, 2021.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bastit</LastName>
+            <ForeName>Vianney</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology-Head and Neck Surgery, CHU de Caen, Avenue de La Côte de Nacre, Caen, 14000, France. bastit-v@chu-caen.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lequesne</LastName>
+            <ForeName>Justine</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Research, Center François Baclesse, Avenue du Général Harris, Caen, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Leconte</LastName>
+            <ForeName>Alexandra</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Research, Center François Baclesse, Avenue du Général Harris, Caen, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Deneuve</LastName>
+            <ForeName>Sophie</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otorhinolaryngology and Head and Neck Surgery, CHU de Rouen, 34, boulevard Gambetta, Rouen, 76000, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mouawad</LastName>
+            <ForeName>Francois</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>ENT and Head and Neck Surgery Department, hôpital Huriez, Université de Lille, Lille, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Cancer Heterogeneity, Plasticity and Resistance to Therapies (CANTHER), Centre Oscar Lambret, CHU de Lille, UMR9020 CNRS, U1277 Inserm, Université de Lille, Lille Cedex, 59037, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Quak</LastName>
+            <ForeName>Elske</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Nuclear Medicine, Center François Baclesse, Avenue du Général Harris, Caen, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jeanne</LastName>
+            <ForeName>Corinne</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Center François Baclesse, Avenue du Général Harris, Caen, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Clarisse</LastName>
+            <ForeName>Bénédicte</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Research, Center François Baclesse, Avenue du Général Harris, Caen, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Thariat</LastName>
+            <ForeName>Juliette</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiotherapy, Center François Baclesse, Avenue du Général Harris, Caen, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT04767048</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D000078325">Clinical Trial Protocol</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D017427">Clinical Trial, Phase II</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>27</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>BMC Cancer</MedlineTA>
+        <NlmUniqueID>100967800</NlmUniqueID>
+        <ISSNLinking>1471-2407</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014068" MajorTopicYN="Y">Tonsillectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009382" MajorTopicYN="Y">Neoplasms, Unknown Primary</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053685" MajorTopicYN="Y">Laser Therapy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006258" MajorTopicYN="Y">Head and Neck Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008866" MajorTopicYN="Y">Microsurgery</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014059" MajorTopicYN="N">Tongue</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000072078" MajorTopicYN="N">Positron Emission Tomography Computed Tomography</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Diagnosis</Keyword>
+        <Keyword MajorTopicYN="N">Head and neck cancer</Keyword>
+        <Keyword MajorTopicYN="N">Lymphadenopathy</Keyword>
+        <Keyword MajorTopicYN="N">Mucosectomy</Keyword>
+        <Keyword MajorTopicYN="N">Unknown primary</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Ethics approval and consent to participate: This study has received ethical approval from the Comité de Protection des Personnes Ouest III (N° EudraCT: 2020-A00947-32) in February 2021 and authorization from National Agency for Medical and Health products Safety (Reference: 2021012500215) in January 2021. All patients will be proposed to participate by surgeons, who will give them an information file. All patients will give their informed consent before any study-related assessment start. This study will be performed in accordance with the relevant guidelines and regulations (Declaration of Helsinki). Consent for publication: Not applicable. Competing interests: The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>26</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>25</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>28</Day>
+          <Hour>0</Hour>
+          <Minute>56</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40148848</ArticleId>
+        <ArticleId IdType="doi">10.1186/s12885-025-13913-7</ArticleId>
+        <ArticleId IdType="pii">10.1186/s12885-025-13913-7</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ota I, Kitahara T. Cancer of unknown primary in the head and neck: diagnosis and treatment. Auris Nasus Larynx. 2021;48:23–31.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32888761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Balaker AE, Abemayor E, Elashoff D, St. John MA. Cancer of unknown primary: does treatment modality make a difference? Laryngoscope. 2012;122:1279–82.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22538837</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kennel T, Garrel R, Costes V, Boisselier P, Crampette L, Favier V. Head and neck carcinoma of unknown primary. Eur Ann Otorhinolaryngol Head Neck Dis. 2019;136:185–92.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31005456</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Troussier I, Klausner G, Blais E, Giraud P, Lahmi L, Pflumio C, et al. Évolutions Dans La prise En charge des métastases ganglionnaires cervicales Sans cancer primitif retrouvé: doses et volumes Cibles de La radiothérapie avec modulation d’intensité. Cancer/Radiothérapie. 2018;22:438–46.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29731331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Durmus K, Rangarajan SV, Old MO, Agrawal A, Teknos TN, Ozer E. Transoral robotic approach to carcinoma of unknown primary. Head Neck. 2014;36:848–52.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23720223</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mistry R, Walker A, Kim D, Ofo E. Transoral robotic surgery for the benefit of patients with head and neck cancer of unknown primary: our experience at St George’s university hospital, London. Ann R Coll Surg Engl. 2020;102:442–50.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32347742</ArticleId>
+            <ArticleId IdType="pmcid">7388938</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fu TS, Foreman A, Goldstein DP, de Almeida JR. The role of transoral robotic surgery, transoral laser microsurgery, and lingual tonsillectomy in the identification of head and neck squamous cell carcinoma of unknown primary origin: a systematic review. J Otolaryngol - Head Neck Surg. 2016;45:28.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27142355</ArticleId>
+            <ArticleId IdType="pmcid">4855481</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Farooq S, Khandavilli S, Dretzke J, Moore D, Nankivell PC, Sharma N, et al. Transoral tongue base mucosectomy for the identification of the primary site in the work-up of cancers of unknown origin: systematic review and meta-analysis. Oral Oncol. 2019;91:97–106.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30926070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eldeeb H, Hamed RH. Squamous cell carcinoma metastatic to cervical lymph nodes from unknown primary origin: the impact of chemoradiotherapy. Chin J Cancer. 2012;31:484–90.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22692070</ArticleId>
+            <ArticleId IdType="pmcid">3777450</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lefevre M, Rousseau A, Rayon T, Dalstein V, Clavel C, Beby-Defaux A, et al. Epithelial to mesenchymal transition and HPV infection in squamous cell oropharyngeal carcinomas: the papillophar study. Br J Cancer. 2017;116:362–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28072763</ArticleId>
+            <ArticleId IdType="pmcid">5294488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nielsen SB, Lyhne NM, Andersen M, Plaschke CC, Gothelf AB, Johansen J, Maare C, Farhadi M, Godballe C, Primdahl H, Holm AIS, Alsner J, Kjærgaard T, Overgaard J. Management of head and neck cancer of unknown primary: A phase IV study by DAHANCA. Eur J Cancer. 2024;216:115211. https://doi.org/10.1016/j.ejca.2024.115211 . PMID: 39753047.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

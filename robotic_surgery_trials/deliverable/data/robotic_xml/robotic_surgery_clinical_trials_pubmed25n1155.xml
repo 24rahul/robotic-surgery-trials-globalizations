@@ -1,0 +1,2732 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36147025</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>05</Month>
+        <Day>21</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>10</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1545-1550</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>31</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>06</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of endovascular therapy : an official journal of the International Society of Endovascular Specialists</Title>
+          <ISOAbbreviation>J Endovasc Ther</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Evaluation of Robotic-Assisted Carotid Artery Stenting in a Virtual Model Using Motion-Based Performance Metrics.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>457-465</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1177/15266028221125592</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE">Robotic-assisted carotid artery stenting (CAS) cases have been demonstrated with promising results. However, no quantitative measurements have been made to compare manual with robotic-assisted CAS. This study aims to quantify surgical performance using tool tip kinematic data and metrics of precision during CAS with manual and robotic control in an ex vivo model.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS">Transfemoral CAS cases were performed in a high-fidelity endovascular simulator. Participants completed cases with manual and robotic techniques in 2 different carotid anatomies in random order. C-arm angulations, table position, and endovascular devices were standardized. Endovascular tool tip kinematic data were extracted. We calculated the spectral arc length (SPARC), average velocity, and idle time during navigation in the common carotid artery and lesion crossing. Procedural time, fluoroscopy time, movements of the deployed filter wire, precision of stent, and balloon positioning were recorded. Data were analyzed and compared between the 2 modalities.</AbstractText>
+          <AbstractText Label="RESULTS">Ten participants performed 40 CAS cases with a procedural success of 100% and 0% residual stenosis. The median procedural time was significantly higher during the robotic-assisted cases (seconds, median [interquartile range, IQR]: 128 [49.5] and 161.5 [62.5], p=0.02). Fluoroscopy time differed significantly between manual and robotic-assisted procedures (seconds, median [IQR]: 81.5 [32] and 98.5 [39.5], p=0.1). Movement of the deployed filter wire did not show significant difference between manual and robotic interventions (mm, median [IQR]: 13 [10.5] and 12.5 [11], p=0.5). The postdilation balloon exceeded the margin of the stent with a median of 2 [1] mm in both groups. Navigation with robotic assistance showed significantly lower SPARC values (-5.78±3.14 and -8.63±3.98, p=0.04) and higher idle time values (8.92±8.71 and 3.47±3.9, p=0.02) than those performed manually.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Robotic-assisted and manual CAS cases are comparable in the precision of stent and balloon positioning. Navigation in the carotid artery is associated with smoother motion and higher idle time values. These findings highlight the accuracy and the motion stabilizing capability of the endovascular robotic system.</AbstractText>
+          <AbstractText Label="CLINICAL IMPACT">Robotic assistance in the treatment of peripheral vascular disease is an emerging field and may be a tool for radiation protection and the geographic distribution of endovascular interventions in the future. This preclinical study compares the characteristics of manual and robotic-assisted carotid stenting (CAS). Our results highlight, that robotic-assisted CAS is associated with precise navigation and device positioning, and smoother navigation compared to manual CAS.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Legeza</LastName>
+            <ForeName>Peter T</ForeName>
+            <Initials>PT</Initials>
+            <Identifier Source="ORCID">0000-0003-2962-5306</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular Surgery, Houston Methodist Hospital, Houston, TX, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Vascular and Endovascular Surgery, Semmelweis University, Budapest, Hungary.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lettenberger</LastName>
+            <ForeName>Ahalya B</ForeName>
+            <Initials>AB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, Mechatronics and Haptic Interfaces Laboratory, Rice University, Houston, TX, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Murali</LastName>
+            <ForeName>Barathwaj</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, Mechatronics and Haptic Interfaces Laboratory, Rice University, Houston, TX, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Johnson</LastName>
+            <ForeName>Lianne R</ForeName>
+            <Initials>LR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, Mechatronics and Haptic Interfaces Laboratory, Rice University, Houston, TX, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Berczeli</LastName>
+            <ForeName>Marton</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular Surgery, Houston Methodist Hospital, Houston, TX, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Vascular and Endovascular Surgery, Semmelweis University, Budapest, Hungary.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Byrne</LastName>
+            <ForeName>Michael D</ForeName>
+            <Initials>MD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychological Sciences, Rice University, Houston, TX, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Britz</LastName>
+            <ForeName>Gavin</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Houston Methodist Hospital, Houston, TX, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>O'Malley</LastName>
+            <ForeName>Marcia K</ForeName>
+            <Initials>MK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, Mechatronics and Haptic Interfaces Laboratory, Rice University, Houston, TX, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lumsden</LastName>
+            <ForeName>Alan B</ForeName>
+            <Initials>AB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular Surgery, Houston Methodist Hospital, Houston, TX, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D023362">Evaluation Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>22</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Endovasc Ther</MedlineTA>
+        <NlmUniqueID>100896915</NlmUniqueID>
+        <ISSNLinking>1526-6028</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015607" MajorTopicYN="Y">Stents</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016893" MajorTopicYN="Y">Carotid Stenosis</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+          <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008955" MajorTopicYN="Y">Models, Cardiovascular</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000800" MajorTopicYN="N">Angioplasty, Balloon</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001696" MajorTopicYN="N">Biomechanical Phenomena</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008953" MajorTopicYN="N">Models, Anatomic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013647" MajorTopicYN="N">Task Performance and Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="N">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057510" MajorTopicYN="N">Endovascular Procedures</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">carotid stent/stenting</Keyword>
+        <Keyword MajorTopicYN="N">endovascular treatment/therapy</Keyword>
+        <Keyword MajorTopicYN="N">motion analysis</Keyword>
+        <Keyword MajorTopicYN="N">performance metrics</Keyword>
+        <Keyword MajorTopicYN="N">peripheral vascular disease</Keyword>
+        <Keyword MajorTopicYN="N">robotic-assisted surgery</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of Conflicting InterestsThe author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>5</Month>
+          <Day>21</Day>
+          <Hour>12</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>23</Day>
+          <Hour>2</Hour>
+          <Minute>32</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36147025</ArticleId>
+        <ArticleId IdType="doi">10.1177/15266028221125592</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title />
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36154808</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>02</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>02</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2405-4569</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>9</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>01</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>European urology focus</Title>
+          <ISOAbbreviation>Eur Urol Focus</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Impact of Early Dorsal Venous Complex Ligation on Urinary Continence Recovery after Robot-assisted Radical Prostatectomy: Results from a Phase 3 Randomized Controlled Trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>83-88</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S2405-4569(22)00210-3</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.euf.2022.09.003</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Whether early ligation of the dorsal venous complex (DVC) might improve recovery of urinary continence (UC) after robot-assisted radical prostatectomy (RARP) has never been investigated in a prospective randomized study.</AbstractText>
+          <AbstractText Label="OBJECTIVE">To assess whether early DVC ligation might affect UC recovery after RARP.</AbstractText>
+          <AbstractText Label="INTERVENTION">DVC ligation (early vs standard).</AbstractText>
+          <AbstractText Label="DESIGN, SETTING, AND PARTICIPANTS">A total of 312 patients with prostate cancer underwent primary RARP at a tertiary care institution.</AbstractText>
+          <AbstractText Label="OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS">The primary outcome was UC recovery at 1 and 4 mo after RARP. UC was defined as 0 pads/1 safety pad per day. All patients completed the International Prostate Symptom Score (IPSS) and International Consultation of Incontinence Questionnaire (ICIQ)-Short Form questionnaires. Secondary outcomes were early (≤4 mo) erectile function recovery, the positive surgical margin (PSM) rate, 30-d Clavien-Dindo complications, and biochemical recurrence rates. Quality of life was assessed using the EQ-5D-5L questionnaire. The association between treatment arm and UC recovery was also tested using multivariable regression models.</AbstractText>
+          <AbstractText Label="RESULTS AND LIMITATIONS">After surgery, 23 patients withdrew their consent and 29 were lost to follow-up, leaving 261 patients available for per-protocol analyses. Of these, 32 patients (24%) in the experimental group and 37 (29%) in the control group used no pad/one safety pad at 1 mo after RARP, whereas 96 (72%) in the control group versus 83 (65%) in the control group were continent at 4-mo follow-up (both p = 0.3). Median ICIQ and IPSS scores did not differ between the groups at both time points. The results were confirmed on multivariable regression analyses. PSMs were observed for 32 patients (25%) in the experimental group versus 30 (22%) in the control group (p = 0.6). The incidence of postoperative complications (17% experimental vs 13% control) and the 1-yr biochemical recurrence-free survival did not differ between the groups.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">In this randomized clinical trial, we did not find evidence that early ligation of the DVC during RARP was associated with better UC recovery after surgery in comparison to the standard technique. Given its safety in terms of surgical margins and complications, this technique may be considered as an option for surgical dissection according to the physician's preference.</AbstractText>
+          <AbstractText Label="PATIENT SUMMARY">Our trial showed that for patients undergoing robot-assisted surgical removal of the prostate, the timing of a specific step to control bleeding from a network of veins draining the prostate did not affect recovery of urinary continence after surgery. The results indicate that earlier control of these veins may be considered as an option according to the surgeon's preference.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 European Association of Urology. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bravi</LastName>
+            <ForeName>Carlo A</ForeName>
+            <Initials>CA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy; Department of Urology, Onze-Lieve-Vrouwziekenhuis Hospital, Aalst, Belgium; ORSI Academy, Ghent, Belgium. Electronic address: carloandrea.bravi@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gandaglia</LastName>
+            <ForeName>Giorgio</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mazzone</LastName>
+            <ForeName>Elio</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fossati</LastName>
+            <ForeName>Nicola</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Ospedale Regionale di Lugano, Civico USI-Università della Svizzera Italiana, Lugano, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gallina</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Ospedale Regionale di Lugano, Civico USI-Università della Svizzera Italiana, Lugano, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stabile</LastName>
+            <ForeName>Armando</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Scuderi</LastName>
+            <ForeName>Simone</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Barletta</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nocera</LastName>
+            <ForeName>Luigi</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rosiello</LastName>
+            <ForeName>Giuseppe</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Martini</LastName>
+            <ForeName>Alberto</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pellegrino</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cucchiara</LastName>
+            <ForeName>Vito</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dehò</LastName>
+            <ForeName>Federico</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Ospedale di Circolo e Fondazione Macchi-ASST Sette Laghi, University of Insubria, Varese, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Capitanio</LastName>
+            <ForeName>Umberto</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Scattoni</LastName>
+            <ForeName>Vincenzo</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Salonia</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Briganti</LastName>
+            <ForeName>Alberto</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Montorsi</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D017428">Clinical Trial, Phase III</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>23</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>Eur Urol Focus</MedlineTA>
+        <NlmUniqueID>101665661</NlmUniqueID>
+        <ISSNLinking>2405-4569</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011467" MajorTopicYN="N">Prostate</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014549" MajorTopicYN="Y">Urinary Incontinence</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Dorsal venous complex</Keyword>
+        <Keyword MajorTopicYN="N">Functional outcomes</Keyword>
+        <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+        <Keyword MajorTopicYN="N">Randomized controlled trial</Keyword>
+        <Keyword MajorTopicYN="N">Robot-assisted radical prostatectomy</Keyword>
+        <Keyword MajorTopicYN="N">Urinary continence</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>06</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>08</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>2</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>26</Day>
+          <Hour>15</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36154808</ArticleId>
+        <ArticleId IdType="pii">S2405-4569(22)00210-3</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.euf.2022.09.003</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36155157</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>11</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>11</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1873-7560</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>82</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>12</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>European urology</Title>
+          <ISOAbbreviation>Eur Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Re: James W.F. Catto, Pramit Khetrapal, Federico Ricciardi, et al. Effect of Robot-assisted Radical Cystectomy with Intracorporeal Urinary Diversion vs Open Radical Cystectomy on 90-Day Morbidity and Mortality Among Patients with Bladder Cancer: A Randomized Clinical Trial. JAMA 2022;327:2092-103.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e165-e166</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0302-2838(22)02626-4</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.eururo.2022.07.037</ELocationID>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Rocco</LastName>
+            <ForeName>Bernardo</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Milan, La Statale, Milan, Italy; ASST Santi Paolo e Carlo, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sighinolfi</LastName>
+            <ForeName>Maria Chiara</ForeName>
+            <Initials>MC</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Milan, La Statale, Milan, Italy; ASST Santi Paolo e Carlo, Milan, Italy. Electronic address: sighinolfic@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016422">Letter</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>22</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Eur Urol</MedlineTA>
+        <NlmUniqueID>7512719</NlmUniqueID>
+        <ISSNLinking>0302-2838</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015653" MajorTopicYN="N">Cystectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001749" MajorTopicYN="Y">Urinary Bladder Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014547" MajorTopicYN="Y">Urinary Diversion</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009017" MajorTopicYN="N">Morbidity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>07</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>07</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>26</Day>
+          <Hour>15</Hour>
+          <Minute>21</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36155157</ArticleId>
+        <ArticleId IdType="pii">S0302-2838(22)02626-4</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.eururo.2022.07.037</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36156737</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>02</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-2218</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>37</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>02</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Surgical endoscopy</Title>
+          <ISOAbbreviation>Surg Endosc</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic versus laparoscopic transabdominal preperitoneal (TAPP) approaches to bilateral hernia repair: a multicenter retrospective study using propensity score matching analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1188-1193</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00464-022-09614-y</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Since the introduction of minimally invasive surgery, new techniques like transabdominal preperitoneal (TAPP) repair have progressively gained acceptance for the treatment of groin hernia. Laparoscopic TAPP (LTAPP) is recommended for bilateral repairs. Likewise, the introduction of robotic platforms has promised additional surgical benefits for robotic TAPP (RTAPP), which are yet to be confirmed. This study compared multicenter data obtained from patients undergoing bilateral inguinal hernia repair with RTAPP, performed during the preliminary learning curve period, versus conventional LTAPP.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS">All consecutive bilateral inguinal hernia patients from four Italian centers between June 2015 and July 2020 were selected. A propensity score model was used to compare patients treated with LTAPP versus RTAPP, considering sex, age, body mass index, current smoking status, overall comorbidity, hernia classification (primary or recurrent), and associated procedures as covariates. After matching, intraoperative details and postoperative outcomes were evaluated.</AbstractText>
+          <AbstractText Label="RESULTS">In total, 275 LTAPP and 40 RTAPP were performed. After matching, 80 and 40 patients were allocated to the LTAPP and RTAPP cohorts, respectively. No intraoperative complications or conversion to open surgery occurred. However, a longer operative time was recorded in the RTAPP group (79 ± 21 versus 98 ± 29 min; p &lt; 0.001). Postoperative visual analog scale (VAS) pain scores (p = 0.13) did not differ and complication rates were similar. There were no clinical recurrences in either group, with mean follow-up periods of 52 ± 14 (LTAPP) and 35 ± 8 (RTAPP) months. A statistical difference in length of hospital stay was found between the groups (1.05 ± 0.22 vs 1.50 ± 0.74 days; p &lt; 0.001).</AbstractText>
+          <AbstractText Label="CONCLUSION">In this patient population, outcomes for bilateral inguinal hernia repair appear comparable for RTAPP and LTAPP, except for a shorter recovery after laparoscopic surgery. A longer operative time for robotic surgery could be attributable to the learning curve period of each center.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Peltrini</LastName>
+            <ForeName>Roberto</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-0445-2269</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Public Health, School of Medicine and Surgery, University of Naples Federico II, Via Pansini 5, 80131, Naples, Italy. roberto.peltrini@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Corcione</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Public Health, School of Medicine and Surgery, University of Naples Federico II, Via Pansini 5, 80131, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pacella</LastName>
+            <ForeName>Daniela</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Public Health, School of Medicine and Surgery, University of Naples Federico II, Via Pansini 5, 80131, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Castiglioni</LastName>
+            <ForeName>Simone</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Public Health, School of Medicine and Surgery, University of Naples Federico II, Via Pansini 5, 80131, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lionetti</LastName>
+            <ForeName>Ruggero</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Public Health, School of Medicine and Surgery, University of Naples Federico II, Via Pansini 5, 80131, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Andreuccetti</LastName>
+            <ForeName>Jacopo</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery II, Spedali Civili of Brescia, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pignata</LastName>
+            <ForeName>Giusto</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery II, Spedali Civili of Brescia, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>De Nisco</LastName>
+            <ForeName>Carlo</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>General Surgery Unit, San Francesco Hospital, ASSL Nuoro, Nuoro, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ferraro</LastName>
+            <ForeName>Luca</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of General and Robotic Surgery, Dipartimento Di Scienze Della Salute, University of Milano, Milan, ASST Santi Paolo E Carlo, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Salaj</LastName>
+            <ForeName>Adelona</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of General and Robotic Surgery, Dipartimento Di Scienze Della Salute, University of Milano, Milan, ASST Santi Paolo E Carlo, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Formisano</LastName>
+            <ForeName>Giampaolo</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of General and Robotic Surgery, Dipartimento Di Scienze Della Salute, University of Milano, Milan, ASST Santi Paolo E Carlo, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bianchi</LastName>
+            <ForeName>Paolo Pietro</ForeName>
+            <Initials>PP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of General and Robotic Surgery, Dipartimento Di Scienze Della Salute, University of Milano, Milan, ASST Santi Paolo E Carlo, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bracale</LastName>
+            <ForeName>Umberto</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Public Health, School of Medicine and Surgery, University of Naples Federico II, Via Pansini 5, 80131, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>26</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Surg Endosc</MedlineTA>
+        <NlmUniqueID>8806653</NlmUniqueID>
+        <ISSNLinking>0930-2794</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006552" MajorTopicYN="Y">Hernia, Inguinal</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059685" MajorTopicYN="N">Herniorrhaphy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="N">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013526" MajorTopicYN="N">Surgical Mesh</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Bilateral hernia</Keyword>
+        <Keyword MajorTopicYN="N">Inguinal hernia</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopy</Keyword>
+        <Keyword MajorTopicYN="N">Outcomes</Keyword>
+        <Keyword MajorTopicYN="N">Robotic surgery</Keyword>
+        <Keyword MajorTopicYN="N">TAPP</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>2</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>26</Day>
+          <Hour>16</Hour>
+          <Minute>48</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36156737</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00464-022-09614-y</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00464-022-09614-y</ArticleId>
+        <ArticleId IdType="pmc">PMC9943997</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Merola G, Cavallaro G, Iorio O, Frascio M, Pontecorvi E, Corcione F, Andreuccetti J, Pignata G, Stabilini C, Bracale U (2020) Learning curve in open inguinal hernia repair: a quality improvement multicentre study about lichtenstein technique. Hernia 24(3):651–659</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10029-019-02064-x</ArticleId>
+            <ArticleId IdType="pubmed">31758277</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sodo M, Bracale U, Argentino G, Merola G, Russo R, Sannino G, Strazzullo T, Russo D (2016) Simultaneous abdominal wall defect repair and tenckhoff catheter placement in candidates for peritoneal dialysis. J Nephrol 29(5):699–702</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s40620-015-0251-8</ArticleId>
+            <ArticleId IdType="pubmed">26621104</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>HerniaSurge Group (2018) International guidelines for groin hernia management. Hernia 22(1):1–165</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10029-017-1668-x</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bracale U, Corcione F, Neola D, Castiglioni S, Cavallaro G, Stabilini C, Botteri E, Sodo M, Imperatore N, Peltrini R (2021) Transversus abdominis release (TAR) for ventral hernia repair: open or robotic? Short-term outcomes from a systematic review with meta-analysis. Hernia 25(6):1471–1480. https://doi.org/10.1007/s10029-021-02487-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10029-021-02487-5</ArticleId>
+            <ArticleId IdType="pubmed">34491460</ArticleId>
+            <ArticleId IdType="pmcid">8613152</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Waite KE, Herman MA, Doyle PJ (2016) Comparison of robotic versus laparoscopic transabdominal preperitoneal (TAPP) inguinal hernia repair. J Robot Surg 10:239–244</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-016-0580-1</ArticleId>
+            <ArticleId IdType="pubmed">27112781</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Charles EJ, Mehaffey JH, Tache-Leon CA, Hallowell PT, Sawyer RG, Yang Z (2018) Inguinal hernia repair: is there a benefit to using the robot? Surg Endosc 32:2131–2136</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-017-5911-4</ArticleId>
+            <ArticleId IdType="pubmed">29067575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muysoms F, Van Cleven S, Kyle-Leinhase I, Ballecer C, Ramaswamy A (2018) Robotic-assisted laparoscopic groin hernia repair: observational case-control study on the operative time during the learning curve. Surg Endosc 32:4850–4859</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-018-6236-7</ArticleId>
+            <ArticleId IdType="pubmed">29766308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bracale U, Merola G, Sciuto A, Cavallaro G, Andreuccetti J, Pignata G (2019) Achieving the learning curve in laparoscopic inguinal hernia repair by TAPP: a quality improvement study. J Invest Surg 32(8):738–745</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/08941939.2018.1468944</ArticleId>
+            <ArticleId IdType="pubmed">29902096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DeBord J, Novitsky Y, Fitzgibbons R, Miserez M, Montgomery A (2018) SSI, SSO, SSE, SSOPI: the elusive language of complications in hernia surgery. Hernia 22(5):737–738</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10029-018-1813-1</ArticleId>
+            <ArticleId IdType="pubmed">30203373</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Azioni G, Bracale U, Scala A, Capobianco F, Barone M, Rosati M, Pignata G (2010) Laparoscopic ureteroneocystostomy and vesicopsoas hitch for infiltrative ureteral endometriosis. Minim Invasive Ther Allied Technol 19(5):292–297</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/13645706.2010.507345</ArticleId>
+            <ArticleId IdType="pubmed">20868303</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schjøth-Iversen L, Refsum A, Brudvik KW (2017) Factors associated with hernia recurrence after laparoscopic total extraperitoneal repair for inguinal hernia: a 2-year prospective cohort study. Hernia 21:729–735</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10029-017-1634-7</ArticleId>
+            <ArticleId IdType="pubmed">28752424</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Escobar Dominguez JE, Ramos MG, Seetharamaiah R, Donkor C, Rabaza J, Gonzalez A (2016) Feasibility of robotic inguinal hernia repair, a single-institution experience. Surg Endosc 9:4042–4048</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-015-4717-5</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tam V, Rogers DE, Al-Abbas A, Borrebach J, Dunn SA, Zureikat AH, Zeh HJ 3rd, Hogg ME (2019) Robotic inguinal hernia repair: a large health system’s experience with the first 300 cases and review of the literature. J Surg Res 235:98–104</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jss.2018.09.070</ArticleId>
+            <ArticleId IdType="pubmed">30691857</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Henriksen NA, Jensen KK, Muysoms F (2019) Robot-assisted abdominal wall surgery: a systematic review of the literature and meta-analysis. Hernia 23:17–27</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10029-018-1872-3</ArticleId>
+            <ArticleId IdType="pubmed">30523566</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prabhu AS, Carbonell A, Hope W, Warren J, Higgins R, Jacob B, Blatnik J, Haskins I, Alkhatib H, Tastaldi L, Fafaj A, Tu C, Rosen MJ (2020) Robotic inguinal vs transabdominal laparoscopic inguinal hernia repair: the rival randomized clinical trial. JAMA Surg 155(5):380–387</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jamasurg.2020.0034</ArticleId>
+            <ArticleId IdType="pubmed">32186683</ArticleId>
+            <ArticleId IdType="pmcid">7081145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huerta S, Timmerman C, Argo M, Favela J, Pham T, Kukreja S, Yan J, Zhu H (2019) Open, laparoscopic, and robotic inguinal hernia repair: outcomes and predictors of complications. J Surg Res 241:119–127</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jss.2019.03.046</ArticleId>
+            <ArticleId IdType="pubmed">31022677</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pokala B, Armijo PR, Flores L, Hennings D, Oleynikov D (2019) Minimally invasive inguinal hernia repair is superior to open: a national database review. Hernia 23(3):593–599</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10029-019-01934-8</ArticleId>
+            <ArticleId IdType="pubmed">31073960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kakiashvili E, Bez M, Abu Shakra I, Ganam S, Bickel A, Merei F, Drobot A, Bogouslavski G, Kassis W, Khatib K, Badran M, Kluger Y, Almog R (2021) Robotic inguinal hernia repair: is it a new era in the management of inguinal hernia? Asian J Surg 44(1):93–98</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.asjsur.2020.03.015</ArticleId>
+            <ArticleId IdType="pubmed">32291130</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bittner Iv JG, Cesnik LW, Kirwan T, Wolf L, Guo D (2018) Patient perceptions of acute pain and activity disruption following inguinal hernia repair: a propensity-matched comparison of robotic-assisted, laparoscopic, and open approaches. J Robot Surg 12(4):625–632</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-018-0790-9</ArticleId>
+            <ArticleId IdType="pubmed">29453731</ArticleId>
+            <ArticleId IdType="pmcid">6223756</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kudsi OY, McCarty JC, Paluvoi N, Mabardy AS (2017) Transition from laparoscopic totally extraperitoneal inguinal hernia repair to robotic transabdominal preperitoneal inguinal hernia repair: a retrospective review of a single surgeon’s experience. World J Surg 41(9):2251–2257</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00268-017-3998-3</ArticleId>
+            <ArticleId IdType="pubmed">28337532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sheldon RR, Do WS, Weiss JB, Forte DM, Sohn VY (2019) Sage wisdom or anecdotal dictum? Equivalent opioid use after open, laparoscopic, and robotic inguinal hernia repair. Am J Surg 217(5):839–842</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.amjsurg.2019.02.022</ArticleId>
+            <ArticleId IdType="pubmed">30827531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Switzer N, Renshaw S, Holcomb C, Maurer S, Collins C, Meara M, Narula V, Renton D, Poulose B (2019) 6-month postoperative quality of life and pain comparisons between robotic and laparoscopic inguinal hernia repair. Surg Endosc 33:S372</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Macias AE, Jacome F, Punshon J (2017) Inguinodynia-tastic: a comparison between robotic and laparoscopic inguinal hernia repair. J Am Coll Surg 225(4):e88</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jamcollsurg.2017.07.762</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Merola G, Sciuto A, Pirozzi F, Andreuccetti J, Pignata G, Corcione F, Milone M, De Palma GD, Castaldo R, Pecchia L, Ceccarelli G, Bracale U (2020) Is robotic right colectomy economically sustainable? A multicentre retrospective comparative study and cost analysis. Surg Endosc 34(9):4041–4047. https://doi.org/10.1007/s00464-019-07193-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-019-07193-z</ArticleId>
+            <ArticleId IdType="pubmed">31617088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Janjua H, Cousin-Peterson E, Barry TM, Kuo MC, Baker MS, Kuo PC (2020) The paradox of the robotic approach to inguinal hernia repair in the inpatient setting. Am J Surg 219(3):497–501</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.amjsurg.2019.09.012</ArticleId>
+            <ArticleId IdType="pubmed">31558306</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khoraki J, Gomez PP, Mazzini GS, Pessoa BM, Browning MG, Aquilina GR, Salluzzo JL, Wolfe LG, Campos GM (2020) Perioperative outcomes and cost of robotic-assisted versus laparoscopic inguinal hernia repair. Surg Endosc 34(8):3496–3507</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-019-07128-8</ArticleId>
+            <ArticleId IdType="pubmed">31571036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36163307</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>11</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>11</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1873-7560</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>82</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>12</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>European urology</Title>
+          <ISOAbbreviation>Eur Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Re: A Randomized, Single-blind Clinical Trial Comparing Robotic-assisted Fluoroscopic-guided with Ultrasound-guided Renal Access for Percutaneous Nephrolithotomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>660-661</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0302-2838(22)02610-0</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.eururo.2022.08.021</ELocationID>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ventimiglia</LastName>
+            <ForeName>Eugenio</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Experimental Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy; Vita-Salute San Raffaele University, Milan, Italy. Electronic address: eugenio.ventimiglia@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Corsini</LastName>
+            <ForeName>Christian</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Experimental Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy; Vita-Salute San Raffaele University, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Montorsi</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Experimental Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy; Vita-Salute San Raffaele University, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Salonia</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Experimental Oncology/Unit of Urology, Urological Research Institute, IRCCS Ospedale San Raffaele, Milan, Italy; Vita-Salute San Raffaele University, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goumas</LastName>
+            <ForeName>Ioannis Kartalas</ForeName>
+            <Initials>IK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Istituto Clinico Beato Matteo, Vigevano, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>23</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Eur Urol</MedlineTA>
+        <NlmUniqueID>7512719</NlmUniqueID>
+        <ISSNLinking>0302-2838</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000074642" MajorTopicYN="Y">Nephrolithotomy, Percutaneous</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016037" MajorTopicYN="N">Single-Blind Method</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005471" MajorTopicYN="N">Fluoroscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007669" MajorTopicYN="Y">Kidney Calculi</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018084" MajorTopicYN="N">Ultrasonography, Interventional</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009403" MajorTopicYN="Y">Nephrostomy, Percutaneous</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>07</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>08</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>26</Day>
+          <Hour>23</Hour>
+          <Minute>53</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36163307</ArticleId>
+        <ArticleId IdType="pii">S0302-2838(22)02610-0</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.eururo.2022.08.021</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">36163561</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>02</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-2218</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>37</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>02</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Surgical endoscopy</Title>
+          <ISOAbbreviation>Surg Endosc</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Prospective cohort study on short-term outcomes of 3D-laparoscopic pancreaticoduodenectomy with stented pancreaticogastrostomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1203-1212</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00464-022-09609-9</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Minimally invasive pancreaticoduodenectomy, either laparoscopic or robotic, is a high-risk procedure with demanding learning curve. The aim of this prospective cohort study was to evaluate short-term clinical and oncologic outcomes of 3D-laparoscopic pancreaticoduodenectomy (3dLPD) with stented pancreaticogastrostomy (sPG) and Roux-en-Y gastroenterostomy (ryGES).</AbstractText>
+          <AbstractText Label="METHODS">Between March 2016 and July 2021, 347 consecutive patients underwent 3dLPD for confirmed or suspected pancreatic or periampullary tumors. Pancreatic duct diameter measured 3 mm or less in 221 (64%) and pancreatic texture was soft in 191 (55%) patients. Simultaneous resection of the superior mesenteric or portal vein was performed in 52 (15%) patients.</AbstractText>
+          <AbstractText Label="RESULTS">Postoperative complications were observed in 189 (54%) patients, with severe complications (Clavien-Dindo grade &gt; 2) in 68 (20%) including 4 (1.2%) deaths. Clinically relevant pancreatic fistula (cPOPF) occurred in 88 (25%), hemorrhage in 25 (7%), and bile leakage in 10 (3%) patients. Clinical pancreatic fistula was strongly associated with soft pancreatic texture and small pancreatic duct diameter (p &lt; 0.001) and managed by endoscopic trans-gastric drainage in 34 (38.6%) patients, reoperation in 12 (13.6%), and ICU admission in 11 (12.5%). The remaining 31 (35%) patients with cPOPF were managed without invasive intervention. Median length of hospital stay after surgery was 13 (range 5-112; IQR 8-18) days. In pancreatic adenocarcinoma (PDAC) the R0-resection rate was 66/186 (36%), R1-indirect 95/186 (51%), and R1-direct 25 (13%). Median number of locoregional lymph nodes retrieved in PDAC was 21 (IQR 15-28). R0-resection rate for malignancy other than PDAC was 78/86 (91%) with a median of 16 (IQR 12-22) locoregional lymph nodes retrieved.</AbstractText>
+          <AbstractText Label="CONCLUSION">3dLPD with sPG and ryGES is associated with 1.2% mortality and 25% cPOPF. About two-third of patients with cPOPF were managed with some type of invasive intervention, whereas the intraoperatively placed drains sufficed in one-third of patients.</AbstractText>
+          <AbstractText Label="CLINICAL TRIAL REGISTRY">Clinicaltrials.gov NCT02671357.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Topal</LastName>
+            <ForeName>Halit</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Visceral Surgery, University Hospitals KU Leuven, Herestraat 49, 3000, Leuven, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jaekers</LastName>
+            <ForeName>Joris</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Visceral Surgery, University Hospitals KU Leuven, Herestraat 49, 3000, Leuven, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Geers</LastName>
+            <ForeName>Joachim</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Visceral Surgery, University Hospitals KU Leuven, Herestraat 49, 3000, Leuven, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Topal</LastName>
+            <ForeName>Baki</ForeName>
+            <Initials>B</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-2687-7535</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Visceral Surgery, University Hospitals KU Leuven, Herestraat 49, 3000, Leuven, Belgium. baki.topal@kuleuven.be.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT02671357</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>26</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Surg Endosc</MedlineTA>
+        <NlmUniqueID>8806653</NlmUniqueID>
+        <ISSNLinking>0930-2794</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000230" MajorTopicYN="Y">Adenocarcinoma</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010185" MajorTopicYN="N">Pancreatic Fistula</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010190" MajorTopicYN="Y">Pancreatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016577" MajorTopicYN="N">Pancreaticoduodenectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cancer</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopy</Keyword>
+        <Keyword MajorTopicYN="N">Pancreas</Keyword>
+        <Keyword MajorTopicYN="N">Pancreaticogastrostomy</Keyword>
+        <Keyword MajorTopicYN="N">Surgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>2</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>27</Day>
+          <Hour>0</Hour>
+          <Minute>18</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36163561</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00464-022-09609-9</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00464-022-09609-9</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>van Hilst J, de Rooij T, Bosscha K, Brinkman DJ, van Dieren S, Dijkgraaf MG, Gerhards MF, de Hingh IH, Karsten TM, Lips DJ, Luyer MD, Busch OR, Festen S, Besselink MG, Dutch Pancreatic Cancer Group (2019) Laparoscopic versus open pancreatoduodenectomy for pancreatic or periampullary tumlours (LEOPARD-2): a multicentre, patient-blinded, randomized controlled phase 2/3 trial. Lancet Gastroenterol Hepatol 4:199–207</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S2468-1253(19)30004-4</ArticleId>
+            <ArticleId IdType="pubmed">30685489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang M, Li D, Chen R, Huang X, Li J, Liu Y, Liu J, Cheng W, Chen X, Zhao W, Li J, Tan Z, Huang H, Li D, Zhu F, Qin T, Ma J, Yu G, Zhou B, Zheng S, Tang Y, Han W, Meng L, Ke J, Feng F, Chen B, Yin X, Chen W, Ma H, Xu J, Liu Y, Lin R, Dong Y, Yu Y, Liu J, Zhang H, Qin R, Minimally Invasive Treatment Group in the Pancreatic Disease Branch of China’s International Exchange and Promotion Association for Medicine and Healthcare (MITG-P-CPAM) (2021) Laparoscopic versus open pancreatoduodenectomy for pancreatic or periampullary tumours: a multicentre, open-label, randomised controlled trial. Lancet Gastroenterol Hepatol 6:438–447</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S2468-1253(21)00054-6</ArticleId>
+            <ArticleId IdType="pubmed">33915091</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adam MA, Choudhury K, Dinan MA, Reed SD, Scheri RP, Blazer DG 3rd, Roamn SA, Sosa JA (2015) Minimally invasive versus open pancreaticoduodenectomy for cancer. Practice patterns and short-term outcomes among 7061 patients. Ann Surg 262:372–377</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000001055</ArticleId>
+            <ArticleId IdType="pubmed">26158612</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>de Rooij T, Lu MZ, Steen MW, Gerhards MF, Dijkgraaf MG, Busch OR, Lips DJ, Festen S, Besselink MG, on behalf of the Dutch Pancreatic Cancer Group (2016) Minimally invasive versus open pancreatoduodenectomy. Systematic review and meta-analysis of comparative cohort and registry studies. Ann Surg 264:257–267</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000001660</ArticleId>
+            <ArticleId IdType="pubmed">26863398</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Topal B, Fieuws S, Aerts R, Weerts J, Feryn T, Roeyen G, Bertrand C, Hubert C, Janssens M, Closset J, on behalf of the Belgian Section of Hepatobiliary and Pancreatic Surgery (2013) Pancreaticojejunostomy versus pancreaticogastrostomy reconstruction after pancreaticoduodenectomy for pancreatic or periampullary tumors: a multicenter randomised trial. Lancet Oncol 14:655–662</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1470-2045(13)70126-8</ArticleId>
+            <ArticleId IdType="pubmed">23643139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Croome KP, Farnell MB, Que FG, Reid-Lombardo KM, Truty MJ, Nagorney DM, Kendrick ML (2014) Total laparoscopic pancreaticoduodenectomy for pancreatic ductal adenocarcinoma oncologic advantages over open approaches? Ann Surg 260:633–640</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000000937</ArticleId>
+            <ArticleId IdType="pubmed">25203880</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kamarajah SK, Bundred JR, Marc OS, Jiao LR, Hilal MA, Manas DM, White SA (2020) A systematic review and network meta-analysis of different surgical approaches for pancreaticoduodenectomy. HPB 22:329–339</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.hpb.2019.09.016</ArticleId>
+            <ArticleId IdType="pubmed">31676255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geers J, Topal H, Jaekers J, Topal B (2020) 3D-laparoscopic pancreaticoduodenectomy with superior mesenteric or portal vein resection for pancreatic cancer. Surg Endosc 34:5616–5624</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-020-07847-3</ArticleId>
+            <ArticleId IdType="pubmed">32749613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wente MN, Bassi C, Dervenis C, Fingerhut A, Gouma DJ, Izbicki JR, Neoptolemos JP, Padbury RT, Sarr MG, Traverso LW, Yeo CJ, Büchler MW (2007) Delayed gastric emptying (DGE) after pancreatic surgery: a suggested definition by the International Study Group of Pancreatic Surgery (ISGPS). Surgery 142:761–768</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2007.05.005</ArticleId>
+            <ArticleId IdType="pubmed">17981197</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bassi C, Marchegiani G, Dervenis C, Sarr M, Abu Hilal M, Adham M, Allen P, Andersson R, Asbun HJ, Besselink MG, Conlon K, Del Chiaro M, Falconi M, Fernandez-Cruz L, Fernandez-Del Castillo C, Fingerhut A, Friess H, Gouma DJ, Hackert T, Izbicki J, Lillemoe KD, Neoptolemos JP, Olah A, Schulick R, Shrikhande SV, Takada T, Takaori K, Traverso W, Vollmer CR, Wolfgang CL, Yeo CJ, Salvia R, Buchler M (2016) The 2016 update of the International Study Group (ISGPS) definition and grading of postoperative pancreatic fistula: 11 years after. Surgery 161:584–591</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2016.11.014</ArticleId>
+            <ArticleId IdType="pubmed">28040257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wente MN, Veit JA, Bassi C, Dervenis C, Fingerhut A, Gouma DJ, Izbicki JR, Neoptolemos JP, Padbury RT, Sarr MG, Yeo CJ, Büchler MW (2007) Postpancreatectomy hemorrhage (PPH): an International Study Group of Pancreatic Surgery (ISGPS) definition. Surgery 142:20–25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2007.02.001</ArticleId>
+            <ArticleId IdType="pubmed">17629996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koch M, Garden OJ, Padbury R, Rahbari NN, Adam R, Capussotti L, Fan ST, Yokoyama Y, Crawford M, Makuuchi M, Christophi C, Banting S, Brooke-Smith M, Usatoff V, Nagino M, Maddern G, Hugh TJ, Vauthey JN, Greig P, Rees M, Nimura Y, Figueras J, DeMatteo RP, Büchler MW, Weitz J (2011) Bile leakage after hepatobiliary and pancreatic surgery: a definition and grading of severity by the International Study Group of Liver Surgery (ISGLS). Surgery 149:680–688</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2010.12.002</ArticleId>
+            <ArticleId IdType="pubmed">21316725</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dindo D, Demartines N, Clavien PA (2004) Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey. Ann Surg 240:205–213</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/01.sla.0000133083.54934.ae</ArticleId>
+            <ArticleId IdType="pubmed">15273542</ArticleId>
+            <ArticleId IdType="pmcid">1360123</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Al-Hawary MM, Francis IR, Chari ST, Fishman EK, Hough DM, Lu DS, Macari M, Megibow AJ, Miller FH, Mortele KJ, Merchant NB, Minter RM, Tamm EP, Sahani DV, Simeone DM (2014) Pancreatic ductal adenocarcinoma radiology reporting template: consensus statement of the Society of Abdominal Radiology and the American Pancreatic Association. Radiology 270:248–260</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1148/radiol.13131184</ArticleId>
+            <ArticleId IdType="pubmed">24354378</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klompmaker S, van Hilst J, Wellner UF, Busch OR, Coratti A, D’Hondt M, Dokmak S, Festen S, Kerem M, Khatkov I, Lips DJ, Lombardo C, Luyer M, Manzoni A, Molenaar IQ, Rosso E, Saint-Marc O, Vansteenkiste F, Wittel UA, Bonsing B, Koerkamp BG, Hilal MA, Fuks D, Poves I, Keck T, Boggi U, Besselink MG, European consortium on Minimally Invasive Pancreatic Surgery (E-MIPS) (2020) Outcomes After minimally-invasive versus open pancreatoduodenectomy: a pan-European propensity score matched study. Ann Surg 271:356–363</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000002850</ArticleId>
+            <ArticleId IdType="pubmed">29864089</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Andrianello S, Marchegiani G, Malleo G, Masini G, Balduzzi A, Paiella S, Esposito A, Landoni L, Casetti L, Tuveri M, Salvia R, Bassi C (2020) Pancreaticojejunostomy with externalized stent vs pancreaticogastrostomy with externalized stent for patients with high-risk pancreatic anastomosis: a single-center, phase 3, randomized clinical trial. JAMA Surg 155:313–321</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jamasurg.2019.6035</ArticleId>
+            <ArticleId IdType="pubmed">32101272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Veziant J, Selvy M, Buc E, Slim K (2021) Evidence-based evaluation of abdominal drainage in pancreatic surgery. J Visc Surg 158:220–230</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jviscsurg.2020.11.001</ArticleId>
+            <ArticleId IdType="pubmed">33358121</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu X, Chen K, Chu X, Liu G, Yang Y, Tian X (2021) Prophylactic intra-operative drainage after pancreatic resection: an updated meta-analysis. Front Oncol 11:658829</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fonc.2021.658829</ArticleId>
+            <ArticleId IdType="pubmed">34094952</ArticleId>
+            <ArticleId IdType="pmcid">8172774</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lyu Y, Cheng Y, Wang B, Zhao S, Chen L (2020) Peritoneal drainage or no drainage after pancreaticoduodenectomy and/or distal pancreatectomy: a meta-analysis and systematic review. Surg Endosc 34:4991–5005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-019-07293-w</ArticleId>
+            <ArticleId IdType="pubmed">31811457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aiolfi A, Lombardo F, Bonitta G, Danelli P, Bona D (2021) Systematic review and updated network meta-analysis comparing open, laparoscopic, and robotic pancreaticoduodenectomy. Updates Surg 73:909–922</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13304-020-00916-1</ArticleId>
+            <ArticleId IdType="pubmed">33315230</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nickel F, Haney CM, Kowalewski KF, Probst P, Limen EF, Kalkum E, Diener MK, Strobel O, Müller-Stich BP, Hackert T (2020) Laparoscopic versus open pancreaticoduodenectomy: a systematic review and meta-analysis of randomized controlled trials. Ann Surg 271:54–66</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000003309</ArticleId>
+            <ArticleId IdType="pubmed">30973388</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Palanivelu C, Senthilnathan P, Sabnis SC, Babu NS, Gurumurthy SS, Vijai NA, Nalankili VP, Raj PP, Parthasarathy R, Rajapandian S (2017) Randomized clinical trial of laparoscopic versus open pancreatoduodenectomy for periampullary tumours. Br J Surg 104:1443–1450</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/bjs.10662</ArticleId>
+            <ArticleId IdType="pubmed">28895142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poves I, Burdío F, Morató O, Iglesias M, Radosevic A, Ilzarbe L, Visa L, Grande L (2018) Comparison of perioperative outcomes between laparoscopic and open approach for pancreatoduodenectomy: the PADULAP randomized controlled trial. Ann Surg 268:731–739</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000002893</ArticleId>
+            <ArticleId IdType="pubmed">30138162</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Asbun HJ, Moekotte AL, Vissers FL, Kunzler F, Cipriani F, Alseidi A, D’Angelica MI, Balduzzi A, Bassi C, Björnsson B, Boggi U, Callery MP, Del Chiaro M, Coimbra FJ, Conrad C, Cook A, Coppola A, Dervenis C, Dokmak S, Edil BH, Edwin B, Giulianotti PC, Han HS, Hansen PD, van der Heijde N, van Hilst J, Hester CA, Hogg ME, Jarufe N, Jeyarajah DR, Keck T, Kim SC, Khatkov IE, Kokudo N, Kooby DA, Korrel M, de Leon FJ, Lluis N, Lof S, Machado MA, Demartines N, Martinie JB, Merchant NB, Molenaar IQ, Moravek C, Mou YP, Nakamura M, Nealon WH, Palanivelu C, Pessaux P, Pitt HA, Polanco PM, Primrose JN, Rawashdeh A, Sanford DE, Senthilnathan P, Shrikhande SV, Stauffer JA, Takaori K, Talamonti MS, Tang CN, Vollmer CM, Wakabayashi G, Walsh RM, Wang SE, Zinner MJ, Wolfgang CL, Zureikat AH, Zwart MJ, Conlon KC, Kendrick ML, Zeh HJ, Hilal MA, Besselink MG, International Study Group on Minimally Invasive Pancreas Surgery (I-MIPS) (2020) The Miami international evidence-based guidelines on minimally invasive pancreas resection. Ann Surg 271:1–14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000003590</ArticleId>
+            <ArticleId IdType="pubmed">31567509</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Torphy R, Friedman C, Halpern A, Chapman BC, Ahrendt SS, McCarter MM, Edil BH, Schulick RD, Gleisner A (2019) Comparing short-term and oncologic outcomes of minimally invasive versus open pancreaticoduodenectomy across low and high volume centers. Ann Surg 270:1147–1155</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000002810</ArticleId>
+            <ArticleId IdType="pubmed">29771723</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van der Geest LGM, van Rijssen LB, Molenaar IQ, de Hingh IH, Koerkamp BG, Busch ORC, Lemmens VEPP, Besselink MGH, Dutch Pancreatic Cancer Group (2016) Volume-outcome relationships in pancreatoduodenectomy for cancer. HPB 18:317–324</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.hpb.2016.01.515</ArticleId>
+            <ArticleId IdType="pubmed">27037200</ArticleId>
+            <ArticleId IdType="pmcid">4814615</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shi Y, Jin J, Qiu W, Weng Y, Wang J, Zhao S, Huo Z, Qin K, Wang Y, Chen H, Deng X, Peng C, Shen B (2020) Short-term outcomes after robot-assisted vs open pancreaticoduodenectomy after the learning curve. JAMA Surg 155:389–394</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jamasurg.2020.0021</ArticleId>
+            <ArticleId IdType="pubmed">32129815</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fung G, Sha M, Kunduzi B, Froghi F, Rehman S, Froghi S (2022) Learning curves in minimally invasive pancreatic surgery a systematic review. Langenbecks Arch Surg. https://doi.org/10.1007/s00423-022-02470-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00423-022-02470-3</ArticleId>
+            <ArticleId IdType="pubmed">35278112</ArticleId>
+            <ArticleId IdType="pmcid">9467952</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klaiber U, Probst P, Strobel O, Michalski CW, Dörr-Harim C, Diener MK, Büchler MW, Hackert T (2018) Meta-analysis of delayed gastric emptying after pylorus-preserving versus pylorus-resecting pancreatoduodenectomy. Br J Surg 105:339–349</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/bjs.10771</ArticleId>
+            <ArticleId IdType="pubmed">29412453</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng Y, Briarava M, Lai M, Wang X, Tu B, Cheng N, Gong J, Yuan Y, Pilati P, Mocellin S (2017) Pancreaticojejunostomy versus pancreaticogastrostomy reconstruction for the prevention of postoperative pancreatic fistula following pancreaticoduodenectomy. Cochrane Database Syst Rev. https://doi.org/10.1002/14651858.CD012257.pub2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/14651858.CD012257.pub2</ArticleId>
+            <ArticleId IdType="pubmed">28898386</ArticleId>
+            <ArticleId IdType="pmcid">6486294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Keck T, Wellner UF, Bahra M, Klein F, Sick O, Niedergethmann M, Wilhelm TJ, Farkas SA, Börner T, Bruns C, Kleespies A, Kleeff J, Mihaljevic AL, Uhl W, Chromik A, Fendrich V, Heeger K, Padberg W, Hecker A, Neumann UP, Junge K, Kalff JC, Glowka TR, Werner J, Knebel P, Piso P, Mayr M, Izbicki J, Vashist Y, Bronsert P, Bruckner T, Limprecht R, Diener MK, Rossion I, Wegener I, Hopt UT (2016) Pancreatogastrostomy versus pancreatojejunostomy for RECOnstruction after PANCreatoduodenectomy (RECOPANC, DRKS 00000767): perioperative and long-term results of a multicenter randomized controlled trial. Ann Surg 263:440–449</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000001240</ArticleId>
+            <ArticleId IdType="pubmed">26135690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Daamen LA, Smits FJ, Besselink MG, Busch OR, Borel Rinkes IH, van Santvoort HC, Molenaar IQ, Dutch Pancreatic Cancer Group (2018) A web-based overview, systematic review and meta-analysis of pancreatic anastomosis techniques following pancreatoduodenectomy. HPB 20:777–785</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.hpb.2018.03.003</ArticleId>
+            <ArticleId IdType="pubmed">29773356</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun R, Yu J, Zhang Y, Liang Z, Han X (2021) Perioperative and oncological outcomes following minimally invasive versus open pancreaticoduodenectomy for pancreatic duct adenocarcinoma. Surg Endosc 35:2273–2285</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-020-07641-1</ArticleId>
+            <ArticleId IdType="pubmed">32632485</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36165934</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>10</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>01</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1743-9159</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>106</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Oct</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of surgery (London, England)</Title>
+          <ISOAbbreviation>Int J Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A novel online calculator to predict early recurrence and long-term survival of patients with resectable pancreatic ductal adenocarcinoma after pancreaticoduodenectomy: A multicenter study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>106891</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S1743-9191(22)00668-9</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijsu.2022.106891</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Pancreatic ductal adenocarcinoma (PDAC) is prone to relapse even after radical pancreaticoduodenectomy (PD) (including robotic, laparoscopic and open approach). This study aimed to develop an online nomogram calculator to predict early recurrence (ER) (within one year after surgery) and long-term survival in patients with PDAC.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Patients with PDAC after radical PD were included. Univariate and multivariate logistic regression analysis was used to identify independent risk factors. An online nomogram calculator was developed based on independent risk factors in the training cohort and then tested in the internal and external validation cohorts.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the 569 patients who met the inclusion criteria, 310, 155, and 104 patients were in the training, internal and external validation cohorts, respectively. Multivariate analysis revealed that preoperative carbohydrate antigen19-9 (CA19-9) [Odds Ratio (OR) 1.002; 95% confidence interval (CI) 1.001-1.003; P = 0.001], fibrinogen/albumin (FAR) (OR 1.132; 95% CI 1.012-1.266; P = 0.029), N stage (OR 2.291; 95% CI 1.283-4.092; P = 0.005), and tumor differentiation (OR 3.321; 95% CI 1.278-8.631; P = 0.014) were independent risk factors for ER. Nomogram based on the above four factors achieved good C-statistics of 0.772, 0.767 and 0.765 in predicting ER in the training, internal and external validation cohorts, respectively. Time-dependent ROC analysis (timeROC) and decision curve analysis (DCA) revealed that the nomogram provided superior diagnostic capacity and net benefit compared with other staging systems.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This multi-center study developed and validated an online nomogram calculator that can predict ER and long-term survival in patients with PDAC with high degrees of stability and accuracy.</AbstractText>
+          <CopyrightInformation>Copyright © 2022. Published by Elsevier Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Xiu-Ping</ForeName>
+            <Initials>XP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Hepato-Biliary-Pancreatic Surgery, The First Medical Center of Chinese People's Liberation Army (PLA) General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Yuan-Xing</ForeName>
+            <Initials>YX</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Hepato-Biliary-Pancreatic Surgery, The First Medical Center of Chinese People's Liberation Army (PLA) General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Shuai</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Liver Transplantation and Hepatobiliary Surgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Guo-Dong</ForeName>
+            <Initials>GD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Hepato-Biliary-Pancreatic Surgery, The First Medical Center of Chinese People's Liberation Army (PLA) General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Ming-Gen</ForeName>
+            <Initials>MG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Hepato-Biliary-Pancreatic Surgery, The First Medical Center of Chinese People's Liberation Army (PLA) General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tan</LastName>
+            <ForeName>Xiang-Long</ForeName>
+            <Initials>XL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Hepato-Biliary-Pancreatic Surgery, The First Medical Center of Chinese People's Liberation Army (PLA) General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Zhi-Ming</ForeName>
+            <Initials>ZM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Hepato-Biliary-Pancreatic Surgery, The First Medical Center of Chinese People's Liberation Army (PLA) General Hospital, Beijing, China. Electronic address: Zhimingzhao616@126.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Rong</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Hepato-Biliary-Pancreatic Surgery, The First Medical Center of Chinese People's Liberation Army (PLA) General Hospital, Beijing, China. Electronic address: liurong301@126.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>20</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Int J Surg</MedlineTA>
+        <NlmUniqueID>101228232</NlmUniqueID>
+        <ISSNLinking>1743-9159</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018395">CA-19-9 Antigen</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000418">Albumins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>9001-32-5</RegistryNumber>
+          <NameOfSubstance UI="D005340">Fibrinogen</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D002241">Carbohydrates</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Int J Surg. 2023 Apr 01;109(4):1070-1071. doi: 10.1097/JS9.0000000000000327</RefSource>
+          <PMID Version="1">36974719</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016577" MajorTopicYN="N">Pancreaticoduodenectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018395" MajorTopicYN="N">CA-19-9 Antigen</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009364" MajorTopicYN="N">Neoplasm Recurrence, Local</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010190" MajorTopicYN="Y">Pancreatic Neoplasms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D021441" MajorTopicYN="Y">Carcinoma, Pancreatic Ductal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000230" MajorTopicYN="Y">Adenocarcinoma</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000418" MajorTopicYN="N">Albumins</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005340" MajorTopicYN="N">Fibrinogen</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002241" MajorTopicYN="N">Carbohydrates</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Early recurrence</Keyword>
+        <Keyword MajorTopicYN="N">Long-term survival</Keyword>
+        <Keyword MajorTopicYN="N">Nomogram calculator</Keyword>
+        <Keyword MajorTopicYN="N">Pancreatic ductal adenocarcinoma</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of competing interest No conflicts of interest to declare by any of the authors.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>07</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>08</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>08</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>27</Day>
+          <Hour>11</Hour>
+          <Minute>50</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36165934</ArticleId>
+        <ArticleId IdType="pii">S1743-9191(22)00668-9</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.ijsu.2022.106891</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">36166034</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>09</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>10</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1538-3598</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>328</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>09</Month>
+              <Day>27</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA</Title>
+          <ISOAbbreviation>JAMA</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effect of Robot-Assisted Radical Cystectomy vs Open Radical Cystectomy on 90-Day Morbidity and Mortality Among Patients With Bladder Cancer-Reply.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1258-1259</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1001/jama.2022.13600</ELocationID>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Catto</LastName>
+            <ForeName>James W F</ForeName>
+            <Initials>JWF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Oncology and Metabolism, University of Sheffield, Sheffield, England.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Khetrapal</LastName>
+            <ForeName>Pramit</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Surgery and Interventional Science, University College London, London, England.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ambler</LastName>
+            <ForeName>Gareth</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Statistical Science, University College London, London, England.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <CollectiveName>iROC Study Team</CollectiveName>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016422">Letter</PublicationType>
+          <PublicationType UI="D016420">Comment</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JAMA</MedlineTA>
+        <NlmUniqueID>7501160</NlmUniqueID>
+        <ISSNLinking>0098-7484</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentOn">
+          <RefSource>JAMA. 2022 Sep 27;328(12):1257-1258. doi: 10.1001/jama.2022.13597</RefSource>
+          <PMID Version="1">36166036</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D015653" MajorTopicYN="Y">Cystectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009017" MajorTopicYN="N">Morbidity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001743" MajorTopicYN="N">Urinary Bladder</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001749" MajorTopicYN="Y">Urinary Bladder Neoplasms</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>27</Day>
+          <Hour>11</Hour>
+          <Minute>54</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36166034</ArticleId>
+        <ArticleId IdType="pii">2796701</ArticleId>
+        <ArticleId IdType="doi">10.1001/jama.2022.13600</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">36166036</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>09</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>10</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1538-3598</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>328</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>09</Month>
+              <Day>27</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA</Title>
+          <ISOAbbreviation>JAMA</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effect of Robot-Assisted Radical Cystectomy vs Open Radical Cystectomy on 90-Day Morbidity and Mortality Among Patients With Bladder Cancer.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1257-1258</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1001/jama.2022.13597</ELocationID>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Sivarajan</LastName>
+            <ForeName>Ganesh</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Banner Boswell Medical Center, Sun City, Arizona.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Akhter</LastName>
+            <ForeName>Murtaza</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Emergency Medicine, Penn State Hershey Medical Center, Hershey, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016420">Comment</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JAMA</MedlineTA>
+        <NlmUniqueID>7501160</NlmUniqueID>
+        <ISSNLinking>0098-7484</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentOn">
+          <RefSource>JAMA. 2022 Jun 7;327(21):2092-2103. doi: 10.1001/jama.2022.7393</RefSource>
+          <PMID Version="1">35569079</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>JAMA. 2022 Sep 27;328(12):1258-1259. doi: 10.1001/jama.2022.13600</RefSource>
+          <PMID Version="1">36166034</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D015653" MajorTopicYN="Y">Cystectomy</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009017" MajorTopicYN="N">Morbidity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001743" MajorTopicYN="N">Urinary Bladder</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001749" MajorTopicYN="Y">Urinary Bladder Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>27</Day>
+          <Hour>11</Hour>
+          <Minute>54</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36166036</ArticleId>
+        <ArticleId IdType="pii">2796703</ArticleId>
+        <ArticleId IdType="doi">10.1001/jama.2022.13597</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36171282</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>12</Month>
+        <Day>07</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>12</Month>
+        <Day>07</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1435-2451</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>407</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Langenbeck's archives of surgery</Title>
+          <ISOAbbreviation>Langenbecks Arch Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The effect of intracorporeal versus extracorporeal anastomosis in robotic right colectomy on perianastomotic perfusion: a substudy to a multicenter RCT.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>3577-3586</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00423-022-02693-4</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Previous studies have shown that intracorporeal anastomosis (ICA) in minimally invasive right colectomy may improve postoperative recovery compared with extracorporeal anastomosis (ECA). It has been hypothesized that creating the anastomosis extracorporeally may cause mesenteric traction and compromised intestinal perfusion. The purpose of this study was to investigate the effect of either ICA or ECA on intestinal perfusion.</AbstractText>
+          <AbstractText Label="METHOD" NlmCategory="METHODS">This was a substudy to a multicenter, triple-blind randomized clinical trial comparing ICA with ECA in patients undergoing robotic right colectomy for colonic cancer. Videos from intraoperative Indocyanine Green (ICG) fluorescence imaging were analyzed with quantitative ICG perfusion assessment (q-ICG). q-ICG was performed by extracting perfusion metrics from a time-intensity curve generated from an image analysis software: F<sub>MAX</sub>: maximal fluorescence intensity, T<sub>MAX</sub>: time until maximal fluorescent signal, T<sub>1/2MAX</sub>: time until half-maximal fluorescent signal, time ratio (T<sub>1/2MAX</sub>/T<sub>MAX</sub>) and slope.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 68 patients (33 ICA and 35 ECA) were available for analysis. Demographics were similar between the groups, except for mean arterial blood pressure at the time of ICG infusion, which was significantly lower in the ICA group. We found a significantly steeper slope in the ICA group compared to the ECA group (6.3 vs. 4.7 AU/sec, P = .048). There were no significant differences in F<sub>MAX</sub>, T<sub>MAX</sub>, T<sub>1/2MAX</sub>, and time ratio.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We found evidence of an improved intestinal perfusion following ICA compared with ECA. This finding may be related to patient outcomes and should be explored further in the future.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND" />
+          <AbstractText Label="CLINICALTRIALS" NlmCategory="RESULTS">gov NCT03130166.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Dohrn</LastName>
+            <ForeName>Niclas</ForeName>
+            <Initials>N</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-4854-300X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Copenhagen University Hospital - Herlev and Gentofte, Borgmester Ib Juuls Vej 1, 2730, Herlev, Denmark. niclas.dohrn@regionh.dk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Surgical Science, Zealand University Hospital - Koege, Lykkebækvej 1, 4600, Koege, Denmark. niclas.dohrn@regionh.dk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oppermann</LastName>
+            <ForeName>Carolin</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Surgical Science, Zealand University Hospital - Koege, Lykkebækvej 1, 4600, Koege, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yikilmaz</LastName>
+            <ForeName>Helin</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-4780-751X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Center for Surgical Science, Zealand University Hospital - Koege, Lykkebækvej 1, 4600, Koege, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Laursen</LastName>
+            <ForeName>Magnus</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-2856-1008</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Copenhagen University Hospital - Herlev and Gentofte, Borgmester Ib Juuls Vej 1, 2730, Herlev, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Khesrawi</LastName>
+            <ForeName>Faisal</ForeName>
+            <Initials>F</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-1282-1143</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Center for Surgical Science, Zealand University Hospital - Koege, Lykkebækvej 1, 4600, Koege, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Clausen</LastName>
+            <ForeName>Frederik Bjerg</ForeName>
+            <Initials>FB</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-3823-7508</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Copenhagen University Hospital - Herlev and Gentofte, Borgmester Ib Juuls Vej 1, 2730, Herlev, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jakobsen</LastName>
+            <ForeName>Henrik Loft</ForeName>
+            <Initials>HL</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-5611-6692</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Copenhagen University Hospital - Herlev and Gentofte, Borgmester Ib Juuls Vej 1, 2730, Herlev, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brisling</LastName>
+            <ForeName>Steffen</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Surgical Science, Zealand University Hospital - Koege, Lykkebækvej 1, 4600, Koege, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lykke</LastName>
+            <ForeName>Jakob</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-9311-9964</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Copenhagen University Hospital - Herlev and Gentofte, Borgmester Ib Juuls Vej 1, 2730, Herlev, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Eriksen</LastName>
+            <ForeName>Jens Ravn</ForeName>
+            <Initials>JR</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-7297-6537</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Center for Surgical Science, Zealand University Hospital - Koege, Lykkebækvej 1, 4600, Koege, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Klein</LastName>
+            <ForeName>Mads Falk</ForeName>
+            <Initials>MF</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-6609-4263</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Copenhagen University Hospital - Herlev and Gentofte, Borgmester Ib Juuls Vej 1, 2730, Herlev, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gögenur</LastName>
+            <ForeName>Ismail</ForeName>
+            <Initials>I</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-3753-268X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Center for Surgical Science, Zealand University Hospital - Koege, Lykkebækvej 1, 4600, Koege, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT03130166</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>28</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Langenbecks Arch Surg</MedlineTA>
+        <NlmUniqueID>9808285</NlmUniqueID>
+        <ISSNLinking>1435-2443</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>IX6J1063HV</RegistryNumber>
+          <NameOfSubstance UI="D007208">Indocyanine Green</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000714" MajorTopicYN="N">Anastomosis, Surgical</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003082" MajorTopicYN="N">Colectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007208" MajorTopicYN="N">Indocyanine Green</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010477" MajorTopicYN="N">Perfusion</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Enhanced recovery after surgery</Keyword>
+        <Keyword MajorTopicYN="N">Indocyanine green</Keyword>
+        <Keyword MajorTopicYN="N">Intracorporeal anastomosis</Keyword>
+        <Keyword MajorTopicYN="N">Perfusion assessment</Keyword>
+        <Keyword MajorTopicYN="N">Robotic right colectomy</Keyword>
+        <Keyword MajorTopicYN="N">Surgical pathophysiology</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>2</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>28</Day>
+          <Hour>23</Hour>
+          <Minute>23</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36171282</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00423-022-02693-4</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00423-022-02693-4</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>References</Title>
+        <Reference>
+          <Citation>Danish Colorectal Cancer Group [Nationwide annual report 2019 of the Danish Colorectal Cancer Group].  https://dccg.dk/wp-content/uploads/2020/12/DCCG-%C3%85rsrapport-2019.pdf . Accessed 27 Sept 2022</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dohrn N, Klein MF, Gögenur I (2021) Robotic versus laparoscopic right colectomy for colon cancer: a nationwide cohort study. Int J Colorectal Dis 36:2147–2158. https://doi.org/10.1007/s00384-021-03966-y</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00384-021-03966-y</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mari GM, Crippa J, Costanzi ATM, Pellegrino R, Siracusa C, Berardi V, Maggioni D (2018) Intracorporeal anastomosis reduces surgical stress response in laparoscopic right hemicolectomy: a prospective randomized trial. Surg Laparosc Endosc Percutan Tech 28:77–81. https://doi.org/10.1097/SLE.0000000000000506</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLE.0000000000000506</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Allaix ME, Degiuli M, Bonino MA, Arezzo A, Mistrangelo M, Passera R, Morino M (2019) Intracorporeal or extracorporeal ileocolic anastomosis after laparoscopic right colectomy. Ann Surg 270:762–767. https://doi.org/10.1097/SLA.0000000000003519</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000003519</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bollo J, Turrado V, Rabal A, Carrillo E, Gich I, Martinez MC, Hernandez P, Targarona E (2020) Randomized clinical trial of intracorporeal versus extracorporeal anastomosis in laparoscopic right colectomy (IEA trial). Br J Surg 107:364–372. https://doi.org/10.1002/bjs.11389</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/bjs.11389</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vignali A, Bissolati M, De Nardi P, Di Palo S, Staudacher C (2016) Extracorporeal vs. intracorporeal ileocolic stapled anastomoses in laparoscopic right colectomy: an interim analysis of a randomized clinical trial. J Laparoendosc Adv Surg Tech 26:343–348. https://doi.org/10.1089/lap.2015.0547</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/lap.2015.0547</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Selvy M, Mattevi C, Slim K, Pezet D, Pereira B, Le Roy B (2020) Intra-versus extracorporeal anastomosis in laparoscopic right colectomy: a meta-analysis of 3699 patients. Int J Colorectal Dis 35:1673–1680. https://doi.org/10.1007/s00384-020-03675-y</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00384-020-03675-y</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hajibandeh S, Hajibandeh S, Mankotia R, Akingboye A, Peravali R (2021) Meta-analysis of randomised controlled trials comparing intracorporeal versus extracorporeal anastomosis in laparoscopic right hemicolectomy: upgrading the level of evidence. Updates Surg 73:23–33. https://doi.org/10.1007/s13304-020-00948-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13304-020-00948-7</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Creavin B, Balasubramanian I, Common M, McCarrick C, El Masry S, Carton E, Faul E (2021) Intracorporeal vs extracorporeal anastomosis following neoplastic right hemicolectomy resection: a systematic review and meta-analysis of randomized control trials. Int J Colorectal Dis 36:645–656. https://doi.org/10.1007/s00384-020-03807-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00384-020-03807-4</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grams J, Tong W, Greenstein AJ, Salky B (2010) Comparison of intracorporeal versus extracorporeal anastomosis in laparoscopic-assisted hemicolectomy. Surg Endosc 24:1886–1891. https://doi.org/10.1007/s00464-009-0865-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-009-0865-9</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stein SA, Bergamaschi R (2013) Extracorporeal versus intracorporeal ileocolic anastomosis. Tech Coloproctol 17:35–39. https://doi.org/10.1007/s10151-012-0937-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10151-012-0937-z</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Degett TH, Andersen HS, Gögenur I (2016) Indocyanine green fluorescence angiography for intraoperative assessment of gastrointestinal anastomotic perfusion: a systematic review of clinical trials. Langenbeck’s Arch Surg 401:767–775. https://doi.org/10.1007/s00423-016-1400-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00423-016-1400-9</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De Nardi P, Elmore U, Maggi G, Maggiore R, Boni L, Cassinotti E, Fumagalli U, Gardani M, De Pascale S, Parise P, Vignali A, Rosati R (2020) Intraoperative angiography with indocyanine green to assess anastomosis perfusion in patients undergoing laparoscopic colorectal resection: results of a multicenter randomized controlled trial. Surg Endosc 34:53–60. https://doi.org/10.1007/s00464-019-06730-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-019-06730-0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alekseev M, Rybakov E, Shelygin Y, Chernyshov S, Zarodnyuk I (2020) A study investigating the perfusion of colorectal anastomoses using fluorescence angiography: results of the FLAG randomized trial. Color Dis 22:1147–1153. https://doi.org/10.1111/codi.15037</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/codi.15037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang YK, Foo CC, Yip J, Wei R, Ng KK, Lo O, Choi HK, Law WL (2019) The impact of indocyanine-green fluorescence angiogram on colorectal resection. Surg 17:270–276. https://doi.org/10.1016/j.surge.2018.08.006</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surge.2018.08.006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lütken CD, Achiam MP, Svendsen MB, Boni L, Nerup N (2020) Optimizing quantitative fluorescence angiography for visceral perfusion assessment. Surg Endosc 34:5223–5233. https://doi.org/10.1007/s00464-020-07821-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-020-07821-z</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lütken CD, Achiam MP, Osterkamp J, Svendsen MB, Nerup N (2021) Quantification of fluorescence angiography: Toward a reliable intraoperative assessment of tissue perfusion - a narrative review. Langenbeck’s Arch Surg 406:251–259. https://doi.org/10.1007/s00423-020-01966-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00423-020-01966-0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nerup N, Andersen HS, Ambrus R, Strandby RB, Svendsen MBS, Madsen MH, Svendsen LB, Achiam MP (2017) Quantification of fluorescence angiography in a porcine model. Langenbeck’s Arch Surg 402:655–662. https://doi.org/10.1007/s00423-016-1531-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00423-016-1531-z</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diana M, Agnus V, Halvax P, Liu YY, Dallemagne B, Schlagowski AI, Geny B, Diemunsch P, Lindner V, Marescaux J (2015) Intraoperative fluorescence-based enhanced reality laparoscopic real-time imaging to assess bowel perfusion at the anastomotic site in an experimental model. Br J Surg 102:e169–e176. https://doi.org/10.1002/bjs.9725</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/bjs.9725</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rønn JH, Nerup N, Strandby RB, Svendsen MBS, Ambrus R, Svendsen LB, Achiam MP (2019) Laser speckle contrast imaging and quantitative fluorescence angiography for perfusion assessment. Langenbeck’s Arch Surg 404:505–515. https://doi.org/10.1007/s00423-019-01789-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00423-019-01789-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rim S, Chul H, Lee S, Hoon J, Hyo B, Lee J, Ran M, Abdullah Y, Sawat A, Sang D, In L, Lee K, Suk Y (2021) Quantitative evaluation of colon perfusion after high versus low ligation in rectal surgery by indocyanine green : a pilot study. Surg Endosc. https://doi.org/10.1007/s00464-021-08673-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-021-08673-x</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Son GM, Kwon MS, Kim Y, Kim J, Kim SH, Lee JW (2019) Quantitative analysis of colon perfusion pattern using indocyanine green (ICG) angiography in laparoscopic colorectal surgery. Surg Endosc 33:1640–1649. https://doi.org/10.1007/s00464-018-6439-y</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-018-6439-y</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wada T, Kawada K, Takahashi R, Yoshitomi M, Hida K, Hasegawa S, Sakai Y (2017) ICG fluorescence imaging for quantitative evaluation of colonic perfusion in laparoscopic colorectal surgery. Surg Endosc 31:4184–4193. https://doi.org/10.1007/s00464-017-5475-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-017-5475-3</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dohrn N, Klein MF, Gögenur I (2021) Intracorporeal versus extracorporeal anastomosis in right colectomy - a protocol for a randomised trial. Dan Med J 68:1–8</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dohrn N, Yikilmaz H, Laursen M, Khesrawi F, Clausen FB, Sørensen F, Jakobsen HL, Brisling S, Lykke J, Eriksen JR, Klein MF, Gögenur I (2021) Intracorporeal versus extracorporeal anastomosis in robotic right colectomy: a multicenter, triple-blind, randomized clinical trial. Ann Surg. https://doi.org/10.1097/SLA.0000000000005254</Citation>
+        </Reference>
+        <Reference>
+          <Citation>World Medical Association (2013) World Medical Association Declaration of Helsinki. JAMA 310:2191. https://doi.org/10.1001/jama.2013.281053</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jama.2013.281053</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gustafsson UO, Scott MJ, Hubner M, Nygren J, Demartines N, Francis N, Rockall TA, Young-Fadok TM, Hill AG, Soop M, de Boer HD, Urman RD, Chang GJ, Fichera A, Kessler H, Grass F, Whang EE, Fawcett WJ, Carli F, Lobo DN, Rollins KE, Balfour A, Baldini G, Riedel B, Ljungqvist O (2019) Guidelines for perioperative care in elective colorectal surgery: enhanced recovery after surgery (ERAS®) society recommendations: 2018. World J Surg 43:659–695. https://doi.org/10.1007/s00268-018-4844-y</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00268-018-4844-y</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ris F, Liot E, Buchs NC, Kraus R, Ismael G, Belfontali V, Douissard J, Cunningham C, Lindsey I, Guy R, Jones O, George B, Morel P, Mortensen NJ, Hompes R, Cahill RA (2018) Multicentre phase II trial of near-infrared imaging in elective colorectal surgery. Br J Surg 105:1359–1367. https://doi.org/10.1002/bjs.10844</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/bjs.10844</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meershoek P, KleinJan GH, van Willigen DM, Bauwens KP, Spa SJ, van Beurden F, van Gennep EJ, Mottrie AM, van der Poel HG, Buckle T, van Leeuwen FWB, van Oosterom MN (2021) Multi-wavelength fluorescence imaging with a da Vinci Firefly—a technical look behind the scenes. J Robot Surg 15:751–760. https://doi.org/10.1007/s11701-020-01170-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-020-01170-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alander JT, Kaartinen I, Laakso A, Pätilä T, Spillmann T, Tuchin VV, Venermo M, Välisuo P (2012) A review of indocyanine green fluorescent imaging in surgery. Int J Biomed Imaging 2012:1–26. https://doi.org/10.1155/2012/940585</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2012/940585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Osterkamp J, Strandby R, Nerup N, Svendsen M, Svendsen L, Achiam M (2020) Quantitative fluorescence angiography detects dynamic changes in gastric perfusion. Surg Endosc. https://doi.org/10.1007/s00464-020-08183-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-020-08183-2</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Duprée A, Rieß HC, von Kroge PH, Izbicki JR, Debus ES, Mann O, Pinnschmidt HO, Russ D, Detter C, Wipper SH (2020) Validation of quantitative assessment of indocyanine green fluorescent imaging in a one-vessel model. PLoS ONE 15:e0240188. https://doi.org/10.1371/journal.pone.0240188</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0240188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aawsaj Y, Mustafa A, Winstanley J, O’Loughlin P (2022) The impact of indocyanine green fluorescence angiography on intraoperative decision making in right hemicolectomy: a case-control study. Surg Laparosc Endosc Percutaneous Tech 32:209–212. https://doi.org/10.1097/SLE.0000000000001018</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLE.0000000000001018</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marquardt C, Kalev G, Schiedeck T (2020) Intraoperative fluorescence angiography with indocyanine green: retrospective evaluation and detailed analysis of our single-center 5-year experience focused on colorectal surgery. Innov Surg Sci 5:35–42. https://doi.org/10.1515/iss-2020-0009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1515/iss-2020-0009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ClinicalTrials.gov [NCT05153954].  https://clinicaltrials.gov/ct2/show/NCT05153954?cond=QUANTICO&amp;draw=2&amp;rank=1#contacts . Accessed 27 Sept 2022</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

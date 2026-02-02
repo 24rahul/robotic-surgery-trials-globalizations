@@ -1,0 +1,783 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">15529954</PMID>
+      <DateCompleted>
+        <Year>2005</Year>
+        <Month>03</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>11</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1092-9088</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>8</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2003</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Computer aided surgery : official journal of the International Society for Computer Aided Surgery</Title>
+          <ISOAbbreviation>Comput Aided Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Development and first patient trial of a surgical robot for complex trajectory milling.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>247-56</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Today's surgical robots normally perform "simple" trajectories, e.g., assisting as tool-holding devices in neurosurgery, or milling linear paths for cavities in total hip replacement. From a clinical point of view, it is still a complex undertaking to implement robots in the operating room. Until now, robot systems have not been used in patient trials to mill "complex" trajectories, which involve many positional and orientation changes and are often necessary in cranio-maxillofacial (CMF) surgery. This paper presents the RobaCKa surgical robot system, which allows more precise execution of surgical interventions and milling of "complex" trajectories.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">The main components of the RobaCKa system are a (former) CASPAR robot system, a POLARIS system, and a force-torque sensor.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">In the first patient trial (April 2003) the planned trajectory was executed with an error of 0.66 +/- 0.2 mm.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The use of former industrial robots for surgical applications is possible but complex. The advantages are improved precision and quality and the possibility of documentation. The use of such systems is normally limited to research institutions or large clinics, because it is hardly possible to implement the necessary technical and logistic efforts in routine surgical work.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Korb</LastName>
+            <ForeName>Werner</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Maxillofacial and Craniofacial Surgery, Ruprecht-Karls-University Heidelberg, Heidelberg, Germany. Werner_korb@med.uni-heidelberg.de</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Engel</LastName>
+            <ForeName>Dirk</ForeName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Boesecke</LastName>
+            <ForeName>Robert</ForeName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Eggers</LastName>
+            <ForeName>Georg</ForeName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kotrikova</LastName>
+            <ForeName>Bibiana</ForeName>
+            <Initials>B</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Marmulla</LastName>
+            <ForeName>Rüdiger</ForeName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Raczkowsky</LastName>
+            <ForeName>Jörg</ForeName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wörn</LastName>
+            <ForeName>Heinz</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mühling</LastName>
+            <ForeName>Joachim</ForeName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hassfeld</LastName>
+            <ForeName>Stefan</ForeName>
+            <Initials>S</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Comput Aided Surg</MedlineTA>
+        <NlmUniqueID>9708375</NlmUniqueID>
+        <ISSNLinking>1092-9088</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003399" MajorTopicYN="N">Craniotomy</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="N">Surgery, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2004</Year>
+          <Month>11</Month>
+          <Day>9</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2005</Year>
+          <Month>3</Month>
+          <Day>11</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2004</Year>
+          <Month>11</Month>
+          <Day>9</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">15529954</ArticleId>
+        <ArticleId IdType="doi">10.3109/10929080309146060</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">15533478</PMID>
+      <DateCompleted>
+        <Year>2005</Year>
+        <Month>11</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1527-9995</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>64</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2004</Year>
+              <Month>Nov</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Urology</Title>
+          <ISOAbbreviation>Urology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Prospective, randomized controlled study: transperitoneal laparoscopic versus retroperitoneoscopic radical nephrectomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>919-24</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To evaluate the transperitoneal and retroperitoneal approaches for endoscopic radical nephrectomy in a prospective randomized manner to assess the possible differences in the outcome related to patients' morbidity and technical difficulty for the surgeon.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 40 patients with Stage cT1-T2 were randomized into two equal groups: laparoscopic radical nephrectomy (LRN) and retroperitoneoscopic radical nephrectomy (RRN). The patient demographics and tumor characteristics were comparable. Two surgeons with differing experience performed an equal number of procedures in both treatment arms. The outcome was compared, and the technical difficulty for the surgeon and assistant was assessed with the European scoring system.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">All procedures were completed without a need for conversion. No statistically significant differences were found between the two approaches in terms of the number and size of the trocars used, length of incision, specimen weight, pathologic stage, operative time, need for additional procedures such as adrenalectomy and/or lymph node sampling, estimated blood loss, need for blood transfusions, analgesic requirement, length of hospital stay, or the incidence of minor or major complications. All patients in the LRN group resumed oral intake on postoperative day 1, but only 75% did so in the RRN group. The technical difficulty score for either the surgeon or the assistant did not differ significantly between the two groups. Both approaches allowed complete tumor excision. The robotic assistance system (AESOP) was more difficult with RRN compared with LRN.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This first prospective randomized study comparing LRN and RRN did not find any real difference between the two approaches in relation to patient morbidity or the technical difficulty for the surgeon.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Nambirajan</LastName>
+            <ForeName>Thiagarajan</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Elisabethinen Hospital, Linz, Austria.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jeschke</LastName>
+            <ForeName>Stephan</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Al-Zahrani</LastName>
+            <ForeName>Hassan</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vrabec</LastName>
+            <ForeName>George</ForeName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Leeb</LastName>
+            <ForeName>Karl</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Janetschek</LastName>
+            <ForeName>Günter</ForeName>
+            <Initials>G</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Urology</MedlineTA>
+        <NlmUniqueID>0366151</NlmUniqueID>
+        <ISSNLinking>0090-4295</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002292" MajorTopicYN="N">Carcinoma, Renal Cell</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007680" MajorTopicYN="N">Kidney Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="N">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010537" MajorTopicYN="N">Peritoneum</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011182" MajorTopicYN="N">Postoperative Care</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012187" MajorTopicYN="N">Retroperitoneal Space</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2004</Year>
+          <Month>04</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2004</Year>
+          <Month>06</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2004</Year>
+          <Month>11</Month>
+          <Day>10</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2005</Year>
+          <Month>11</Month>
+          <Day>15</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2004</Year>
+          <Month>11</Month>
+          <Day>10</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">15533478</ArticleId>
+        <ArticleId IdType="pii">S0090-4295(04)00825-8</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.urology.2004.06.057</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">15544251</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>12</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2004</Year>
+        <Month>11</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0926-9630</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>98</Volume>
+            <PubDate>
+              <Year>2004</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Studies in health technology and informatics</Title>
+          <ISOAbbreviation>Stud Health Technol Inform</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The personal digital assistant (PDA) as a tool for telementoring endoscopic procedures.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>99-103</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>The telementoring of surgical procedures is currently achieved via a wired infrastructure that usually requires sophisticated videoconference systems. This project represents the first step in assessing the potential for using handheld computers as a mobile alternative to current telementoring systems. Specifically, this project compares a handheld computer to a standard CRT monitor regarding their capability to accurately display video images from an endoscopic procedure. Video images from two previously recorded endoscopic procedures were transmitted from a standard VCR to: 1) a handheld computer (iPAQ 3670 running Pocket PC) via a wireless LAN and 2) a standard CRT monitor via a wired analog connection. The software-used on the handheld device was custom designed to allow 320 X 240 pixel video images to be broadcast in real time. Twenty-three surgical residents who had completed an endoscopy rotation were randomized to watch one of the two videotaped endoscopic procedures on the hand held computer or on the CRT monitor. After viewing the procedure, a ten-question quiz was used to assess the ability of each participant to recognize several anatomic landmarks. The result of each questionnaire was expressed as the percentage of correct responses. Using a crossover design, each participant then viewed the other videotaped procedure using the alternate device and completed a second quiz. The mean test score for each device was calculated, and these data was analyzed using a Student T test. The observed difference between the mean test score associated with the handheld device (77.93 +/- 11.26) and the CRT monitor (81.30 +/- 12.54) was not statistically significant (p&lt;0.41). In addition, regardless of the device used, scores corresponding to video tape one were significantly higher than those recorded for video tape two (84.35 +/- 9.92 vs. 74.35 +/- 11.61; p &lt; 0.01) All participants were able to recognize anatomic landmarks equally well when viewing broadcasted endoscopic procedures on a handheld display or a standard CRT monitor. Handheld computers may have a role in telementoring residents who are performing endoscopic procedures. Further research is needed to evaluate the integration of handheld devices into telementoring and robotic system to perform surgical procedures.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Gandsas</LastName>
+            <ForeName>Alex</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, University of Kentucky, 800 Rose Street Rd #349 Lexington, KY 40536, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McIntire</LastName>
+            <ForeName>Katherine</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Montgomery</LastName>
+            <ForeName>Kevin</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bumgardner</LastName>
+            <ForeName>Cody</ForeName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rice</LastName>
+            <ForeName>Linda</ForeName>
+            <Initials>L</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>Stud Health Technol Inform</MedlineTA>
+        <NlmUniqueID>9214582</NlmUniqueID>
+        <ISSNLinking>0926-9630</ISSNLinking>
+      </MedlineJournalInfo>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D034201" MajorTopicYN="Y">Computers, Handheld</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018592" MajorTopicYN="N">Cross-Over Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004724" MajorTopicYN="N">Endoscopy</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007396" MajorTopicYN="N">Internship and Residency</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008122" MajorTopicYN="N">Local Area Networks</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008611" MajorTopicYN="Y">Mentors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019114" MajorTopicYN="Y">Remote Consultation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014481" MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2004</Year>
+          <Month>11</Month>
+          <Day>17</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>12</Month>
+          <Day>31</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2004</Year>
+          <Month>11</Month>
+          <Day>17</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">15544251</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">15549629</PMID>
+      <DateCompleted>
+        <Year>2006</Year>
+        <Month>04</Month>
+        <Day>26</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>11</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-2218</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>19</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2005</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Surgical endoscopy</Title>
+          <ISOAbbreviation>Surg Endosc</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Advantages and limits of robot-assisted laparoscopic surgery: preliminary experience.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>117-9</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In the last few years, robotics has been applied in clinical practice for a variety of laparoscopic procedures. This study reports our preliminary experience using robotics in the field of general surgery to evaluate the advantages and limitations of robot-assisted laparoscopy.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Thirty-two consecutive patients were scheduled to undergo robot-assisted laparoscopic surgery in our units from March 2002 to July 2003. The indications were cholecystectomy, 20 patients; right adrenalectomy, two points; bilateral varicocelectomy, two points; Heller's cardiomyotomy, two points; Nissen's fundoplication, two points; total splenectomy, one point; right colectomy, one point; left colectomy, 1 point; and bilateral inguinal hernia repair, one point. In all cases, we used the da Vinci surgical system, with the surgeon at the robotic work station and an assistant by the operating table.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Twenty-nine of 32 procedures (90.6%) were completed robotically, whereas three were converted to laparoscopic surgery. Conversion to laparoscopy was due in two patients to minor bleeding that could not be managed robotically and to robot malfunction in the third patient. There were no deaths. Median hospital stay was 2.2 days (range, 2-8).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The main advantages of robot-assisted laparoscopic surgery are the availability of three-dimensional vision and easier instrument manipulation than can be obtain with standard laparoscopy. The learning curve to master the robot was &gt;or= 10 robotic procedures. The main limitations are the large diameter of the instruments (8 mm) and the limited number of robotic arms (maximum, three). We consider these technical shortcomings to be the cause for our conversions, because it is difficult to manage bleeding episodes with only two operating instruments. The benefit to the patient must be evaluated carefully and proven before this technology can become widely accepted in general surgery.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Corcione</LastName>
+            <ForeName>F</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery and Laparoscopy, AORN Monadi Hospital, Via Monaldi 234, Naples, 80100, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Esposito</LastName>
+            <ForeName>C</ForeName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cuccurullo</LastName>
+            <ForeName>D</ForeName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Settembre</LastName>
+            <ForeName>A</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Miranda</LastName>
+            <ForeName>N</ForeName>
+            <Initials>N</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Amato</LastName>
+            <ForeName>F</ForeName>
+            <Initials>F</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pirozzi</LastName>
+            <ForeName>F</ForeName>
+            <Initials>F</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Caiazzo</LastName>
+            <ForeName>P</ForeName>
+            <Initials>P</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2004</Year>
+          <Month>11</Month>
+          <Day>18</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Surg Endosc</MedlineTA>
+        <NlmUniqueID>8806653</NlmUniqueID>
+        <ISSNLinking>0930-2794</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2004</Year>
+          <Month>01</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2004</Year>
+          <Month>04</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2004</Year>
+          <Month>11</Month>
+          <Day>19</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2006</Year>
+          <Month>4</Month>
+          <Day>28</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2004</Year>
+          <Month>11</Month>
+          <Day>19</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">15549629</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00464-004-9004-9</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Surg Clin North Am. 2003 Dec;83(6):1445-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14712878</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Laparoendosc Adv Surg Tech A. 2002 Jun;12(3):155-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12184899</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Laparoendosc Adv Surg Tech A. 2001 Dec;11(6):415-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11814134</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2002 Jan;16(1):216-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11961647</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Clin North Am. 2003 Dec;83(6):1405-19</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14712875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Clin North Am. 2003 Dec;83(6):1293-304, vii</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14712866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Clin North Am. 2003 Dec;83(6):1463-8, xi</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14712879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2001 Nov;25(11):1467-77</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11760751</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Laparosc Endosc Percutan Tech. 2002 Feb;12(1):46-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12008762</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Clin North Am. 2003 Dec;83(6):1421-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14712876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Clin North Am. 2003 Dec;83(6):1321-37</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14712869</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2003 Feb;17(2):236-41</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12399841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chir Ital. 2002 Jan-Feb;54(1):111-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11942001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2003 Sep;17(9):1391-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12820058</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2002 Jul;60(1):39-45; discussion 45</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12100918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Clin North Am. 2003 Dec;83(6):1469-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14712880</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Laparosc Endosc Percutan Tech. 2002 Feb;12(1):41-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12008761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2002 Oct;16(10):1389-402</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12140630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Laparosc Endosc Percutan Tech. 2002 Feb;12(1):33-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12008760</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

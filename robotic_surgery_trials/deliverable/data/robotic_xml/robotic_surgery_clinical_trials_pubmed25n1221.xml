@@ -1,0 +1,944 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">38155254</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>01</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>01</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2045-2322</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>13</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>12</Month>
+              <Day>27</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Scientific reports</Title>
+          <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Multi-silicone bilateral soft physical twin as an alternative to traditional user interfaces for remote palpation: a comparative study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>23014</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41598-023-50329-4</ELocationID>
+        <Abstract>
+          <AbstractText>Teleoperated medical technologies are a fundamental part of the healthcare system. From telemedicine to remote surgery, they allow remote diagnosis and treatment. However, the absence of any interface able to effectively reproduce the sense of touch and interaction with the patient prevents the implementation of teleoperated systems for primary care examinations, such as palpation. In this paper, we propose the first reported case of a soft robotic bilateral physical twin for remote palpation. By creating an entirely soft interface that can be used both to control the robot and receive feedback, the proposed device allows the user to achieve remote palpation by simply palpating the soft physical twin. This is achieved through a compact design showcasing 9 pneumatic chambers and exploiting multi-silicone casting to minimize cross-noise and allow teleoperation. A comparative study has been run against a traditional setup, and both the control and feedback of the physical twin are carefully analyzed. Despite distributed tactile feedback not achieving the same performance as the visual map, the soft control and visual feedback combination showcases a 5.1% higher accuracy. Moreover, the bilateral soft physical twin results always in a less invasive procedure, with 41% lower mechanical work exchanged with the remote phantom.</AbstractText>
+          <CopyrightInformation>© 2023. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Costi</LastName>
+            <ForeName>Leone</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Bio Inspired Robotics Laboratory, Department of Engineering, University of Cambridge, Cambridge, UK. lc830@cam.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Iida</LastName>
+            <ForeName>Fumiya</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Bio Inspired Robotics Laboratory, Department of Engineering, University of Cambridge, Cambridge, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>ID 860108</GrantID>
+            <Agency>Horizon 2020 Framework Programme</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>27</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Sci Rep</MedlineTA>
+        <NlmUniqueID>101563288</NlmUniqueID>
+        <ISSNLinking>2045-2322</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D012828">Silicones</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005246" MajorTopicYN="N">Feedback</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010173" MajorTopicYN="N">Palpation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012828" MajorTopicYN="Y">Silicones</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014110" MajorTopicYN="N">Touch</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014584" MajorTopicYN="N">User-Computer Interface</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>09</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>1</Month>
+          <Day>2</Day>
+          <Hour>11</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>29</Day>
+          <Hour>0</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>28</Day>
+          <Hour>23</Hour>
+          <Minute>26</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38155254</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41598-023-50329-4</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41598-023-50329-4</ArticleId>
+        <ArticleId IdType="pmc">PMC10754944</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>PLoS One. 2017 Mar 1;12(3):e0172703</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28248996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Annu Int Conf IEEE Eng Med Biol Soc. 2009;2009:4595-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19963847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bull World Health Organ. 2008 Jul;86(7):516-523B</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18670663</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Med Biol Eng Comput. 2015 Nov;53(11):1177-86</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26018755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Med Biol Eng Comput. 2020 Jun;58(6):1369-1381</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32279204</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2018 Jun;12(2):229-234</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28624984</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Robot AI. 2018 Jun 12;5:62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33500941</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Med. 2019 Jun;132(6):663-664</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30684450</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Med. 2020 Aug;14(4):382-403</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32728876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Laryngoscope. 2017 Feb;127(2):391-395</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27783427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Rep. 2022 Jul 22;12(1):12592</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35869154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Anat. 2017 Apr;30(3):352-356</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28165642</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Haptics. 2011 May-Jun;4(3):199-209</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26963487</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Annu Rev Biomed Eng. 2019 Jun 4;21:193-218</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30822100</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2021 Sep;35(9):5193-5202</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32989548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2018 Mar;12(1):11-25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29196867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Soft Robot. 2022 Apr;9(2):280-292</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34432994</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stud Health Technol Inform. 2011;163:542-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21335853</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Robot AI. 2021 Sep 27;8:730946</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34738017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Haptics. 2010 Apr-Jun;3(2):119-137</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27788119</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Med Eng Technol. 2020 Jul;44(5):247-254</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32573288</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2017 Feb 15;12(2):e0171706</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28199349</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">38168644</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>02</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>02</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1872-7646</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>93</Volume>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Feb</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Human movement science</Title>
+          <ISOAbbreviation>Hum Mov Sci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Dyad motor learning in a wrist-robotic environment: Learning together is better than learning alone.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>103172</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0167-9457(23)00118-5</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.humov.2023.103172</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Dyad motor practice is characterized by two learners alternating between physical and observational practice, which can lead to better motor outcomes and reduce practice time compared to physical practice alone. Robot-assisted therapy has become an established neurorehabilitation tool but is limited by high therapy cost and access. Implementing dyad practice in robot-assisted rehabilitation has the potential to improve therapeutic outcomes and/or to achieve them faster. This study aims to determine the effects of dyad practice on motor performance in a wrist-robotic environment to evaluate its potential use in robotic rehabilitation settings.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Forty-two healthy participants (18-35 years) were randomized into three groups (n = 14): Dyad practice, physical practice with rest and physical practice without rest. Participants practiced a 2 degree-of-freedom gamified wrist movement task for 20 trials using a custom-made wrist robotic device. A motor performance score (MPS) that captured temporal and spatial time-series kinematics was computed at baseline, the end of training and 24 h later to assess retention.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">MPS did not differ between groups at baseline. All groups revealed significant performance gains by the end of training. However, dyads outperformed the other groups at the end of training (p &lt; 0.001) and showed higher retention after 24-h (p = 0.02). Median MPS improved by 46.5% in dyads, 25.3% in physical practice-rest, and 33.6% in physical practice-no rest at the end of training compared to baseline.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Compared to physical practice alone, dyad practice leads to superior motor outcomes in a robot-assisted motor learning task. Dyads still outperformed their counterparts 24-h after practice.</AbstractText>
+          <AbstractText Label="IMPACT STATEMENT" NlmCategory="UNASSIGNED">Improving motor function in complex motor tasks without increasing required practice time, dyad practice can optimize therapeutic resources. This is particularly impactful in robot-assisted rehabilitation regimens as it would help to improve patients' outcomes and increase care efficiency.</AbstractText>
+          <CopyrightInformation>Copyright © 2023. Published by Elsevier B.V.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Winter</LastName>
+            <ForeName>Leoni V</ForeName>
+            <Initials>LV</Initials>
+            <AffiliationInfo>
+              <Affiliation>Human Sensorimotor Control Laboratory, School of Kinesiology, University of Minnesota, Minneapolis, MN, USA; Center for Clinical Movement Science, University of Minnesota, Minneapolis, MN, USA. Electronic address: vwinter@umn.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Panzer</LastName>
+            <ForeName>Stefan</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Universität des Saarlandes, Saarbrücken, Germany; Department of Health and Kinesiology, Texas A&amp;M University, TX, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Konczak</LastName>
+            <ForeName>Jürgen</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Human Sensorimotor Control Laboratory, School of Kinesiology, University of Minnesota, Minneapolis, MN, USA; Center for Clinical Movement Science, University of Minnesota, Minneapolis, MN, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>01</Month>
+          <Day>01</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>Hum Mov Sci</MedlineTA>
+        <NlmUniqueID>8300127</NlmUniqueID>
+        <ISSNLinking>0167-9457</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014953" MajorTopicYN="N">Wrist</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D034941" MajorTopicYN="N">Upper Extremity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007858" MajorTopicYN="N">Learning</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Human</Keyword>
+        <Keyword MajorTopicYN="N">Motor control</Keyword>
+        <Keyword MajorTopicYN="N">Robotic rehabilitation</Keyword>
+        <Keyword MajorTopicYN="N">Wrist</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of Competing Interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>08</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>22</Hour>
+          <Minute>54</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>1</Month>
+          <Day>4</Day>
+          <Hour>1</Hour>
+          <Minute>18</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>1</Month>
+          <Day>3</Day>
+          <Hour>10</Hour>
+          <Minute>51</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38168644</ArticleId>
+        <ArticleId IdType="pii">S0167-9457(23)00118-5</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.humov.2023.103172</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">38180494</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>07</Month>
+        <Day>25</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>07</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1439-099X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>200</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Strahlentherapie und Onkologie : Organ der Deutschen Rontgengesellschaft ... [et al]</Title>
+          <ISOAbbreviation>Strahlenther Onkol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Six-year outcomes of robot-assisted radical prostatectomy versus volumetric modulated arc therapy for localized prostate cancer: A propensity score-matched analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>676-683</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00066-023-02192-5</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Although robot-assisted radical prostatectomy (RARP) and intensity-modulated radiotherapy are the leading respective techniques of prostatectomy and radiotherapy for localized prostate cancer, almost no study has directly compared their outcomes; none have compared mortality outcomes.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We compared 6‑year outcomes of RARP (n = 500) and volumetric modulated arc therapy (VMAT, a rotational intensity-modulated radiotherapy, n = 360) in patients with cT1-4N0M0 prostate cancer. We assessed oncological outcomes, namely overall survival (OS), cancer-specific survival (CSS), radiological recurrence-free survival (rRFS), and biochemical recurrence-free survival (bRFS), using propensity score matching (PSM). We also assessed treatment-related complication outcomes of prostatectomy and radiotherapy.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The median follow-up duration was 79 months (&gt; 6 years). PSM generated a matched cohort of 260 patients (130 per treatment group). In the matched cohort, RARP and VMAT showed equivalent results for OS, CSS, and rRFS: both achieved excellent 6‑year outcomes for OS (&gt; 96%), CSS (&gt; 98%), and rRFS (&gt; 91%). VMAT had significantly longer bRFS than RARP, albeit based on different definitions of biochemical recurrence. Regarding complication outcomes, patients who underwent RARP had minimal (2.6%) severe perioperative complications and achieved excellent continence recovery (91.6 and 68.8% of the patients achieved ≤ 1 pad/day and pad-free, respectively). Patients who underwent VMAT had an acceptable rate (20.0%) of grade ≥ 2 genitourinary complications and a very low rate (4.4%) of grade ≥ 2 gastrointestinal complications.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">On the basis of PSM after a 6-year follow-up, RARP and VMAT showed equivalent and excellent oncological outcomes, as well as acceptable complication profiles.</AbstractText>
+          <CopyrightInformation>© 2024. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Noda</LastName>
+            <ForeName>Michio</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8655, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Teikyo University School of Medicine, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Taguchi</LastName>
+            <ForeName>Satoru</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-1291-4294</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8655, Tokyo, Japan. satorutaguchi33@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shiraishi</LastName>
+            <ForeName>Kenshiro</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, Teikyo University School of Medicine, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, The University of Tokyo Hospital, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fujimura</LastName>
+            <ForeName>Tetsuya</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Jichi Medical University, Tochigi, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Naito</LastName>
+            <ForeName>Akihiro</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8655, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kawai</LastName>
+            <ForeName>Taketo</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8655, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Teikyo University School of Medicine, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kamei</LastName>
+            <ForeName>Jun</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8655, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Akiyama</LastName>
+            <ForeName>Yoshiyuki</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8655, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yamada</LastName>
+            <ForeName>Yuta</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8655, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sato</LastName>
+            <ForeName>Yusuke</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8655, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yamada</LastName>
+            <ForeName>Daisuke</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8655, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nakagawa</LastName>
+            <ForeName>Tohru</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Teikyo University School of Medicine, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yamashita</LastName>
+            <ForeName>Hideomi</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, The University of Tokyo Hospital, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nakagawa</LastName>
+            <ForeName>Keiichi</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, The University of Tokyo Hospital, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Abe</LastName>
+            <ForeName>Osamu</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, The University of Tokyo Hospital, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fukuhara</LastName>
+            <ForeName>Hiroshi</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Kyorin University School of Medicine, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kume</LastName>
+            <ForeName>Haruki</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Graduate School of Medicine, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8655, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>01</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Strahlenther Onkol</MedlineTA>
+        <NlmUniqueID>8603469</NlmUniqueID>
+        <ISSNLinking>0179-7158</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="Y">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000532" MajorTopicYN="N">radiotherapy</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="Y">Prostatectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D050397" MajorTopicYN="Y">Radiotherapy, Intensity-Modulated</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="Y">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015996" MajorTopicYN="N">Survival Rate</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018572" MajorTopicYN="N">Disease-Free Survival</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">External beam radiotherapy</Keyword>
+        <Keyword MajorTopicYN="N">Intensity-modulated radiotherapy</Keyword>
+        <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+        <Keyword MajorTopicYN="N">Robot-assisted radical prostatectomy</Keyword>
+        <Keyword MajorTopicYN="N">Volumetric modulated arc therapy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>09</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>7</Month>
+          <Day>26</Day>
+          <Hour>12</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>1</Month>
+          <Day>5</Day>
+          <Hour>12</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>1</Month>
+          <Day>5</Day>
+          <Hour>11</Hour>
+          <Minute>4</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38180494</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00066-023-02192-5</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00066-023-02192-5</ArticleId>
+        <ArticleId IdType="pmc">PMC11272719</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>J Clin Med. 2022 Jun 15;11(12):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35743522</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2020 Jun 4;15(6):e0234113</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32497131</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Oncol. 2022 Oct;23(10):1308-1320</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36113498</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 1992 May;111(5):518-26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1598671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Intern Med. 2007 Oct 8;167(18):1944-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17923593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2016 Oct 13;375(15):1425-1437</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27626365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 2018 Mar 6;319(9):896-905</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29509865</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2004 Aug;240(2):205-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15273542</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2007 May;99(5):1173-89</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17437452</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2022 Feb;207(2):375-384</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34555930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2021 Feb;79(2):243-262</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33172724</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2008 Sep;180(3):904-9; discussion 909-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18635221</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2015 Oct 27;10(10):e0141123</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26506569</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Urol. 2017 Sep;24(9):648-666</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28667698</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Radiother Oncol. 2009 Nov;93(2):185-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19800702</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Radiother Oncol. 2009 Nov;93(2):226-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19765846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2006 Jul 15;65(4):965-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16798415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Natl Cancer Inst. 2013 May 15;105(10):711-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23615689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Cancer. 2013 Nov 08;13:530</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24209381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Chronic Dis. 1987;40(5):373-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3558716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jpn J Clin Oncol. 2020 Sep 5;50(9):963-969</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32580211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2021 Aug;15(4):585-592</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32918235</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Radiother Oncol. 2019 Nov;140:62-67</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31176208</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 1998 Sep 16;280(11):969-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9749478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2023 Apr 27;388(17):1547-1558</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36912538</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Urol. 2016 Feb;23(2):160-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26502293</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2020 Oct;38(10):2477-2484</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31875247</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2014 Feb 26;348:g1502</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24574496</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancers (Basel). 2021 Mar 25;13(7):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33806181</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

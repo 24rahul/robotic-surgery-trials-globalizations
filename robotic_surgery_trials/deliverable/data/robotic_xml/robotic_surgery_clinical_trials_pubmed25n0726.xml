@@ -1,0 +1,1466 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">22585461</PMID>
+      <DateCompleted>
+        <Year>2013</Year>
+        <Month>06</Month>
+        <Day>04</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>11</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1861-6429</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>8</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2013</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of computer assisted radiology and surgery</Title>
+          <ISOAbbreviation>Int J Comput Assist Radiol Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Surgical bedside master console for neurosurgical robotic system.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>75-86</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11548-012-0691-8</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">We are currently developing a neurosurgical robotic system that facilitates access to residual tumors and improves brain tumor removal surgical outcomes. The system combines conventional and robotic surgery allowing for a quick conversion between the procedures. This concept requires a new master console that can be positioned at the surgical bedside and be sterilized.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">The master console was developed using new technologies, such as a parallel mechanism and pneumatic sensors. The parallel mechanism is a purely passive 5-DOF (degrees of freedom) joystick based on the author's haptic research. The parallel mechanism enables motion input of conventional brain tumor removal surgery with a compact, intuitive interface that can be used in a conventional surgical environment. In addition, the pneumatic sensors implemented on the mechanism provide an intuitive interface and electrically isolate the tool parts from the mechanism so they can be easily sterilized.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The 5-DOF parallel mechanism is compact (17 cm width, 19cm depth, and 15cm height), provides a 505,050 mm and 90° workspace and is highly backdrivable (0.27N of resistance force representing the surgical motion). The evaluation tests revealed that the pneumatic sensors can properly measure the suction strength, grasping force, and hand contact. In addition, an installability test showed that the master console can be used in a conventional surgical environment.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The proposed master console design was shown to be feasible for operative neurosurgery based on comprehensive testing. This master console is currently being tested for master-slave control with a surgical robotic system.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Arata</LastName>
+            <ForeName>Jumpei</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nagoya Institute of Technology, Gokiso-cho, Showa-ku, Nagoya 466-8555, Japan. jumpei.arata@me.com</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kenmotsu</LastName>
+            <ForeName>Hajime</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Takagi</LastName>
+            <ForeName>Motoki</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hori</LastName>
+            <ForeName>Tatsuya</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Miyagi</LastName>
+            <ForeName>Takahiro</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fujimoto</LastName>
+            <ForeName>Hideo</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kajita</LastName>
+            <ForeName>Yasukazu</ForeName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hayashi</LastName>
+            <ForeName>Yuichiro</ForeName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chinzei</LastName>
+            <ForeName>Kiyoyuki</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hashizume</LastName>
+            <ForeName>Makoto</ForeName>
+            <Initials>M</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2012</Year>
+          <Month>05</Month>
+          <Day>15</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Int J Comput Assist Radiol Surg</MedlineTA>
+        <NlmUniqueID>101499225</NlmUniqueID>
+        <ISSNLinking>1861-6410</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019635" MajorTopicYN="N">Neurosurgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019095" MajorTopicYN="Y">Point-of-Care Systems</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012984" MajorTopicYN="N">Software</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013238" MajorTopicYN="N">Stereotaxic Techniques</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="N">Surgery, Computer-Assisted</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014584" MajorTopicYN="Y">User-Computer Interface</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2012</Year>
+          <Month>01</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2012</Year>
+          <Month>04</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2013</Year>
+          <Month>6</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">22585461</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11548-012-0691-8</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>J Neurosurg. 2005 Aug;103(2):320-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16175863</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2004 Jun;1(1):7-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17520593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2007 Dec;3(4):372-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17914750</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Comput Assist Radiol Surg. 2011 May;6(3):375-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20625847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurol Med Chir (Tokyo). 2003 Sep;43 Suppl:i-vii, 1-111</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14705327</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosurg. 2003 Dec;99(6):1082-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14705738</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Eng Med Biol Mag. 2008 May-Jun;27(3):59-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18519183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2009 Dec;5(4):423-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19621334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurosurgery. 2005 Oct;57(4):706-18; discussion 706-18</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16239883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">22607242</PMID>
+      <DateCompleted>
+        <Year>2013</Year>
+        <Month>02</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1464-410X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>110</Volume>
+            <Issue>11 Pt C</Issue>
+            <PubDate>
+              <Year>2012</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>BJU international</Title>
+          <ISOAbbreviation>BJU Int</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robot-assisted simple prostatectomy (RASP): does it make sense?</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>E972-9</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1464-410X.2012.11192.x</ELocationID>
+        <Abstract>
+          <AbstractText Label="UNLABELLED">Study Type - Therapy (case series) Level of Evidence 4. What's known on the subject? and What does the study add? The open simple prostatectomy (OSP) is the 'gold standard' for high-volume prostate adenomas. It shows very good functional results despite its invasiveness. Minimally invasive approaches, e.g. laparoscopy or holmium laser enucleation of the prostate, have been 'tested' but none have proved a substitute for the OSP. The robot-assisted approach provides optimal functional results and is easy to perform for experienced robotic surgeons. Extending the indication of robotics to low-incidence pathologies can take advantage of the opportunity to 'see the procedure' using available information technology, e.g. Youtube™ that presents as an unexpectedly useful tool.</AbstractText>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">• To evaluate the outcome, feasibility and reproducibility of a robot-assisted (RA) approach for simple prostatectomy (SP) in cases of high-volume symptomatic benign prostatic hyperplasia (HVS-BPH).</AbstractText>
+          <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">• In all, 35 consecutive patients underwent RASP for HVS-BPH using a previously described technique. • The mean prostate volume on preoperative transrectal ultrasonography was 106.6 mL. • All but two patients (with bladder calculi) had an adenoma volume of &gt;65 mL and 27 (77.1%) &gt;80 mL. Nine patients (25.7%) had an indwelling catheter. • The mean International Prostate Symptom Score (IPSS) was 28.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">• The median operative duration was 180 min and the mean hospital stay was 3.17 days. • The mean catheter duration was 7.4 days and discontinuous or continuous catheter irrigation was required in two and seven patients, respectively (25.1%). • In all, 10 patients (28.6%) had practically no blood loss. No patients had a transfusion. • The mean postoperative peak urinary flow was 18.9 mL/s (P &lt; 0.001), while the mean IPSS was 7 (P &lt; 0.001). • For costs, while superficially RASP appeared more expensive than open SP (OSP), when considering the higher costs of hospitalisation for OSP, RASP was cheaper. Also, bipolar-TURP costs in patients with large-volume prostates had rather similar costs to RASP.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">• RASP is a feasible and reproducible procedure with outcome advantages when compared with the open or with other minimally invasive techniques (laser or laparoscopy). As a result, a RA approach is worth considering in cases of high-volume prostate adenomas. • Extending the indication of the RA approach, to the SP, requires firstly that the surgeon be proficient in RA surgery and secondly that as the incidence rate of HVS-BPH is low, the surgeon has had the opportunity to 'see the procedure'.</AbstractText>
+          <CopyrightInformation>© 2012 THE AUTHORS. BJU INTERNATIONAL © 2012 BJU INTERNATIONAL.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Matei</LastName>
+            <ForeName>Deliu V</ForeName>
+            <Initials>DV</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Urology, IEO European Institute of Oncology, Saint Joseph Hospital, Milan, Italy. d.v.matei@gmail.com</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brescia</LastName>
+            <ForeName>Antonio</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mazzoleni</LastName>
+            <ForeName>Federica</ForeName>
+            <Initials>F</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Spinelli</LastName>
+            <ForeName>Matteo</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Musi</LastName>
+            <ForeName>Gennaro</ForeName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Melegari</LastName>
+            <ForeName>Sara</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Galasso</LastName>
+            <ForeName>Giacomo</ForeName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Detti</LastName>
+            <ForeName>Serena</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>de Cobelli</LastName>
+            <ForeName>Ottavio</ForeName>
+            <Initials>O</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2012</Year>
+          <Month>05</Month>
+          <Day>18</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>BJU Int</MedlineTA>
+        <NlmUniqueID>100886721</NlmUniqueID>
+        <ISSNLinking>1464-4096</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Urol. 2013 Aug;190(2):625. doi: 10.1016/j.juro.2013.04.108</RefSource>
+          <PMID Version="1">23845361</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000639" MajorTopicYN="N">trends</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011470" MajorTopicYN="N">Prostatic Hyperplasia</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001744" MajorTopicYN="N">Urinary Bladder Calculi</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014563" MajorTopicYN="N">Urodynamics</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2013</Year>
+          <Month>2</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">22607242</ArticleId>
+        <ArticleId IdType="doi">10.1111/j.1464-410X.2012.11192.x</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">22607949</PMID>
+      <DateCompleted>
+        <Year>2012</Year>
+        <Month>09</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2015</Year>
+        <Month>11</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1527-9995</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>80</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2012</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Urology</Title>
+          <ISOAbbreviation>Urology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Is near infrared fluorescence imaging using indocyanine green dye useful in robotic partial nephrectomy: a prospective comparative study of 94 patients.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>110-6</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.urology.2012.01.076</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To compare a consecutive prospective cohort of patients who underwent robotic partial nephrectomy (RPN) with near infrared fluorescence (NIRF) imaging with indocyanine green dye (ICG) with a previous consecutive patient cohort.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 47 consecutive patients with renal masses suspicious for malignancy undergoing RPN were given 5-7.5 mg of ICG before hilar clamping or tumor excision. This cohort of patients was compared with 47 immediate previous consecutive patients who had undergone RPN without NIRF real-time imaging using ICG. The intraoperative, perioperative, and postoperative parameters were collected in an institutional review board-approved prospective database.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The preoperative demographics and tumor complexity according to the nephrometry or preoperative aspects and dimensions used for an anatomic (PADUA) scores were similar. The mean warm ischemia time was significantly decreased in the ICG group (15 vs 17 minutes, P = .01). The median hospital stay was 2 days in both groups. No significant difference was seen in the positive margin rate (ICG, 6% vs control, 8.5%; P = .69) or observed Clavien grade III-IV complications in these 2 cohorts (ICG, 4% vs control, 15%; P = .07). No adverse events were associated with ICG dye administration. Differential ICG uptake was observed with selective clamping or in patients with cystic tumors, hypofluorescent tumors with exophytic components, and angiomyelolipomas, but these benefits could not be quantified. NIRF-ICG was transiently helpful to identify the vascular anatomy and not helpful at all for endophytic tumors.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">RPN using NIRF-ICG can be performed safely and effectively. A decreased warm ischemia time in the ICG cohort was observed without specific measured advantages. Differential ICG uptake by different tumors did not lead to significant differences in the positive margin rate.</AbstractText>
+          <CopyrightInformation>Copyright © 2012 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Krane</LastName>
+            <ForeName>L Spencer</ForeName>
+            <Initials>LS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Wake Forest University, Winston-Salem, North Carolina 27157-1094, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Manny</LastName>
+            <ForeName>Theodore B</ForeName>
+            <Initials>TB</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hemal</LastName>
+            <ForeName>Ashok K</ForeName>
+            <Initials>AK</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2012</Year>
+          <Month>05</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Urology</MedlineTA>
+        <NlmUniqueID>0366151</NlmUniqueID>
+        <ISSNLinking>0090-4295</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D004396">Coloring Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>IX6J1063HV</RegistryNumber>
+          <NameOfSubstance UI="D007208">Indocyanine Green</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Urology. 2012 Jul;80(1):116-7; author reply 117-8. doi: 10.1016/j.urology.2012.01.077</RefSource>
+          <PMID Version="1">22607946</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Eur Urol. 2013 Mar;63(3):581-2. doi: 10.1016/j.eururo.2012.12.009</RefSource>
+          <PMID Version="1">23357893</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004396" MajorTopicYN="Y">Coloring Agents</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005453" MajorTopicYN="N">Fluorescence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007208" MajorTopicYN="Y">Indocyanine Green</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="N">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2011</Year>
+          <Month>12</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2012</Year>
+          <Month>01</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2012</Year>
+          <Month>01</Month>
+          <Day>31</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2012</Year>
+          <Month>9</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">22607949</ArticleId>
+        <ArticleId IdType="pii">S0090-4295(12)00307-X</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.urology.2012.01.076</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">22608288</PMID>
+      <DateCompleted>
+        <Year>2012</Year>
+        <Month>11</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2015</Year>
+        <Month>06</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1532-6586</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>35</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2012</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of manipulative and physiological therapeutics</Title>
+          <ISOAbbreviation>J Manipulative Physiol Ther</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Spinous process hypertrophy associated with implanted devices in the external link model.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>367-71</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jmpt.2012.04.002</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Recent development of a chiropractic subluxation mimic, the external link model, uses titanium implants on lumbar vertebrae in the rat. The objective of this study was to evaluate potential correlations in the model between linking history, bone resorption, exudate formation, and experimentally induced intervertebral hypomobility.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Serial lateral radiographs of 73 male Sprague Dawley rats with implanted devices were reviewed. A baseline radiograph was obtained after a 6-week surgical recovery period, and a second radiograph was exposed after an 8-week hypomobility induction period. Spinous hypertrophy at the implant sites (L4, L5, and L6) was measured on the radiographs with a vernier caliper. Bone resorption and exudate build-up were assessed and compared with intervertebral hypomobility data previously collected. Data trends were described using cross-tabulated counts, analysis of variance, and regression analysis.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Cross-tabulation suggested differences between hypomobility-induced rats and control rats. However, correlation analysis showed no predictive role for spinous hypertrophy relative to intervertebral mobility. Similarly, exudate level did not predict spinous hypertrophy. However, implant presence and vertebral level had a significant interaction, with moderate and severe hypertrophy occurring more frequently at L4 and L6 in hypomobility-induced rats. Age did not materially influence spinous hypertrophy.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Mechanical stresses produced at the implant bone interface in rats with induced hypomobility contribute to spinous hypertrophy beyond that simply due to the presence of the implants. However, spinous hypertrophy does not contribute significantly to intervertebral hypomobility in the external link model.</AbstractText>
+          <CopyrightInformation>Copyright © 2012 National University of Health Sciences. Published by Mosby, Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Homb</LastName>
+            <ForeName>Nicole M</ForeName>
+            <Initials>NM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Palmer College of Chiropractic, Davenport, IA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Henderson</LastName>
+            <ForeName>Charles N R</ForeName>
+            <Initials>CN</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>1U19AT004663.01</GrantID>
+            <Acronym>AT</Acronym>
+            <Agency>NCCIH NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>C06 RR15433</GrantID>
+            <Acronym>RR</Acronym>
+            <Agency>NCRR NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R21 AT00784-02</GrantID>
+            <Acronym>AT</Acronym>
+            <Agency>NCCIH NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2012</Year>
+          <Month>05</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Manipulative Physiol Ther</MedlineTA>
+        <NlmUniqueID>7807107</NlmUniqueID>
+        <ISSNLinking>0161-4754</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016267" MajorTopicYN="Y">External Fixators</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006984" MajorTopicYN="N">Hypertrophy</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007403" MajorTopicYN="N">Intervertebral Disc</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016014" MajorTopicYN="N">Linear Models</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008159" MajorTopicYN="N">Lumbar Vertebrae</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011897" MajorTopicYN="N">Random Allocation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016059" MajorTopicYN="N">Range of Motion, Articular</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013123" MajorTopicYN="N">Spinal Fusion</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013314" MajorTopicYN="N">Stress, Mechanical</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2011</Year>
+          <Month>07</Month>
+          <Day>01</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2011</Year>
+          <Month>12</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2012</Year>
+          <Month>01</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2012</Year>
+          <Month>11</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">22608288</ArticleId>
+        <ArticleId IdType="pii">S0161-4754(12)00056-5</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jmpt.2012.04.002</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">22608294</PMID>
+      <DateCompleted>
+        <Year>2012</Year>
+        <Month>09</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2012</Year>
+        <Month>07</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1527-9995</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>80</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2012</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Urology</Title>
+          <ISOAbbreviation>Urology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparative hospital cost-analysis of open and robotic-assisted radical prostatectomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>126-9</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.urology.2012.03.020</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To perform a contemporary comparative cost-analysis of robotic-assisted laparoscopic radical prostatectomy (RARP) and open radical retropubic prostatectomy (RRP).</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">All patients undergoing RARP (n = 115) or RRP (n = 358) by 1 of 4 surgeons at a single institution during a 15-month period were retrospectively reviewed. The hospital length of stay (LOS), operative time, hospital charges, reimbursement, and direct and indirect hospital costs were analyzed and compared.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean LOS between patients undergoing RARP (1.2 ± 0.6 days) and RRP (1.4 ± 0.8 days) was not significantly different. The operating room supply costs per case were almost 7 times greater for RARP ($2852 ± $528) than for RRP ($417 ± $59; P &lt; .05). The ancillary, cardiology, imaging, administrative, laboratory, and pharmacy costs were not significantly different between the 2 approaches. The mean total costs per case for RARP exceeded the total costs for RRP by 62% ($14 006 ± $1641 vs $8686 ± $1989; P &lt; .05). Payment to the hospital from all sources was nearly equivalent: $10 011 for RRP and $9993 for RARP. Therefore, the average profit for each RRP was $1325 and each RARP lost $4013.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In the present single-institution analysis, the total actual costs associated with RARP were significantly greater than those for RRP and were attributable to the robotic equipment and supplies.</AbstractText>
+          <CopyrightInformation>Copyright © 2012 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Tomaszewski</LastName>
+            <ForeName>Jeffrey J</ForeName>
+            <Initials>JJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Pittsburgh Medical Center, Pittsburgh, PA 15213-3232, USA. tomaszewskijj@upmc.edu</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Matchett</LastName>
+            <ForeName>Jarred C</ForeName>
+            <Initials>JC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Davies</LastName>
+            <ForeName>Benjamin J</ForeName>
+            <Initials>BJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jackman</LastName>
+            <ForeName>Stephen V</ForeName>
+            <Initials>SV</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hrebinko</LastName>
+            <ForeName>Ronald L</ForeName>
+            <Initials>RL</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nelson</LastName>
+            <ForeName>Joel B</ForeName>
+            <Initials>JB</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2012</Year>
+          <Month>05</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Urology</MedlineTA>
+        <NlmUniqueID>0366151</NlmUniqueID>
+        <ISSNLinking>0090-4295</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003365" MajorTopicYN="N">Costs and Cost Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017721" MajorTopicYN="Y">Hospital Costs</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="Y">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="Y">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="Y">economics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2012</Year>
+          <Month>01</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2012</Year>
+          <Month>03</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2012</Year>
+          <Month>03</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2012</Year>
+          <Month>9</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">22608294</ArticleId>
+        <ArticleId IdType="pii">S0090-4295(12)00334-2</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.urology.2012.03.020</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">22608751</PMID>
+      <DateCompleted>
+        <Year>2012</Year>
+        <Month>09</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2016</Year>
+        <Month>11</Month>
+        <Day>25</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1527-3792</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>188</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2012</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of urology</Title>
+          <ISOAbbreviation>J Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Impact of biological gender and soluble guanylate cyclase stimulation on renal recovery after relief of unilateral ureteral obstruction.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>316-23</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.juro.2012.02.2552</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Gender difference and nitric oxide deficiency contribute to the progression of many chronic kidney diseases. In a model of unilateral ureteral obstruction relief we analyzed the impact of biological gender and nitric oxide/cyclic guanosine monophosphate signaling stimulation on renal disease severity and restoration.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Female and male rats underwent sham surgery or unilateral ureteral obstruction. After 5-day unilateral ureteral obstruction female and male rats were assigned to obstruction relief alone or obstruction relief plus 7-day treatment with the soluble guanylate cyclase stimulator BAY 41-8543.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Compared to male rats with obstruction relief renal disease was less severe in female rats, which had significantly less tubulointerstitial matrix accumulation and tubular atrophy. In each gender group α1 and β1-soluble guanylate cyclase was comparably and significantly increased but female rats produced significantly more cyclic guanosine monophosphate after treatment with the soluble guanylate cyclase stimulator. In each group BAY 41-8543 treatment was associated with significant amelioration of renal matrix protein expansion, macrophage infiltration, tubular apoptosis and atrophy.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Female gender is protective for unilateral ureteral obstruction relief. This was linked to higher sensitivity of the soluble guanylate cyclase enzyme and cyclic guanosine monophosphate production in response to BAY 41-8543. In these female and male rats enhancing the signaling of nitric oxide/cyclic guanosine monophosphate with BAY 41-8543 significantly accelerated the restoration of renal architecture after obstruction relief and largely ameliorated the differences in disease severity due to the gender disparity.</AbstractText>
+          <CopyrightInformation>Copyright © 2012 American Urological Association Education and Research, Inc. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wang-Rosenke</LastName>
+            <ForeName>Yingrui</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Nephrology and Center of Cardiovascular Research, Campus Charité Mitte, Charité-Universitätsmedizin Berlin, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mika</LastName>
+            <ForeName>Alice</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Khadzhynov</LastName>
+            <ForeName>Dymtro</ForeName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Loof</LastName>
+            <ForeName>Tanja</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Neumayer</LastName>
+            <ForeName>Hans-Hellmut</ForeName>
+            <Initials>HH</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peters</LastName>
+            <ForeName>Harm</ForeName>
+            <Initials>H</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2012</Year>
+          <Month>05</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Urol</MedlineTA>
+        <NlmUniqueID>0376374</NlmUniqueID>
+        <ISSNLinking>0022-5347</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C450679">BAY 41-8543</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D009025">Morpholines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011743">Pyrimidines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018160">Receptors, Cytoplasmic and Nuclear</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 4.6.1.2</RegistryNumber>
+          <NameOfSubstance UI="D006162">Guanylate Cyclase</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 4.6.1.2</RegistryNumber>
+          <NameOfSubstance UI="D000071756">Soluble Guanylyl Cyclase</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000284" MajorTopicYN="N">Administration, Oral</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004797" MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005786" MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006162" MajorTopicYN="N">Guanylate Cyclase</DescriptorName>
+          <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020287" MajorTopicYN="N">In Situ Nick-End Labeling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009025" MajorTopicYN="N">Morpholines</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011743" MajorTopicYN="N">Pyrimidines</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018160" MajorTopicYN="N">Receptors, Cytoplasmic and Nuclear</DescriptorName>
+          <QualifierName UI="Q000819" MajorTopicYN="N">agonists</QualifierName>
+          <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020127" MajorTopicYN="Y">Recovery of Function</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012737" MajorTopicYN="N">Sex Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071756" MajorTopicYN="N">Soluble Guanylyl Cyclase</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014517" MajorTopicYN="N">Ureteral Obstruction</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2011</Year>
+          <Month>09</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2012</Year>
+          <Month>9</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">22608751</ArticleId>
+        <ArticleId IdType="pii">S0022-5347(12)02918-7</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.juro.2012.02.2552</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">22613352</PMID>
+      <DateCompleted>
+        <Year>2012</Year>
+        <Month>10</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2012</Year>
+        <Month>07</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1095-6859</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>126</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2012</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Gynecologic oncology</Title>
+          <ISOAbbreviation>Gynecol Oncol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Dual-console robotic surgery compared to laparoscopic surgery with respect to surgical outcomes in a gynecologic oncology fellowship program.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>432-6</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ygyno.2012.05.017</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Minimally invasive surgical techniques decrease surgical morbidity and recovery time. Studies demonstrate similar surgical outcomes comparing robotic to laparoscopic surgery. These studies have not accounted for the incorporation of fellow education. With the dual-console da Vinci Si Surgical System®, a two surgeon approach could be performed. We sought to compare surgical outcomes at a gynecologic oncology fellowship program of traditional laparoscopic to robotic surgeries using the dual-console system.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We identified patients who underwent laparoscopic or robotic surgery performed by a gynecologic oncologist from November 2009-November 2010. Robotic surgeries were conducted using the dual-console, utilizing a two surgeon approach. Surgeries involved a staff physician with a gynecologic oncology fellow. Statistical analysis was performed using student t-test and chi-squared analysis.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 222 cases were identified. Cases were analyzed in groups: all cases identified, all cancer cases, and endometrial cancer cases only. When analyzing all cases, no statistical difference was noted in total operating room time (172 vs. 175 min; p=0.6), pelvic lymph nodes removed (10.1 vs. 9.6; p=0.69), para-aortic lymph nodes dissected (3.7 vs. 3.8; p=0.91), or length of stay (1.5 vs. 1.3 days; p=0.3). There was a significant difference in total surgical time (131 vs.110 min; p&lt;0.0001) and EBL (157 vs.94 ml; p&lt;0.0001), favoring robotic surgery. When analyzing all cancer cases, the advantage in total surgical time for robotic surgery was lost. Complications were similar between cohorts.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Incorporating fellow education into robotic surgery does not adversely affect outcomes when compared to traditional laparoscopic surgery.</AbstractText>
+          <CopyrightInformation>Copyright © 2012 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Smith</LastName>
+            <ForeName>Ashlee L</ForeName>
+            <Initials>AL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Gynecologic Oncology, Magee-Womens Hospital of UPMC, Pittsburgh, PA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Krivak</LastName>
+            <ForeName>Thomas C</ForeName>
+            <Initials>TC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Scott</LastName>
+            <ForeName>Eirwen M</ForeName>
+            <Initials>EM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rauh-Hain</LastName>
+            <ForeName>Jose Alejandro</ForeName>
+            <Initials>JA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sukumvanich</LastName>
+            <ForeName>Paniti</ForeName>
+            <Initials>P</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Olawaiye</LastName>
+            <ForeName>Alexander B</ForeName>
+            <Initials>AB</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Richard</LastName>
+            <ForeName>Scott D</ForeName>
+            <Initials>SD</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2012</Year>
+          <Month>05</Month>
+          <Day>18</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Gynecol Oncol</MedlineTA>
+        <NlmUniqueID>0365304</NlmUniqueID>
+        <ISSNLinking>0090-8258</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001011" MajorTopicYN="N">Aorta</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016063" MajorTopicYN="N">Blood Loss, Surgical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016009" MajorTopicYN="N">Chi-Square Distribution</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004503" MajorTopicYN="N">Education, Medical, Graduate</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005257" MajorTopicYN="N">Fellowships and Scholarships</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005833" MajorTopicYN="N">Genital Neoplasms, Female</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007431" MajorTopicYN="N">Intraoperative Complications</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008197" MajorTopicYN="Y">Lymph Node Excision</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010388" MajorTopicYN="N">Pelvis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018709" MajorTopicYN="N">Statistics, Nonparametric</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2012</Year>
+          <Month>02</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2012</Year>
+          <Month>05</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2012</Year>
+          <Month>05</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2012</Year>
+          <Month>10</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">22613352</ArticleId>
+        <ArticleId IdType="pii">S0090-8258(12)00361-7</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.ygyno.2012.05.017</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

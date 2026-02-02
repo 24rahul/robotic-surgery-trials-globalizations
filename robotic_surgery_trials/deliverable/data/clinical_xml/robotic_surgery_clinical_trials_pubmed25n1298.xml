@@ -1,0 +1,586 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39871169</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>01</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>01</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1471-2407</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>25</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jan</Month>
+              <Day>27</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>BMC cancer</Title>
+          <ISOAbbreviation>BMC Cancer</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>External beam radiation therapy versus radical prostatectomy for high-risk prostate cancer: protocol of the RECOVER study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>149</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12885-025-13511-7</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">This paper describes the rationale and design of the RECOVER study. Currently, there is no consensus regarding the optimal treatment for high-risk, non-metastatic prostate cancer (PCa). The study primarily aims to evaluate and compare the impact of treatment with robot-assisted radical prostatectomy (RP) versus external beam radiation therapy (EBRT) with androgen deprivation therapy (ADT) for men with high-risk, non-metastatic PCa regarding health-related quality of life (HRQoL) and functional outcomes. Secondary objectives are progression-free survival (PFS), distant metastasis-free survival (DMFS), costs and cost-effectiveness.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">The RECOVER study is a comparative effectiveness study that prospectively includes newly diagnosed high-risk (cT3a-bN0M0, ISUP-grade ≥ 4 and/or PSA &gt; 20 ng/mL), non-metastatic PCa patients. Four Dutch prostate cancer networks, comprising 29 hospitals, are currently participating in the study. Patient reported outcomes are collected before treatment initiation, 12 months and 36 months after treatment initiation and include the EORTC-QLQ-C30, the EPIC-26, an adapted version of the SCQ, an adapted version of the iMTA Productivity Cost Questionnaire and several specific questions regarding patient characteristics, treatment of PCa specific complaints and health resources used. Clinical data regarding patient-, tumor- and treatment characteristics and oncological outcomes are collected up to 5 years after diagnosis. For sufficient power, patient reported outcomes of 471 patients must be collected 36 months after treatment initiation. Descriptive statistics and mixed-effects models are used to assess differences in HRQoL and functional outcomes over time between the patients treated with radical prostatectomy versus EBRT (+ ADT). Inverse probability of treatment weighting or the g-formula are used to adjust for confounding covariates associated with treatment. Secondary endpoints PFS and DMFS are evaluated using a competing risk analysis and cost-utility and budget-impact analyses will be performed to determine cost and cost-effectiveness.</AbstractText>
+          <AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">An observational prospective design was chosen since a randomized controlled trial comparing surgery and radiotherapy was not deemed feasible. This study evaluates effectiveness of treatment in a routine clinical setting (with adjustment for confounding) and its findings will enhance patients' and healthcare professionals' awareness for the impact of both treatment modalities on (long-term) daily functioning and HRQoL and aid treatment decision making.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">This study is registered at ClinicalTrials.gov (NCT05931419).</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>van der Starre</LastName>
+            <ForeName>Caroline M</ForeName>
+            <Initials>CM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Netherlands Comprehensive Cancer Organisation, Utrecht, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University Medical Center Groningen, Groningen, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bangma</LastName>
+            <ForeName>Chris H</ForeName>
+            <Initials>CH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Erasmus University Medical Centre, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bijlsma</LastName>
+            <ForeName>Maarten J</ForeName>
+            <Initials>MJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Netherlands Comprehensive Cancer Organisation, Utrecht, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>PharmacoTherapy, -Epidemiology and -Economics, Groningen Research Institute of Pharmacy, University of Groningen, Groningen, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van den Bergh</LastName>
+            <ForeName>Alfons C M</ForeName>
+            <Initials>ACM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Radiation Oncology, The Netherlands Cancer Institute, Amsterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kiemeney</LastName>
+            <ForeName>Lambertus A L M</ForeName>
+            <Initials>LALM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department IQ Health, Radboud university medical center, Nijmegen, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kievit</LastName>
+            <ForeName>Wietske</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department IQ Health, Radboud university medical center, Nijmegen, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vos</LastName>
+            <ForeName>Kees</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Patient Representative, Dutch Prostate Cancer Foundation (Prostaatkankerstichting), Utrecht, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Somford</LastName>
+            <ForeName>Diederik M</ForeName>
+            <Initials>DM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Canisius-Wilhelmina Hospital, Nijmegen, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Prosper Prostate Cancer Clinics, Nijmegen/Eindhoven, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wildeman</LastName>
+            <ForeName>Sally M</ForeName>
+            <Initials>SM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Franciscus Gasthuis en Vlietland, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Aben</LastName>
+            <ForeName>Katja K H</ForeName>
+            <Initials>KKH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Netherlands Comprehensive Cancer Organisation, Utrecht, the Netherlands. k.aben@iknl.nl.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department IQ Health, Radboud university medical center, Nijmegen, the Netherlands. k.aben@iknl.nl.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>de Jong</LastName>
+            <ForeName>Igle J</ForeName>
+            <Initials>IJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University Medical Center Groningen, Groningen, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Pos</LastName>
+            <ForeName>Floris J</ForeName>
+            <Initials>FJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Radiation Oncology, The Netherlands Cancer Institute, Amsterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Heesterman</LastName>
+            <ForeName>Berdine L</ForeName>
+            <Initials>BL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Netherlands Comprehensive Cancer Organisation, Utrecht, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT05931419</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+          <Grant>
+            <GrantID>10330032010005</GrantID>
+            <Acronym>ZONMW_</Acronym>
+            <Agency>ZonMw</Agency>
+            <Country>Netherlands</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D000078325">Clinical Trial Protocol</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>01</Month>
+          <Day>27</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>BMC Cancer</MedlineTA>
+        <NlmUniqueID>100967800</NlmUniqueID>
+        <ISSNLinking>1471-2407</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000726">Androgen Antagonists</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="Y">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="Y">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000532" MajorTopicYN="N">radiotherapy</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="Y">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003362" MajorTopicYN="N">Cost-Benefit Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000726" MajorTopicYN="N">Androgen Antagonists</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Androgens</Keyword>
+        <Keyword MajorTopicYN="N">Cost effectiveness</Keyword>
+        <Keyword MajorTopicYN="N">Distant metastasis free survival.</Keyword>
+        <Keyword MajorTopicYN="N">Health-Related Quality of Life</Keyword>
+        <Keyword MajorTopicYN="N">Patient reported outcomes</Keyword>
+        <Keyword MajorTopicYN="N">Progression free survival</Keyword>
+        <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+        <Keyword MajorTopicYN="N">Prostatectomy / methods</Keyword>
+        <Keyword MajorTopicYN="N">Prostatic neoplasm / radiotherapy</Keyword>
+        <Keyword MajorTopicYN="N">Prostatic neoplasms / surgery</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Ethics approval and consent to participate: The Medical Research Ethics Committee Oost-Nederland declared that the study is not subject to the Medical Research involving Human Subjects Act and Medical Treatment Contracts Act in June 2022 (2022–13682). An informed consent is filled out by all patients willing to participate in the study. Moreover, this study was approved by the Privacy Review Board of the NCR (k23.0170). Consent for publication: Not required. Competing interests: The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>02</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>01</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>1</Month>
+          <Day>28</Day>
+          <Hour>11</Hour>
+          <Minute>27</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>1</Month>
+          <Day>28</Day>
+          <Hour>11</Hour>
+          <Minute>26</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>1</Month>
+          <Day>28</Day>
+          <Hour>0</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39871169</ArticleId>
+        <ArticleId IdType="doi">10.1186/s12885-025-13511-7</ArticleId>
+        <ArticleId IdType="pii">10.1186/s12885-025-13511-7</ArticleId>
+        <ArticleId IdType="pmc">PMC11770930</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Qual Life Res. 2014 Oct;23(8):2169-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24748557</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Oncol. 2006 Sep 1;24(25):4158-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16943531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Res Social Adm Pharm. 2006 Mar;2(1):143-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17138506</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 1998 Sep 16;280(11):969-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9749478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Med. 2010 Dec;123(12 Suppl 1):e16-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21184862</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scand J Urol. 2019 Apr - Jun;53(2-3):102-108</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30990112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Epidemiol. 2011 Apr 1;173(7):731-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21415029</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Multivariate Behav Res. 2011 May;46(3):399-424</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21818162</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2018 Apr;73(4):560-569</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29325693</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Cancer. 2023 May 4;23(1):398</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37142955</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arthritis Rheum. 2003 Apr 15;49(2):156-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12687505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Cancer. 2023 Jul;188:171-182</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37257278</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2020 Oct;38(10):2493-2500</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31838560</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2017 Apr 1;97(5):962-975</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28333019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2015 Jan;85(1):101-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25530370</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urol Oncol. 2005 Jul-Aug;23(4):280-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16018945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2019 Nov;124(5):811-819</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31009137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol Oncol. 2020 Oct;3(5):563-564</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31307959</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Urol. 2019 Jan 5;19(1):3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30611260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Med Res Methodol. 2017 Dec 6;17(1):162</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29207961</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diabetes Res Clin Pract. 2010 May;88 Suppl 1:S3-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20466165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Natl Cancer Inst. 1993 Mar 3;85(5):365-76</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8433390</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Value Health. 2015 Sep;18(6):753-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26409601</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Genitourin Cancer. 2020 Aug;18(4):274-283.e5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32335059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2008 Apr;179(4):1354-60; discussion 1360-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18289596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2009 Jun 29;338:b2393</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19564179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2000 Dec 20;56(6):899-905</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11113727</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Oncol. 2010 Mar 1;28(7):1117-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20124165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prostate. 2020 Sep;80(13):1128-1133</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32659024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2004 Dec;94(9):1400-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15610132</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Comp Eff Res. 2013 Jul;2(4):445-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24236685</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Cancer. 2011 Sep;47(14):2188-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21621408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 2020 Jan 14;323(2):149-163</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31935027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Oncol. 2016 Sep;114(3):275-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27334052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Res Treat. 2018 Jan;50(1):129-137</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28279064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

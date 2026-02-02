@@ -1,0 +1,1552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">31122178</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>09</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>10</Month>
+        <Day>11</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1533-0338</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>18</Volume>
+            <PubDate>
+              <MedlineDate>2018 Jan-Dec</MedlineDate>
+            </PubDate>
+          </JournalIssue>
+          <Title>Technology in cancer research &amp; treatment</Title>
+          <ISOAbbreviation>Technol Cancer Res Treat</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Evaluation of the Efficacy of Rotational Corrections for Standard-Fractionation Head and Neck Image-Guided Radiotherapy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1533033819853824</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1177/1533033819853824</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE">Modern linear accelerators are equipped with cone beam computed tomography and robotic couches that can correct for errors in the translational (X, Y, Z) and rotational (α, β, γ) axes prior to treatment delivery. Here, we compared the positional accuracy of 2 cone beam registration approaches: (1) employing translational shifts only in 3 degrees of freedom (X, Y, Z), versus; (2) using translational-rotational shifts in 6 degrees of freedom (X, Y, Z, α, β, γ).</AbstractText>
+          <AbstractText Label="METHODS">This retrospective study examined 140 interfraction cone beam images from 20 patients with head and neck cancer treated with standard intensity-modulated radiation therapy. The cone beam images were matched to planning simulation scans in 3, then in 6 degrees of freedom, using the mandible, clivus, and C2 and C7 vertebrae as surrogate volumes. Statistical analyses included a generalized mixed model and was used to assess whether there were significant differences in acceptable registrations between the 2 correction methods.</AbstractText>
+          <AbstractText Label="RESULTS">The rates of improvement with corrections in 6 degrees of freedom for the mandible with a 5-mm expansion margin were 54.55% ( P = .793), for the clivus 85.71% ( P = .222), and for C7 87.50% ( P = .015). There was a 100% increase in acceptability for the C2 vertebra within the 5-mm margin ( P &lt; .001). For the 3-mm expansion margin, the rates of improvement for the mandible, clivus, C2, and C7 were 63.16% ( P = .070), 91.30% ( P = .011), 84.21% ( P = .027), and 76.92% ( P &lt; .001), respectively.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Significant registration improvements with the use of rotational corrections with a 5-mm expansion margin are only seen in the C7 vertebra. At the 3-mm margin, significant improvements are found for the C2, C7, and clivus registrations, suggesting that intensity-modulated radiotherapy treatments for head and neck cancers with 3-mm planning target volume margins may benefit from corrections in 6 degrees of freedom.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kung</LastName>
+            <ForeName>Joseph S</ForeName>
+            <Initials>JS</Initials>
+            <AffiliationInfo>
+              <Affiliation>1 Division of Radiation Therapy, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tran</LastName>
+            <ForeName>William T</ForeName>
+            <Initials>WT</Initials>
+            <AffiliationInfo>
+              <Affiliation>2 Department of Radiation Oncology, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Poon</LastName>
+            <ForeName>Ian</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>2 Department of Radiation Oncology, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Atenafu</LastName>
+            <ForeName>Eshetu G</ForeName>
+            <Initials>EG</Initials>
+            <AffiliationInfo>
+              <Affiliation>3 Department of Biostatistics, University Health Network, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Courneyea</LastName>
+            <ForeName>Lorraine</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>4 Department of Medical Physics, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Higgins</LastName>
+            <ForeName>Kevin</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>5 Department of Otolaryngology/Head and Neck Surgery, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Enepekides</LastName>
+            <ForeName>Danny</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>5 Department of Otolaryngology/Head and Neck Surgery, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sahgal</LastName>
+            <ForeName>Arjun</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>2 Department of Radiation Oncology, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chin</LastName>
+            <ForeName>Lee</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>4 Department of Medical Physics, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Karam</LastName>
+            <ForeName>Irene</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>2 Department of Radiation Oncology, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Technol Cancer Res Treat</MedlineTA>
+        <NlmUniqueID>101140941</NlmUniqueID>
+        <ISSNLinking>1533-0338</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D054893" MajorTopicYN="N">Cone-Beam Computed Tomography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019583" MajorTopicYN="N">Dose Fractionation, Radiation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006257" MajorTopicYN="N">Head</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006258" MajorTopicYN="N">Head and Neck Neoplasms</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009333" MajorTopicYN="N">Neck</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056888" MajorTopicYN="N">Patient Positioning</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011874" MajorTopicYN="N">Radiometry</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011880" MajorTopicYN="N">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061089" MajorTopicYN="N">Radiotherapy, Image-Guided</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">6 degrees of freedom</Keyword>
+        <Keyword MajorTopicYN="N">cone beam computed tomography</Keyword>
+        <Keyword MajorTopicYN="N">head and neck cancer</Keyword>
+        <Keyword MajorTopicYN="N">image guidance</Keyword>
+        <Keyword MajorTopicYN="N">intensity-modulated radiation therapy</Keyword>
+        <Keyword MajorTopicYN="N">rotational corrections</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>1</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>9</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31122178</ArticleId>
+        <ArticleId IdType="doi">10.1177/1533033819853824</ArticleId>
+        <ArticleId IdType="pmc">PMC6535727</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Radiother Oncol. 2019 Jan;130:25-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30005953</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Strahlenther Onkol. 2007 Jun;183(6):307-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17520184</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2005 Feb 1;61(2):552-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15736320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2007 Mar 1;67(3):670-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17197123</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2006 Apr 1;64(5):1559-69</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16580505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2008 Feb 1;70(2):609-18</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17996389</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Technol Cancer Res Treat. 2008 Jun;7(3):187-95</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18473490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2009 Feb 1;73(2):626-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19147027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pract Radiat Oncol. 2015 Nov-Dec;5(6):e575-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26169225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Oncol. 2017 Jun;56(6):860-866</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28464747</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Med Phys. 2012 Aug;39(8):5136-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22894439</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2006 Nov 1;66(3):949-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16949765</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Med Imaging Radiat Sci. 2017 Sep;48(3):276-281</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31047410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2009 Apr 1;73(5):1566-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19306753</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2014 Jan 09;9(1):e84601</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24416249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tech Innov Patient Support Radiat Oncol. 2017 Jan 05;1:1-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32095536</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2006 Jul 1;65(3):934-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16751076</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2010 Jan 1;76(1):164-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19386438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Asian Pac J Cancer Prev. 2012;13(5):2393-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22901227</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2011 Nov 15;81(4):943-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20932680</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Radiat Oncol Biol Phys. 2012 May 1;83(1):467-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21945110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">31124975</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>05</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>10</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1536-5964</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>98</Volume>
+            <Issue>21</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>May</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Medicine</Title>
+          <ISOAbbreviation>Medicine (Baltimore)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effects of pneumoperitoneum and steep Trendelenburg position on cerebral hemodynamics during robotic-assisted laparoscopic radical prostatectomy: A randomized controlled study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e15794</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/MD.0000000000015794</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">We evaluated the relationship between ultrasonographical acquired parameters and short-term postoperative cognitive function in patients undergoing robotic-assisted radical prostatectomy (RALP).</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Ninety elderly patients scheduled for RALP had their optic nerve sheath diameter (ONSD), the cross-sectional area (CSA) of the internal jugular vein (IJV) and the IJV valve (IJVV) competency assessed by ultrasound. The patients were analyzed in 2 groups based on whether displayed IJVV incompetency (IJVVI). The 3 parameters were measured before anesthesia (T0), immediately after induction of general anesthesia (T1), 5 minutes after establishing pneumoperitoneum (T2), 5 minutes after placing the patient in the Trendelenburg position (T3), and 5 minutes after the release of the pneumoperitoneum in the supine position (T4). Regional cerebral tissue oxygen saturation (rSO2) was also measured by near-infrared spectroscopy intraoperatively. The Mini-Mental State Examination (MMSE) and Confusion Assessment Method (CAM) were performed the day before surgery and on postoperative days 1, 3, and 7.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">We found that 52% of patients had evidence of IJVVI after being placed in the Trendelenburg position after pneumoperitoneum was established (T4). Patient with IJVVI showed a significant increase of ONSD and CSA at T1, T2, T3, T4 but there was no associated decrease in rSO2. MMSE scores were reduced at postoperative day 1 and the 7 patients that developed postoperative delirium came from Group IJVVI.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our observations suggest that elderly patients that show IJVVI after adequate positioning for RALP may develop elevated intracranial pressure as well as mildly compromised postoperative cognitive function in the short term.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Ke</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology, First Affiliated Hospital of Anhui Medical University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Lizhen</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology, First Affiliated Hospital, University of Science and Technology of China, Hefei, Anhui.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Qing</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology, First Affiliated Hospital of Anhui Medical University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Xuesheng</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology, First Affiliated Hospital of Anhui Medical University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lu</LastName>
+            <ForeName>Yao</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology, First Affiliated Hospital of Anhui Medical University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Yuanhai</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology, First Affiliated Hospital of Anhui Medical University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wong</LastName>
+            <ForeName>Gordon Tin Chun</ForeName>
+            <Initials>GTC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anaesthesiology, The University of Hong Kong, Hong Kong S.A.R., China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Medicine (Baltimore)</MedlineTA>
+        <NlmUniqueID>2985248R</NlmUniqueID>
+        <ISSNLinking>0025-7974</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002560" MajorTopicYN="N">Cerebrovascular Circulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D060825" MajorTopicYN="N">Cognitive Dysfunction</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018475" MajorTopicYN="N">Head-Down Tilt</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006439" MajorTopicYN="N">Hemodynamics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019586" MajorTopicYN="N">Intracranial Hypertension</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009900" MajorTopicYN="N">Optic Nerve</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056888" MajorTopicYN="N">Patient Positioning</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011028" MajorTopicYN="N">Pneumoperitoneum, Artificial</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011184" MajorTopicYN="N">Postoperative Period</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016683" MajorTopicYN="N">Supine Position</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>31</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31124975</ArticleId>
+        <ArticleId IdType="doi">10.1097/MD.0000000000015794</ArticleId>
+        <ArticleId IdType="pii">00005792-201905240-00051</ArticleId>
+        <ArticleId IdType="pmc">PMC6571426</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Acta Anaesthesiol Scand. 2009 Aug;53(7):895-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19426238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2013 Mar;9(1):17-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23348954</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Behav Immun. 2016 May;54:178-193</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26867718</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Anaesthesiol. 2014 Feb;31(2):104-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24225725</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cephalalgia. 2018 Mar;38(3):600-603</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28376658</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ultrasound Med Biol. 2007 Jun;33(6):857-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17445963</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 2010 Jan;41(1):67-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19926838</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neuroinflammation. 2014 Aug 01;11:131</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25082427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Gerontol Geriatr. 2016 May-Jun;64:167-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26921505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2014 Jul;28(7):801-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24517270</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Intern Med. 1990 Dec 15;113(12):941-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2240918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int Urol Nephrol. 2017 Jan;49(1):55-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27804081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pediatr Surg. 2016 Sep;51(9):1436-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27292596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Intensive Care Med. 2008 Nov;34(11):2062-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18509619</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Anesth. 2016 Dec;30(6):949-955</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27565964</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesth Analg. 2011 Nov;113(5):1069-75</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21233502</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2017 Oct 12;377(15):1456-1466</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29020579</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anaesthesia. 2014 Jan;69(1):58-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24256501</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Anesthesiol. 2015 Mar 31;15:43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25861241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurology. 2008 Mar 4;70(10):812-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18316693</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Laparosc Endosc Percutan Tech. 2016 Jun;26(3):221-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27258912</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cephalalgia. 2008 Feb;28(2):182-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18021266</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2015 Aug 28;10(8):e0135412</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26317357</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2010 Apr;104(4):433-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20167583</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vascular. 2017 Jun;25(3):253-259</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27688293</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 2013 Jul;144(1):177-182</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23392444</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Monit Comput. 2016 Oct;30(5):527-38</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26342642</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2012 Jul 5;367(1):30-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22762316</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Can J Anaesth. 2015 Jul;62(7):798-806</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25902890</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2015 Jan;114(1):70-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25236948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">31125720</PMID>
+      <DateCompleted>
+        <Year>2020</Year>
+        <Month>08</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>08</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1553-4669</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>27</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>01</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of minimally invasive gynecology</Title>
+          <ISOAbbreviation>J Minim Invasive Gynecol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of Carbon Dioxide Absorption Rates in Gynecologic Laparoscopy with a Valveless versus Standard Insufflation System: Randomized Controlled Trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>225-234</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S1553-4650(19)30218-3</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jmig.2019.05.005</ELocationID>
+        <Abstract>
+          <AbstractText Label="STUDY OBJECTIVE">The primary objective was to compare carbon dioxide (CO<sub>2</sub>) absorption rates in patients undergoing gynecologic laparoscopy with a standard versus valveless insufflation system (AirSeal; ConMed, Utica, NY) at intra-abdominal pressures (IAPs) of 10 and 15 mm Hg. Secondary objectives were assessment of surgeons' visualization of the operative field, anesthesiologists' ability to maintain adequate end-tidal CO<sub>2</sub> (etCO<sub>2</sub>), and patients' report of postoperative shoulder pain.</AbstractText>
+          <AbstractText Label="DESIGN">A randomized controlled trial using an equal allocation ratio into 4 arms: standard insufflation/IAP 10 mm Hg, standard insufflation/IAP 15 mm Hg, valveless insufflation/IAP 10 mm Hg, and valveless insufflation/IAP 15 mm Hg.</AbstractText>
+          <AbstractText Label="SETTING">Single tertiary care academic institution.</AbstractText>
+          <AbstractText Label="PATIENTS">Women ≥ 18 years old undergoing nonemergent conventional or robotic gynecologic laparoscopic surgery.</AbstractText>
+          <AbstractText Label="INTERVENTIONS">A standard or valveless insufflation system at IAPs of 10 or 15 mm Hg.</AbstractText>
+          <AbstractText Label="MEASUREMENTS AND MAIN RESULTS">One hundred thirty-two patients were enrolled and randomized with 33 patients per group. There were 84 robotic cases and 47 conventional laparoscopic cases. CO<sub>2</sub> absorption rates (mL/kg*min) did not differ across groups with mean rates of 4.00 ± 1.3 in the valveless insufflation groups and 4.00 ± 1.1 in the standard insufflation groups. The surgeons' rating of overall visualization of the operative field on a 10-point Likert scale favored the valveless insufflation system (median visualization, 9.0 ± 2.0 cm and 9.5 ± 1.8 cm at 10 and 15 mm Hg, respectively) over standard insufflation (7.0 ± 3.0 cm and 7.0 ± 2.0 cm at 10 and 15 mm Hg, respectively; p &lt;.001). The anesthesiologists' ability to maintain adequate etCO<sub>2</sub> was similar across groups (p = .417). Postoperative shoulder pain scores were low overall with no significant difference across groups (p &gt;.05).</AbstractText>
+          <AbstractText Label="CONCLUSION">CO<sub>2</sub> absorption rates, anesthesiologists' ability to maintain adequate etCO<sub>2</sub>, and postoperative shoulder pain did not differ based on insufflation system type or IAP. Surgeons' rating of visualization of the operative field was significantly improved when using the valveless over the standard insufflation system.</AbstractText>
+          <CopyrightInformation>Copyright © 2019 AAGL. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Madueke-Laveaux</LastName>
+            <ForeName>Obianuju S</ForeName>
+            <Initials>OS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Obstetrics and Gynecology (Drs. Advincula, Walters, Kim, and Ryntz); Anesthesiology (Dr. Landau), Columbia University Medical Center, New York, New York; Department of Obstetrics and Gynecology (Dr. Madueke-Laveaux), University of Chicago, Chicago, Illinois; Department of Obstetrics and Gynecology (Dr. Grimes), New York Medical College, Valhalla, New York; Department of Obstetrics and Gynecology (Dr. Simpson), Johns Hopkins University, Baltimore, Maryland; Department of Obstetrics and Gynecology (Dr. Truong), Virginia Commonwealth University, Richmond, Virginia; Department of Obstetrics and Gynecology (Dr. Young), Mount Sinai Hospital, New York, New York. Electronic address: somadueke@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Advincula</LastName>
+            <ForeName>Arnold</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Obstetrics and Gynecology (Drs. Advincula, Walters, Kim, and Ryntz); Anesthesiology (Dr. Landau), Columbia University Medical Center, New York, New York; Department of Obstetrics and Gynecology (Dr. Madueke-Laveaux), University of Chicago, Chicago, Illinois; Department of Obstetrics and Gynecology (Dr. Grimes), New York Medical College, Valhalla, New York; Department of Obstetrics and Gynecology (Dr. Simpson), Johns Hopkins University, Baltimore, Maryland; Department of Obstetrics and Gynecology (Dr. Truong), Virginia Commonwealth University, Richmond, Virginia; Department of Obstetrics and Gynecology (Dr. Young), Mount Sinai Hospital, New York, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Grimes</LastName>
+            <ForeName>Cara L</ForeName>
+            <Initials>CL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Obstetrics and Gynecology (Drs. Advincula, Walters, Kim, and Ryntz); Anesthesiology (Dr. Landau), Columbia University Medical Center, New York, New York; Department of Obstetrics and Gynecology (Dr. Madueke-Laveaux), University of Chicago, Chicago, Illinois; Department of Obstetrics and Gynecology (Dr. Grimes), New York Medical College, Valhalla, New York; Department of Obstetrics and Gynecology (Dr. Simpson), Johns Hopkins University, Baltimore, Maryland; Department of Obstetrics and Gynecology (Dr. Truong), Virginia Commonwealth University, Richmond, Virginia; Department of Obstetrics and Gynecology (Dr. Young), Mount Sinai Hospital, New York, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Walters</LastName>
+            <ForeName>Ryan</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Obstetrics and Gynecology (Drs. Advincula, Walters, Kim, and Ryntz); Anesthesiology (Dr. Landau), Columbia University Medical Center, New York, New York; Department of Obstetrics and Gynecology (Dr. Madueke-Laveaux), University of Chicago, Chicago, Illinois; Department of Obstetrics and Gynecology (Dr. Grimes), New York Medical College, Valhalla, New York; Department of Obstetrics and Gynecology (Dr. Simpson), Johns Hopkins University, Baltimore, Maryland; Department of Obstetrics and Gynecology (Dr. Truong), Virginia Commonwealth University, Richmond, Virginia; Department of Obstetrics and Gynecology (Dr. Young), Mount Sinai Hospital, New York, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Jin Hee</ForeName>
+            <Initials>JH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Obstetrics and Gynecology (Drs. Advincula, Walters, Kim, and Ryntz); Anesthesiology (Dr. Landau), Columbia University Medical Center, New York, New York; Department of Obstetrics and Gynecology (Dr. Madueke-Laveaux), University of Chicago, Chicago, Illinois; Department of Obstetrics and Gynecology (Dr. Grimes), New York Medical College, Valhalla, New York; Department of Obstetrics and Gynecology (Dr. Simpson), Johns Hopkins University, Baltimore, Maryland; Department of Obstetrics and Gynecology (Dr. Truong), Virginia Commonwealth University, Richmond, Virginia; Department of Obstetrics and Gynecology (Dr. Young), Mount Sinai Hospital, New York, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Simpson</LastName>
+            <ForeName>Khara</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Obstetrics and Gynecology (Drs. Advincula, Walters, Kim, and Ryntz); Anesthesiology (Dr. Landau), Columbia University Medical Center, New York, New York; Department of Obstetrics and Gynecology (Dr. Madueke-Laveaux), University of Chicago, Chicago, Illinois; Department of Obstetrics and Gynecology (Dr. Grimes), New York Medical College, Valhalla, New York; Department of Obstetrics and Gynecology (Dr. Simpson), Johns Hopkins University, Baltimore, Maryland; Department of Obstetrics and Gynecology (Dr. Truong), Virginia Commonwealth University, Richmond, Virginia; Department of Obstetrics and Gynecology (Dr. Young), Mount Sinai Hospital, New York, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Truong</LastName>
+            <ForeName>Mireille</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Obstetrics and Gynecology (Drs. Advincula, Walters, Kim, and Ryntz); Anesthesiology (Dr. Landau), Columbia University Medical Center, New York, New York; Department of Obstetrics and Gynecology (Dr. Madueke-Laveaux), University of Chicago, Chicago, Illinois; Department of Obstetrics and Gynecology (Dr. Grimes), New York Medical College, Valhalla, New York; Department of Obstetrics and Gynecology (Dr. Simpson), Johns Hopkins University, Baltimore, Maryland; Department of Obstetrics and Gynecology (Dr. Truong), Virginia Commonwealth University, Richmond, Virginia; Department of Obstetrics and Gynecology (Dr. Young), Mount Sinai Hospital, New York, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Young</LastName>
+            <ForeName>Constance</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Obstetrics and Gynecology (Drs. Advincula, Walters, Kim, and Ryntz); Anesthesiology (Dr. Landau), Columbia University Medical Center, New York, New York; Department of Obstetrics and Gynecology (Dr. Madueke-Laveaux), University of Chicago, Chicago, Illinois; Department of Obstetrics and Gynecology (Dr. Grimes), New York Medical College, Valhalla, New York; Department of Obstetrics and Gynecology (Dr. Simpson), Johns Hopkins University, Baltimore, Maryland; Department of Obstetrics and Gynecology (Dr. Truong), Virginia Commonwealth University, Richmond, Virginia; Department of Obstetrics and Gynecology (Dr. Young), Mount Sinai Hospital, New York, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Landau</LastName>
+            <ForeName>Ruth</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Obstetrics and Gynecology (Drs. Advincula, Walters, Kim, and Ryntz); Anesthesiology (Dr. Landau), Columbia University Medical Center, New York, New York; Department of Obstetrics and Gynecology (Dr. Madueke-Laveaux), University of Chicago, Chicago, Illinois; Department of Obstetrics and Gynecology (Dr. Grimes), New York Medical College, Valhalla, New York; Department of Obstetrics and Gynecology (Dr. Simpson), Johns Hopkins University, Baltimore, Maryland; Department of Obstetrics and Gynecology (Dr. Truong), Virginia Commonwealth University, Richmond, Virginia; Department of Obstetrics and Gynecology (Dr. Young), Mount Sinai Hospital, New York, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ryntz</LastName>
+            <ForeName>Timothy</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Obstetrics and Gynecology (Drs. Advincula, Walters, Kim, and Ryntz); Anesthesiology (Dr. Landau), Columbia University Medical Center, New York, New York; Department of Obstetrics and Gynecology (Dr. Madueke-Laveaux), University of Chicago, Chicago, Illinois; Department of Obstetrics and Gynecology (Dr. Grimes), New York Medical College, Valhalla, New York; Department of Obstetrics and Gynecology (Dr. Simpson), Johns Hopkins University, Baltimore, Maryland; Department of Obstetrics and Gynecology (Dr. Truong), Virginia Commonwealth University, Richmond, Virginia; Department of Obstetrics and Gynecology (Dr. Young), Mount Sinai Hospital, New York, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>05</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Minim Invasive Gynecol</MedlineTA>
+        <NlmUniqueID>101235322</NlmUniqueID>
+        <ISSNLinking>1553-4650</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>142M471B3J</RegistryNumber>
+          <NameOfSubstance UI="D002245">Carbon Dioxide</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002245" MajorTopicYN="N">Carbon Dioxide</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000493" MajorTopicYN="Y">pharmacokinetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065569" MajorTopicYN="N">Gastrointestinal Absorption</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013509" MajorTopicYN="Y">Gynecologic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007327" MajorTopicYN="Y">Insufflation</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010149" MajorTopicYN="N">Pain, Postoperative</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011312" MajorTopicYN="N">Pressure</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020069" MajorTopicYN="N">Shoulder Pain</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013525" MajorTopicYN="N">Surgical Instruments</DescriptorName>
+          <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Carbon dioxide (CO(2)) absorption</Keyword>
+        <Keyword MajorTopicYN="N">Insufflation</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopy</Keyword>
+        <Keyword MajorTopicYN="N">Shoulder pain</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2019</Year>
+          <Month>03</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2019</Year>
+          <Month>05</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2019</Year>
+          <Month>05</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31125720</ArticleId>
+        <ArticleId IdType="pii">S1553-4650(19)30218-3</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jmig.2019.05.005</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">31135580</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>11</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>10</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2154-4212</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>26</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>12</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Female pelvic medicine &amp; reconstructive surgery</Title>
+          <ISOAbbreviation>Female Pelvic Med Reconstr Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effect of Visual Aids During Surgical Consents on Patient Understanding and Satisfaction.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>746-750</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/SPV.0000000000000703</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE">This study aimed to assess whether the use of visual aids to augment the consent process for pelvic floor surgeries affects patient understanding and satisfaction.</AbstractText>
+          <AbstractText Label="METHODS">We conducted a single-blind, randomized controlled trial. Adults planning robotic sacrocolpopexy or suburethral sling surgeries were eligible. All participants received standard preoperative consent counseling. Participants randomized to the intervention also viewed slides with visual aids that paralleled standard counseling; participants randomized to the control group received only standard counseling. All participants completed surveys after their preoperative visit, the day of surgery, and at their postoperative visit. Each survey contained 12 true-false questions about risks, benefits, and alternatives of surgery, and expectations during recovery. The primary outcome was the percentage of correct true-false questions. We conducted an intention-to-treat analysis.</AbstractText>
+          <AbstractText Label="RESULTS">We randomized 32 participants undergoing robotic sacrocolpopexy and 32 undergoing suburethral sling surgeries, yielding 16 in the intervention group and 16 in the control group for each procedure. The intervention and control groups for both surgeries were similar in age, body mass index, race, education, and previous surgery for similar symptoms.Among participants undergoing robotic sacrocolpopexies, median knowledge scores at the preoperative visit were similar between the intervention (92% [interquartile range {IQR}, 86%-100%]) and control (86% [IQR, 75%-94%]) groups (P = 0.21). Similar results were seen for participants undergoing suburethral sling procedures in the intervention (83.3% [IQR, 71%-92%]) and control (83% [IQR, 75%-88%]) groups (P = 0.64).</AbstractText>
+          <AbstractText Label="CONCLUSIONS">We found that using visual aids during the consent process for patients undergoing robotic sacrocolpopexy or suburethral sling surgeries did not improve knowledge.</AbstractText>
+          <CopyrightInformation>Copyright © 2019 Wolters Kluwer Health, Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Rui</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Obstetrics and Gynecology, Beth Israel Deaconess Medical Center.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Haviland</LastName>
+            <ForeName>Miriam J</ForeName>
+            <Initials>MJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Obstetrics and Gynecology, Beth Israel Deaconess Medical Center.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hacker</LastName>
+            <ForeName>Michele R</ForeName>
+            <Initials>MR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lefevre</LastName>
+            <ForeName>Roger</ForeName>
+            <Initials>R</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT02313701</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>UL1 TR001102</GrantID>
+            <Acronym>TR</Acronym>
+            <Agency>NCATS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Female Pelvic Med Reconstr Surg</MedlineTA>
+        <NlmUniqueID>101528690</NlmUniqueID>
+        <ISSNLinking>2151-8378</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001296" MajorTopicYN="Y">Audiovisual Aids</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003376" MajorTopicYN="N">Counseling</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013509" MajorTopicYN="Y">Gynecologic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000523" MajorTopicYN="N">psychology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057220" MajorTopicYN="N">Health Literacy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007258" MajorTopicYN="N">Informed Consent</DescriptorName>
+          <QualifierName UI="Q000523" MajorTopicYN="Y">psychology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017063" MajorTopicYN="N">Outcome Assessment, Health Care</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017773" MajorTopicYN="N">Pelvic Floor</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056887" MajorTopicYN="N">Pelvic Organ Prolapse</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020127" MajorTopicYN="N">Recovery of Function</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053825" MajorTopicYN="N">Suburethral Slings</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013664" MajorTopicYN="Y">Teaching Materials</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors have declared they have no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31135580</ArticleId>
+        <ArticleId IdType="pii">01436319-202012000-00008</ArticleId>
+        <ArticleId IdType="doi">10.1097/SPV.0000000000000703</ArticleId>
+        <ArticleId IdType="pmc">PMC8094041</ArticleId>
+        <ArticleId IdType="mid">NIHMS1693965</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>J Shoulder Elbow Surg. 2014 Jun;23(6):e134-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24295838</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arthroscopy. 2005 Jun;21(6):739-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15944633</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arthritis Care Res (Hoboken). 2011 Jul;63(7):1048-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21485018</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ANZ J Surg. 2011 Mar;81(3):176-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21342392</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cochrane Database Syst Rev. 2013 Jul 06;(7):CD009445</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23832767</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Innov. 2013 Feb;20(1):13-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22589017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Med Decis Making. 2011 Jan-Feb;31(1):151-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20357225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Patient Educ Couns. 2014 Jan;94(1):20-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24041712</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int Urogynecol J Pelvic Floor Dysfunct. 2009 Oct;20(10):1243-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19517050</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2017 Aug;217(2):181.e1-181.e7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28363439</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Female Pelvic Med Reconstr Surg. 2012 Nov-Dec;18(6):352-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23143430</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Cataract Refract Surg. 2012 Jan;38(1):80-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22062774</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Obstet Gynecol. 2007 Dec;197(6):654.e1-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18060968</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 2009 Sep;198(3):420-35</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19716887</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2008 Aug;248(2):205-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18650629</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2013 Jan;20(1):15-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22851045</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">31146028</PMID>
+      <DateCompleted>
+        <Year>2020</Year>
+        <Month>10</Month>
+        <Day>02</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>10</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1553-4669</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>27</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <MedlineDate>2020 Mar - Apr</MedlineDate>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of minimally invasive gynecology</Title>
+          <ISOAbbreviation>J Minim Invasive Gynecol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>An Efficient Single-session Spatial Skill Trainer for Robot-assisted Surgery: A Randomized Trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>728-737.e2</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S1553-4650(19)30228-6</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jmig.2019.05.014</ELocationID>
+        <Abstract>
+          <AbstractText Label="STUDY OBJECTIVE">To introduce and examine a single session of spatial skill training as an efficient means of improving surgical suturing performance in robot-assisted surgery.</AbstractText>
+          <AbstractText Label="DESIGN">A randomized, controlled trial.</AbstractText>
+          <AbstractText Label="SETTING">A tertiary university medical center in Israel.</AbstractText>
+          <AbstractText Label="PARTICIPANTS">A purposive sample composed of 41 residents with no robotic suturing skills.</AbstractText>
+          <AbstractText Label="INTERVENTIONS">A computer-based simulator training of spatial skills.</AbstractText>
+          <AbstractText Label="MEASUREMENTS AND MAIN RESULTS">Participants were randomly assigned to training (n = 21: mean age of 34 years [standard deviation (SD) = 1.92]) and control (n = 20: mean age of 32 years [SD = 3.17]) conditions. The training group underwent a session of spatial skills training, whereas the control group engaged in a neutral activity. After 1 participant was lost to the follow-up of the posttraining performance test, data of 40 participants were analyzed. Robotic suturing task performance with the da Vinci Skills Simulator (Intuitive Surgical, Sunnyvale, CA) was evaluated using the da Vinci Skills Simulator built-in measure of "excess tissue piercing" and an expert rating of "tissue tearing." The mean number of excess tissue piercing after training (but not after the neutral activity) was significantly lower than before training (3.25 [SD = 1.996] vs 6.75 [SD = 3.68], respectively; p &lt;.001), reflecting an improvement of 52% (decreasing the mean number of excess tissue piercing in a single suture by 3.5 excess piercing trials). After the interventions, the extent of tissue tearing was rated lower in the training group (p = .01), and there was no change in the control group (p = .14).</AbstractText>
+          <AbstractText Label="CONCLUSION">We showed the efficiency of a training approach that focuses on spatial skills critical in robot-assisted surgery. We showed that surgeons who received a 1 session spatial skill training with a cognitive spatial skill trainer immediately improved the performance of a robotic suturing task compared with surgeons who did not receive such training.</AbstractText>
+          <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Luko</LastName>
+            <ForeName>Liel</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Industrial Engineering and Management, Israel Institute of Technology, Technion City, Haifa, Israel (Drs. Luko and Parush). Electronic address: liluko@campus.technion.ac.il.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Parush</LastName>
+            <ForeName>Avi</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Industrial Engineering and Management, Israel Institute of Technology, Technion City, Haifa, Israel (Drs. Luko and Parush).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Matanes</LastName>
+            <ForeName>Emad</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, Rambam Medical Center, Haifa, Israel (Drs. Matanes, Lauterbach, and Lowenstein).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lauterbach</LastName>
+            <ForeName>Roy</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, Rambam Medical Center, Haifa, Israel (Drs. Matanes, Lauterbach, and Lowenstein).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Taitler</LastName>
+            <ForeName>Ayal</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Technion Autonomous Systems Program, Israel Institute of Technology, Technion City, Haifa, Israel (Dr. Taitler).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lowenstein</LastName>
+            <ForeName>Lior</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, Rambam Medical Center, Haifa, Israel (Drs. Matanes, Lauterbach, and Lowenstein).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>05</Month>
+          <Day>27</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Minim Invasive Gynecol</MedlineTA>
+        <NlmUniqueID>101235322</NlmUniqueID>
+        <ISSNLinking>1553-4650</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="Y">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007396" MajorTopicYN="Y">Internship and Residency</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007557" MajorTopicYN="N" Type="Geographic">Israel</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000066908" MajorTopicYN="N">Simulation Training</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013037" MajorTopicYN="N">Spatial Behavior</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066231" MajorTopicYN="N">Surgeons</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+          <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013536" MajorTopicYN="N">Suture Techniques</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+          <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013537" MajorTopicYN="N">Sutures</DescriptorName>
+          <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013647" MajorTopicYN="N">Task Performance and Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000076142" MajorTopicYN="Y">Virtual Reality</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cognitive simulator</Keyword>
+        <Keyword MajorTopicYN="N">Spatial skills</Keyword>
+        <Keyword MajorTopicYN="N">Surgeon training</Keyword>
+        <Keyword MajorTopicYN="N">Surgical suturing</Keyword>
+        <Keyword MajorTopicYN="N">Tissue handling</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2019</Year>
+          <Month>05</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2019</Year>
+          <Month>05</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>31</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>10</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>31</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31146028</ArticleId>
+        <ArticleId IdType="pii">S1553-4650(19)30228-6</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jmig.2019.05.014</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

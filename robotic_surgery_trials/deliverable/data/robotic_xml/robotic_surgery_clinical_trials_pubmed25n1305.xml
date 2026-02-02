@@ -1,0 +1,925 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">39214660</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>08</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2044-6055</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>14</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>08</Month>
+              <Day>30</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>BMJ open</Title>
+          <ISOAbbreviation>BMJ Open</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of outcomes of open, laparoscopic and robot-assisted laparoscopic pyeloplasty in children with ureteropelvic junction obstruction: protocol for a systematic review and meta-analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e087519</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1136/bmjopen-2024-087519</ELocationID>
+        <Abstract>
+          <AbstractText Label="INTRODUCTION">The treatment of children with pelviureteric junction obstruction (PUJO) has naturally progressed from open, to minimally invasive approaches, including laparoscopic pyeloplasty and robot-assisted laparoscopic pyeloplasty (RALP). The RALP is now considered to be the gold standard for paediatric patients with PUJO, except for smaller infants due to size limitations. Our systematic review aims to synthesise all the available evidence regarding key postoperative outcomes for the three surgical approaches to pyeloplasties in children. Our outcomes of interest include, but are not limited to, the reoperation rate, length of hospital stay and postoperative complications as classified by the Clavien-Dindo grading system. A comprehensive assessment of all three methods in paediatric patients has yet to be conducted in the literature to date.</AbstractText>
+          <AbstractText Label="METHODS AND ANALYSIS">A systematic search of the MEDLINE, PubMed, EMBASE and Cochrane databases will be conducted. Screening, data extraction, statistical analysis and reporting will be performed according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Included papers will be full-text manuscripts written between 1947 and March 2024, comparing the outcomes and complications of open, laparoscopic and RALP. Quality and study bias will be assessed using the Newcastle-Ottawa score and, if relevant, the Cochrane risk of bias tool for randomised trials. This present protocol is written in accordance with the PRISMA Protocol 2015 checklist, ensuring that the highest methodological standards are adhered to.</AbstractText>
+          <AbstractText Label="ETHICS AND DISSEMINATION">No ethical approval shall be required, as this is a review of already published literature. Findings will be disseminated through publications in peer-reviewed journals and presentations at international and national conferences.</AbstractText>
+          <AbstractText Label="PROSPERO REGISTRATION NUMBER">CRD42023456779.</AbstractText>
+          <CopyrightInformation>© Author(s) (or their employer(s)) 2024. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Nikolinakos</LastName>
+            <ForeName>Panagiotis</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">0000-0001-8427-7223</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, West Middlesex University Hospital, Chelsea and Westminster Hospital NHS Foundation Trust, London, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatric Surgery, School of Medicine, Attikon University Hospital, National and Kapodistrian University of Athens, Athens, Greece.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chatzikrachtis</LastName>
+            <ForeName>Nikolaos</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, West Middlesex University Hospital, Chelsea and Westminster Hospital NHS Foundation Trust, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chatterjee</LastName>
+            <ForeName>Abhisekh</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0009-0002-6835-5900</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Medicine, Faculty of Medicine, Imperial College London, London, UK abhisekh.chatterjee20@imperial.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Donkov</LastName>
+            <ForeName>Ivo</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, West Middlesex University Hospital, Chelsea and Westminster Hospital NHS Foundation Trust, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bishara</LastName>
+            <ForeName>Samuel</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, West Middlesex University Hospital, Chelsea and Westminster Hospital NHS Foundation Trust, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kotsi</LastName>
+            <ForeName>Elisavet</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, Penteli Children's Hospital, Athens, Greece.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alexandrou</LastName>
+            <ForeName>Ioannis</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatric Surgery, Penteli Children's Hospital, Athens, Greece.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zavras</LastName>
+            <ForeName>Nikolaos</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatric Surgery, School of Medicine, Attikon University Hospital, National and Kapodistrian University of Athens, Athens, Greece.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Norris</LastName>
+            <ForeName>Joseph M</ForeName>
+            <Initials>JM</Initials>
+            <AffiliationInfo>
+              <Affiliation>UCL Division of Surgery and Interventional Science, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <Acronym>MRC_</Acronym>
+            <Agency>Medical Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>08</Month>
+          <Day>30</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>BMJ Open</MedlineTA>
+        <NlmUniqueID>101552874</NlmUniqueID>
+        <ISSNLinking>2044-6055</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014517" MajorTopicYN="Y">Ureteral Obstruction</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000078202" MajorTopicYN="Y">Systematic Reviews as Topic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007682" MajorTopicYN="Y">Kidney Pelvis</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015201" MajorTopicYN="Y">Meta-Analysis as Topic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013520" MajorTopicYN="Y">Urologic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012107" MajorTopicYN="N">Research Design</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Paediatric urology</Keyword>
+        <Keyword MajorTopicYN="N">Systematic Review</Keyword>
+        <Keyword MajorTopicYN="N">UROLOGY</Keyword>
+      </KeywordList>
+      <CoiStatement>Competing interests: None declared.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>8</Month>
+          <Day>31</Day>
+          <Hour>9</Hour>
+          <Minute>45</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>8</Month>
+          <Day>31</Day>
+          <Hour>9</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>8</Month>
+          <Day>30</Day>
+          <Hour>21</Hour>
+          <Minute>3</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39214660</ArticleId>
+        <ArticleId IdType="pii">bmjopen-2024-087519</ArticleId>
+        <ArticleId IdType="doi">10.1136/bmjopen-2024-087519</ArticleId>
+        <ArticleId IdType="pmc">PMC11407214</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title />
+        <Reference>
+          <Citation>Eur Urol Open Sci. 2023 Mar 31;51:55-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37187722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Ital Urol Androl. 2024 Mar 07;96(1):12263</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38451241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2020 Aug;38(8):1841-1848</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31435732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Syst Rev. 2015 Jan 01;4:1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25554246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2019 Aug 28;366:l4898</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31462531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Syst Rev. 2016 Dec 5;5(1):210</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27919275</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Res Rep Urol. 2021 Aug 10;13:573-580</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34408990</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urologe A. 2004 Dec;43(12):1544-59</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15316607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int Braz J Urol. 2022 Nov-Dec;48(6):961-968</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36083265</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pediatr Urol. 2019 Dec;15(6):667.e1-667.e8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31734119</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39812920</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>01</Month>
+        <Day>15</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1567-2387</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>56</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jan</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of molecular histology</Title>
+          <ISOAbbreviation>J Mol Histol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparative analysis with stem cell therapy in rats with pharyngocutaneous fistula formation.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>70</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10735-024-10343-w</ELocationID>
+        <Abstract>
+          <AbstractText>Laryngocutaneous fistula is one of the most important complications encountered after larynx surgery. Stem cell therapy is a promising treatment approach for the future, both without the need for surgical methods and by assisting surgical methods to close the fistula. 30 female Downey Sprague rats were divided into 5 separate groups and pharyngocutaneous fistula was created. Stem cells were administered subcutaneously to Group 1(SC-SC) after the creation of PCF, and via the tail vein to Group 2 (V-SC). The 3rd group (C) was made as a control group and while fistula formation and subsequent closure characteristics in the neck were monitored without any treatment, the rats in the 4th group (V-M/SH) were given tail vein medium/sham and the 5th group (SC-M/SH) was given as subcutaneous medium/sham group. PCF closure was significantly higher in the group given SC compared to the control group. The differences between the groups were examined by Hematoxilen Eosin staining with light microscopy and evaluated in terms of inflammatory cell infiltration, fibroblastic activity, collagen accumulation and neo-angiogenesis using the Ehrlich Hunt scale. After the experiments, all groups were stained with immunocytochemistry via TGF-β, VEGF and TNF-α antibodies. The statistical analysis was performed using the One-Way ANOVA test. When all these parameters were compared with the control group, a statistically significant difference was found.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s), under exclusive licence to Springer Nature B.V.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ceyhan</LastName>
+            <ForeName>Aykut</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Kutahya Health Sciences University Training Research Hospital, Kutahya, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Topuz</LastName>
+            <ForeName>Muhammed Fatih</ForeName>
+            <Initials>MF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Medipol University Hospital Istanbul, Istanbul, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ozatik</LastName>
+            <ForeName>Orhan</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Kutahya Health Sciences University Training Research Hospital, Kutahya, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Saygılı</LastName>
+            <ForeName>Suna Karadenız</ForeName>
+            <Initials>SK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Kutahya Health Sciences University Training Research Hospital, Kutahya, Turkey. ceyhanaykut@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>TSA-2021-77</GrantID>
+            <Agency>Kütahya Health Sciences University Scientific Research Project Coordination</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>TSA-2021-77</GrantID>
+            <Agency>Kütahya Health Sciences University Scientific Research Project Coordination</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>TSA-2021-77</GrantID>
+            <Agency>Kütahya Health Sciences University Scientific Research Project Coordination</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>TSA-2021-77</GrantID>
+            <Agency>Kütahya Health Sciences University Scientific Research Project Coordination</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>01</Month>
+          <Day>15</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>J Mol Histol</MedlineTA>
+        <NlmUniqueID>101193653</NlmUniqueID>
+        <ISSNLinking>1567-2379</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D042461">Vascular Endothelial Growth Factor A</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D033581" MajorTopicYN="Y">Stem Cell Transplantation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017577" MajorTopicYN="Y">Cutaneous Fistula</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="Y">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D042461" MajorTopicYN="N">Vascular Endothelial Growth Factor A</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014409" MajorTopicYN="N">Tumor Necrosis Factor-alpha</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010608" MajorTopicYN="N">Pharyngeal Diseases</DescriptorName>
+          <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Fistula</Keyword>
+        <Keyword MajorTopicYN="N">Laryngel carcinoma</Keyword>
+        <Keyword MajorTopicYN="N">Stem cell</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Competing interests: The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>09</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>1</Month>
+          <Day>15</Day>
+          <Hour>12</Hour>
+          <Minute>25</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>1</Month>
+          <Day>15</Day>
+          <Hour>12</Hour>
+          <Minute>24</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>1</Month>
+          <Day>15</Day>
+          <Hour>11</Hour>
+          <Minute>22</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39812920</ArticleId>
+        <ArticleId IdType="doi">10.1007/s10735-024-10343-w</ArticleId>
+        <ArticleId IdType="pii">10.1007/s10735-024-10343-w</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Armstrong WB, Vokes DE, Maisel RH (2010) Malignant tumors of the larynx. In: Paul W (ed) Cummings otolaryngology. Head and neck surgery, 5th edn. Flint Mosby Company, St. Louis, pp 933–942</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aslam MJ, Ahmed Z, Aslam MA (2006) Complications of total laryngectomy. Pak J Med Sci 22:876–890</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aydemir I, Özkut MM, Fırat F et al (2018) Effects of stem cells applications on oxidative stress and apoptosis during implantation. Asia Pac J Rural Dev 7(5):229–235</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bohannan IA, Jarroll RV (2011) Closure of post-laryngectomy pharyngocutaneous fistulae. Head Neck Oncol 3:29</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1758-3284-3-29</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cattaruzza MS, Maissonneuve P, Boyle P (1996) Epidemiology of laryngeal cancer. Eur J Cancer B Oral Oncol 32B(5):293–305</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0964-1955(96)00002-4</ArticleId>
+            <ArticleId IdType="pubmed">8944832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cavalot AL, Gervasio CF, Nazionale G, Albera R, Bussi M, Staffieri A et al (2000) Pharyngocutaneous fistula as a complication of total laryngectomy: review of the literature and analysis of case records. Otolaryngol Head Neck Surg 123:587–592</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1067/mhn.2000.110617</ArticleId>
+            <ArticleId IdType="pubmed">11077346</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chee N, Siow JK (1999) Pharyngocutaneous fistula after laryngectomy: incidence, predisposing factors and outcome. Singapore Med J 40(3):130–132</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10402888</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Conway DI, McKinney PA, McMahon AD, Ahrens W, Schmeisser N, Benhamou S et al (2010) Socioeconomic factors associated with risk of upper aerodigestive tract cancer in Europe. Eur J Cancer 46:588–598</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejca.2009.09.028</ArticleId>
+            <ArticleId IdType="pubmed">19857956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferlay J, Bray F, Pisani P, Parkin DM (2000) Cancer incidence, mortality and prevalence worldwide. IARC Press, Lyon</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Galli J, Valenza V, Parilla C et al (2009) Pharyngocutaneous fistula onset after total laryngectomy: scintigraphic analysis. Acta Otorhinolaryngol Ital 29(5):242–244</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20162023</ArticleId>
+            <ArticleId IdType="pmcid">2821128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gallus S, Bosetti C, Franceschi S et al (2003) Laryngeal cancer in women: Tobacco, alcohol, nutritional and hormonal factors. Cancer Epidemiol Biomarkers Prev 12(6):514–517</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12814996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ganly I et al (2005) Postoperative complications of salvage total laryngectomy. Am Cancer Soc 103:273–281</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Grau C, Johansen LV, Hansen HS, Andersen E, Godballe C, Andersen LJ et al (2003) Salvage laryngectomy and pharyngocutaneous fistulae after primary radiotherapy for head and neck cancer: a national survey from DAHANCA. Head Neck 25:711–716</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hed.10237</ArticleId>
+            <ArticleId IdType="pubmed">12953306</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guntinas-Lichius O, Eckel HE (2002) Temporary reduction of salivation in laryngectomy patients with pharyngocutaneous fistulas by botulinum toxin a injection. Laryngoscope 112:187–189</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/00005537-200201000-00033</ArticleId>
+            <ArticleId IdType="pubmed">11802061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hashibe M, Brennan P, Benhamou S, Castellsague X, Chen C, Curado MP et al (2007) Alcohol drinking in never users of tobacco, cigarette smoking in never drinkers, and the risk of head and neck cancer: pooled analysis in the international head and neck cancer epidemiology consortium. J Natl Cancer Inst 99:777–789</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/jnci/djk179</ArticleId>
+            <ArticleId IdType="pubmed">17505073</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karadeniz AN. Baş, boyun ve tiroid kanserleri. Topuz E, Aydıner A, Karadeniz AN. Klinik onkoloji. İstanbul Tunç Matbaası:2000:161–200</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Küçük B, Yorulmaz İ (2000) Farengo-Kutanöz fistüle bağlı geniş cilt ve mukoza defektlerinin pektpralis major kas—deri flebi ve deltopektoral flep ile onarımı; KBB ve Baş Boyun Cer. Derg 8:108–114</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Larijani B, Esfahani EN, Amini P, Nikbin B, Alimoghaddam K, Amiri S, Malekzadeh R, Yazdi NM, Ghodsi M, Dowlati Y, Sahraian MA, Ghavamzadeh A (2012) Stem cell therapy in treatment of different diseases. Acta Med Iranica 50:79–96</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mathes JS, Nahaı F (1997) Pectoralis major flap. In: Mathes JS, Nahai F (eds) Reconstructive surgery: principles, anatomy and technique. Churchill Livingstone, London, pp 441–465</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mills SE, Fechner RE (1997) Larynx and pharynx. In: Sternberg SS (ed) Histology for pathologists, 2nd edn. Lippincott-Raven, China, pp 391–403</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nunez DA, Astley SM, Lewis FA, Wells M (1994) Human papilloma viruses: a study of their prevalence in the normal larynx. J Laryngol Otol 108:319–320</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1017/S0022215100126647</ArticleId>
+            <ArticleId IdType="pubmed">8182318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Hara J, Lock C, Paleri V, Wight R (2009) Oral feeding regimes following laryngectomy—a qualitative study of consultants’ opinions in the North of England. Oral Oncol 45:727–730</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.oraloncology.2008.11.004</ArticleId>
+            <ArticleId IdType="pubmed">19147395</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Periyasamy-Thandavan S, Herberg S, Arounleut P, Upadhyay S, Dukes A, Davis C, Johnson M, McGee-Lawrence M, Hamrick MW, Isales CM, Hill WD (2015) Caloric restriction and the adipokine leptin alter the SDF-1 signaling axis in the bone marrow and in bone marrow derived mesenchymal stemcells. Mol Cell Endocrinol 410:64–72. https://doi.org/10.1016/j.mce.2015.03.001</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.mce.2015.03.001</ArticleId>
+            <ArticleId IdType="pubmed">25779533</ArticleId>
+            <ArticleId IdType="pmcid">4706462</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Potten CS, Loeffler M (1990) Stem cells: attributes, cycles, spirals, pitfalls and uncertainties lessons for and from the crypt. Development 110(1001):102</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Prentice DA (2019) Adult stem cells. Circ Res 124(6):837–839. https://doi.org/10.1161/CIRCRESAHA.118.313664</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCRESAHA.118.313664</ArticleId>
+            <ArticleId IdType="pubmed">30870122</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Redaelli de Zinis LO, Ferrari L, Tomenzoli D et al (1999) Postlaryngectomy pharyngocutaneous fistula: ıncidence, predisposing factors, and therapy. Head and Neck 21:131–138</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/(SICI)1097-0347(199903)21:2&lt;131::AID-HED6&gt;3.0.CO;2-F</ArticleId>
+            <ArticleId IdType="pubmed">10091981</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rihkanen H, Peltomaa J, Syrjanen S (1994) Prevalence of human papillomavirus (HPV) DNA in vocal cords without laryngeal papillomas. Acta Otolaryngol 114:348–351</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/00016489409126068</ArticleId>
+            <ArticleId IdType="pubmed">8073869</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rosai J (2004) Respiratory tract. Rosai and ackerman‘s surgical pathology, 9th edn. Elsevier, Cham, pp 335–359</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Salem HK, Thiemermann C (2010) Mesenchymal stromal cells: current understanding and clinical status. Stem Cells 28(3):585–596. https://doi.org/10.1002/stem.269</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/stem.269</ArticleId>
+            <ArticleId IdType="pubmed">19967788</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sawyers CL, Abate-Shen C, Anderson KC, Barker A, Baselga J, Berger NA et al (2013) AACR Cancer Progress Report 2013. Clin Cancer Res 19(20 Suppl):S4-98</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24045178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scioli MG, Storti G, Bielli A, Sanchez M, Scimeca M, Gimble JM, Cervelli V, Orlandi A (2022) CD146 expression regulates osteochondrogenic differentiation of human adipose-derived stem cells. J Cell Physiol 237:589–602</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jcp.30506</ArticleId>
+            <ArticleId IdType="pubmed">34287857</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen J-R-P, Ren Z-F, Qin H, Cui C, Zhang Y, Zeng Y-X, Jia W-H (2012) Pretreatment levels of peripheral neutrophils and lymphocytes as independent prognostic factors in patients with nasopharyngeal carcinoma. J Sci Specialties Head and Neck 34(12):1769–1776</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hed.22008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Storti G, Scioli MG, Kim B-S, Orlandi A, Cervelli V (2019) Adipose-derived stem cells in bone tissue engineering: useful tools with new applications. Stem Cells Int 2019:3673857</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2019/3673857</ArticleId>
+            <ArticleId IdType="pubmed">31781238</ArticleId>
+            <ArticleId IdType="pmcid">6875209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Storti G, Scioli MG, Kim B-S, Terriaca S, Fiorelli E, Orlandi A, Cervelli V (2021) Mesenchymal stem cells in adipose tissue and extracellular vesicles in ovarian cancer patients: a bridge toward metastatic diffusion or a new therapeutic opportunity? Cells Transpl 10:2117</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cells10082117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Virtaniemi JA, Kumpulainen EJ, Hirvikoski PP, Johansson RT, Kosma VM (2001) The incidence and etiology of post laryngectomy pharyngocutaneous fistulae. Head and Neck Surg 23(1):29–33</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wengen DF, Donald PJ (1994) Complications of radical neck dissection. In: Shockley WW, Pillsbury HC (eds) The neck: diagnosis and surgery. Mosby, Missouri, pp 483–509</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wiseman S, Hicks W Jr et al (2002) Fibrin glue-reinforce closure of postlaryngectomy pharyngocutaneous fistula. Am J Otolaryng 23:368–373</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1053/ajot.2002.126318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yilmaz T, Hosal AS, Gedikoglu G, Kaya S (1999) Prognostic significance of histopathological parameters in cancer of the larynx. Eur Arch Otorhinolaryngol 256(3):139–144</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s004050050127</ArticleId>
+            <ArticleId IdType="pubmed">10234483</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoshimura K, Sato K, Aoi N, Kurita M, Hirohi T, Harii K (2008) Cell-assisted lipotransfer for cosmetic breast augmentation: supportive use of adipose-derived stem/stromal cells. Aesthet Plast Surg 32(1):48–57</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00266-007-9019-4</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39909057</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1438-9592</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>150</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Feb</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Zentralblatt fur Chirurgie</Title>
+          <ISOAbbreviation>Zentralbl Chir</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>[The Results of RATS and VATS Anatomical Resections in the Initial Phase].</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>28-34</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1055/a-2351-4297</ELocationID>
+        <Abstract>
+          <AbstractText>Robot-assisted (RATS) anatomical resection is a new method in the treatment of lung tumours, but is controversial due to its cost. The aim of our retrospective study was to compare the clinical results of the RATS and VATS anatomical resections.The first 100 VATS and RATS resections were analysed with regard to tumour stage, intra- and postoperative complications, conversion, operation time, hospital stay and length of drainage treatment, postoperative pain (numerical rating scale, NRS) and mortality. The results were compared using the chi-square, Fisher and independent t tests.In the VATS group, stage I was more frequent, stage II less frequent (stage I: 73.4%, stage II: 19.2%) than in the RATS group (stage I: 65.5%, stage II. 23%, p = 0.695). The operating time was longer with RATS (213.5 min vs. 190.3 min, p = 0.008), due to the docking and undocking time of the robotic system to the patient. The proportion of sublobar resections was significantly higher in the RATS group (28% vs. 7%, p &lt; 0.001). The proportion of intraoperative complications (7% vs. 14%, p = 0.073) and conversion rate (9% vs. 11%, p = 0.407) were lower in the RATS surgery. The number of lymph nodes removed was high in both groups and not significantly different (VATS: 21.6, RATS: 22.1). The hospital stay was shorter after RATS (8.8 days) than after VATS (12.5 days, p &lt; 0.001), as was the length of postoperative drainage treatment (5.6 vs. 8 days, p &lt; 0.001). In the RATS group, postoperative pain on the 1st and 2nd postoperative day was significantly lower, as based on the numeric rating scale (1.68 vs. 2.83, p &lt; 0.001, 0.99 vs. 2.41, p &lt; 0.001). The complication rate was significantly higher after VATS than after RATS (57% vs. 33%, p = 0.001), and fewer reoperations were necessary after RATS (3%) than in the VATS group (8%, p = 0.121). Four patients died in the VATS group, none after RATS (p = 0.043).The robot-assisted technique enables anatomical resections with lower conversion, complication rates and mortality, as well as less postoperative pain. Robotic surgery has proven to be safe and oncologically comparable to anatomical VATS resections for lung cancer.</AbstractText>
+          <CopyrightInformation>Thieme. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="N">
+            <LastName>Szöke</LastName>
+            <ForeName>Tamas</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Thoraxchirurgie, Krankenhaus Barmherzige Brüder Regensburg, Regensburg, Deutschland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="N">
+            <LastName>Großer</LastName>
+            <ForeName>Christian</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Thoraxchirurgie, Krankenhaus Barmherzige Brüder Regensburg, Regensburg, Deutschland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="N">
+            <LastName>Schemm</LastName>
+            <ForeName>Rudolf</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Thoraxchirurgie, Krankenhaus Barmherzige Brüder Regensburg, Regensburg, Deutschland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="N">
+            <LastName>Bruckmeier</LastName>
+            <ForeName>Martin</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Thoraxchirurgie, Krankenhaus Barmherzige Brüder Regensburg, Regensburg, Deutschland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="N">
+            <LastName>Hofmann</LastName>
+            <ForeName>Hans Stefan</ForeName>
+            <Initials>HS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Thoraxchirurgie, Krankenhaus Barmherzige Brüder Regensburg, Regensburg, Deutschland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>ger</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D004740">English Abstract</PublicationType>
+        </PublicationTypeList>
+        <VernacularTitle>Die Ergebnisse der RATS und VATS bei anatomischen Resektionen in der Anfangsphase.</VernacularTitle>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Zentralbl Chir</MedlineTA>
+        <NlmUniqueID>0413645</NlmUniqueID>
+        <ISSNLinking>0044-409X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D020775" MajorTopicYN="Y">Thoracic Surgery, Video-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008175" MajorTopicYN="Y">Lung Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="Y">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011013" MajorTopicYN="Y">Pneumonectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009367" MajorTopicYN="Y">Neoplasm Staging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="Y">Length of Stay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007431" MajorTopicYN="N">Intraoperative Complications</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010149" MajorTopicYN="N">Pain, Postoperative</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherAbstract Type="Publisher" Language="ger">
+        <AbstractText>Die robotergestützte (RATS) anatomische Resektion ist eine neue, aber wegen ihrer Kosten umstrittene Methode in der Behandlung von Lungentumoren. Das Ziel unserer retrospektiven Studie war der Vergleich klinischer Daten der anatomischen RATS- und VATS-Resektionen.Die ersten 100 VATS- und RATS-Resektionen wurden hinsichtlich Tumorstadium, intra- und postoperativer Komplikationen, Konversion, OP-Zeit, Krankenhausaufenthalt und Länge der Drainagebehandlung, postoperativer Schmerzen (numerische Rating-Skala NRS) und Letalität analysiert. Die Ergebnisse wurden mit Chi-Quadrat-, Fisher- und unabhängigem t-Test verglichen.In der VATS-Gruppe war das Stadium I häufiger, das Stadium II seltener (St. I: 73,4%; St. II: 19,2%) als in der RATS-Gruppe (St. I: 65,5%; St. II. 23%; p = 0,695). Die OP-Zeit war bei RATS länger (213,5 min vs. 190,3 min; p = 0,008), bedingt durch die An- und Abdockzeiten des Robotersystems an den Patienten. In der RATS-Gruppe war die Rate der sublobären Resektionen signifikant höher (28% vs. 7%; p &lt; 0,001). Der Anteil intraoperativer Komplikationen (7% vs. 14%; p = 0,073) und die Konversionsrate (9% vs. 11%; p = 0,407) waren niedriger bei den RATS-Operationen. Die Anzahl der entfernten Lymphknoten war in beiden Gruppen hoch, jedoch nicht signifikant unterschiedlich (VATS: 21,6; RATS: 22,1). Der Krankenhausaufenthalt war kürzer nach RATS (8,8 Tage) als nach VATS (12,5 Tage; p &lt; 0,001), ebenso die Länge der postoperativen Drainagebehandlung (5,6 vs. 8 Tage; p &lt; 0,001). In der RATS-Gruppe waren die postoperativen Schmerzen am 1. und 2. postoperativen Tag deutlich niedriger ermittelt anhand der numerischen Rating-Skala (1,68 vs. 2,83; p &lt; 0,001; 0,99 vs. 2,41; p &lt; 0,001). Nach VATS war die Komplikationsrate signifikant höher als nach RATS (57% vs. 33%; p = 0,001), ebenso gab es weniger Reoperationen in der RATS- (3%) im Vergleich zur VATS-Gruppe (8%; p = 0,121). In VATS-Gruppe starben 4 Patienten, nach RATS kein Patient (p = 0,043).Die robotergestützte Technik ermöglicht anatomische Resektionen zur Entfernung von Lungentumoren, bei geringerer Konversions- und Komplikationsrate bzw. Letalität sowie geringeren postoperativen Schmerzen. Die Roboteroperationen zeigen sich somit als sicher und onkologisch vergleichbar mit den anatomischen VATS-Resektionen bei Lungenkarzinom.</AbstractText>
+      </OtherAbstract>
+      <CoiStatement>Die Autorinnen/Autoren geben an, dass kein Interessenkonflikt besteht.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>6</Day>
+          <Hour>0</Hour>
+          <Minute>22</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>6</Day>
+          <Hour>0</Hour>
+          <Minute>21</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>5</Day>
+          <Hour>19</Hour>
+          <Minute>2</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39909057</ArticleId>
+        <ArticleId IdType="doi">10.1055/a-2351-4297</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

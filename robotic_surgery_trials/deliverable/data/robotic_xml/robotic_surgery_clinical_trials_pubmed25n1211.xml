@@ -1,0 +1,1872 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37857831</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>08</Month>
+        <Day>12</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>08</Month>
+        <Day>12</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1476-5608</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>27</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Prostate cancer and prostatic diseases</Title>
+          <ISOAbbreviation>Prostate Cancer Prostatic Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of perioperative and short-terms outcomes of en-bloc Holmium laser enucleation of the prostate (HoLEP) and robot-assisted simple prostatectomy: a propensity-score matching analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>478-484</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41391-023-00743-6</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Surgical treatment of symptomatic benign prostatic hyperplasia (BPH) has seen an evolution during the last decades. On one hand, en-bloc HoLEP emerged as a valid endoscopic treatment regardless prostate size. On the other hand, robot-assisted simple prostatectomy (RASP) has gained attention in larger prostates showing encouraging results. Herein, for the first time in the scientific scenario, we sought to compare the outcomes of RASP and en-bloc HoLEP cases after propensity-score matching (PSM) analysis.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We retrospectively queried our prospectively database of patients treated with HoLEP or RASP between 2017 and 2022 among two high-volume centers. PSM was applied based on the International Prostate Symptom Score (IPSS) questionnaire, prostate volume and max-flow rate. All procedures were performed by a single surgeon per center. Outcomes were assessed at 1, 3, and 6-month postoperatively and therefore annually. Trifecta definition was used to assess "success" in surgical procedures and was defined as the contemporary presence of: a) no postoperative complications within the first postoperative month; b) 1-month postoperative Qmax &gt;15 ml/s and c) no urinary incontinence at 3-month evaluation.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, 48 HoLEP and 47 RASPs were matched. Operative time, hospitalization time (median 4 vs 5 days) and catheterization time (median 3 vs 2 day) were found to be shorter in the HoLEP group as compared to the counterpart (p &lt; 0.05). Early postoperative complication rate was also lower in the HoLEP cohort (6.2% vs 12.6%; p = 0.03) as well as postoperative haemoglobine blood level drop (1.4 vs 2.4 g/dL; p = 0.03). On the other hand, postoperative antegrade ejaculation (55.3% vs 6.8%) 1-month max flow (median 28 vs 24 ml/sec) and continence rates (0% vs 20.8%) favored RASP (p &lt; 0.05). Overall, Trifecta rate was similar in the two groups (76.1% vs 82.6%).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Both HoLEP and RASP are safe and effective treatments for symptomatic BPH. HoLEP demonstrated to have lower perioperative risks while is affecting by a higher probability of transient early UI. On the other hand, RASP is more effective in reducing postoperative ejaculatory dysfunction.</AbstractText>
+          <CopyrightInformation>© 2023. The Author(s), under exclusive licence to Springer Nature Limited.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Grosso</LastName>
+            <ForeName>Antonio Andrea</ForeName>
+            <Initials>AA</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-5973-789X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of experimental and clinical Medicine-University of Florence; Unit of Oncologic Minimally-Invasive Urology and Andrology, Careggi Hospital, Florence, Italy. grossoantonioandrea@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Amparore</LastName>
+            <ForeName>Daniele</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-5425-5453</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, University of Turin, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Di Maida</LastName>
+            <ForeName>Fabrizio</ForeName>
+            <Initials>F</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-1885-4808</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of experimental and clinical Medicine-University of Florence; Unit of Oncologic Minimally-Invasive Urology and Andrology, Careggi Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>de Cillis</LastName>
+            <ForeName>Sabrina</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, University of Turin, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cocci</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-0138-6294</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of experimental and clinical Medicine-University of Florence; Unit of Oncologic Minimally-Invasive Urology and Andrology, Careggi Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Di Dio</LastName>
+            <ForeName>Michele</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Surgery, SS Annunziata Hospital, Cosenza, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Russo</LastName>
+            <ForeName>Giorgio Ivan</ForeName>
+            <Initials>GI</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-4687-7353</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Urology Section, University of Catania, Catania, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cimino</LastName>
+            <ForeName>Sebastiano</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Urology Section, University of Catania, Catania, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Quarà</LastName>
+            <ForeName>Alberto</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, University of Turin, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Salvi</LastName>
+            <ForeName>Matteo</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of experimental and clinical Medicine-University of Florence; Unit of Oncologic Minimally-Invasive Urology and Andrology, Careggi Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fiori</LastName>
+            <ForeName>Cristian</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, University of Turin, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mari</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-9070-5706</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of experimental and clinical Medicine-University of Florence; Unit of Oncologic Minimally-Invasive Urology and Andrology, Careggi Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Porpiglia</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, University of Turin, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Minervini</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of experimental and clinical Medicine-University of Florence; Unit of Oncologic Minimally-Invasive Urology and Andrology, Careggi Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tuccio</LastName>
+            <ForeName>Agostino</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of experimental and clinical Medicine-University of Florence; Unit of Oncologic Minimally-Invasive Urology and Andrology, Careggi Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>19</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Prostate Cancer Prostatic Dis</MedlineTA>
+        <NlmUniqueID>9815755</NlmUniqueID>
+        <ISSNLinking>1365-7852</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011470" MajorTopicYN="Y">Prostatic Hyperplasia</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="Y">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="Y">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053844" MajorTopicYN="Y">Lasers, Solid-State</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053685" MajorTopicYN="N">Laser Therapy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>08</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>8</Month>
+          <Day>13</Day>
+          <Hour>0</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>20</Day>
+          <Hour>0</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>19</Day>
+          <Hour>23</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37857831</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41391-023-00743-6</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41391-023-00743-6</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Speakman MJ, Cornu JN, Gacci M, Gratzke C, Mamoulakis C, Herrmann TRW, et al. What Is the Required Certainty of Evidence for the Implementation of Novel Techniques for the Treatment of Benign Prostatic Obstruction? Eur Urol Focus. 2019;5:351–6. https://doi.org/10.1016/j.euf.2019.05.014 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.euf.2019.05.014</ArticleId>
+            <ArticleId IdType="pubmed">31204291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cornu JN, Ahyai S, Bachmann A, de la Rosette J, Gilling P, Gratzke C, et al. A Systematic Review and Meta-analysis of Functional Outcomes and Complications Following Transurethral Procedures for Lower Urinary Tract Symptoms Resulting from Benign Prostatic Obstruction: An Update. Eur Urol. 2015;67:1066–96. https://doi.org/10.1016/j.eururo.2014.06.017 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eururo.2014.06.017</ArticleId>
+            <ArticleId IdType="pubmed">24972732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cornu JN, Gacci M, Hashim H, Herrmann TRW, Malde S, Netsch C, et al. Panel of the European Guideline on Non-Neurogenic Male Lower Urinary Tract Symptoms (LUTS) EAU Guidel Off 2023.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Merseburger AS, Herrmann TRW, Liatsikos E, Nagele U, Traxer O: EAU guidelines on Lasers and Technology. EAU Guidel Off 2020</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuntz RM, Lehrich K, Ahyai SA. Holmium Laser Enucleation of the Prostate versus Open Prostatectomy for Prostates Greater than 100 Grams: 5-Year Follow-Up Results of a Randomised Clinical Trial. Eur Urol. 2008;53:160–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eururo.2007.08.036</ArticleId>
+            <ArticleId IdType="pubmed">17869409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gilling PJ, Wilson LC, King CJ, Westenberg AM, Frampton CM, Fraundorfer MR. Long-term results of a randomized trial comparing holmium laser enucleation of the prostate and transurethral resection of the prostate: Results at 7 years. BJU Int. 2012;109:408–11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1464-410X.2011.10359.x</ArticleId>
+            <ArticleId IdType="pubmed">21883820</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tuccio A, Sessa F, Campi R, Grosso AA, Viola L, Muto G, et al. En-bloc endoscopic enucleation of the prostate: a systematic review of the literature. Minerva Urol Nefrol. 2020;72:292–312. https://doi.org/10.23736/S0393-2249.20.03706-6 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.23736/S0393-2249.20.03706-6</ArticleId>
+            <ArticleId IdType="pubmed">32026670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goel MC. Re: Robotic simple prostatectomy R. Sotelo, R. Clavijo, O. Carmona, A. Garcia, E. Banda, M. Miranda and R. Fagin J Urol 2008; 179: 513-515. J Urol. 2008;180:1569–70. https://doi.org/10.1016/j.juro.2008.06.057 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.juro.2008.06.057</ArticleId>
+            <ArticleId IdType="pubmed">18718613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Autorino R, Zargar H, Mariano MB, Sanchez-Salas R, Sotelo RJ, et al. Perioperative Outcomes of Robotic and Laparoscopic Simple Prostatectomy: A European-American Multi-institutional Analysis. Eur Urol. 2015;68:86–94. https://doi.org/10.1016/j.eururo.2014.11.044</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eururo.2014.11.044</ArticleId>
+            <ArticleId IdType="pubmed">25484140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sorokin I, Sundaram V, Singla N, Walker J, Margulis V, Roehrborn C, et al. Robot-Assisted Versus Open Simple Prostatectomy for Benign Prostatic Hyperplasia in Large Glands: A Propensity Score-Matched Comparison of Perioperative and Short-Term Outcomes. J Endourol. 2017;31:1164–9. https://doi.org/10.1089/end.2017.0489 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/end.2017.0489</ArticleId>
+            <ArticleId IdType="pubmed">28854815</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pandolfo SD, Del Giudice F, Chung BI, Manfredi C, De Sio M, Damiano R, et al. Robotic assisted simple prostatectomy versus other treatment modalities for large benign prostatic hyperplasia: a systematic review and meta-analysis of over 6500 cases. Prostate Cancer Prostatic Dis. 2022. https://doi.org/10.1038/s41391-022-00616-4 .</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Vince R, Hampton LJ, Vartolomei MD, Shariat SF, Porpiglia F, Autorino R. Robotic assisted simple prostatectomy: recent advances. Curr Opin Urol. 2018;28:309–14. https://doi.org/10.1097/MOU.0000000000000499 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MOU.0000000000000499</ArticleId>
+            <ArticleId IdType="pubmed">29528970</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dindo D, Demartines N, Clavien P-A. Classification of Surgical Complications: A New Proposal With Evaluation in a Cohort of 6336 Patients and Results of a Survey. Ann Surg. 2004;240:205–13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/01.sla.0000133083.54934.ae</ArticleId>
+            <ArticleId IdType="pubmed">15273542</ArticleId>
+            <ArticleId IdType="pmcid">1360123</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grosso AA, Di Maida F, Nardoni S, Salvi M, Giudici S, Lambertini L, et al. Patterns and Predictors of Optimal Surgical and Functional Outcomes after Holmium Laser Enucleation of the Prostate (HoLEP): Introducing the Concept of “Trifecta”. World J Mens Health. 2023. https://doi.org/10.5534/wjmh.220042 .</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tuccio A, Grosso AA, Sessa F, Salvi M, Tellini R, Cocci A, et al. En-Bloc Holmium Laser Enucleation of the Prostate with Early Apical Release: Are We Ready for a New Paradigm? J Endourol. 2021;35:1675–83. https://doi.org/10.1089/end.2020.1189 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/end.2020.1189</ArticleId>
+            <ArticleId IdType="pubmed">33567966</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grosso AA, Di Maida F, Mari A, Nardoni S, Tuccio A, Minervini A. Holmium laser ablation of the prostate (HoLAP) with moses technology for the surgical treatment of benign prostatic hyperplasia. Int Braz J Urol. 2022;48:200–1. https://doi.org/10.1590/S1677-5538.IBJU.2021.0455 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1590/S1677-5538.IBJU.2021.0455</ArticleId>
+            <ArticleId IdType="pubmed">34735095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Porpiglia F, Checcucci E, Amparore D, Niculescu G, Volpi G, Piramide F, et al. Urethral-sparing Robot-assisted Simple Prostatectomy: An Innovative Technique to Preserve Ejaculatory Function Overcoming the Limitation of the Standard Millin Approach. Eur Urol. 2021;80:222–33. https://doi.org/10.1016/j.eururo.2020.09.028 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eururo.2020.09.028</ArticleId>
+            <ArticleId IdType="pubmed">33032850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Autorino R, Amparore D, Loizzo D, Pandolfo SD, Checcucci E, Porpiglia F. Robot-assisted Simple Prostatectomy Is Better than Endoscopic Enucleation of the Prostate. Eur Urol Focus. 2022;8:368–70. https://doi.org/10.1016/j.euf.2022.03.014 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.euf.2022.03.014</ArticleId>
+            <ArticleId IdType="pubmed">35346622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Capogrosso P, Fallara G, Pozzi E, Schifano N, Candela L, Costa A, et al. Rates and predictors of postoperative complications after Holmium laser enucleation of the prostate (HoLEP) at a high-volume center. Minerva Urol Nephrol. 2022;74:461–6. https://doi.org/10.23736/S2724-6051.21.04315-9 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.23736/S2724-6051.21.04315-9</ArticleId>
+            <ArticleId IdType="pubmed">33887894</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang MW, El Tayeb MM, Borofsky MS, Dauw CA, Wagner KR, Lowry PS, et al. Comparison of Perioperative Outcomes Between Holmium Laser Enucleation of the Prostate and Robot-Assisted Simple Prostatectomy. J Endourol. 2017;31:847–50. https://doi.org/10.1089/end.2017.0095 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/end.2017.0095</ArticleId>
+            <ArticleId IdType="pubmed">28637364</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fuschi A, Al Salhi Y, Velotti G, Capone L, Martoccia A, Suraci PP, et al. Holmium laser enucleation of prostate versus minimally invasive simple prostatectomy for large volume (≥120 mL) prostate glands: a prospective multicenter randomized study. Minerva Urol Nephrol. 2021;73:638–48. https://doi.org/10.23736/S2724-6051.20.04043-6 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.23736/S2724-6051.20.04043-6</ArticleId>
+            <ArticleId IdType="pubmed">33200899</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Di Maida F, Grosso AA, Tellini R, Nardoni S, Giudici S, Cadenar A, et al. Holmium laser enucleation of the prostate (HoLEP) is safe and effective in patients with high comorbidity burden. Int Braz J Urol. 2023;49:341–50. https://doi.org/10.1590/S1677-5538.IBJU.2022.0174 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1590/S1677-5538.IBJU.2022.0174</ArticleId>
+            <ArticleId IdType="pubmed">36794848</ArticleId>
+            <ArticleId IdType="pmcid">10335890</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tuccio A, Grosso AA, Di Maida F, Mari A, Minervini A. Letter to the Editor regarding the article “The “Omega Sign”: a novel HoLEP technique that improves continence outcomes after enucleation”. World J Urol. 2022;40:1067–8. https://doi.org/10.1007/s00345-021-03667-9 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00345-021-03667-9</ArticleId>
+            <ArticleId IdType="pubmed">33744989</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grosso AA, Tuccio A, Salvi M, Paganelli D, Minervini A, Di Maida F. Re: Paolo Capogrosso, Eugenio Ventimiglia, Giuseppe Fallara, et al. Holmium Laser Enucleation of the Prostate Is Associated with Complications and Sequelae Even in the Hands of an Experienced Surgeon Following Completion of the Learning Curve. Eur Urol Focus. https://doi.org/10.1016/j.euf.2023.03.018 . In press. Eur Urol Focus. 2023;3:S2405-4569(23)00149-9. https://doi.org/10.1016/j.euf.2023.05.013 .</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tunc L, Yalcin S, Kaya E, Gazel E, Yılmaz S, Aybal HC, et al. The “Omega Sign”: a novel HoLEP technique that improves continence outcomes after enucleation. World J Urol. 2021;39:135–41. https://doi.org/10.1007/s00345-020-03152-9 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00345-020-03152-9</ArticleId>
+            <ArticleId IdType="pubmed">32193652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin YH, Chang SY, Tsao SH, Hou CP, Chen CL, Lin WC, et al. Anterior fibromuscular stroma-preserved endoscopic enucleation of the prostate: a precision anatomical approach. World J Urol. 2022. https://doi.org/10.1007/s00345-022-04270-2 .</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee MS, Assmus MA, Ganesh M, Han J, Helon J, Mai Q, et al. An Outcomes Comparison Between Holmium Laser Enucleation of the Prostate, Open Simple Prostatectomy, and Robotic Simple Prostatectomy for Large Gland Benign Prostatic Hypertrophy. Urology. 2023;173:180–6. https://doi.org/10.1016/j.urology.2022.12.018 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.urology.2022.12.018</ArticleId>
+            <ArticleId IdType="pubmed">36586427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shelton TM, Drake C, Vasquez R, Rivera M. Comparison of Contemporary Surgical Outcomes Between Holmium Laser Enucleation of the Prostate and Robotic-Assisted Simple Prostatectomy. Curr Urol Rep. 2023;24:221–9. https://doi.org/10.1007/s11934-023-01146-9 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11934-023-01146-9</ArticleId>
+            <ArticleId IdType="pubmed">36800115</ArticleId>
+            <ArticleId IdType="pmcid">9936114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brunckhorst O, Ahmed K, Nehikhare O, Marra G, Challacombe B, Popert R. Evaluation of the Learning Curve for Holmium Laser Enucleation of the Prostate Using Multiple Outcome Measures. Urology. 2015;86:824–9. https://doi.org/10.1016/j.urology.2015.07.021 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.urology.2015.07.021</ArticleId>
+            <ArticleId IdType="pubmed">26254171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johnson B, Sorokin I, Singla N, Roehrborn C, Gahan JC. Determining the Learning Curve for Robot-Assisted Simple Prostatectomy in Surgeons Familiar with Robotic Surgery. J Endourol. 2018;32:865–70. https://doi.org/10.1089/end.2018.0377 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/end.2018.0377</ArticleId>
+            <ArticleId IdType="pubmed">30062904</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sokolakis I, Pyrgidis N, Russo GI, Sountoulides P, Hatzichristodoulou G. Preserving Ejaculation: A Guide Through the Landscape of Interventional and Surgical Options for Benign Prostatic Obstruction. Eur Urol Focus. 2022;8:380–3. https://doi.org/10.1016/j.euf.2022.03.008 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.euf.2022.03.008</ArticleId>
+            <ArticleId IdType="pubmed">35339416</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Porto JG, Arbelaez MCS, Blachman-Braun R, Bhatia A, Bhatia S, Satyanarayana R, et al. Complications associated with minimally invasive surgical therapies (MIST) for surgical management of benign prostatic hyperplasia: a Manufacturer and User Facility Device Experience (MAUDE) database review. World J Urol. 2023;41:1975–82. https://doi.org/10.1007/s00345-023-04440-w .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00345-023-04440-w</ArticleId>
+            <ArticleId IdType="pubmed">37222779</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Checcucci E, Veccia A, De Cillis S, Piramide F, Volpi G, Amparore D, et al. New Ultra-minimally Invasive Surgical Treatment for Benign Prostatic Hyperplasia: A Systematic Review and Analysis of Comparative Outcomes. Eur Urol Open Sci. 2021;33:28–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.euros.2021.08.009</ArticleId>
+            <ArticleId IdType="pubmed">34604814</ArticleId>
+            <ArticleId IdType="pmcid">8473553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37864612</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>01</Month>
+        <Day>04</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>01</Month>
+        <Day>04</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1437-7772</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>29</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of clinical oncology</Title>
+          <ISOAbbreviation>Int J Clin Oncol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of perioperative outcomes and complications between intracorporeal, extracorporeal, and hybrid ileal conduit urinary diversion during robot-assisted radical cystectomy: a comparative propensity score-matched analysis from nationwide multi-institutional study in Japan.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>64-71</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10147-023-02425-8</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">To investigate the impact of different urinary diversion (UD) techniques on the peri- and postoperative complications of robot-assisted radical cystectomy (RARC) with ileal conduit.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We retrospectively analyzed 373 patients undergoing RARC with ileal conduit at 11 institutions in Japan between April 2018 and December 2021. Propensity score weighting was performed to adjust for confounding factors such as age, sex, body mass index, performance status, American Society of Anesthesiologists score, previous abdominal surgery, neoadjuvant chemotherapy, and preoperative high T stage (≥ cT3) and high N stage (≥ cN1). Perioperative complications were then compared among three groups: extracorporeal, intracorporeal, and hybrid urinary diversion (ECUD, ICUD, and HUD, respectively).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 150, 68, and 155 patients received ECUD, HUD, and ICUD, respectively. Bowel reconstruction time and UD time were significantly shorter in the ECUD group (p &lt; 0.001), and console time was significantly longer and blood loss was significantly higher in the ICUD group (p &lt; 0.001). For postoperative complications (Clavien-Dindo Classification grade ≥ 3), surgical site infection (p = 0.004), pelvic abscess (p = 0.013), anastomotic urine leak (p = 0.007), and pelvic organ prolapse (p = 0.011) significantly occurred in the ECUD group. For all grades, ileus was more common in the HUD group, whereas anastomotic stricture was more common in the ECUD group compared with the other groups (p &lt; 0.05).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Severe complications did not increase after HUD and ICUD compared with ECUD; however, console time tended to be longer and blood loss was slightly higher during RARC.</AbstractText>
+          <CopyrightInformation>© 2023. The Author(s) under exclusive licence to Japan Society of Clinical Oncology.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Morizane</LastName>
+            <ForeName>Shuichi</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-0344-5892</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Surgery, Faculty of Medicine, Tottori University, 86 Nishi-cho, Yonago, Tottori, 683-8503, Japan. morizane@tottori-u.ac.jp.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nakane</LastName>
+            <ForeName>Keita</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Gifu University Graduate School of Medicine, Yanagido, Gifu, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tanaka</LastName>
+            <ForeName>Toshiaki</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Sapporo Medical University School of Medicine, Chuo-ku, Sapporo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zennami</LastName>
+            <ForeName>Kenji</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Fujita Health University School of Medicine, Toyoake, Aichi, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Muraoka</LastName>
+            <ForeName>Kentaro</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, School of Medicine, Yokohama City University, Yokohama, Kanagawa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ebara</LastName>
+            <ForeName>Shin</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Hiroshima City Hiroshima Citizens Hospital, Hiroshima, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Miura</LastName>
+            <ForeName>Noriyoshi</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Ehime University Graduate School of Medicine, Matsuyama, Ehime, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Uemura</LastName>
+            <ForeName>Koichi</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Yokohama Minami Kyousai Hospital, Yokohama, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sobu</LastName>
+            <ForeName>Ryuta</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Akita University Graduate School of Medicine, Akita, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hoshi</LastName>
+            <ForeName>Akio</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Faculty of Medicine and Graduate School of Comprehensive Human Science, University of Tsukuba, Ibaraki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Taoka</LastName>
+            <ForeName>Rikiya</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Faculty of Medicine, Kagawa University, Takamatsu, Kagawa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sugimoto</LastName>
+            <ForeName>Mikio</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Faculty of Medicine, Kagawa University, Takamatsu, Kagawa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Noma</LastName>
+            <ForeName>Hisashi</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Data Science, The Institute of Statistical Mathematics, Tachikawa, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sunada</LastName>
+            <ForeName>Hiroshi</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Advanced Medicine, Innovation and Clinical Research Center, Tottori University Hospital, Yonago, Tottori, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nishiyama</LastName>
+            <ForeName>Hiroyuki</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Faculty of Medicine and Graduate School of Comprehensive Human Science, University of Tsukuba, Ibaraki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Habuchi</LastName>
+            <ForeName>Tomonori</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Akita University Graduate School of Medicine, Akita, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ikeda</LastName>
+            <ForeName>Ichiro</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Yokohama Minami Kyousai Hospital, Yokohama, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Saika</LastName>
+            <ForeName>Takashi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Ehime University Graduate School of Medicine, Matsuyama, Ehime, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Makiyama</LastName>
+            <ForeName>Kazuhide</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, School of Medicine, Yokohama City University, Yokohama, Kanagawa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shiroki</LastName>
+            <ForeName>Ryoichi</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Fujita Health University School of Medicine, Toyoake, Aichi, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Masumori</LastName>
+            <ForeName>Naoya</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Sapporo Medical University School of Medicine, Chuo-ku, Sapporo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Koie</LastName>
+            <ForeName>Takuya</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Gifu University Graduate School of Medicine, Yanagido, Gifu, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Takenaka</LastName>
+            <ForeName>Atsushi</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Surgery, Faculty of Medicine, Tottori University, 86 Nishi-cho, Yonago, Tottori, 683-8503, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Japan</Country>
+        <MedlineTA>Int J Clin Oncol</MedlineTA>
+        <NlmUniqueID>9616295</NlmUniqueID>
+        <ISSNLinking>1341-9625</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015653" MajorTopicYN="N">Cystectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="N">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007564" MajorTopicYN="N" Type="Geographic">Japan</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001749" MajorTopicYN="Y">Urinary Bladder Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014547" MajorTopicYN="Y">Urinary Diversion</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057868" MajorTopicYN="N">Anastomotic Leak</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Radical cystectomy</Keyword>
+        <Keyword MajorTopicYN="N">Robotics</Keyword>
+        <Keyword MajorTopicYN="N">Urinary diversion</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>07</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>1</Month>
+          <Day>4</Day>
+          <Hour>11</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>21</Day>
+          <Hour>19</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>21</Day>
+          <Hour>11</Hour>
+          <Minute>4</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37864612</ArticleId>
+        <ArticleId IdType="doi">10.1007/s10147-023-02425-8</ArticleId>
+        <ArticleId IdType="pii">10.1007/s10147-023-02425-8</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Witjes JA, Bruins HM, Cathomas R et al (2021) European Association of Urology Guidelines on muscle-invasive and metastatic bladder cancer: summary of the 2020 guidelines. Eur Urol 79:82–104</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eururo.2020.03.055</ArticleId>
+            <ArticleId IdType="pubmed">32360052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zakaria AS, Santos F, Tanguay S et al (2015) Radical cystectomy in patients over 80 years old in Quebec: a population-based study of outcomes. J Surg Oncol 111:917–922</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jso.23887</ArticleId>
+            <ArticleId IdType="pubmed">25663440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iwamoto H, Yumioka T, Yamaguchi N et al (2016) Robot-assisted radical cystectomy is a promising alternative to open surgery in the Japanese population with a high rate of octogenarians. Int J Clin Oncol 21:756–763</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10147-016-0950-8</ArticleId>
+            <ArticleId IdType="pubmed">26792433</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu A, Wang Y, Mossanen M et al (2021) Robotic-assisted radical cystectomy is associated with lower perioperative mortality in octogenarians. Urol Oncol. https://doi.org/10.1016/j.urolonc.2021.08.027</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.urolonc.2021.08.027</ArticleId>
+            <ArticleId IdType="pubmed">34629281</ArticleId>
+            <ArticleId IdType="pmcid">8960322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iwamoto H, Morizane S, Koie T et al (2019) Peri-operative efficacy and long-term survival benefit of robotic-assisted radical cystectomy in septuagenarian patients compared with younger patients: a nationwide multi-institutional study in Japan. Int J Clin Oncol 24:1588–1595</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10147-019-01470-6</ArticleId>
+            <ArticleId IdType="pubmed">31123937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koie T, Ohyama C, Makiyama K et al (2019) Utility of robot-assisted radical cystectomy with intracorporeal urinary diversion for muscle-invasive bladder cancer. Int J Urol 26:334–340</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/iju.13900</ArticleId>
+            <ArticleId IdType="pubmed">30690817</ArticleId>
+            <ArticleId IdType="pmcid">6850512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Honore M, Roberts MJ, Morton A et al (2019) Outcomes and learning curve for robotic-assisted radical cystectomy: an Australian experience. ANZ J Surg 89:1593–1598</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/ans.15413</ArticleId>
+            <ArticleId IdType="pubmed">31478345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Masumori N, Fukuta F (2019) Development of combined method for construction of continent urinary diversion: Studer neobladder. Int J Urol 26:1158–1160</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/iju.14100</ArticleId>
+            <ArticleId IdType="pubmed">31497893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chan KG, Collins JW, Wiklund NP (2015) Robot-assisted radical cystectomy: extracorporeal vs intracorporeal urinary diversion. J Urol 193:1467–1469</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.juro.2015.02.042</ArticleId>
+            <ArticleId IdType="pubmed">25686541</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iwamoto H, Morizane S, Yamamoto A et al (2022) Utility of the HYBRID method incorporating the advantages of both extracorporeal and intracorporeal urinary diversion in robotic-assisted radical cystectomy. Yonago Acta Med 65:288–295</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.33160/yam.2022.11.004</ArticleId>
+            <ArticleId IdType="pubmed">36474898</ArticleId>
+            <ArticleId IdType="pmcid">9691377</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davis NF, Burke JP, McDermott T et al (2015) Bricker versus Wallace anastomosis: a meta-analysis of ureteroenteric stricture rates after ileal conduit urinary diversion. Can Urol Assoc J 9:E284-290</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5489/cuaj.2692</ArticleId>
+            <ArticleId IdType="pubmed">26029296</ArticleId>
+            <ArticleId IdType="pmcid">4439225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rich J, Tillu N, Grauer R et al (2023) Robotic-assisted repair of ureteroenteric strictures after cystectomy with urinary diversion: technique description and outcomes from the ERUS Scientific Working Group. J Endourol. https://doi.org/10.1089/end.2023.0204</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/end.2023.0204</ArticleId>
+            <ArticleId IdType="pubmed">37694596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Novara G, Catto JW, Wilson T et al (2015) Systematic review and cumulative analysis of perioperative outcomes and complications after robot-assisted radical cystectomy. Eur Urol 67:376–401</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eururo.2014.12.007</ArticleId>
+            <ArticleId IdType="pubmed">25560798</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ahmed K, Khan SA, Hayn MH et al (2014) Analysis of intracorporeal compared with extracorporeal urinary diversion after robot-assisted radical cystectomy: results from the International Robotic Cystectomy Consortium. Eur Urol 65:340–347</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eururo.2013.09.042</ArticleId>
+            <ArticleId IdType="pubmed">24183419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hussein AA, May PR, Jing Z et al (2018) Outcomes of intracorporeal urinary diversion after robot-assisted radical cystectomy: results from the International Robotic Cystectomy Consortium. J Urol 199:1302–1311</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.juro.2017.12.045</ArticleId>
+            <ArticleId IdType="pubmed">29275112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hussein AA, Elsayed AS, Aldhaam NA et al (2020) A comparative propensity score-matched analysis of perioperative outcomes of intracorporeal vs extracorporeal urinary diversion after robot-assisted radical cystectomy: results from the International Robotic Cystectomy Consortium. BJU Int 126:265–272</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/bju.15083</ArticleId>
+            <ArticleId IdType="pubmed">32306494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang JH, Ericson KJ, Thomas LJ et al (2020) Large single institution comparison of perioperative outcomes and complications of open radical cystectomy, intracorporeal robot-assisted radical cystectomy and robotic extracorporeal approach. J Urol 203:512–521</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/JU.0000000000000570</ArticleId>
+            <ArticleId IdType="pubmed">31580189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lenfant L, Verhoest G, Campi R et al (2018) Perioperative outcomes and complications of intracorporeal vs extracorporeal urinary diversion after robot-assisted radical cystectomy for bladder cancer: a real-life, multi-institutional French study. World J Urol 36:1711–1718</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00345-018-2313-8</ArticleId>
+            <ArticleId IdType="pubmed">29744571</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bertolo R, Agudelo J, Garisto J et al (2019) Perioperative outcomes and complications after robotic radical cystectomy with intracorporeal or extracorporeal ileal conduit urinary diversion: head-to-head comparison from a single-institutional prospective study. Urology 129:98–105</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31235009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Teoh JY, Chan EO, Kang SH et al (2021) Perioperative outcomes of robot-assisted radical cystectomy with intracorporeal versus extracorporeal urinary diversion. Ann Surg Oncol 28:9209–9215</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1245/s10434-021-10295-5</ArticleId>
+            <ArticleId IdType="pubmed">34152523</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cai Z, Li H, Hu J et al (2021) Intracorporeal versus extracorporeal urinary diversion after robot-assisted radical cystectomy: a pooled analysis. Gland Surg 10:706–720</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21037/gs-20-740</ArticleId>
+            <ArticleId IdType="pubmed">33708553</ArticleId>
+            <ArticleId IdType="pmcid">7944070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carrion A, Piñero A, Raventós C et al (2019) Comparison of perioperative outcomes and complications of robot assisted radical cystectomy with extracorporeal vs intracorporeal urinary diversion. Actas Urológicas Españolas 43:277–283</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.acuro.2019.01.006</ArticleId>
+            <ArticleId IdType="pubmed">31036392</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao J, Wang M, He W et al (2019) Does Postoperative rehabilitation for radical cystectomy call for enhanced recovery after surgery? A systematic review and meta-analysis. Curr Med Sci 39:99–110</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11596-019-2006-6</ArticleId>
+            <ArticleId IdType="pubmed">30868498</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cerantola Y, Valerio M, Persson B et al (2013) Guidelines for perioperative care after radical cystectomy for bladder cancer: enhanced recovery after surgery (ERAS((R))) society recommendations. Clin Nutr 32:879–887</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.clnu.2013.09.014</ArticleId>
+            <ArticleId IdType="pubmed">24189391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shim JS, Noh TI, Ku JH et al (2021) Effect of intraoperative fluid volume on postoperative ileus after robot-assisted radical cystectomy. Sci Rep 11:10522</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-021-89806-z</ArticleId>
+            <ArticleId IdType="pubmed">34006918</ArticleId>
+            <ArticleId IdType="pmcid">8131600</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zennami K, Sumitomo M, Hasegawa K et al (2022) Risk factors for postoperative ileus after robot-assisted radical cystectomy with intracorporeal urinary diversion. Int J Urol 29:553–558</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/iju.14839</ArticleId>
+            <ArticleId IdType="pubmed">35229914</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Turler A, Moore BA, Pezzone MA et al (2002) Colonic postoperative inflammatory ileus in the rat. Ann Surg 236:56–66</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/00000658-200207000-00010</ArticleId>
+            <ArticleId IdType="pubmed">12131086</ArticleId>
+            <ArticleId IdType="pmcid">1422549</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ham WS, Rha KH, Han WK et al (2021) Oncologic outcomes of intracorporeal vs extracorporeal urinary diversion after robot-assisted radical cystectomy: a multi-institutional Korean study. J Endourol 35:1490–1497</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/end.2021.0067</ArticleId>
+            <ArticleId IdType="pubmed">33678003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">37869761</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>01</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>01</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1973-9095</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>59</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>European journal of physical and rehabilitation medicine</Title>
+          <ISOAbbreviation>Eur J Phys Rehabil Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Feasibility, safety, and efficacy of task-oriented mirrored robotic training on upper-limb functions and activities of daily living in subacute poststroke patients: a pilot study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>660-668</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.23736/S1973-9087.23.08018-8</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Robotic training with high repetitions facilitates upper-limb movements but provides fewer benefits for activities of daily living. Integrating activities of daily living training tasks and mirror therapy into a robot may enhance the functional gains of robotic training.</AbstractText>
+          <AbstractText Label="AIM" NlmCategory="OBJECTIVE">The aim of this study was to investigate the feasibility, safety, and efficacy of the task-oriented mirrored upper-limb robotic training on the upper-limb functions and activities of daily living of subacute poststroke patients.</AbstractText>
+          <AbstractText Label="DESIGN" NlmCategory="METHODS">This study is a single-blinded, active-controlled pilot study.</AbstractText>
+          <AbstractText Label="SETTING" NlmCategory="METHODS">The study was carried out at rehabilitation outpatient clinic and ward.</AbstractText>
+          <AbstractText Label="POPULATION" NlmCategory="METHODS">A total of 32 subacute poststroke patients were enrolled in the study.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">The enrolled patients were allocated into two groups in a ratio of 1:1. The experimental group received 4 weeks of task-oriented mirrored upper-limb robotic training, consisting of five sessions of 30-minute duration, along with 30 minutes of conventional training. The control group only received 60 minutes of conventional training. The outcome measures were the Fugl-Meyer Assessment Scale for Upper Extremity, Modified Barthel Index, Stroke Self-Efficacy Scale, System Usability Scale, and Quebec User Evaluation with Assistive Technology.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">All patients completed the full training sessions without significant adverse events related to robotic training. The task-oriented mirrored upper-limb robotic training led to increased Fugl-Meyer Assessment Scale for Upper Extremity (difference: 10.38 points, P&lt;0.001) and Modified Barthel Index (difference: 18.38 points, P&lt;0.001) scores, both of which exceeded the minimal clinically important difference. Intergroup analysis showed significantly higher improvements in the Fugl-Meyer Assessment Scale for Upper Extremity total scores, shoulder, wrist, and hand scores; and Modified Barthel Index scores in the experimental group than in conventional training (all P&lt;0.05). Both groups showed significant improvements in Stroke Self-Efficacy Scale scores after the intervention (both P&lt;0.001), but without a statistically significant intergroup difference (P&gt;0.05). Participants in the experimental group scored an average usability perception score of 74.74 (good) and an average satisfaction score of four or more out of five.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In general, task-oriented mirrored upper-limb robotic training appears feasible and safe for subacute poststroke rehabilitation, facilitating the recovery of upper-limb functions and activities of daily living.</AbstractText>
+          <AbstractText Label="CLINICAL REHABILITATION IMPACT" NlmCategory="CONCLUSIONS">Task-oriented mirrored upper-limb robotic training shows promise for future clinical rehabilitation and clinical trials involving subacute poststroke patients.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>You-Ze</ForeName>
+            <Initials>YZ</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Collaborative Innovation Center for Rehabilitation Technology, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Zhen-Ming</ForeName>
+            <Initials>ZM</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Deng</LastName>
+            <ForeName>Hai-Yin</ForeName>
+            <Initials>HY</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Jia</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Collaborative Innovation Center for Rehabilitation Technology, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Jian-Huang</ForeName>
+            <Initials>JH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Shenzhen Wisemen Medical Technologies Co., Ltd, Shenzhen, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Jing-Song</ForeName>
+            <Initials>JS</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, China - jingsongwu01@163.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Collaborative Innovation Center for Rehabilitation Technology, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D018848">Controlled Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>23</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Italy</Country>
+        <MedlineTA>Eur J Phys Rehabil Med</MedlineTA>
+        <NlmUniqueID>101465662</NlmUniqueID>
+        <ISSNLinking>1973-9087</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000203" MajorTopicYN="N">Activities of Daily Living</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005240" MajorTopicYN="N">Feasibility Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020127" MajorTopicYN="N">Recovery of Function</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020521" MajorTopicYN="Y">Stroke</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071939" MajorTopicYN="Y">Stroke Rehabilitation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D034941" MajorTopicYN="N">Upper Extremity</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>1</Month>
+          <Day>15</Day>
+          <Hour>12</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>49</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>23</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37869761</ArticleId>
+        <ArticleId IdType="pii">S1973-9087.23.08018-8</ArticleId>
+        <ArticleId IdType="doi">10.23736/S1973-9087.23.08018-8</ArticleId>
+        <ArticleId IdType="pmc">PMC10795073</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ann Phys Rehabil Med. 2019 Sep;62(5):313-320</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31028900</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neuroeng Rehabil. 2021 Jan 11;18(1):6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33430912</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurorehabil Neural Repair. 2019 Sep;33(9):751-761</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31328671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Adv Nurs. 2011 Sep;67(9):1876-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21645040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cochrane Database Syst Rev. 2016 Nov 14;11:CD006073</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27841442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Phys Rehabil Med. 2020 Jun;56(3):265-271</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32214062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Neurol. 2020 Apr;19(4):348-360</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32004440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Stroke. 2017 Jul;12(5):444-450</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28697708</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurorehabil Neural Repair. 2015 Sep;29(8):703-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25527488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pak Med Assoc. 2022 Jul;72(7):1406-1415</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36156569</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2014 Feb 04;9(2):e87987</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24505342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neuroeng Rehabil. 2022 Oct 7;19(1):107</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36207720</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurorehabil Neural Repair. 2016 Jun;30(5):470-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26359342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Md State Med J. 1965 Feb;14:61-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14258950</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neuroeng Rehabil. 2020 Jan 30;17(1):10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32000790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Top Stroke Rehabil. 2005 Summer;12(3):58-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16110428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Assist Technol. 2006 Spring;18(1):25-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16796239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Environ Res Public Health. 2022 Mar 08;19(6):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35328874</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ther Clin Risk Manag. 2020 Feb 07;16:75-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32103968</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 1995 Oct 12;377(6549):489-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7566144</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Nurs. 2008 Apr;17(7B):244-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18578800</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Behav. 2020 Aug;10(8):e01742</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32592282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Stroke. 2022 Oct;17(9):946-956</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35975986</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Stroke. 2014 Apr;9(3):313-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23227818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurorehabil Neural Repair. 2015 May;29(4):349-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25160567</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Adv Nurs. 2023 Jan;79(1):135-148</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36257927</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cochrane Database Syst Rev. 2018 Jul 11;7:CD008449</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29993119</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2019 Jul 6;394(10192):51-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31128926</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circ Res. 2017 Feb 3;120(3):439-448</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28154096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Intern Med. 2019 Dec 17;171(12):906-915</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31739315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Phys Ther. 2012 Jun;92(6):791-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22282773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurol. 2023 Feb;270(2):831-842</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36210358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cochrane Database Syst Rev. 2015 Nov 07;(11):CD006876</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26559225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 2021 Jun;52(6):1938-1947</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33910364</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurol Phys Ther. 2020 Jan;44(1):3-14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31834217</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scand J Rehabil Med. 1975;7(1):13-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1135616</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Neurol. 2021 Oct;20(10):795-820</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34487721</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Healthc Technol Lett. 2016 Dec 7;3(4):254-256</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28008360</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Disabil Rehabil. 2022 May;44(10):2099-2103</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32903114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Disabil Rehabil. 2021 Aug;43(16):2332-2341</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31846594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37872750</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>12</Month>
+        <Day>25</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>04</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1600-051X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>51</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>01</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of clinical periodontology</Title>
+          <ISOAbbreviation>J Clin Periodontol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Improved positional accuracy of dental implant placement using a haptic and machine-vision-controlled collaborative surgery robot: A pilot randomized controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>24-32</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/jcpe.13893</ELocationID>
+        <Abstract>
+          <AbstractText Label="AIM">To compare the implant accuracy, safety and morbidity between robot-assisted and freehand dental implant placement.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS">Subjects requiring single-site dental implant placement were recruited. Patients were randomly allocated to freehand implant placement and robot-assisted implant placement. Differences in positional accuracy of the implant, surgical morbidity and complications were assessed. The significance of intergroup differences was tested with an intention-to-treat analysis and a per-protocol (PP) analysis (excluding one patient due to calibration error).</AbstractText>
+          <AbstractText Label="RESULTS">Twenty patients (with a median age of 37, 13 female) were included. One subject assigned to the robotic arm was excluded from the PP analysis because of a large calibration error due to the dislodgement of the index. For robot-assisted and freehand implant placement, with the PP analysis, the median (25th-75th percentile) platform global deviation, apex global deviation and angular deviation were 1.23 (0.9-1.4) mm/1.9 (1.2-2.3) mm (p = .03, the Mann-Whitney U-test), 1.40 (1.1-1.6) mm/2.1 (1.7-3.9) mm (p &lt; .01) and 3.0 (0.9-6.0)°/6.7 (2.2-13.9)° (p = .08), respectively. Both methods showed limited damage to the alveolar ridge and had similar peri- and post-operative morbidity and safety.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Robot-assisted implant placement enabled greater positional accuracy of the implant compared to freehand placement in this pilot trial. The robotic system should be further developed to simplify surgical procedures and improve accuracy and be validated in properly sized trials assessing the full spectrum of relevant outcomes.</AbstractText>
+          <CopyrightInformation>© 2023 The Authors. Journal of Clinical Periodontology published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Shi</LastName>
+            <ForeName>Jun-Yu</ForeName>
+            <Initials>JY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Shanghai PerioImplant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center for Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Bei-Lei</ForeName>
+            <Initials>BL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Shanghai PerioImplant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center for Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Xin-Yu</ForeName>
+            <Initials>XY</Initials>
+            <Identifier Source="ORCID">0000-0003-1310-1452</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Shanghai PerioImplant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center for Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Min</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Shanghai PerioImplant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center for Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Qi</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Shanghai PerioImplant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center for Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lai</LastName>
+            <ForeName>Hong-Chang</ForeName>
+            <Initials>HC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Shanghai PerioImplant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center for Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tonetti</LastName>
+            <ForeName>Maurizio S</ForeName>
+            <Initials>MS</Initials>
+            <Identifier Source="ORCID">0000-0002-2743-0137</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Shanghai PerioImplant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center for Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>European Research Group on Periodontology, Genoa, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>JYLJ201909</GrantID>
+            <Agency>Clinical Research Program of Ninth People's Hospital affiliated Shanghai Jiao Tong University School of Medicine</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>19411950100</GrantID>
+            <Agency>National Clinical Research Center for Oral Diseases</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>SHSMUZDCX202125000</GrantID>
+            <Agency>Shanghai Innovative Research Team Award of High-Level University</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <Agency>Theta robot manufacturer (Jianjia Ltd., Hanghzhou, China)</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>23</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Clin Periodontol</MedlineTA>
+        <NlmUniqueID>0425123</NlmUniqueID>
+        <ISSNLinking>0303-6979</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015921">Dental Implants</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015921" MajorTopicYN="Y">Dental Implants</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000089862" MajorTopicYN="N">Haptic Technology</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003758" MajorTopicYN="N">Dental Implantation, Endosseous</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="Y">Surgery, Computer-Assisted</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054893" MajorTopicYN="N">Cone-Beam Computed Tomography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017076" MajorTopicYN="N">Computer-Aided Design</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">accuracy</Keyword>
+        <Keyword MajorTopicYN="N">collaborative robot</Keyword>
+        <Keyword MajorTopicYN="N">dental implants</Keyword>
+        <Keyword MajorTopicYN="N">digital dentistry</Keyword>
+        <Keyword MajorTopicYN="N">robot-assisted surgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2023</Year>
+          <Month>09</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>07</Month>
+          <Day>31</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>24</Day>
+          <Hour>1</Hour>
+          <Minute>23</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37872750</ArticleId>
+        <ArticleId IdType="doi">10.1111/jcpe.13893</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Block, M. S., Emery, R. W., Lank, K., &amp; Ryan, J. (2017). Implant placement accuracy using dynamic navigation. The International Journal of Oral &amp; Maxillofacial Implants, 32(1), 92-99. https://doi.org/10.11607/jomi.5004</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bolding, S. L., &amp; Reebye, U. N. (2022). Accuracy of haptic robotic guidance of dental implant surgery for completely edentulous arches. The Journal of Prosthetic Dentistry, 128(4), 639-647. https://doi.org/10.1016/j.prosdent.2020.12.048</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen, W., Al-Taezi, K. A., Chu, C. H., Shen, Y., Wu, J., Cai, K., Chen, P., &amp; Tang, C. (2023). Accuracy of dental implant placement with a robotic system in partially edentulous patients: A prospective, single-arm clinical trial. Clinical Oral Implants Research, 34, 707-718. https://doi.org/10.1111/clr.14083</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cheng, K. J., Kan, T. S., Liu, Y. F., Zhu, W. D., Zhu, F. D., Wang, W. B., Jiang, X. F., &amp; Dong, X. T. (2021). Accuracy of dental implant surgery with robotic position feedback and registration algorithm: An in-vitro study. Computers in Biology and Medicine, 129, 104153. https://doi.org/10.1016/j.compbiomed.2020.104153</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dudek, P., Richardson, T., Bose, L., Carey, S., Chen, J., Greatwood, C., Liu, Y., &amp; Mayol-Cuevas, W. (2022). Sensor-level computer vision with pixel processor arrays for agile robots. Science Robotics, 7(67), eabl7755. https://doi.org/10.1126/scirobotics.abl7755</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Herregodts, S., Verhaeghe, M., De Coninck, B., Forward, M., Verstraete, M. A., Victor, J., &amp; De Baets, P. (2021). An improved method for assessing the technical accuracy of optical tracking systems for orthopaedic surgical navigation. International Journal of Medical Robotics, 17(4), e2285. https://doi.org/10.1002/rcs.2285</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Herrera, D., Berglundh, T., Schwarz, F., Chapple, I., Jepsen, S., Sculean, A., Kebschull, M., Papapanou, P. N., Tonetti, M. S., &amp; Sanz, M. (2023). Prevention and treatment of peri-implant diseases-The EFP S3 level clinical practice guideline. Journal of Clinical Periodontology, 50, 4-76. https://doi.org/10.1111/jcpe.13823</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kumar, V., Patel, S., Baburaj, V., Rajnish, R. K., &amp; Aggarwal, S. (2021). Does robotic-assisted surgery improve outcomes of total hip arthroplasty compared to manual technique? A systematic review and meta-analysis. Postgraduate Medical Journal, 99, 375-383. https://doi.org/10.1136/postgradmedj-2021-141135</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kunze, K. N., Bovonratwet, P., Polce, E. M., Paul, K., &amp; Sculco, P. K. (2022). Comparison of surgical time, short-term adverse events, and implant placement accuracy between manual, robotic-assisted, and computer-navigated total hip arthroplasty: A network meta-analysis of randomized controlled trials. Journal of the American Academy of Orthopaedic Surgeons: Global Research and Reviews, 6(4), e21. https://doi.org/10.5435/JAAOSGlobal-D-21-00200</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mozer, P. S. (2020). Accuracy and deviation analysis of static and robotic guided implant surgery: A case study. The International Journal of Oral &amp; Maxillofacial Implants, 35(5), e86-e90. https://doi.org/10.11607/jomi.8231</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Needleman, I., Sanz, M., Carrillo de Albornoz, A., Safii, S., Hassan, N. H. M., Qian, S., &amp; Tonetti, M. (2023). Involving people with lived experience in developing a core outcome set for implant dentistry research. The Implant Dentistry-Core Outcomes Sets and Measures (ID-COSM) project. Journal of Clinical Periodontology, 50(Suppl 25), 96-106. https://doi.org/10.1111/jcpe.13812</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nogalo, C., Meena, A., Abermann, E., &amp; Fink, C. (2023). Complications and downsides of the robotic total knee arthroplasty: A systematic review. Knee Surgery, Sports Traumatology, Arthroscopy, 31(3), 736-750. https://doi.org/10.1007/s00167-022-07031-1</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Qiao, S., Wu, X., Shi, J., Tonetti, M. S., &amp; Lai, H. (2023). Accuracy and safety of a haptic operated and machine vision controlled collaborative robot for dental implant placement: A translational study. Clinical Oral Implants Research, 34(8), 839-849. https://doi.org/10.111/clr.14112</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sanz, M., Carrillo de Albornoz, A., Martín, C., Needleman, I., &amp; Tonetti, M. S. (2023). Multi-stakeholder contribution to the identification of a core outcome set and measurements in implant dentistry (ID-COSM initiative) using the Delphi methodology. Journal of Clinical Periodontology, 50(Suppl 25), 107-121. https://doi.org/10.1111/jcpe.13805</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Simpson, A. L., Burgner, J., Glisson, C. L., Herrell, S. D., Ma, B., Pheiffer, T. S., Webster, R. J., III, &amp; Miga, M. I. (2013). Comparison study of intraoperative surface acquisition methods for surgical navigation. IEEE Transactions on Biomedical Engineering, 60(4), 1090-1099. https://doi.org/10.1109/tbme.2012.2215033</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tao, B., Feng, Y., Fan, X., Zhuang, M., Chen, X., Wang, F., &amp; Wu, Y. (2022). Accuracy of dental implant surgery using dynamic navigation and robotic systems: An in vitro study. Journal of Dentistry, 123, 104170. https://doi.org/10.1016/j.jdent.2022.104170</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tatakis, D. N., Chien, H. H., &amp; Parashis, A. O. (2019). Guided implant surgery risks and their prevention. Periodontology 2000, 81(1), 194-208. https://doi.org/10.1111/prd.12292</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tattan, M., Chambrone, L., González-Martín, O., &amp; Avila-Ortiz, G. (2020). Static computer-aided, partially guided, and free-handed implant placement: A systematic review and meta-analysis of randomized controlled trials. Clinical Oral Implants Research, 31(10), 889-916. https://doi.org/10.1111/clr.13635</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tonetti, M. S., Sanz, M., Avila-Ortiz, G., Berglundh, T., Cairo, F., Derks, J., Figuero, E., Graziani, F., Guerra, F., Heitz-Mayfield, L., Jung, R. E., Lai, H., Needleman, I., Papapanou, P. N., Sailer, I., Sanz-Sanchez, I., Schwarz, F., Shi, J., &amp; Thoma, D. (2023). Relevant domains, core outcome sets and measurements for implant dentistry clinical trials: The Implant Dentistry Core Outcome Set and Measurement (ID-COSM) international consensus report. Journal of Clinical Periodontology, 50(Suppl 25), 5-21. https://doi.org/10.1111/jcpe.13808</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wei, S. M., Li, Y., Deng, K., Lai, H. C., Tonetti, M. S., &amp; Shi, J. Y. (2022). Does machine-vision-assisted dynamic navigation improve the accuracy of digitally planned prosthetically guided immediate implant placement? A randomized controlled trial. Clinical Oral Implants Research, 33(8), 804-815. https://doi.org/10.1111/clr.13961</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wei, S. M., Zhu, Y., Wei, J. X., Zhang, C. N., Shi, J. Y., &amp; Lai, H. C. (2021). Accuracy of dynamic navigation in implant surgery: A systematic review and meta-analysis. Clinical Oral Implants Research, 32(4), 383-393. https://doi.org/10.1111/clr.13719</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yang, G. Z., Cambias, J., Cleary, K., Daimler, E., Drake, J., Dupont, P. E., Hata, N., Kazanzides, P., Martel, S., Patel, R. V., Santos, V. J., &amp; Taylor, R. H. (2017). Medical robotics-regulatory, ethical, and legal considerations for increasing levels of autonomy. Science Robotics, 2(4). https://doi.org/10.1126/scirobotics.aam8638</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yang, S., Chen, J., Li, A., Deng, K., Li, P., &amp; Xu, S. (2023). Accuracy of autonomous robotic surgery for single-tooth implant placement: A case series. Journal of Dentistry, 132, 104451. https://doi.org/10.1016/j.jdent.2023.104451</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

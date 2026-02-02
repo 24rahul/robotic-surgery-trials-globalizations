@@ -1,0 +1,718 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">22113980</PMID>
+      <DateCompleted>
+        <Year>2012</Year>
+        <Month>03</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1478-596X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>7</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2011</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The international journal of medical robotics + computer assisted surgery : MRCAS</Title>
+          <ISOAbbreviation>Int J Med Robot</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Preliminary application of computer-assisted patient-specific acetabular navigational template for total hip arthroplasty in adult single development dysplasia of the hip.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>469-74</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/rcs.423</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The considerable variation in anatomical abnormalities of hip joints associated with different types of developmental dysplasia of hip (DDH) makes reconstruction in total hip arthroplasty (THA) difficult. It is desirable to create patient-specific designs for THA procedures. In the cases of adult single DDH, an accuracy-improved method has been developed for acetabular cup prosthesis implantation of hip arthroplasty.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">From October 2007 to November 2008, 22 patients with single DDH (according to the Crowe standard, all dysplasia hips were classified as type I) were scanned with spiral CT pre-operatively. These patients scheduled for THA were randomly assigned to undergo either conventional THA (control group, n = 11) or navigation template implantation (NT group, n = 11). In the NT group, three-dimensional (3D) CT pelvis image data were transferred to a computer workstation and 3D models of the hip were reconstructed using the Mimics software. The 3D models were then processed by the Imageware software. In brief, a template that best fitted the location and shape of the acetabular cup was 'reversely' built from the 3D model, the rotation centre of the pathological hip determined by mirroring that of the healthy site, and a guiding hole in the template was then designed. The navigational templates were manufactured using a rapid prototyping machine. These navigation templates guide acetabular component placement.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Based on the predetermined abduction angle 45° and anteversion angle 18°, after 1 year follow-up, the NT group showed significantly smaller differences (1.6° ± 0.4°, 1.9° ± 1.1°) from the predetermined angles than those in the control group (5.8° ± 2.9°, 3.9° ± 2.5°) (P &lt; 0.05).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The template designs facilitated accurate placement of acetabular components in dysplasia of acetabulum. The hip's center of rotation in DDH could be established using computer-aided design, which provides a useful method for the accurate location of prosthesis with a low cost-performance ratio without excessive technical workload on the surgical team.</AbstractText>
+          <CopyrightInformation>Copyright © 2011 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Yuan Z</ForeName>
+            <Initials>YZ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedics, The Affiliated Hospital of Inner Mongolia Medical College, Hohhot, People's Republic of China. zhangyz588@yahoo.com.cn</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Bin</ForeName>
+            <Initials>B</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lu</LastName>
+            <ForeName>Sheng</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Yong</ForeName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Jian M</ForeName>
+            <Initials>JM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Rui</ForeName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Yan B</ForeName>
+            <Initials>YB</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pei</LastName>
+            <ForeName>Guo X</ForeName>
+            <Initials>GX</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2011</Year>
+          <Month>10</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Int J Med Robot</MedlineTA>
+        <NlmUniqueID>101250764</NlmUniqueID>
+        <ISSNLinking>1478-5951</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000077" MajorTopicYN="N">Acetabulum</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019644" MajorTopicYN="N">Arthroplasty, Replacement, Hip</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006617" MajorTopicYN="N">Hip Dislocation</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011857" MajorTopicYN="N">Radiographic Image Interpretation, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="N">Surgery, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2011</Year>
+          <Month>07</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2011</Year>
+          <Month>11</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2011</Year>
+          <Month>11</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2012</Year>
+          <Month>3</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">22113980</ArticleId>
+        <ArticleId IdType="doi">10.1002/rcs.423</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">22131088</PMID>
+      <DateCompleted>
+        <Year>2012</Year>
+        <Month>05</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>10</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-2323</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>36</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2012</Year>
+              <Month>Feb</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>World journal of surgery</Title>
+          <ISOAbbreviation>World J Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Novel integrated robotic approach for suprapancreatic D2 nodal dissection for treating gastric cancer: technique and initial experience.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>331-7</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00268-011-1352-8</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Robotic surgery for the treatment of gastric cancer has been reported, but the technique is not yet established. The objective of this study was to assess the feasibility and safety of our novel integrated procedure for robotic suprapancreatic D2 nodal dissection during distal gastrectomy.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">At our hospital from January 2009 to December 2010, a total of 25 consecutive cases of gastric cancer were treated by robotic distal gastrectomy with intracorporeal Billroth I reconstruction. These patients were enrolled in a prospective study to assess the safety and feasibility of robotic distal gastrectomy with nodal dissection by our novel integrated approach, which consists of three elements: arm formation, the surgical approach, a cutting device. To evaluate the learning curves involved in this approach, clinicopathologic features and surgical outcomes were compared between the initial (n = 12) and late (n = 13) phases.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">All operations were completed without the need for open or conventional laparoscopic surgery. The mean operating time was 361 ± 58.1 min (range 258-419 min), and blood loss recorded was 51.8 ± 38.2 ml (range 4-123 ml). The median number of retrieved lymph nodes was 44.3 ± 18.4 (range 26-95). R0 resection was accomplished in all cases. There were no deaths or complications related to pancreatic damage. Operating time and surgeon console time for the late phase were significantly shorter than those for the initial phase.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our novel robotic approach for D2 nodal dissection in gastric cancer is feasible and safe.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Uyama</LastName>
+            <ForeName>Ichiro</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Fujita Health University, 1-98 Dengakugakubo, Kutsukake-cho, Toyoake, Aichi, 470-1192, Japan. iuyama@fujita-hu.ac.jp</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kanaya</LastName>
+            <ForeName>Seiichiro</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ishida</LastName>
+            <ForeName>Yoshinori</ForeName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Inaba</LastName>
+            <ForeName>Kazuki</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Suda</LastName>
+            <ForeName>Koichi</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Satoh</LastName>
+            <ForeName>Seiji</ForeName>
+            <Initials>S</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>World J Surg</MedlineTA>
+        <NlmUniqueID>7704052</NlmUniqueID>
+        <ISSNLinking>0364-2313</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000230" MajorTopicYN="N">Adenocarcinoma</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005240" MajorTopicYN="N">Feasibility Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005743" MajorTopicYN="Y">Gastrectomy</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005763" MajorTopicYN="Y">Gastroenterostomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059032" MajorTopicYN="N">Learning Curve</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008197" MajorTopicYN="N">Lymph Node Excision</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010179" MajorTopicYN="N">Pancreas</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013274" MajorTopicYN="N">Stomach Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2011</Year>
+          <Month>12</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2011</Year>
+          <Month>12</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">22131088</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00268-011-1352-8</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Gastric Cancer. 2010 Nov;13(4):238-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21128059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2011 Dec;25(12):3928-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21660629</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2005 Dec;19(12):1592-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16247578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2004 Jan;239(1):14-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14685095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2010 Mar;251(3):417-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20160637</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2008 Nov;248(5):721-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18948798</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Surg. 2002 Aug;195(2):284-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12168979</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Surg. 2009 Dec;144(12):1138-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20026832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Clin North Am. 2003 Dec;83(6):1429-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14712877</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2001 Nov;25(11):1467-77</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11760751</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2005 Feb;241(2):232-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15650632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2007 Nov;14(11):3148-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17705092</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Gastrointest Surg. 2009 Jun;13(6):1058-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19267164</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2006 Dec;2(4):299-304</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17520647</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2008 Mar;22(3):655-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17593447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Technol Int. 2010 Oct;20:153-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21082561</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2007 Sep;21(9):1662-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17345142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gastric Cancer. 1999 Nov;2(3):186-190</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11957094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2010 Mar;24(3):610-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19688399</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Urol. 2006 Jul;13(7):857-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16882043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2009 Jun;249(6):927-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19474671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gastric Cancer. 1999 Dec;2(4):230-234</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11957104</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2008 Dec;22(12):2753-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18813994</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2008 Nov;32(11):2366-70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18668280</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">22134121</PMID>
+      <DateCompleted>
+        <Year>2012</Year>
+        <Month>09</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1525-1438</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>22</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2012</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of gynecological cancer : official journal of the International Gynecological Cancer Society</Title>
+          <ISOAbbreviation>Int J Gynecol Cancer</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Surgical outcome of robotic surgery in morbidly obese patient with endometrial cancer compared to laparotomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>76-81</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/IGC.0b013e3182353371</ELocationID>
+        <Abstract>
+          <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Before the introduction of robotic surgery at our institution, most obese women of class 2 or greater (body mass index [BMI] &gt;35) underwent a laparotomy for the management of endometrial cancer. Since November 2008, we have performed most of these cases in a robotic fashion. This manuscript presents the outcome of these women in comparison with a historical cohort of women treated with laparotomy.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Women with clinical stage I or II endometrial cancer and a BMI greater than 35 kg/m treated with robotic surgery at our institution between November 2008 and November 2010 were compared with a historical cohort of similar patients who underwent laparotomy. Patients' characteristics, operating room time, type of surgery, length of hospital stay, and incidence of perioperative complications were compared between the 2 groups.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 86 women were analyzed in this study (robotic surgery, 45; laparotomy, 41). The overall intraoperative complication rate is 5.8%. There is no statistical difference in age, number of comorbidities, BMI, prior abdominal surgery, and operative complications between the women who underwent robotic surgery versus laparotomy. Postoperative complication rates are higher in the laparotomy group (44% vs 17.7%; P = 0.007), and hospital length of stay is also higher in the laparotomy group (4 vs 2 days; P &lt; 0.001). There is no difference in rates of (pelvic) lymph node dissection; however, para-aortic node dissection is more common in the robotic surgery group.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Robotic surgery for the surgical management of the morbidly obese patient is shown to be safe and have less perioperative complications compared with open surgery.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bernardini</LastName>
+            <ForeName>Marcus Q</ForeName>
+            <Initials>MQ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Gynecologic Oncology, Princess Margaret Hospital, Ontario, Canada. Marcus.bernardini@uhn.on.ca</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gien</LastName>
+            <ForeName>Lilian T</ForeName>
+            <Initials>LT</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tipping</LastName>
+            <ForeName>Helen</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Murphy</LastName>
+            <ForeName>Joan</ForeName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rosen</LastName>
+            <ForeName>Barry P</ForeName>
+            <Initials>BP</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Int J Gynecol Cancer</MedlineTA>
+        <NlmUniqueID>9111626</NlmUniqueID>
+        <ISSNLinking>1048-891X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D018262" MajorTopicYN="N">Adenocarcinoma, Clear Cell</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002296" MajorTopicYN="N">Carcinosarcoma</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016889" MajorTopicYN="N">Endometrial Neoplasms</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007044" MajorTopicYN="N">Hysterectomy</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007431" MajorTopicYN="N">Intraoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007813" MajorTopicYN="Y">Laparotomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019060" MajorTopicYN="N">Minimally Invasive Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009767" MajorTopicYN="N">Obesity, Morbid</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2011</Year>
+          <Month>12</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2011</Year>
+          <Month>12</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2012</Year>
+          <Month>9</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">22134121</ArticleId>
+        <ArticleId IdType="doi">10.1097/IGC.0b013e3182353371</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

@@ -1,0 +1,1284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">35716847</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>09</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>10</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1879-355X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>114</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>06</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of radiation oncology, biology, physics</Title>
+          <ISOAbbreviation>Int J Radiat Oncol Biol Phys</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Treatment Planning for Cardiac Radioablation: Multicenter Multiplatform Benchmarking for the RAdiosurgery for VENtricular TAchycardia (RAVENTA) Trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>360-372</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0360-3016(22)00599-5</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijrobp.2022.06.056</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE">Cardiac radioablation is a novel treatment option for patients with refractory ventricular tachycardia unsuitable for catheter ablation. The quality of treatment planning depends on dose specifications, platform capabilities, and experience of the treating staff. To harmonize the treatment planning, benchmarking of this process is necessary for multicenter clinical studies such as the RAdiosurgery for VENtricular TAchycardia trial.</AbstractText>
+          <AbstractText Label="METHODS AND MATERIALS">Planning computed tomography data and consensus structures from 3 patients were sent to 5 academic centers for independent plan development using a variety of platforms and techniques with the RAdiosurgery for VENtricular TAchycardia study protocol serving as guideline. Three-dimensional dose distributions and treatment plan details were collected and analyzed. In addition, an objective relative plan quality ranking system for ventricular tachycardia treatments was established.</AbstractText>
+          <AbstractText Label="RESULTS">For each case, 3 coplanar volumetric modulated arc (VMAT) plans for C-arm linear accelerators (LINAC) and 3 noncoplanar treatment plans for robotic arm LINAC were generated. All plans were suitable for clinical applications with minor deviations from study guidelines in most centers. Eleven of 18 treatment plans showed maximal one minor deviation each for target and cardiac substructures. However, dose-volume histograms showed substantial differences: in one case, the planning target volume ≥30 Gy ranged from 0.0% to 79.9% and the ramus interventricularis anterior V<sub>14Gy</sub> ranged from 4.0% to 45.4%. Overall, the VMAT plans had steeper dose gradients in the high-dose region, while the plans for the robotic arm LINAC had smaller low-dose regions. Thereby, VMAT plans required only about half as many monitor units, resulting in shorter delivery times, possibly an important factor in treatment outcome.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Cardiac radioablation is feasible with robotic arm and C-arm LINAC systems with comparable plan quality. Although cross-center training and best practice guidelines have been provided, further recommendations, especially for cardiac substructures, and ranking of dose guidelines will be helpful to optimize cardiac radioablation outcomes.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kluge</LastName>
+            <ForeName>Anne</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Radioonkologie und Strahlentherapie, Charité-Universitätsmedizin Berlin, Berlin, Germany. Electronic address: anne.kluge@charite.de.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ehrbar</LastName>
+            <ForeName>Stefanie</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Radio-Onkologie, Universitäts Spital Zürich, University of Zurich, Zürich, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Grehn</LastName>
+            <ForeName>Melanie</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, University Medical Center Schleswig-Holstein, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fleckenstein</LastName>
+            <ForeName>Jens</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, Universitätsmedizin Mannheim, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Baus</LastName>
+            <ForeName>Wolfgang W</ForeName>
+            <Initials>WW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology and CyberKnife Center, Faculty of Medicine and University Hospital Cologne, University of Cologne, Cologne, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Siebert</LastName>
+            <ForeName>Frank-Andre</ForeName>
+            <Initials>FA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, University Medical Center Schleswig-Holstein, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schweikard</LastName>
+            <ForeName>Achim</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Lübeck, Institute for Robotic and Cognitive Systems, Lübeck, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Andratschke</LastName>
+            <ForeName>Nicolaus</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Radio-Onkologie, Universitäts Spital Zürich, University of Zurich, Zürich, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mayinger</LastName>
+            <ForeName>Michael C</ForeName>
+            <Initials>MC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Radio-Onkologie, Universitäts Spital Zürich, University of Zurich, Zürich, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Boda-Heggemann</LastName>
+            <ForeName>Judit</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, Universitätsmedizin Mannheim, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Buergy</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, Universitätsmedizin Mannheim, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Celik</LastName>
+            <ForeName>Eren</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology and CyberKnife Center, Faculty of Medicine and University Hospital Cologne, University of Cologne, Cologne, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Krug</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, University Medical Center Schleswig-Holstein, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kovacs</LastName>
+            <ForeName>Boldizsar</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Universitäres Herzzentrum, Klinik für Kardiologie, Universitäts Spital Zürich, University of Zurich, Zürich, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Saguner</LastName>
+            <ForeName>Ardan M</ForeName>
+            <Initials>AM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Universitäres Herzzentrum, Klinik für Kardiologie, Universitäts Spital Zürich, University of Zurich, Zürich, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rudic</LastName>
+            <ForeName>Boris</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>I. Medizinische Klinik, Universitätsmedizin Mannheim and German Center for Cardiovascular Research (DZHK), Partner Site Heidelberg/Mannheim, Mannheim, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bergengruen</LastName>
+            <ForeName>Paula</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Radioonkologie und Strahlentherapie, Charité-Universitätsmedizin Berlin, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Boldt</LastName>
+            <ForeName>Leif-Hendrik</ForeName>
+            <Initials>LH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Med. Klinik m.S. Kardiologie, Charité-Universitätsmedizin Berlin, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stauber</LastName>
+            <ForeName>Annina</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik III für Kardiologie, Angiologie, Pneumologie und Internistische Intensivmedizin, Universitätsklinikum Köln, Köln, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zaman</LastName>
+            <ForeName>Adrian</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Innere Medizin III, Abteilung für Elektrophysiologie und Rhythmologie, Universitätsklinikum Schleswig-Holstein, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bonnemeier</LastName>
+            <ForeName>Hendrik</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Innere Medizin III, Abteilung für Elektrophysiologie und Rhythmologie, Universitätsklinikum Schleswig-Holstein, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dunst</LastName>
+            <ForeName>Jürgen</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, University Medical Center Schleswig-Holstein, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Budach</LastName>
+            <ForeName>Volker</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Radioonkologie und Strahlentherapie, Charité-Universitätsmedizin Berlin, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Blanck</LastName>
+            <ForeName>Oliver</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, University Medical Center Schleswig-Holstein, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mehrhof</LastName>
+            <ForeName>Felix</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Radioonkologie und Strahlentherapie, Charité-Universitätsmedizin Berlin, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>06</Month>
+          <Day>15</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Int J Radiat Oncol Biol Phys</MedlineTA>
+        <NlmUniqueID>7603616</NlmUniqueID>
+        <ISSNLinking>0360-3016</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D019985" MajorTopicYN="N">Benchmarking</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016634" MajorTopicYN="Y">Radiosurgery</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011879" MajorTopicYN="N">Radiotherapy Dosage</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011880" MajorTopicYN="N">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D050397" MajorTopicYN="Y">Radiotherapy, Intensity-Modulated</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017180" MajorTopicYN="Y">Tachycardia, Ventricular</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000532" MajorTopicYN="N">radiotherapy</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>01</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>06</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>6</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>6</Month>
+          <Day>18</Day>
+          <Hour>19</Hour>
+          <Minute>35</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35716847</ArticleId>
+        <ArticleId IdType="pii">S0360-3016(22)00599-5</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.ijrobp.2022.06.056</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">35727461</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>10</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>10</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1534-4681</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>29</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Nov</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annals of surgical oncology</Title>
+          <ISOAbbreviation>Ann Surg Oncol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>New Robotic System with Wristed Microinstruments Allows Precise Reconstructive Microsurgery: Preclinical Study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>7859-7867</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1245/s10434-022-12033-x</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Microsurgery allows complex reconstruction of tissue defects after oncological resections or severe trauma. Performing these procedures may be limited by human tremor, precision, and manual dexterity. A new robot designed specifically for microsurgery with wristed microinstruments and motion scaling may reduce human tremor and thus enhance precision. This randomized controlled preclinical trial investigated whether this new robotic system can successfully perform microsurgical needle driving, suturing, and anastomosis.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Expert microsurgeons and novices completed six needle passage exercises and performed six anastomoses by hand and six with the new robot. Experienced microsurgeons blindly assessed the quality of the procedures. Precision in microneedle driving and stitch placement was assessed by calculating suturing distances and angulation. Performance of microsurgical anastomoses was assessed by time, learning curves, and the Anastomosis Lapse Index score for objective performance assessment.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Refined precision in suturing was achieved with the robot when compared with the manual technique regarding suture distances (p = 0.02) and angulation (p &lt; 0.01). The time required to perform microsurgical anastomoses was longer with the robot, however, both expert and novice microsurgeons reduced times with practice. The objective evaluation of the anastomoses performed by novices showed better results with the robot.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study demonstrated the feasibility of performing precise microsutures and anastomoses using a new robotic system. Compared to standard manual techniques, robotic procedures were longer in time, but showed greater precision.</AbstractText>
+          <CopyrightInformation>© 2022. Society of Surgical Oncology.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ballestín</LastName>
+            <ForeName>Alberto</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-7150-9758</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Tumor Microenvironment Laboratory, UMR3347 CNRS / U1021 INSERM, Institut Curie, Orsay Paris, France. balles_rodriguez@hotmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Microsurgery, Jesús Usón Minimally Invasive Surgery Centre, Cáceres, Spain. balles_rodriguez@hotmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Malzone</LastName>
+            <ForeName>Gerardo</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Plastic and Reconstructive Microsurgery, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Menichini</LastName>
+            <ForeName>Giulio</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Plastic and Reconstructive Microsurgery, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lucattelli</LastName>
+            <ForeName>Elena</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Plastic and Reconstructive Microsurgery, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Innocenti</LastName>
+            <ForeName>Marco</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Plastic and Reconstructive Microsurgery, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>06</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Ann Surg Oncol</MedlineTA>
+        <NlmUniqueID>9420840</NlmUniqueID>
+        <ISSNLinking>1068-9265</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000714" MajorTopicYN="N">Anastomosis, Surgical</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008866" MajorTopicYN="N">Microsurgery</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013536" MajorTopicYN="N">Suture Techniques</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014202" MajorTopicYN="N">Tremor</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>6</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>6</Month>
+          <Day>21</Day>
+          <Hour>11</Hour>
+          <Minute>21</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35727461</ArticleId>
+        <ArticleId IdType="doi">10.1245/s10434-022-12033-x</ArticleId>
+        <ArticleId IdType="pii">10.1245/s10434-022-12033-x</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Gill PS, Hunt JP, Guerra AB, et al. A 10-year retrospective review of 758 DIEP flaps for breast reconstruction. Plast Reconstr Surg. 2004;113(4):1153–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/01.PRS.0000110328.47206.50</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seth AK, Allen RJ Jr. Modern techniques and alternative flaps in microsurgical breast reconstruction. J Surg Oncol. 2018;118(5):768–79.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jso.25198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wong CH, Wei FC. Microsurgical free flap in head and neck reconstruction. Head Neck. 2010;32(9):1236–45.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hed.21284</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dimovska EO, Clibbon JJ, Moncrieff MD, Heaton MJ, Figus A. Microsurgical Reconstructions for Head and Neck Cancers in Elderly Aged &gt;80 Years: An Analysis of Surgical Outcomes and Quality of Life. Ann Surg Oncol. 2016;23(5):1684–92.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1245/s10434-015-5049-3</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, Gazyakan E, Bigdeli AK, Will-Marks P, Kneser U, Hirche C. Soft tissue free flap for reconstruction of upper extremities: A meta-analysis on outcome and safety. Microsurgery. 2019;39(5):463–75.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/micr.30460</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bekara F, Herlin C, Somda S, de Runz A, Grolleau JL, Chaput B. Free versus perforator-pedicled propeller flaps in lower extremity reconstruction: What is the safest coverage? A meta-analysis. Microsurgery. Jan 2018;38(1):109-119.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Engel H, Lin CY, Huang JJ, Cheng MH. Outcomes of Lymphedema Microsurgery for Breast Cancer-related Lymphedema With or Without Microvascular Breast Reconstruction. Ann Surg. 2018;268(6):1076–83.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000002322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamamoto T. Onco-reconstructive supermicrosurgery. Eur J Surg Oncol. 2019;45(7):1146–51.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejso.2019.01.008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Granzow JW, Soderberg JM, Kaji AH, Dauphine C. Review of current surgical treatments for lymphedema. Ann Surg Oncol. 2014;21(4):1195–201.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1245/s10434-014-3518-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramachandran S, Alrasheed T, Ballestín A, Akelina Y, Ghanem A. Robotic Microsurgical Training. In: JC Selber, editor. Robotics in Plastic and Reconstructive Surgery. Cham: Springer International Publishing; 2021. p. 3–13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-030-74244-7_1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maeso S, Reza M, Mayol JA, et al. Efficacy of the Da Vinci surgical system in abdominal surgery compared with that of laparoscopy: a systematic review and meta-analysis. Ann Surg. 2010;252(2):254–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0b013e3181e6239e</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roche M. The MAKO robotic-arm knee arthroplasty system. Arch Orthop Trauma Surg. 2021;141(12):2043–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00402-021-04208-0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Connor TE, O’Hehir MM, Khan A, et al. Mazor X Stealth Robotic Technology: A Technical Note. World Neurosurg. 2021;145:435–42.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.wneu.2020.10.010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu L, Mariani SG, De Schlichting E, et al. Frameless ROSA(R) Robot-Assisted Lead Implantation for Deep Brain Stimulation: Technique and Accuracy. Oper Neurosurg (Hagerstown). 2020;19(1):57–64.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/ons/opz320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peters BS, Armijo PR, Krause C, Choudhury SA, Oleynikov D. Review of emerging surgical robotic technology. Surg Endosc. 2018;32(4):1636–55.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-018-6079-2</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Katz RD, Rosson GD, Taylor JA, Singh NK. Robotics in microsurgery: use of a surgical robot to perform a free flap in a pig. Microsurgery. 2005;25(7):566–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/micr.20160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taleb C, Nectoux E, Liverneaux PA. Telemicrosurgery: a feasibility study in a rat model. Chir Main Apr-Jun. 2008;27(2–3):104–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.main.2008.04.001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Selber JC. Transoral robotic reconstruction of oropharyngeal defects: a case series. Plast Reconstr Surg. 2010;126(6):1978–87.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/PRS.0b013e3181f448e3</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Selber JC, Baumann DP, Holsinger FC. Robotic latissimus dorsi muscle harvest: a case series. Plast Reconstr Surg. 2012;129(6):1305–12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/PRS.0b013e31824ecc0b</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pedersen J, Song DH, Selber JC. Robotic, intraperitoneal harvest of the rectus abdominis muscle. Plast Reconstr Surg. 2014;134(5):1057–63.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/PRS.0000000000000586</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Selber JC. The Robotic DIEP Flap. Plast Reconstr Surg. 2020;145(2):340–3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/PRS.0000000000006529</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Selber JC, Alrasheed T. Robotic microsurgical training and evaluation. Semin Plast Surg. 2014;28(1):5–10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1055/s-0034-1368161</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van Mulken TJM, Boymans C, Schols RM, et al. Preclinical Experience Using a New Robotic System Created for Microsurgery. Plast Reconstr Surg. 2018;142(5):1367–76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/PRS.0000000000004939</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van Mulken TJM, Schols RM, Scharmga AMJ, et al. First-in-human robotic supermicrosurgery using a dedicated microsurgical robot for treating breast cancer-related lymphedema: a randomized pilot trial. Nat Commun. 2020;11(1):757.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Simi M, Prisco GM, Inventors; Medical Microinstruments SpA, assignee. Robotic Surgical Assembly. US patent US10864051B22020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ghanem A, Kearns M, Ballestin A, et al. International microsurgery simulation society (IMSS) consensus statement on the minimum standards for a basic microsurgery course, requirements for a microsurgical anastomosis global rating scale and minimum thresholds for training. Injury. 2020;51(Suppl 4):S126–30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.injury.2020.02.004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harada K, Morita A, Minakawa Y, et al. Assessing Microneurosurgical Skill with Medico-Engineering Technology. World Neurosurg. 2015;84(4):964–71.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.wneu.2015.05.033</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ghanem AM, Al Omran Y, Shatta B, Kim E, Myers S. Anastomosis Lapse Index (ALI): A Validated End Product Assessment Tool for Simulation Microsurgery Training. J Reconstr Microsurg. 2016;32(3):233–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26645156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Verrelli DI, Qian Y, Wood J, Wilson MK. Measurement of tremor transmission during microsurgery. Int J Med Robot. 2016;12(4):585–97.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/rcs.1717</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Willems JIP, Shin AM, Shin DM, Bishop AT, Shin AY. A Comparison of Robotically Assisted Microsurgery versus Manual Microsurgery in Challenging Situations. Plast Reconstr Surg. 2016;137(4):1317–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/PRS.0000000000002030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prasad SM, Maniar HS, Chu C, Schuessler RB, Damiano RJ Jr. Surgical robotics: impact of motion scaling on task performance. J Am Coll Surg. 2004;199(6):863–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jamcollsurg.2004.08.027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alrasheed T, Liu J, Hanasono MM, Butler CE, Selber JC. Robotic microsurgery: validating an assessment tool and plotting the learning curve. Plast Reconstr Surg. 2014;134(4):794–803.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/PRS.0000000000000550</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaughness G, Blackburn C, Ballestin A, Akelina Y, Ascherman JA. Predicting Thrombosis Formation in 1-mm-Diameter Arterial Anastomoses with Transit-Time Ultrasound Technology. Plast Reconstr Surg. 2017;139(6):1400–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/PRS.0000000000003350</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bao B, Gao T, Li X, et al. Breaking the technical barrier of microvascular anastomosis with high-speed videography: A prospective cohort study. Int J Surg. 2022;98:106214.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ijsu.2021.106214</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tolba RH, Czigany Z, Osorio Lujan S, et al. Defining Standards in Experimental Microsurgical Training: Recommendations of the European Society for Surgical Research (ESSR) and the International Society for Experimental Microsurgery (ISEM). Eur Surg Res. 2017;58(5–6):246–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1159/000479005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curzer HJ, Perry G, Wallace MC, Perry D. The Three Rs of Animal Research: What they Mean for the Institutional Animal Care and Use Committee and Why. Sci Eng Ethics. 2016;22(2):549–65.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11948-015-9659-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">35727844</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>11</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>11</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1464-410X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>130</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>12</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>BJU international</Title>
+          <ISOAbbreviation>BJU Int</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robot-assisted vs ultrasonography-guided transversus abdominis plane (TAP) block vs local anaesthesia in urology: results of the UROTAP randomized trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>815-822</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/bju.15833</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES">To prospectively analyse robotically administered transperitoneal transversus abdominis plane (robot-assisted transversus abdominis plane [RTAP]) compared with both ultrasonography-guided transversus abdominis plane (UTAP) and local anaesthesia (LA) with regard to pain control and narcotic use in patients undergoing robot-assisted prostatectomy (RARP) or robot-assisted partial nephrectomy (RAPN).</AbstractText>
+          <AbstractText Label="SUBJECTS/PATIENTS AND METHODS">Patients undergoing RARP or RAPN were randomized in a single-blind 2:2:1 fashion to RTAP:UTAP:LA, with the study powered to evaluate superiority of UTAP to LA and non-inferiority of RTAP to UTAP. We compared time to deliver the block, operating room time, postoperative pain scores using the visual analogue scale, and intra-operative and postoperative analgesia consumption.</AbstractText>
+          <AbstractText Label="RESULTS">A total of 143 patients were randomized and received treatment. There was no significant difference in patient baseline characteristics. UTAP did not demonstrate superiority to LA in terms of pain control. RTAP and LA were faster to administer than UTAP (time to perform block 2.5 vs 2.5 vs 6.25 min; P &amp;lt; 0.001). There was no difference in postoperative narcotic, acetaminophen, ketorolac or ondansetron requirements among the three groups (P &amp;gt; 0.05). The study was terminated early due to the unexpected efficacy of LA.</AbstractText>
+          <AbstractText Label="CONCLUSION">This study showed that UTAP and RTAP do not provide superior pain control to LA. The efficiency, effectiveness, and ease of administration of LA make it an excellent option for first-line therapy for postoperative analgesia.</AbstractText>
+          <CopyrightInformation>© 2022 BJU International.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Rosen</LastName>
+            <ForeName>Daniel C</ForeName>
+            <Initials>DC</Initials>
+            <Identifier Source="ORCID">0000-0003-4759-6422</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Winoker</LastName>
+            <ForeName>Jared S</ForeName>
+            <Initials>JS</Initials>
+            <Identifier Source="ORCID">0000-0002-8499-7041</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mullen</LastName>
+            <ForeName>Greg</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moshier</LastName>
+            <ForeName>Erin</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sim</LastName>
+            <ForeName>Alan</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pathak</LastName>
+            <ForeName>Prachee</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wagaskar</LastName>
+            <ForeName>Vinayak</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sfakianos</LastName>
+            <ForeName>John P</ForeName>
+            <Initials>JP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Reddy</LastName>
+            <ForeName>Avinash</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Palese</LastName>
+            <ForeName>Michael</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Badani</LastName>
+            <ForeName>Ketan K</ForeName>
+            <Initials>KK</Initials>
+            <Identifier Source="ORCID">0000-0002-5472-7294</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wiklund</LastName>
+            <ForeName>Peter</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tewari</LastName>
+            <ForeName>Ashutosh</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mehrazin</LastName>
+            <ForeName>Reza</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>P30 CA196521</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>07</Month>
+          <Day>12</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>BJU Int</MedlineTA>
+        <NlmUniqueID>100886721</NlmUniqueID>
+        <ISSNLinking>1464-4096</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D009294">Narcotics</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000779">Anesthetics, Local</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000772" MajorTopicYN="N">Anesthesia, Local</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016037" MajorTopicYN="N">Single-Blind Method</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014572" MajorTopicYN="Y">Urology</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000009" MajorTopicYN="N">Abdominal Muscles</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010149" MajorTopicYN="N">Pain, Postoperative</DescriptorName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014463" MajorTopicYN="N">Ultrasonography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009294" MajorTopicYN="N">Narcotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018084" MajorTopicYN="N">Ultrasonography, Interventional</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000779" MajorTopicYN="N">Anesthetics, Local</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">analgesia</Keyword>
+        <Keyword MajorTopicYN="N">narcotic</Keyword>
+        <Keyword MajorTopicYN="N">pain control</Keyword>
+        <Keyword MajorTopicYN="N">regional anaesthesia</Keyword>
+        <Keyword MajorTopicYN="N">robotic partial nephrectomy</Keyword>
+        <Keyword MajorTopicYN="N">robotic prostatectomy</Keyword>
+        <Keyword MajorTopicYN="N">transversus abdominis</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>6</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>6</Month>
+          <Day>21</Day>
+          <Hour>13</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35727844</ArticleId>
+        <ArticleId IdType="doi">10.1111/bju.15833</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>References</Title>
+        <Reference>
+          <Citation>Ilic D, Evans SM, Allan CA, Jung JH, Murphy D, Frydenberg M. Laparoscopic and robotic-assisted versus open radical prostatectomy for the treatment of localised prostate cancer. Cochrane Database Syst Rev 2017; (9): CD009625</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rafi AN. Abdominal field block: a new approach via the lumbar triangle. Anaesthesia 2001; 56: 1024-6</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shahait M, Yezdani M, Katz B, Lee A, Yu SJ, Lee DI. Robot-assisted transversus abdominis plane block: description of the technique and comparative analysis. J Endourol 2019; 33: 207-10</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dal Moro F, Aiello L, Pavarin P, Zattoni F. Ultrasound-guided transversus abdominis plane block (US-TAPb) for robot-assisted radical prostatectomy: a novel ‘4-point’ technique-results of a prospective, randomized study. J Robot Surg 2018; 13: 147-51</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Qu G, Cui X-L, Liu H-J, Ji Z-G, Huang Y-G. Ultrasound-guided transversus abdominis plane block improves postoperative analgesia and early recovery in patients undergoing retroperitoneoscopic urologic surgeries: a randomized controlled double-blinded trial. Chin Med Sci J 2016; 31: 137-41</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aniskevich S, Taner CB, Perry DK et al. Ultrasound-guided transversus abdominis plane blocks for patients undergoing laparoscopic hand-assisted nephrectomy: a randomized, placebo-controlled trial. Local Reg Anesth 2014; 7: 11-6</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hosgood SA, Thiyagarajan UM, HFL N, Jeyapalan I, Nicholson ML. Randomized clinical trial of transversus abdominis plane block versus placebo control in live-donor nephrectomy. Transplant J 2012; 94: 520-5</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cacciamani GE, Menestrina N, Pirozzi M et al. Impact of combination of local anesthetic wounds infiltration and ultrasound transversus abdominal plane block in patients undergoing robot-assisted radical prostatectomy: perioperative results of a double-blind randomized controlled trial. J Endourol 2019; 33: 295-301</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Taninishi H, Matsusaki T, Morimatsu H. Transversus abdominis plane block reduced early postoperative pain after robot-assisted prostatectomy: a randomized controlled trial. Sci Rep 2020; 10: 1-9</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Charlton S, Cyna AM, Middleton P, Griffiths JD. Perioperative transversus abdominis plane (TAP) blocks for analgesia after abdominal surgery. Cochrane Database Syst Rev 2010; (12): CD007705</Citation>
+        </Reference>
+        <Reference>
+          <Citation>De Oliveira GS, Castro-Alves LJ, Nader A, Kendall MC, McCarthy RJ. Transversus abdominis plane block to ameliorate postoperative pain outcomes after laparoscopic surgery. Anesth Analg 2014; 118: 454-63</Citation>
+        </Reference>
+        <Reference>
+          <Citation>El-Dawlatly AA, Turkistani A, Kettner SC et al. Ultrasound-guided transversus abdominis plane block: description of a new technique and comparison with conventional systemic analgesia during laparoscopic cholecystectomy. Br J Anaesth 2009; 102: 763-7</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sealed Envelope ¦ Randomisation (randomization) and online databases for clinical trials [Internet]. Available at: https://www.sealedenvelope.com/. Accessed August 2021</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jankovic’ RJJ, Markovic DZ, Akerman M. A review of the quadratus lumborum block and eRAS. Article [Internet] 2001; 5: 1</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kalava A, Pribish AM, Wiegand LR. Pudendal nerve blocks in men undergoing urethroplasty: a case series. Rom J Anaesth Int Care 2017; 24: 159</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wipfli M, Birkhätuser F, Luyet C, Greif R, Thalmann G, Eichenberger U. Ultrasound-guided spermatic cord block for scrotal surgery. Br J Anaesth 2011; 106: 255-9</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Carney J, McDonnell JG, Ochana A, Bhinder R, Laffey JG. The transversus abdominis plane block provides effective postoperative analgesia in patients undergoing total abdominal hysterectomy. Anesth Analg 2008; 107: 2056-60</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hamid HK, Emile SH, Saber AA, Ruiz-Tovar J, Minas V, Cataldo TE. Laparoscopic-guided transversus abdominis plane block for postoperative pain management in minimally invasive surgery: systematic review and meta-analysis. J Am Coll Surg 2020; 231: 376-86.e15</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hebbard P. Subcostal transversus abdominis plane block under ultrasound guidance. Anesth Analg 2008; 106: 674-5</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">35730123</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>10</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>11</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1557-900X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>36</Volume>
+            <Issue>10</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>10</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of endourology</Title>
+          <ISOAbbreviation>J Endourol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Redo Robotic Partial Nephrectomy for Recurrent Renal Tumors: A Multi-Institutional Analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1296-1301</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1089/end.2021.0954</ELocationID>
+        <Abstract>
+          <AbstractText><b><i>Introduction:</i></b> As the experience with robot-assisted partial nephrectomy (RAPN) grows, the indications have expanded to incorporate previously operated ipsilateral kidneys with recurrent renal masses. We sought to analyze the outcomes of redo RAPN in patients with a recurrent renal mass. <b><i>Methods:</i></b> Using a multi-institutional series, the data of 72 patients who underwent RAPN for a recurrent renal mass between 2010 and 2020 were retrospectively analyzed. Patients with familial renal cell carcinoma and multiple renal tumors were excluded. Major complication was defined by Clavien grade ≥3. The median follow-up was 28.5 months. Baseline demographics, clinical and tumor characteristics, and perioperative and postoperative outcomes are reported. <b><i>Results:</i></b> Our cohort consisted of a combination of previous thermal ablation (19.6%), laparoscopic (19.6%), open (26.1%), and robotic (34.8%) partial nephrectomy. The median R.E.N.A.L. score was 8. Twenty percent had hilar tumors and 9.7% had a solitary kidney. RAPN was completed in all cases. Two cases (2.8%) were converted to open surgery. None of the cases were converted to radical nephrectomy intraoperatively. One patient underwent radical nephrectomy postoperatively because of bleeding. Transfusion rate was 5.9% and major complication rate was 8.3%. Median length of stay was 3 days. Estimated glomerular filtration rate preservation was 78.7% at discharge and 90.8% at 1-year follow-up. Positive surgical margin rate was 8.3%. Overall, distant recurrence was seen in 11 patients (15.3%), however, only 1 patient had local progression (1.4%). <b><i>Conclusion:</i></b> In experienced hands, RAPN is an effective approach to treat select cases of locally recurrent renal masses with promising perioperative and functional outcomes. Patients should be carefully monitored for distant recurrence.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Beksac</LastName>
+            <ForeName>Alp Tuna</ForeName>
+            <Initials>AT</Initials>
+            <Identifier Source="ORCID">0000-0001-6742-0040</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Carbonara</LastName>
+            <ForeName>Umberto</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Virginia Commonwealth University, Richmond, Virginia, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Abou Zeinab</LastName>
+            <ForeName>Mahmoud</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Meagher</LastName>
+            <ForeName>Margaret</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of California San Diego, San Diego, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hemal</LastName>
+            <ForeName>Sij</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tafuri</LastName>
+            <ForeName>Alessandro</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Verona University, Verona, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tuderti</LastName>
+            <ForeName>Gabriele</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, "Regina Elena" National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Antonelli</LastName>
+            <ForeName>Alessandro</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Verona University, Verona, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Autorino</LastName>
+            <ForeName>Riccardo</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Virginia Commonwealth University, Richmond, Virginia, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Simone</LastName>
+            <ForeName>Giuseppe</ForeName>
+            <Initials>G</Initials>
+            <Identifier Source="ORCID">0000-0002-4868-9025</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, "Regina Elena" National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Derweesh</LastName>
+            <ForeName>Ithaar H</ForeName>
+            <Initials>IH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of California San Diego, San Diego, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kaouk</LastName>
+            <ForeName>Jihad</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Endourol</MedlineTA>
+        <NlmUniqueID>8807503</NlmUniqueID>
+        <ISSNLinking>0892-7790</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007680" MajorTopicYN="Y">Kidney Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="N">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">outcome</Keyword>
+        <Keyword MajorTopicYN="N">recurrence</Keyword>
+        <Keyword MajorTopicYN="N">redo</Keyword>
+        <Keyword MajorTopicYN="N">renal cell carcinoma</Keyword>
+        <Keyword MajorTopicYN="N">robotic partial nephrectomy</Keyword>
+        <Keyword MajorTopicYN="N">salvage</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>6</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>6</Month>
+          <Day>22</Day>
+          <Hour>2</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35730123</ArticleId>
+        <ArticleId IdType="doi">10.1089/end.2021.0954</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

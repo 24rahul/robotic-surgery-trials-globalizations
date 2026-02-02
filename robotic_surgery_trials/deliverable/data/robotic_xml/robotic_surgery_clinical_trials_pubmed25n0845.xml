@@ -1,0 +1,2896 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">26450105</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>12</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>11</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1861-6429</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>11</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of computer assisted radiology and surgery</Title>
+          <ISOAbbreviation>Int J Comput Assist Radiol Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Impact of delay on telesurgical performance: study on the robotic simulator dV-Trainer.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>581-7</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11548-015-1306-y</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To determine the impact of communication latency on telesurgical performance using the robotic simulator dV-Trainer®.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Surgeons were enrolled during three robotic congresses. They were randomly assigned to a delay group (ranging from 100 to 1000 ms). Each group performed three times a set of four exercises on the simulator: the first attempt without delay (Base) and the last two attempts with delay (Warm-up and Test). The impact of different levels of latency was evaluated.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Thirty-seven surgeons were involved. The different latency groups achieved similar baseline performance with a mean task completion time of 207.2 s (p &gt; 0.05). In the Test stage, the task duration increased gradually from 156.4 to 310.7 s as latency increased from 100 to 500 ms. In separate groups, the task duration deteriorated from Base for latency stages at delays ≥300 ms, and the errors increased at 500 ms and above (p &lt; 0.05). The subjects' performance tended to improve from the Warm-up to the Test period. Few subjects completed the tasks with a delay higher than 700 ms.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Gradually increasing latency has a growing impact on performances. Measurable deterioration of performance begins at 300 ms. Delays higher than 700 ms are difficult to manage especially in more complex tasks. Surgeons showed the potential to adapt to delay and may be trained to improve their telesurgical performance at lower-latency levels.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Perez</LastName>
+            <ForeName>Manuela</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>IADI Laboratory-INSERM-U947, Lorraine University, Allée du Morvan, 54500, Vandoeuvre-les-Nancy, France. m.perez@chu-nancy.fr.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>General and Emergency Surgery Department, University Hospital of Nancy, Avenue du Maréchal de Lattre de Tassigny, 54035, Nancy, France. m.perez@chu-nancy.fr.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Florida Hospital Nicholson Center, 404 Celebration Place, Celebration, FL, 34747, USA. m.perez@chu-nancy.fr.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Hôpital Central Service de Chirurgie Générale et Urgences, Avenue du Maréchal de Lattre de Tassigny, 54035, Nancy, France. m.perez@chu-nancy.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Song</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>IADI Laboratory-INSERM-U947, Lorraine University, Allée du Morvan, 54500, Vandoeuvre-les-Nancy, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Urology Department, University Hospital of Nancy, Allée du Morvan, 54511, Vandoeuvre-les-Nancy, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chauhan</LastName>
+            <ForeName>Sanket</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Evidence Based Simulation, Baylor University Medical Center, Dallas, TX, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Associate Professor Texas A&amp;M Health Science Center, College Station, TX, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tanaka</LastName>
+            <ForeName>Alyssa</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Florida Hospital Nicholson Center, 404 Celebration Place, Celebration, FL, 34747, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Simpson</LastName>
+            <ForeName>Khara</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Florida Hospital Nicholson Center, 404 Celebration Place, Celebration, FL, 34747, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Abdul-Muhsin</LastName>
+            <ForeName>Haidar</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Florida Hospital Nicholson Center, 404 Celebration Place, Celebration, FL, 34747, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Smith</LastName>
+            <ForeName>Roger</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Florida Hospital Nicholson Center, 404 Celebration Place, Celebration, FL, 34747, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D064888">Observational Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Int J Comput Assist Radiol Surg</MedlineTA>
+        <NlmUniqueID>101499225</NlmUniqueID>
+        <ISSNLinking>1861-6410</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="Y">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003198" MajorTopicYN="Y">Computer Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004503" MajorTopicYN="N">Education, Medical, Graduate</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013514" MajorTopicYN="N">Surgical Procedures, Operative</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Computer simulation</Keyword>
+        <Keyword MajorTopicYN="N">Internet</Keyword>
+        <Keyword MajorTopicYN="N">Robotic simulator</Keyword>
+        <Keyword MajorTopicYN="N">Telemedicine/methods</Keyword>
+        <Keyword MajorTopicYN="N">Telesurgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>05</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2015</Year>
+          <Month>09</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>12</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26450105</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11548-015-1306-y</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11548-015-1306-y</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Nature. 2001 Sep 27;413(6854):379-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11574874</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2004 Jan;239(1):14-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14685095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2006 Sep;2(3):216-24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17520635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2008 Mar;4(1):10-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18265415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2012 Mar;187(3):998-1002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22264455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2001 Nov;25(11):1438-48</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11760748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2013 Feb;189(2):514-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23253307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2011 Mar;25(3):681-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20652320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2005 Mar;241(3):460-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15729068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2014 Apr;191(4):907-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24184365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2012 Sep;26(9):2587-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22476836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2007 Jun;3(2):111-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17554810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer J. 2013 Mar-Apr;19(2):109-19</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23528717</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2007 Aug;31(8):1545-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17534550</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Today. 2013 Feb;43(2):115-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22836545</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2014 Sep;28(9):2569-76</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24671353</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Educ. 2014 May-Jun;71(3):302-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24797844</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2008 May;71(5):971-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18295861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">26456655</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>02</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2015</Year>
+        <Month>10</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1090-2104</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>467</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2015</Year>
+              <Month>Nov</Month>
+              <Day>20</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Biochemical and biophysical research communications</Title>
+          <ISOAbbreviation>Biochem Biophys Res Commun</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>New synthetic peptide with efficacy for heparin reversal and low toxicity and immunogenicity in comparison to protamine sulfate.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>497-502</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bbrc.2015.10.020</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0006-291X(15)30724-5</ELocationID>
+        <Abstract>
+          <AbstractText>Protamine sulfate (PS), the only clinically approved antidote to unfractionated heparin (UFH), is widely used for cardiopulmonary surgery or other extracorporeal circulation situations. However, the applications of PS have accompanied various severe side-effects. In this study, we presented a novel synthesized peptide compound (RRRRR-RRRRR-RRRRR-sulfate, R15S) served as a safer UFH antidote. Comparison studies were conducted between PS and R15S on efficacy and safety, aided by heparin neutralization studies, drug toxicity studies and anaphylactic analysis. Our research demonstrated that R15S contained comparable UFH neutralization activity in vitro and in rats in vivo as to active partial thromboplastin time (APTT) and anti-FXa assays. There was no cytotoxicity for R15S at 60 μg mg(-1) or below and the median lethal dose (LD50) of R15S in mice was 35.4 mg kg(-1), both of which were similar to that of PS. Furthermore, R15S exhibited no immunogenicity while it was obvious in guinea pigs immunized with PS. The level of cross-reactivity to anti-PS antibodies of R15S was about 30%. Both of which indicated much safer properties of R15S than PS. In conclusion, we presented a promising candidate R15S for UFH reversal, which is effective in neutralizing UFH and potentially safer in use. </AbstractText>
+          <CopyrightInformation>Copyright © 2015 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Tong</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Drug Metabolism, Laboratory of Hematological Pharmacology, Beijing Institute of Transfusion Medicine, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Meng</LastName>
+            <ForeName>Zhiyun</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Drug Metabolism, Laboratory of Hematological Pharmacology, Beijing Institute of Transfusion Medicine, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhu</LastName>
+            <ForeName>Xiaoxia</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Drug Metabolism, Laboratory of Hematological Pharmacology, Beijing Institute of Transfusion Medicine, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gan</LastName>
+            <ForeName>Hui</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Drug Metabolism, Laboratory of Hematological Pharmacology, Beijing Institute of Transfusion Medicine, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gu</LastName>
+            <ForeName>Ruolan</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Drug Metabolism, Laboratory of Hematological Pharmacology, Beijing Institute of Transfusion Medicine, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Zhuona</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Drug Metabolism, Laboratory of Hematological Pharmacology, Beijing Institute of Transfusion Medicine, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Jian</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Drug Metabolism, Laboratory of Hematological Pharmacology, Beijing Institute of Transfusion Medicine, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Ying</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Drug Metabolism, Laboratory of Hematological Pharmacology, Beijing Institute of Transfusion Medicine, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Taoyun</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Drug Metabolism, Laboratory of Hematological Pharmacology, Beijing Institute of Transfusion Medicine, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Peng</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Drug Metabolism, Laboratory of Hematological Pharmacology, Beijing Institute of Transfusion Medicine, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Su</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Drug Metabolism, Laboratory of Hematological Pharmacology, Beijing Institute of Transfusion Medicine, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dou</LastName>
+            <ForeName>Guifang</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Drug Metabolism, Laboratory of Hematological Pharmacology, Beijing Institute of Transfusion Medicine, China. Electronic address: douguifang@vip.sina.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>09</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Biochem Biophys Res Commun</MedlineTA>
+        <NlmUniqueID>0372516</NlmUniqueID>
+        <ISSNLinking>0006-291X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D010455">Peptides</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011479">Protamines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>9005-49-6</RegistryNumber>
+          <NameOfSubstance UI="D006493">Heparin</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006493" MajorTopicYN="N">Heparin</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010455" MajorTopicYN="N">Peptides</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+          <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011479" MajorTopicYN="N">Protamines</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cross-reactivity</Keyword>
+        <Keyword MajorTopicYN="N">Heparin neutralization</Keyword>
+        <Keyword MajorTopicYN="N">Immunogenicity</Keyword>
+        <Keyword MajorTopicYN="N">Protamine</Keyword>
+        <Keyword MajorTopicYN="N">Protamine toxicity</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>09</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>2</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26456655</ArticleId>
+        <ArticleId IdType="pii">S0006-291X(15)30724-5</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.bbrc.2015.10.020</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">26459499</PMID>
+      <DateCompleted>
+        <Year>2017</Year>
+        <Month>04</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>12</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1553-3514</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>23</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Surgical innovation</Title>
+          <ISOAbbreviation>Surg Innov</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Renal Functional and Perioperative Outcomes of Selective Versus Complete Renal Arterial Clamping During Robot-Assisted Partial Nephrectomy: Early Single-Center Experience With 39 Cases.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>242-8</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1177/1553350615610648</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective of this study was to investigate clinical outcomes in patients undergoing selective versus conventional complete renal arterial clamping during robot-assisted partial nephrectomy (RAPN).</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This study included 19 patients with renal tumors who received RAPN incorporating selective arterial clamping (group 1). The renal functional as well as perioperative outcomes in group 1 were compared with those in 20 patients with renal tumors undergoing RAPN with total clamping of the renal artery (group 2) during the same period.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">In group 1, tumor resection under selective arterial clamping could be completed in all patients without intraoperative conversion to conventional RAPN with total clamping. There were no significant differences in the tumor size, RENAL nephrometry score, or preoperative estimated glomerular filtration rate (eGFR) between groups 1 and 2. Furthermore, no significant differences were noted in the estimated blood loss, operative time, or warm ischemia time between the 2 groups. Although there was no significant difference in the rate of decrease in eGFR 4 weeks after RAPN between the 2 groups, the rate of decrease in eGFR 1 week after RAPN in group 1 was significantly lower than that in group 2. The choice of selective or total clamping was also identified as an independent predictor of a postoperative decrease in eGFR by &gt; 10% at 1 week, but not 4 weeks, after RAPN.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A precise segmental clamping technique is feasible and safe for performing RAPN, resulting in an improved postoperative renal function, particularly early after surgery.</AbstractText>
+          <CopyrightInformation>© The Author(s) 2015.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Furukawa</LastName>
+            <ForeName>Junya</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Kobe University Graduate School of Medicine, Kobe, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Miyake</LastName>
+            <ForeName>Hideaki</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Kobe University Graduate School of Medicine, Kobe, Japan hideakimiyake@hotmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hinata</LastName>
+            <ForeName>Nobuyuki</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Kobe University Graduate School of Medicine, Kobe, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Muramaki</LastName>
+            <ForeName>Mototsugu</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Kobe University Graduate School of Medicine, Kobe, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tanaka</LastName>
+            <ForeName>Kazushi</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Kobe University Graduate School of Medicine, Kobe, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fujisawa</LastName>
+            <ForeName>Masato</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Kobe University Graduate School of Medicine, Kobe, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D023362">Evaluation Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>12</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Surg Innov</MedlineTA>
+        <NlmUniqueID>101233809</NlmUniqueID>
+        <ISSNLinking>1553-3506</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016063" MajorTopicYN="N">Blood Loss, Surgical</DescriptorName>
+          <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003250" MajorTopicYN="N">Constriction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007677" MajorTopicYN="N">Kidney Function Tests</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007680" MajorTopicYN="N">Kidney Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016015" MajorTopicYN="N">Logistic Models</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="N">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019990" MajorTopicYN="N">Perioperative Care</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012077" MajorTopicYN="N">Renal Artery</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">renal function</Keyword>
+        <Keyword MajorTopicYN="N">robot-assisted partial nephrectomy</Keyword>
+        <Keyword MajorTopicYN="N">selective arterial clamping</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>4</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26459499</ArticleId>
+        <ArticleId IdType="pii">1553350615610648</ArticleId>
+        <ArticleId IdType="doi">10.1177/1553350615610648</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">26463701</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>11</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1557-900X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>30</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of endourology</Title>
+          <ISOAbbreviation>J Endourol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>One-Year Outcome Comparison of Laparoscopic, Robotic, and Robotic Intrafascial Simple Prostatectomy for Benign Prostatic Hyperplasia.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>312-8</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1089/end.2015.0218</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To compare preoperative, intraoperative, and postoperative variables at 1, 6, and 12 months after laparoscopic simple prostatectomy (LSP), robotic simple prostatectomy (RSP), and intrafascial robotic simple prostatectomy (IF-RSP).</AbstractText>
+          <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">From January 2003 to November 2014, 315 simple prostatectomies were performed using three techniques, LSP, RSP, and IF-RSP; of the patients who underwent these procedures, 236 met the inclusion criteria for this study.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">No statistically significant difference (SSD) was found in preoperative or perioperative variables. Of the postoperative variables that were analyzed, an SSD (p &gt; 0.01) in prostate-specific antigen levels was found, with levels of 0.07 ± 1.1 ng/mL following IF-RSP, and the detection rate of prostate adenocarcinoma (26%) and high-grade prostatic intraepithelial neoplasia (HG-PIN; 12%) was higher for IF-RSP. We also found that lower International Prostate Symptom Scores (IPSS) were associated with LSP, at 4.8 ± 3.2. Erectile function was reduced in IF-RSP patients in the first 6 months after surgery but was similar in all patient groups at 12 months after surgery; continence and other measured parameters were also similar at 12 months for all three techniques.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The IF-RSP technique is safe and effective, with results at 1-year follow-up for continence, IPSS, and Sexual Health Inventory for Men scores similar to those for the LSP and RSP techniques. IF-RSP also offers the advantages that it does not require postoperative irrigation, has an increased ability to detect prostate cancer (CA) and HG-PIN, and avoids the risk of future cancer and subsequent reintervention for possible new prostate growth.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Martín Garzón</LastName>
+            <ForeName>Oscar Dario</ForeName>
+            <Initials>OD</Initials>
+            <AffiliationInfo>
+              <Affiliation>1 Instituto Medico La Floresta, Centro de Cirugía Robótica Mínimamente Invasiva (CIMI) , Caracas, Venezuela .</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Azhar</LastName>
+            <ForeName>Raed A</ForeName>
+            <Initials>RA</Initials>
+            <AffiliationInfo>
+              <Affiliation>2 Department of Urology, King Abdulaziz University , Jeddah, Saudi Arabia .</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>3 USC Institute of Urology, Keck School of Medicine, University of Southern California , Los Angeles, California.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brunacci</LastName>
+            <ForeName>Leonardo</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>1 Instituto Medico La Floresta, Centro de Cirugía Robótica Mínimamente Invasiva (CIMI) , Caracas, Venezuela .</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ramirez-Troche</LastName>
+            <ForeName>Nelson Emilio</ForeName>
+            <Initials>NE</Initials>
+            <AffiliationInfo>
+              <Affiliation>1 Instituto Medico La Floresta, Centro de Cirugía Robótica Mínimamente Invasiva (CIMI) , Caracas, Venezuela .</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Medina Navarro</LastName>
+            <ForeName>Luis</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>1 Instituto Medico La Floresta, Centro de Cirugía Robótica Mínimamente Invasiva (CIMI) , Caracas, Venezuela .</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hernández</LastName>
+            <ForeName>Luis Cesar</ForeName>
+            <Initials>LC</Initials>
+            <AffiliationInfo>
+              <Affiliation>1 Instituto Medico La Floresta, Centro de Cirugía Robótica Mínimamente Invasiva (CIMI) , Caracas, Venezuela .</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nuñez Bragayrac</LastName>
+            <ForeName>Luciano</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>1 Instituto Medico La Floresta, Centro de Cirugía Robótica Mínimamente Invasiva (CIMI) , Caracas, Venezuela .</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sotelo Noguera</LastName>
+            <ForeName>René Javier</ForeName>
+            <Initials>RJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>1 Instituto Medico La Floresta, Centro de Cirugía Robótica Mínimamente Invasiva (CIMI) , Caracas, Venezuela .</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>3 USC Institute of Urology, Keck School of Medicine, University of Southern California , Los Angeles, California.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2015</Year>
+          <Month>11</Month>
+          <Day>12</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Endourol</MedlineTA>
+        <NlmUniqueID>8807503</NlmUniqueID>
+        <ISSNLinking>0892-7790</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+          <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000230" MajorTopicYN="N">Adenocarcinoma</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015897" MajorTopicYN="N">Comorbidity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007172" MajorTopicYN="N">Erectile Dysfunction</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010410" MajorTopicYN="N">Penile Erection</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017430" MajorTopicYN="N">Prostate-Specific Antigen</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011470" MajorTopicYN="N">Prostatic Hyperplasia</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="N">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>11</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26463701</ArticleId>
+        <ArticleId IdType="doi">10.1089/end.2015.0218</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">26464241</PMID>
+      <DateCompleted>
+        <Year>2017</Year>
+        <Month>10</Month>
+        <Day>04</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1708-0428</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>26</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>07</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Obesity surgery</Title>
+          <ISOAbbreviation>Obes Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparative Effects of Bile Diversion and Duodenal-Jejunal Bypass on Glucose and Lipid Metabolism in Male Diabetic Rats.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1565-75</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11695-015-1925-y</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Duodenal-jejunal bypass (DJB) induces rapid and durable improvement in glucose and lipid metabolism. Besides bypassing the proximal gut, DJB also diverts bile acids (BAs) into the distal gut, increasing luminal and systemic BAs that are essential to metabolic homeostasis. The aim of this study is to evaluate whether bile diversion (BD) alone can recapitulate the effects of DJB on glucose and lipid metabolism.</AbstractText>
+          <AbstractText Label="METHODS">BD, DJB and SHAM procedures were performed in a diabetic rat model induced by high-fat diet (HFD)/streptozotocin (STZ). Body weight, energy intake, blood glucose, serum hormones, insulin sensitivity, lipid profiles, and luminal and systemic BAs were measured postsurgery.</AbstractText>
+          <AbstractText Label="RESULTS">BD reduced body weight, independently of energy intake, whereas DJB had no effects. Luminal and serum BAs were increased after both DJB and BD, and were higher after BD than DJB. During glucose tolerance test, both fasting and postprandial blood glucose concentrations were reduced with DJB and BD, and were lower after DJB than BD. Insulin sensitivity was improved after DJB, but remained unchanged after BD. Fasting and postprandial GLP-1 were equally increased after DJB and BD. Serum triglyceride and free fatty acids were decreased more after BD than DJB, while hepatic triglyceride storage was reduced more after DJB.</AbstractText>
+          <AbstractText Label="CONCLUSION">These observations indicate that BD, which increases luminal and systemic BAs and postprandial GLP-1, represents an important component of DJB in restoring glucose and lipid homeostasis in diabetic state. However, other mechanisms associated with DJB also appear to make complementary contributions to metabolic regulation.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Xiang</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Qilu Hospital of Shandong University, 107#, Wenhua Xi Road, Jinan, 250012, Shandong, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Discipline of Medicine, The University of Adelaide, Level 6 Eleanor Harrald Building, Royal Adelaide Hospital, Frome Road, Adelaide, SA, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Teng</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Qilu Hospital of Shandong University, 107#, Wenhua Xi Road, Jinan, 250012, Shandong, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Yanmin</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Qilu Hospital of Shandong University, 107#, Wenhua Xi Road, Jinan, 250012, Shandong, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhong</LastName>
+            <ForeName>Mingwei</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Qilu Hospital of Shandong University, 107#, Wenhua Xi Road, Jinan, 250012, Shandong, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Guangyong</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Qilu Hospital of Shandong University, 107#, Wenhua Xi Road, Jinan, 250012, Shandong, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Shaozhuang</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Qilu Hospital of Shandong University, 107#, Wenhua Xi Road, Jinan, 250012, Shandong, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Tongzhi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Discipline of Medicine, The University of Adelaide, Level 6 Eleanor Harrald Building, Royal Adelaide Hospital, Frome Road, Adelaide, SA, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rayner</LastName>
+            <ForeName>Christopher K</ForeName>
+            <Initials>CK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Discipline of Medicine, The University of Adelaide, Level 6 Eleanor Harrald Building, Royal Adelaide Hospital, Frome Road, Adelaide, SA, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Sanyuan</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Qilu Hospital of Shandong University, 107#, Wenhua Xi Road, Jinan, 250012, Shandong, People's Republic of China. husanyuan1962@hotmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Obes Surg</MedlineTA>
+        <NlmUniqueID>9106714</NlmUniqueID>
+        <ISSNLinking>0960-8923</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>IY9XDZ35W2</RegistryNumber>
+          <NameOfSubstance UI="D005947">Glucose</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000714" MajorTopicYN="N">Anastomosis, Surgical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D050110" MajorTopicYN="N">Bariatric Surgery</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003135" MajorTopicYN="N">Common Bile Duct</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004386" MajorTopicYN="N">Duodenum</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005947" MajorTopicYN="N">Glucose</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007583" MajorTopicYN="N">Jejunum</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D050356" MajorTopicYN="Y">Lipid Metabolism</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009765" MajorTopicYN="N">Obesity</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Bile acids</Keyword>
+        <Keyword MajorTopicYN="N">Bile diversion</Keyword>
+        <Keyword MajorTopicYN="N">Diabetes mellitus</Keyword>
+        <Keyword MajorTopicYN="N">Duodenal-jejunal bypass</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>10</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26464241</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11695-015-1925-y</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11695-015-1925-y</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Obes Surg. 2009 Mar;19(3):307-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18987919</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2004 Jan;239(1):1-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14685093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Obes Relat Dis. 2012 Jul-Aug;8(4):375-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22410638</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Pharm. 2014 Oct 6;11(10 ):3547-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25158075</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Metab. 2009 Sep;10(3):167-77</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19723493</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Physiol. 1985 Oct;249(4 Pt 1):G519-27</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3901778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gut. 1993 Apr;34(4):483-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8491394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diabetes Obes Metab. 2013 May;15(5):474-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23181598</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Lipid Res. 1987 Mar;28(3):238-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3553403</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gastroenterology. 2010 Jun;138(7):2437-46, 2446.e1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20226188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2006 Jan 26;439(7075):484-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16400329</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biochimie. 2005 Jan;87(1):81-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15733741</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2015 Mar 23;10(3):e0122273</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25798945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2006 Nov;244(5):741-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17060767</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diabetes. 2015 Apr;64(4):1168-79</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25338812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Med. 2014 Apr;20(4):337-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24710375</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gastroenterology. 2011 Sep;141(3):939-949.e1-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21699773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dig Dis Sci. 1981 Aug;26(8):710-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7261835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Endocrinology. 2013 Jul;154(7):2341-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23592746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Mol Life Sci. 2015 May;72(9):1631-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25511198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Obes Relat Dis. 2007 Mar-Apr;3(2):195-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17386401</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Hepatol. 2015 Jun;62(6):1398-404</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25617503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2015 Oct;25(10):1802-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25726319</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Med. 2012 Jun;18(6):950-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22610279</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Endocrinol Metab. 2013 Apr;98(4):E718-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23418316</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Endocrinol Metab. 2010 Feb;95(2):879-86</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19837920</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diabetologia. 2015 Feb;58(2):374-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25348610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pharmacol Res. 2005 Oct;52(4):313-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15979893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diabetologia. 1985 Jul;28(7):412-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3899825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">26465102</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>03</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2016</Year>
+        <Month>10</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1678-2674</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>30</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2015</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Acta cirurgica brasileira</Title>
+          <ISOAbbreviation>Acta Cir Bras</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparative histological study on wound healing on rat's skin treated with Mitomycin C or Clobetasol propionate.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>593-7</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1590/S0102-865020150090000002</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0102-86502015000900593</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To compare histologically the action of Mitomycin C and that of Clobetasol propionate for surgical wound healing in rats.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A circular skin fragment was surgically removed from 57 Wistar rats. Twenty-two animals were treated with Mitomycin C with topical medication in a single dose, 22 with Clobetasol propionate with a cream medication once a day for 15 days and 13 did not receive any medication. The animals were euthanized 30 and 60 days, and the scars subjected to histological examination.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The histological analysis on the samples did not show statistically significant differences regarding the quantities of fibroblasts, fibrocytes and vascular proliferation in the three groups, in the evaluations after 30 and 60 days. In the treated groups with Mitomycin C and Clobetasol there was a decrease in collagen concentration over the 30-day period and an increase in collagen concentration over the 60-day period, in comparison with the control group.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The actions of Mitomycin C and Clobetasol were equivalent and not interfere in fibroplasias and in angiogenesis. Both drugs initially cause a decrease in collagen over a 30-day period and an increase over a 60-day period, demonstrating a delay in the wound healing.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Carvalho</LastName>
+            <ForeName>Maria de Fátima Pereira de</ForeName>
+            <Initials>Mde F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Morphology, Santa Casa School of Medical Sciences of Sao Paulo, Universidade de Sao Paulo, BR.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pereira</LastName>
+            <ForeName>Celina Siqueira Barbosa</ForeName>
+            <Initials>CS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otorhinolaryngology, Santa Casa School of Medical Sciences of Sao Paulo, USP, Sao Paulo, SP, BR.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fregnani</LastName>
+            <ForeName>José Humberto</ForeName>
+            <Initials>JH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research and Teaching Institute, Hospital de Câncer de Barretos, BR.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ribeiro</LastName>
+            <ForeName>Fernando de Andrade Quintanilha</ForeName>
+            <Initials>Fde A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Morphology, Santa Casa School of Medical Sciences of Sao Paulo, USP, Sao Paulo, SP, BR.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Brazil</Country>
+        <MedlineTA>Acta Cir Bras</MedlineTA>
+        <NlmUniqueID>9103983</NlmUniqueID>
+        <ISSNLinking>0102-8650</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000477">Alkylating Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D005938">Glucocorticoids</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>50SG953SK6</RegistryNumber>
+          <NameOfSubstance UI="D016685">Mitomycin</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>9007-34-5</RegistryNumber>
+          <NameOfSubstance UI="D003094">Collagen</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>ADN79D536H</RegistryNumber>
+          <NameOfSubstance UI="D002990">Clobetasol</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000287" MajorTopicYN="N">Administration, Topical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000477" MajorTopicYN="N">Alkylating Agents</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002990" MajorTopicYN="N">Clobetasol</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003094" MajorTopicYN="N">Collagen</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005347" MajorTopicYN="N">Fibroblasts</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005938" MajorTopicYN="N">Glucocorticoids</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016685" MajorTopicYN="N">Mitomycin</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012867" MajorTopicYN="N">Skin</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014945" MajorTopicYN="N">Wound Healing</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>05</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2015</Year>
+          <Month>08</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>3</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26465102</ArticleId>
+        <ArticleId IdType="pii">S0102-86502015000900593</ArticleId>
+        <ArticleId IdType="doi">10.1590/S0102-865020150090000002</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">26465103</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>03</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1678-2674</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>30</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2015</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Acta cirurgica brasileira</Title>
+          <ISOAbbreviation>Acta Cir Bras</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effect of chronic stress on implant osseointegration into rat's mandible.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>598-603</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1590/S0102-865020150090000003</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0102-86502015000900598</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To compare chronic physical stressed with normal tense animals regarding implant osseointegration in the rat mandible.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Thirty six Wistar rats were anesthesiaded and blunt instruments were used to expose and empty their alveolar inferior nerve. One implant (2.2 x 4mm) was installed into the mandibular canal. Following 72 hours, all rats were equally divided in: Control Group analyzed in 18 days (CG18); Control Group analyzed in 33 days (CG33); Stressed Group with stress during 18 days (SG18) and Stressed Group with stress during 33 days (SG33) - The animals from Stressed Groups (CG 18 and CG33) were placed individually in plastic pipes (PVC) during 12 hours daily to physical restraint. Histomorphometric analysis included bone-implant-contact (BIC) and bone area (BA).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">In relation to BIC--CG18 (49.8+20.3); SG18 (29.0+16.5)--and BA--CG18 (50.13+21.2); SG18 (23.8+7.8)--, there was a bone repair delayed in SG18 when compared with CG18 (p&lt;0.05). After 33 days, BIC--CG33 (59.6+26.8); SG33 (49.52+17.3)--and BA--CG33 (41.90+17.4); SG33 (43.91+14.7)--showed no difference between groups (p&gt;0.05).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Chronic physical stress interfere with the initial stage of osseointegration in the rat mandible, but not the final process.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Siqueira</LastName>
+            <ForeName>Carlos Rodrigo Barros de</ForeName>
+            <Initials>CR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Dentistry, Universidade de Cuiabá, Cuiaba, MT, BR.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Semenoff</LastName>
+            <ForeName>Tereza Aparecida Delle Vedove</ForeName>
+            <Initials>TA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Dentistry, UNIC, Cuiaba, MT, BR.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Palma</LastName>
+            <ForeName>Vinícius Canavarros</ForeName>
+            <Initials>VC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Associação Brasileira de Odontologia, Cuiaba, MT, BR.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Borges</LastName>
+            <ForeName>Álvaro Henrique</ForeName>
+            <Initials>ÁH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Dentistry, UNIC, Cuiaba, MT, BR.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Silva</LastName>
+            <ForeName>Natalino Francisco da</ForeName>
+            <Initials>NF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Dentistry, UNIC, Cuiaba, MT, BR.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Segundo</LastName>
+            <ForeName>Alex Semenoff</ForeName>
+            <Initials>AS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Dentistry, UNIC, Cuiaba, MT, BR.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Brazil</Country>
+        <MedlineTA>Acta Cir Bras</MedlineTA>
+        <NlmUniqueID>9103983</NlmUniqueID>
+        <ISSNLinking>0102-8650</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>WI4X0X7BPJ</RegistryNumber>
+          <NameOfSubstance UI="D006854">Hydrocortisone</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001835" MajorTopicYN="N">Body Weight</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003758" MajorTopicYN="N">Dental Implantation, Endosseous</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006854" MajorTopicYN="N">Hydrocortisone</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020007" MajorTopicYN="Y">Implants, Experimental</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008334" MajorTopicYN="N">Mandible</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016348" MajorTopicYN="N">Osseointegration</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013312" MajorTopicYN="Y">Stress, Physiological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013499" MajorTopicYN="N">Surface Properties</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>05</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2015</Year>
+          <Month>08</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>3</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26465103</ArticleId>
+        <ArticleId IdType="pii">S0102-86502015000900598</ArticleId>
+        <ArticleId IdType="doi">10.1590/S0102-865020150090000003</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">26467691</PMID>
+      <DateCompleted>
+        <Year>2018</Year>
+        <Month>02</Month>
+        <Day>12</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1708-0428</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>26</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>06</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Obesity surgery</Title>
+          <ISOAbbreviation>Obes Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The Results of 100 Robotic Versus 100 Laparoscopic Gastric Bypass Procedures: a Single High Volume Centre Experience.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1266-73</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11695-015-1933-y</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">The introduction of robotics in bariatric surgery is a novel development since the beginning of this century. The aim of this study is to compare surgical outcome of the robotic gastric bypass with the laparoscopic counterpart.</AbstractText>
+          <AbstractText Label="METHODS">A retrospective study was conducted to compare the results of 100 fully robotic gastric bypasses (RGB) and 100 laparoscopic gastric bypasses (LGB) performed by a single surgeon. Surgical outcome was analysed by evaluating operation room time and surgical time, morbidity and mortality, and length of hospital stay.</AbstractText>
+          <AbstractText Label="RESULTS">In the RGB and LGB group, respectively, 92 and 80 % of operated patients were female (p = 0.024). Mean age was 39 (range 20-62, SD 10.21) and 42 years (range 18-65, SD 11.87), respectively (p = 0.158). Mean BMI was 40 (range 35-47, SD 2.66) and 42 (range 35-56, SD 4.75), respectively (p &lt; 0.05). Mean surgical time was 67 (range 39-210, SD 22.46) and 31 min (range 18-62, SD 9.12), respectively (p &lt; 0.05). Mean operation room time was 117 (range 80-257, SD 30.13) and 66 min (range 38-101, SD 12.68), respectively (p &lt; 0.05). The surgery-related 30-day morbidity rate was 5 % in both groups. Major morbidity (Clavien-Dindo class 3-4) was 3 and 1 %, respectively (p = 0.62). There was no mortality. Median hospital stay was two postoperative days in both groups. A learning curve developed after 25 procedures.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">The RGB is a feasible procedure. Although more time is needed, a standardized technique results in fair operation times in the hands of an experienced surgeon.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Smeenk</LastName>
+            <ForeName>R M</ForeName>
+            <Initials>RM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bariatric Surgery, Bariatric Centre South-West Netherlands, Bravis Hospital, Bergen op Zoom, The Netherlands. rmsmeenk@hotmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van 't Hof</LastName>
+            <ForeName>G</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bariatric Surgery, Bariatric Centre South-West Netherlands, Bravis Hospital, Bergen op Zoom, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Elsten</LastName>
+            <ForeName>E</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bariatric Surgery, Bariatric Centre South-West Netherlands, Bravis Hospital, Bergen op Zoom, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Feskens</LastName>
+            <ForeName>P G B M</ForeName>
+            <Initials>PG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bariatric Surgery, Bariatric Centre South-West Netherlands, Bravis Hospital, Bergen op Zoom, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Obes Surg</MedlineTA>
+        <NlmUniqueID>9106714</NlmUniqueID>
+        <ISSNLinking>0960-8923</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Obes Surg. 2017 Jan;27(1):200-201. doi: 10.1007/s11695-016-2425-4</RefSource>
+          <PMID Version="1">27747457</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005240" MajorTopicYN="N">Feasibility Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015390" MajorTopicYN="N">Gastric Bypass</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059032" MajorTopicYN="N">Learning Curve</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009767" MajorTopicYN="N">Obesity, Morbid</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Bariatric surgery</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopic gastric bypass</Keyword>
+        <Keyword MajorTopicYN="N">Robotic gastric bypass</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>2</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26467691</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11695-015-1933-y</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11695-015-1933-y</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Surg Endosc. 2011 Oct;25(10):3312-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21614667</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rev Med Suisse. 2007 Jun 27;3(117):1622-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17708229</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2013 Nov;23(11):1753-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23832519</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Obes Relat Dis. 2013 Mar-Apr;9(2):284-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22361807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2012 Jan;22(1):52-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21538177</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2012 Apr;26(4):1116-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22044973</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Facts. 2013;6(5):449-68</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24135948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Laparoendosc Adv Surg Tech A. 2001 Dec;11(6):415-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11814134</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2002 May;235(5):640-5; discussion 645-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11981209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Obes Relat Dis. 2012 Jul-Aug;8(4):483-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22579735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Surg. 2013 Nov 07;13:53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24199869</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Laparoendosc Adv Surg Tech A. 2010 Dec;20(10):847-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21158570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2003 Oct;17(10):1521-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12915974</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2013 Apr;23(4):467-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23318944</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2013 Nov;258(5):690-4; discussion 695</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23989054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 2006 Dec;192(6):746-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17161087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 2004 Oct;188(4A Suppl):38S-44S</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15476650</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 1994 Nov;4(4):353-357</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10742801</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2014 Dec;24(12):2031-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24962109</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2009 Oct;19(10):1355-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19685100</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2015 Jun;25(6):997-1002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25394589</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2007;1(1):61-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25484939</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2006 Jun;16(6):690-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16756726</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Obes Relat Dis. 2005 Nov-Dec;1(6):549-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16925289</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Clin North Am. 1967 Dec;47(6):1345-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6073761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2004 Aug;240(2):205-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15273542</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JSLS. 2005 Jul-Sep;9(3):266-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16121869</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2008 Jul;22(7):1690-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18071805</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2014 Feb;28(2):414-26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24196545</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am Surg. 2008 Oct;74(10):1022-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18942636</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arq Bras Cir Dig. 2014;27 Suppl 1:2-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25409956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 2013 Aug;206(2):145-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23735669</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2010 Mar;20(3):265-70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19885708</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2011 Feb;25(2):597-603</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20625770</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2015 Jan;25(1):28-35</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24993524</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">26472083</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>11</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1557-900X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>30</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of endourology</Title>
+          <ISOAbbreviation>J Endourol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>An Assessment of Patient Comfort and Morbidity After Robot-Assisted Radical Prostatectomy with Suprapubic Tube Versus Urethral Catheter Drainage.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>300-5</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1089/end.2015.0206</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Robot-assisted laparoscopic prostatectomy (RALP) with suprapubic tube (SPT), compared to urethral catheter (UC) drainage, has been proposed to improve patient comfort and recovery. We sought to compare short-term outcomes for pain and morbidity after RALP with SPT vs UC drainage.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Between August 2012 and 2014, 159 men underwent a RALP and prospectively completed a questionnaire addressing postoperative pain and satisfaction. Group 1 (n = 94) underwent a RALP by one surgeon who placed a UC and removed it between postoperative day (POD) 7 and 10. Group 2 (n = 65) underwent a RALP by a different surgeon who placed an SPT and UC. On POD 1, the UC was removed. On POD 9, the SPT was capped and removed on POD 11 if the patient was voiding adequately. Preoperative and intraoperative data, complications, questionnaires, and patient-reported morbidity, including unplanned telephone calls and emergency department (ED) visits, were compared between groups.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Patient characteristics were similar between groups. One week after surgery, the penile pain score was statistically significantly lower in Group 2 compared to Group 1 (56.9% and 79.8%, respectively, reported minimal-to-moderate pain, p = 0.003). Bladder spasms and overall pain were not significantly higher for Group 1 compared to Group 2 (p &gt; 0.05). When asked "How big a problem has your urine storage device been?," 20.2% of patients in Group 1 reported it as a "moderate-to-big" problem compared to 10.8% in Group 2 (p &gt; 0.05). The number of catheter-related unplanned telephone encounters did not differ between the two groups (p = 0.7), however, although not statistically significant, 4.6% of patients in Group 2 presented to the ED with catheter-related issues (p = 0.07).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">SPT after RALP was associated with less penile pain compared to UC drainage, and modestly better patient satisfaction. There were no significant differences in bladder spasms, overall pain, and patient-reported morbidity between groups.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Morgan</LastName>
+            <ForeName>Monica S C</ForeName>
+            <Initials>MS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Texas Southwestern Medical Center , Dallas, Texas.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ozayar</LastName>
+            <ForeName>Asim</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Texas Southwestern Medical Center , Dallas, Texas.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Friedlander</LastName>
+            <ForeName>Justin I</ForeName>
+            <Initials>JI</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Texas Southwestern Medical Center , Dallas, Texas.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shakir</LastName>
+            <ForeName>Nabeel</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Texas Southwestern Medical Center , Dallas, Texas.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Antonelli</LastName>
+            <ForeName>Jodi A</ForeName>
+            <Initials>JA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Texas Southwestern Medical Center , Dallas, Texas.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bedir</LastName>
+            <ForeName>Selahattin</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Texas Southwestern Medical Center , Dallas, Texas.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Roehrborn</LastName>
+            <ForeName>Claus G</ForeName>
+            <Initials>CG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Texas Southwestern Medical Center , Dallas, Texas.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cadeddu</LastName>
+            <ForeName>Jeffrey A</ForeName>
+            <Initials>JA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Texas Southwestern Medical Center , Dallas, Texas.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2015</Year>
+          <Month>11</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Endourol</MedlineTA>
+        <NlmUniqueID>8807503</NlmUniqueID>
+        <ISSNLinking>0892-7790</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003559" MajorTopicYN="N">Cystostomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004322" MajorTopicYN="N">Drainage</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009017" MajorTopicYN="N">Morbidity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010149" MajorTopicYN="N">Pain, Postoperative</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017060" MajorTopicYN="N">Patient Satisfaction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="N">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011795" MajorTopicYN="N">Surveys and Questionnaires</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014546" MajorTopicYN="N">Urinary Catheterization</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062885" MajorTopicYN="N">Urinary Catheters</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>11</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26472083</ArticleId>
+        <ArticleId IdType="doi">10.1089/end.2015.0206</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">26476983</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>09</Month>
+        <Day>12</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2015</Year>
+        <Month>11</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1874-1754</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>202</Volume>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>Jan</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of cardiology</Title>
+          <ISOAbbreviation>Int J Cardiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Arrhythmia ablation using the Amigo Robotic Remote Catheter System versus manual ablation: One year follow-up results.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>877-8</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijcard.2015.10.049</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0167-5273(15)30614-8</ELocationID>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Datino</LastName>
+            <ForeName>T</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hospital General Universitario Gregorio Marañón, Madrid, Spain; Facultad de Medicina, Universidad Complutense, Madrid, Spain. Electronic address: tomas.datino@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Arenal</LastName>
+            <ForeName>A</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hospital General Universitario Gregorio Marañón, Madrid, Spain; Facultad de Medicina, Universidad Complutense, Madrid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ruiz-Hernández</LastName>
+            <ForeName>P M</ForeName>
+            <Initials>PM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hospital General Universitario Gregorio Marañón, Madrid, Spain; Facultad de Medicina, Universidad Complutense, Madrid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pelliza</LastName>
+            <ForeName>M</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hospital General Universitario Gregorio Marañón, Madrid, Spain; Facultad de Medicina, Universidad Complutense, Madrid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hernández-Hernández</LastName>
+            <ForeName>J</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hospital General Universitario Gregorio Marañón, Madrid, Spain; Facultad de Medicina, Universidad Complutense, Madrid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>González-Torrecilla</LastName>
+            <ForeName>E</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hospital General Universitario Gregorio Marañón, Madrid, Spain; Facultad de Medicina, Universidad Complutense, Madrid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Atienza</LastName>
+            <ForeName>F</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hospital General Universitario Gregorio Marañón, Madrid, Spain; Facultad de Medicina, Universidad Complutense, Madrid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ávila</LastName>
+            <ForeName>P</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hospital General Universitario Gregorio Marañón, Madrid, Spain; Facultad de Medicina, Universidad Complutense, Madrid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fernández-Avilés</LastName>
+            <ForeName>F</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hospital General Universitario Gregorio Marañón, Madrid, Spain; Facultad de Medicina, Universidad Complutense, Madrid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016422">Letter</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>09</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>Int J Cardiol</MedlineTA>
+        <NlmUniqueID>8200291</NlmUniqueID>
+        <ISSNLinking>0167-5273</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001145" MajorTopicYN="N">Arrhythmias, Cardiac</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017115" MajorTopicYN="N">Catheter Ablation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Atrial fibrillation</Keyword>
+        <Keyword MajorTopicYN="N">Catheter ablation</Keyword>
+        <Keyword MajorTopicYN="N">Robotic navigation</Keyword>
+        <Keyword MajorTopicYN="N">Tachycardia</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>09</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>9</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26476983</ArticleId>
+        <ArticleId IdType="pii">S0167-5273(15)30614-8</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.ijcard.2015.10.049</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">26477826</PMID>
+      <DateCompleted>
+        <Year>2017</Year>
+        <Month>06</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1464-410X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>117</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>06</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>BJU international</Title>
+          <ISOAbbreviation>BJU Int</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Aquablation - image-guided robot-assisted waterjet ablation of the prostate: initial clinical experience.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>923-9</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/bju.13358</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE">To assess the safety and feasibility of aquablation in a first-in-man study. Aquablation is a novel minimally invasive water ablation therapy combining image guidance and robotics (AquaBeam(®) ) for the targeted and heat-free removal of prostatic tissue in men with lower urinary tract symptoms (LUTS) secondary to benign prostatic hyperplasia (BPH).</AbstractText>
+          <AbstractText Label="PATIENTS AND METHODS">A prospective, non-randomised, single-centre trial in men aged 50-80 years with moderate-to-severe LUTS was conducted. Under real-time image-based ultrasonic guidance, AquaBeam technology enables surgical planning and mapping, and leads to a controlled heat-free resection of the prostate using a high-velocity saline stream. Patients were evaluated at 1, 3, and 6 months after aquablation.</AbstractText>
+          <AbstractText Label="RESULTS">In all, 15 patients were treated with aquablation under general anaesthesia. The mean (range) age was 73 (59-86) years and prostate size was 54 (27-85) mL. A substantial median lobe was present in six of the 15 patients. The mean International Prostate Symptom Score (IPSS) was 23 and the maximum urinary flow rate (Qmax ) was 8.4 mL/s at baseline. The mean procedural time was 48 min with a mean aquablation treatment time of 8 min. All procedures were technically successful with no serious or unexpected adverse events (AEs). All but one patient had removal of catheter on day 1, and most of the patients were discharged on the first postoperative day. No patient required a blood transfusion, and postoperative sodium changes were negligible. There were no serious 30-day AEs. One patient underwent a second aquablation treatment within 90 days of the first procedure. The mean IPSS score statistically improved from 23.1 at baseline to 8.6 at 6 months (P &lt; 0.001) and the Qmax increased from 8.6 mL/s at baseline to 18.6 mL/s at the 6-month follow-up (P &lt; 0.001). At 6 months, the mean detrusor pressure at Qmax decreased to 45 cmH2 0 from 66 cmH2 0 at baseline (P &lt; 0.05), and the mean prostate size was reduced to 36 mL, a 31% reduction in size vs baseline (P &lt; 0.001). No cases of urinary incontinence or erectile dysfunction were reported.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">These preliminary results from this initial study show aquablation of the prostate is technically feasible with a safety profile comparable to other BPH technologies. The combination of surgical mapping by the operating surgeon and the high-velocity saline provides a promising technique delivering a conformal, quantifiable, and standardised heat-free ablation of the prostate. Advantages of this technique include reduction in resection time compared with other endoscopic methods, as well as the potential to preserve sexual function.</AbstractText>
+          <CopyrightInformation>© 2015 The Authors BJU International © 2015 BJU International Published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Gilling</LastName>
+            <ForeName>Peter</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Tauranga Hospital, Tauranga, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Reuther</LastName>
+            <ForeName>Rana</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Tauranga Hospital, Tauranga, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kahokehr</LastName>
+            <ForeName>Arman</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Tauranga Hospital, Tauranga, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fraundorfer</LastName>
+            <ForeName>Mark</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Tauranga Hospital, Tauranga, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2015</Year>
+          <Month>11</Month>
+          <Day>19</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>BJU Int</MedlineTA>
+        <NlmUniqueID>100886721</NlmUniqueID>
+        <ISSNLinking>1464-4096</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>059QF0KO0R</RegistryNumber>
+          <NameOfSubstance UI="D014867">Water</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Eur Urol. 2016 Jun;69(6):1157-8. doi: 10.1016/j.eururo.2016.02.025</RefSource>
+          <PMID Version="1">27302139</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Urol. 2017 Jan;197(1):222. doi: 10.1016/j.juro.2016.09.092</RefSource>
+          <PMID Version="1">27979546</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005240" MajorTopicYN="N">Feasibility Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059411" MajorTopicYN="N">Lower Urinary Tract Symptoms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019060" MajorTopicYN="N">Minimally Invasive Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009520" MajorTopicYN="N">New Zealand</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011467" MajorTopicYN="N">Prostate</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011470" MajorTopicYN="N">Prostatic Hyperplasia</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020728" MajorTopicYN="N">Transurethral Resection of Prostate</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001748" MajorTopicYN="N">Urinary Bladder Neck Obstruction</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014867" MajorTopicYN="Y">Water</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">AquaBeam</Keyword>
+        <Keyword MajorTopicYN="N">aquablation</Keyword>
+        <Keyword MajorTopicYN="N">benign prostatic hyperplasia</Keyword>
+        <Keyword MajorTopicYN="N">bladder outlet obstruction</Keyword>
+        <Keyword MajorTopicYN="N">laser prostatectomy</Keyword>
+        <Keyword MajorTopicYN="N">minimally invasive robotic surgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>7</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26477826</ArticleId>
+        <ArticleId IdType="doi">10.1111/bju.13358</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

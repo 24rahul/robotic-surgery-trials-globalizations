@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">12925182</PMID>
+      <DateCompleted>
+        <Year>2003</Year>
+        <Month>10</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>11</Month>
+        <Day>07</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1467-2987</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>30</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Oct</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Veterinary anaesthesia and analgesia</Title>
+          <ISOAbbreviation>Vet Anaesth Analg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Reduction of isoflurane MAC by fentanyl or remifentanil in rats.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>250-6</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The main objective of the study was to determine the effects of three different infusion rates of fentanyl and remifentanil on the minimum alveolar concentration (MAC) of isoflurane in the rat. A secondary objective was to assess the cardiovascular and respiratory effects of the two opioid drugs.</AbstractText>
+          <AbstractText Label="ANIMAL POPULATION" NlmCategory="METHODS">Thirty-seven male Wistar rats were randomly allocated to one of six treatment groups.</AbstractText>
+          <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">For all treatment groups anaesthesia was induced with 5% isoflurane in oxygen using an induction chamber. A 14-gauge catheter was used for endotracheal intubation, and anaesthesia was maintained with isoflurane delivered in oxygen via a T-piece breathing system. A baseline determination of the minimum alveolar concentration of isoflurane (MACISO) was made for each animal. Fentanyl (15, 30, 60 micro g kg-1 hour-1) or remifentanil (60, 120, 240 micro g kg-1 hour-1) were infused intravenously into a previously cannulated tail vein. Thirty minutes after the infusion started, a second MACISO (MACISO+drug) was determined. The carotid artery was cannulated to monitor the arterial pressure and to take samples for arterial gas measurements. Cardiovascular (heart rate and arterial pressure) and respiratory (respiratory rate and presence/absence of apnoea) effects after opioid infusion were also recorded.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Fentanyl (15, 30, 60 micro g kg-1 hour-1) and remifentanil (60, 120, 240 micro g kg-1 hour-1) similarly reduced isoflurane MAC in a dose-dependent fashion: by 10% at lower doses, 25% at medium doses and by 60% at higher doses of both the drugs. Both opioids reduced the respiratory rate in a similar way for all doses tested. No episodes of apnoea were recorded in the remifentanil groups, while administration of fentanyl resulted in apnoea in three animals (one at each dose level). The effects on the cardiovascular system were similar with both drugs.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We conclude that the intraoperative use of remifentanil in the rat reduces the MAC of isoflurane, and that this anaesthetic sparing effect is dose-dependent and similar to that produced by fentanyl at the doses tested.</AbstractText>
+          <AbstractText Label="CLINICAL RELEVANCE" NlmCategory="CONCLUSIONS">The use of remifentanil during inhalant anaesthesia in the rat can be considered an intravenous alternative to fentanyl, providing similar reduction in isoflurane requirements. Due to its rapid offset, it is recommended that alternative pain relief be instituted before it is discontinued.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Criado</LastName>
+            <ForeName>Ana B</ForeName>
+            <Initials>AB</Initials>
+            <AffiliationInfo>
+              <Affiliation>LAS Department, GlaxoSmithKline, UK. ana.b.criado@gsk.com</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gómez e Segura</LastName>
+            <ForeName>Ignacio A</ForeName>
+            <Initials>IA</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Vet Anaesth Analg</MedlineTA>
+        <NlmUniqueID>100956422</NlmUniqueID>
+        <ISSNLinking>1467-2987</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000701">Analgesics, Opioid</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018685">Anesthetics, Inhalation</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018686">Anesthetics, Intravenous</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D010880">Piperidines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>CYS9AKD70P</RegistryNumber>
+          <NameOfSubstance UI="D007530">Isoflurane</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>P10582JYYK</RegistryNumber>
+          <NameOfSubstance UI="D000077208">Remifentanil</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>UF599785JZ</RegistryNumber>
+          <NameOfSubstance UI="D005283">Fentanyl</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000701" MajorTopicYN="N">Analgesics, Opioid</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000758" MajorTopicYN="N">Anesthesia</DescriptorName>
+          <QualifierName UI="Q000662" MajorTopicYN="N">veterinary</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018685" MajorTopicYN="N">Anesthetics, Inhalation</DescriptorName>
+          <QualifierName UI="Q000493" MajorTopicYN="Y">pharmacokinetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018686" MajorTopicYN="N">Anesthetics, Intravenous</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004347" MajorTopicYN="N">Drug Interactions</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005283" MajorTopicYN="N">Fentanyl</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007262" MajorTopicYN="N">Infusions, Intravenous</DescriptorName>
+          <QualifierName UI="Q000662" MajorTopicYN="N">veterinary</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007530" MajorTopicYN="N">Isoflurane</DescriptorName>
+          <QualifierName UI="Q000493" MajorTopicYN="Y">pharmacokinetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008168" MajorTopicYN="N">Lung</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010880" MajorTopicYN="N">Piperidines</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000077208" MajorTopicYN="N">Remifentanil</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>8</Month>
+          <Day>20</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2003</Year>
+          <Month>10</Month>
+          <Day>11</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>8</Month>
+          <Day>20</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12925182</ArticleId>
+        <ArticleId IdType="pii">S1467-2987(16)31013-3</ArticleId>
+        <ArticleId IdType="doi">10.1046/j.1467-2995.2003.00123.x</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">12925626</PMID>
+      <DateCompleted>
+        <Year>2003</Year>
+        <Month>09</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>12</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0021-9355</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>85</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of bone and joint surgery. American volume</Title>
+          <ISOAbbreviation>J Bone Joint Surg Am</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of robotic-assisted and manual implantation of a primary total hip replacement. A prospective study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1470-8</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Robotic-assisted total hip replacement has become a common method of implantation, especially in Europe. It frequently has been postulated that robotic reaming would result in an improved clinical outcome due to the better fit of the prosthesis, but that has never been demonstrated in a prospective study, to our knowledge. The purpose of this study was to compare robotic-assisted implantation of a total hip replacement with conventional manual implantation.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">One hundred and fifty-four patients scheduled for total hip replacement were randomly assigned to undergo either conventional manual implantation of an S-ROM prosthesis (eighty patients) or robotic-assisted implantation of such a prosthesis (seventy-four patients). The five-axis ROBODOC was used for the robotic-assisted procedures. Preoperatively as well as at three, six, twelve, and twenty-four months after surgery, the scores according to the Harris and Merle d'Aubigné systems and the Mayo clinical score were determined. Radiographs made at these intervals were analyzed for evidence of loosening, prosthetic alignment, and heterotopic ossification.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Thirteen (18%) of the seventy-four attempted robotic implantations had to be converted to manual implantations as a result of failure of the system. The duration of the robotic procedures was longer than that of the manual procedures (mean and standard deviation,107.1 +/- 29.1 compared with 82.4 +/- 23.4 minutes, p &lt; 0.001). Limb-length equality (mean discrepancy, 0.18 +/- 0.30 compared with 0.96 +/- 0.93 cm, p &lt; 0.001) and varus-valgus orientation of the stem (mean angle between the femur and the shaft of the prosthesis, 0.34 degrees +/- 0.67 degrees compared with 0.84 degrees +/- 1.23 degrees, p &lt; 0.001) were better after the robotic procedures. At six months, slightly more heterotopic ossification was seen in the group treated with robotic implantation. The group treated with robotic implantation had a better Mayo clinical score at six and twelve months and a better Harris score at twelve months; however, by twenty-four months, no difference was found between the groups with regard to any of the three scores. Dislocation was more frequent in the group treated with robotic implantation: it occurred in eleven of the sixty-one patients in that group compared with three of eighty in the other group (p &lt; 0.001). Recurrent dislocation and pronounced limping were indications for revision surgery in eight of the sixty-one patients treated with robotic implantation compared with none of the seventy-eight (excluding two with revision for infection) treated with manual insertion (p &lt; 0.001). Rupture of the gluteus medius tendon was observed during all of the revision operations.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The robotic-assisted technology had advantages in terms of preoperative planning and the accuracy of the intraoperative procedure. Disadvantages were the high revision rate; the amount of muscle damage, which we believe was responsible for the higher dislocation rate; and the longer duration of surgery. This technology must be further developed before its widespread usage can be justified.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Honl</LastName>
+            <ForeName>Matthias</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, Barmbek General Hospital, Hamburg, Germany. honl@ortho-hamburg.de</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dierk</LastName>
+            <ForeName>Oliver</ForeName>
+            <Initials>O</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gauck</LastName>
+            <ForeName>Christian</ForeName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Carrero</LastName>
+            <ForeName>Volker</ForeName>
+            <Initials>V</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lampe</LastName>
+            <ForeName>Frank</ForeName>
+            <Initials>F</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dries</LastName>
+            <ForeName>Sebastian</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Quante</LastName>
+            <ForeName>Markus</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schwieger</LastName>
+            <ForeName>Karsten</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hille</LastName>
+            <ForeName>Ekkehard</ForeName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Morlock</LastName>
+            <ForeName>Michael M</ForeName>
+            <Initials>MM</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Bone Joint Surg Am</MedlineTA>
+        <NlmUniqueID>0014030</NlmUniqueID>
+        <ISSNLinking>0021-9355</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019644" MajorTopicYN="N">Arthroplasty, Replacement, Hip</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004868" MajorTopicYN="N">Equipment Failure</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D021621" MajorTopicYN="N">Imaging, Three-Dimensional</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009999" MajorTopicYN="N">Ossification, Heterotopic</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015207" MajorTopicYN="N">Osteoarthritis, Hip</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010043" MajorTopicYN="N">Outcome and Process Assessment, Health Care</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011474" MajorTopicYN="N">Prosthesis Design</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011475" MajorTopicYN="N">Prosthesis Failure</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012086" MajorTopicYN="N">Reoperation</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="N">Surgery, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D036542" MajorTopicYN="N">Tomography, Spiral Computed</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>8</Month>
+          <Day>20</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2003</Year>
+          <Month>9</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>8</Month>
+          <Day>20</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12925626</ArticleId>
+        <ArticleId IdType="doi">10.2106/00004623-200308000-00007</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">12940670</PMID>
+      <DateCompleted>
+        <Year>2003</Year>
+        <Month>09</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2017</Year>
+        <Month>02</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0003-4894</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>112</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Annals of otology, rhinology, and laryngology</Title>
+          <ISOAbbreviation>Ann Otol Rhinol Laryngol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Immunosuppressive effect of irradiation in the murine laryngeal transplantation model: a controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>712-5</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Since the first successful human laryngeal transplantation in 1998, research continues toward developing less-morbid immunosuppressive protocols. Although irradiation of donor organs is known to decrease acute rejection, the most advantageous method of radiation delivery is still unknown. Using a rat laryngeal transplant model, we sought to determine the most beneficial timing and delivery method of irradiation. A prospective study was undertaken including 16 treatment arms of 10 to 30 animals each (189 transplantations). The animals received 800 cGy before transplantation to the donor larynx in vivo, the donor larynx in vitro, or the recipient animal's neck. The transplantation occurred at 24 hours, 5 days, or 10 days after irradiation. The transplanted larynges were harvested 15 days after transplantation and histologically scored for rejection. Irradiation of allogeneic transplantations demonstrated a strongly protective effect from rejection as compared to no irradiation (p &lt; .001), regardless of the method of radiation delivery or the amount of time between irradiation and transplantation (p = .78). Irradiation of donor larynges between allogeneic rats has a protective effect, reducing the degree of acute rejection when irradiation is used as the single mode of immunosuppression, and is unrelated to either the timing or the mode of delivery of the irradiation.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lorenz</LastName>
+            <ForeName>Robert R</ForeName>
+            <Initials>RR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology and Communicative Disorders, The Cleveland Clinic Foundation, Cleveland, Ohio 44195, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dan</LastName>
+            <ForeName>Olivia</ForeName>
+            <Initials>O</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fritz</LastName>
+            <ForeName>Michael A</ForeName>
+            <Initials>MA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nelson</LastName>
+            <ForeName>Marc</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Strome</LastName>
+            <ForeName>Marshall</ForeName>
+            <Initials>M</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Ann Otol Rhinol Laryngol</MedlineTA>
+        <NlmUniqueID>0407300</NlmUniqueID>
+        <ISSNLinking>0003-4894</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006084" MajorTopicYN="N">Graft Rejection</DescriptorName>
+          <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007830" MajorTopicYN="N">Larynx</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000528" MajorTopicYN="Y">radiation effects</QualifierName>
+          <QualifierName UI="Q000637" MajorTopicYN="Y">transplantation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D023421" MajorTopicYN="N">Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011829" MajorTopicYN="N">Radiation Dosage</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019172" MajorTopicYN="N">Transplantation Conditioning</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014184" MajorTopicYN="N">Transplantation, Homologous</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>8</Month>
+          <Day>28</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2003</Year>
+          <Month>9</Month>
+          <Day>17</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>8</Month>
+          <Day>28</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12940670</ArticleId>
+        <ArticleId IdType="doi">10.1177/000348940311200811</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

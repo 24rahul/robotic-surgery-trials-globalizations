@@ -1,0 +1,708 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39741192</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-2218</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>39</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Surgical endoscopy</Title>
+          <ISOAbbreviation>Surg Endosc</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Simulation training with haptic feedback of instrument vibrations reduces resident workload during live robot-assisted sleeve gastrectomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1523-1535</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00464-024-11459-6</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">New surgeons experience heavy workload during robot-assisted surgery partially because they must use vision to compensate for the lack of haptic feedback. We hypothesize that providing realistic haptic feedback during dry-lab simulation training may accelerate learning and reduce workload during subsequent surgery on patients.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We conducted a single-blinded study with 12 general surgery residents (third and seventh post-graduate year, PGY) randomized into haptic and control groups. Participants performed five simulated bariatric surgeries on a custom inanimate simulator followed by live robot-assisted sleeve gastrectomies (RASGs) using da Vinci robots. The haptic group received naturalistic haptic feedback of instrument vibrations during their first four simulated procedures. Participants completed pre-/post-procedure STAI and post-procedure NASA-TLX questionnaires in both simulation and the operating room (OR).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Higher PGY level (simulation: p &lt; 0.001, OR p = 0.004), shorter operative time (simulation: p &lt; 0.001, OR p = 0.003), and lower pre-procedure STAI (simulation: p = 0.003, OR p &lt; 0.001) were significantly associated with lower self-reported overall workload in both operative settings; PGY-7 s reported about 10% lower workload than PGY-3 s. The haptic group had significantly lower overall covariate-adjusted NASA-TLX during the fourth (p = 0.03) and fifth (p = 0.04) simulated procedures and across all OR procedures (p = 0.047), though not for only the first three OR procedures. Haptic feedback reduced physical demand (simulation: p &lt; 0.001, OR p = 0.001) and increased perceived performance (simulation: p = 0.031, OR p &lt; 0.001) in both settings.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Haptic feedback of instrument vibrations provided during robotic surgical simulation reduces trainee workload during both simulation and live OR cases. The implications of workload reduction and its potential effects on patient safety warrant further investigation.</AbstractText>
+          <CopyrightInformation>© 2024. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Gomez</LastName>
+            <ForeName>Ernest D</ForeName>
+            <Initials>ED</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-3765-5492</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Harvard Medical School, Boston, MA, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering and Applied Mechanics, University of Pennsylvania, Philadelphia, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Husin</LastName>
+            <ForeName>Haliza Mat</ForeName>
+            <Initials>HM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Haptic Intelligence Department, Max Planck Institute for Intelligent Systems, Heisenbergstraße 3, 70569, Stuttgart, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dumon</LastName>
+            <ForeName>Kristoffel R</ForeName>
+            <Initials>KR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Hospital of the University of Pennsylvania, Philadelphia, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Penn Medicine Clinical Simulation Center, Penn Medicine Rittenhouse, Philadelphia, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Williams</LastName>
+            <ForeName>Noel N</ForeName>
+            <Initials>NN</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Hospital of the University of Pennsylvania, Philadelphia, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Penn Medicine Clinical Simulation Center, Penn Medicine Rittenhouse, Philadelphia, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kuchenbecker</LastName>
+            <ForeName>Katherine J</ForeName>
+            <Initials>KJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering and Applied Mechanics, University of Pennsylvania, Philadelphia, USA. kjk@is.mpg.de.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Haptic Intelligence Department, Max Planck Institute for Intelligent Systems, Heisenbergstraße 3, 70569, Stuttgart, Germany. kjk@is.mpg.de.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>CAREER Award (#IIS-0845670)</GrantID>
+            <Agency>National Science Foundation</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>No Award Number</GrantID>
+            <Agency>Wallace H. Coulter Foundation</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>TL1 TR000138</GrantID>
+            <Acronym>TR</Acronym>
+            <Agency>NCATS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>TL1TR000138</GrantID>
+            <Acronym>TR</Acronym>
+            <Agency>NCATS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>No Award Number</GrantID>
+            <Agency>Max-Planck-Gesellschaft</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>31</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Surg Endosc</MedlineTA>
+        <NlmUniqueID>8806653</NlmUniqueID>
+        <ISSNLinking>0930-2794</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016526" MajorTopicYN="Y">Workload</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007396" MajorTopicYN="Y">Internship and Residency</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000066908" MajorTopicYN="Y">Simulation Training</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016037" MajorTopicYN="N">Single-Blind Method</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005743" MajorTopicYN="Y">Gastrectomy</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014732" MajorTopicYN="N">Vibration</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="N">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D050110" MajorTopicYN="Y">Bariatric Surgery</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005246" MajorTopicYN="N">Feedback</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Haptic feedback</Keyword>
+        <Keyword MajorTopicYN="N">NASA-TLX</Keyword>
+        <Keyword MajorTopicYN="N">Naturalistic vibrotactile feedback</Keyword>
+        <Keyword MajorTopicYN="N">Robotic surgery</Keyword>
+        <Keyword MajorTopicYN="N">Subjective workload assessment</Keyword>
+        <Keyword MajorTopicYN="N">Surgical simulation</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Disclosures: Ernest D. Gomez has previously served as a consultant to CMR Surgical; Dr. Gomez has no other conflicts of interest or financial ties to disclose. Katherine J. Kuchenbecker and Ernest D. Gomez co-invented the vibration feedback technology evaluated in this paper. This invention is described in United States patents 9,333,039 and 9,990,856, which have not been commercialized or licensed to any company. Professor Kuchenbecker also received unrelated research funding from Intuitive Surgical, Inc. Professor Kuchenbecker, Haliza Mat Husin, Kristoffel Dumon, and Noel Williams has no conflicts of interest or financial ties to disclose.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>04</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>01</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>2</Day>
+          <Hour>7</Hour>
+          <Minute>18</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>1</Month>
+          <Day>1</Day>
+          <Hour>12</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>31</Day>
+          <Hour>23</Hour>
+          <Minute>32</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39741192</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00464-024-11459-6</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00464-024-11459-6</ArticleId>
+        <ArticleId IdType="pmc">PMC11870985</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>J Endourol. 2014 May;28(5):532-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24397464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2007;1(1):31-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25484936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2013 Dec 03;8(12):e81946</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24312610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2011 Sep;108(6 Pt 2):1028-36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21917107</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Laparosc Endosc Percutan Tech. 2007 Dec;17(6):524-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18097315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Surg. 2012 Feb;214(2):214-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22200377</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Laparoendosc Adv Surg Tech A. 2004 Jun;14(3):191-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15245675</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2014 Jun;8(2):149-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27637524</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2020 Jan;271(1):106-113</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29923873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2012 Apr;26(4):1128-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22044975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Surg. 2018 Apr;105(5):491-501</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29465749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Clin Pract. 2014 Nov;68(11):1376-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25283250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Simul Healthc. 2010 Oct;5(5):267-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21330808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 2010 Mar;147(3):318-30, 330.e1-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20004924</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Biomed Eng. 1988 Feb;35(2):153-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3280462</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Haptics. 2017 Jan-Mar;10(1):40-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27249838</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Innov. 2005 Mar;12(1):80-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15846451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Biomed Eng. 2016 Feb;63(2):278-87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26186763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2010 Aug;34(8):1756-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20393847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2016 Jul;40(7):1565-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26952115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2009 Jan;73(1):119-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18952268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2015 Sep;29(9):2553-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25427414</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Res. 2009 Oct;156(2):312-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19631336</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2020 May;271(5):906-912</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30614878</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2012 Aug;26(8):1089-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22429084</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Res. 2006 Jul;134(1):87-92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16376941</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2013 Feb;27(2):656-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22806517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2015 Oct;29(10):2970-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25539693</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acad Med. 2002 Oct;77(10):1019-25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12377678</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Haptics. 2011 May-Jun;4(3):210-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26963488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2015 Dec;9(4):277-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26530839</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Gastrointest Surg. 2007 Nov;11(11):1564-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17710503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2016 Apr;30(4):1419-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26201410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Minim Invasive Surg. 2012;2012:347131</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23029610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2022 Nov 1;276(5):e434-e443</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33491975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2013 Dec;7(4):351-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27001874</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2010 Feb;24(2):377-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19536599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2016 Mar;10(1):57-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26559538</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2008 Jun;22(6):1505-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18071811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Urol. 2009 Jan;19(1):102-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19057225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 2006 Feb;139(2):159-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16455323</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rev Lat Am Enfermagem. 2011 Jul-Aug;19(4):882-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21876939</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2008 Feb;22(2):313-25; discussion 311-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18163170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Bronconeumol. 2011 Apr;47(4):184-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21420220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2013 Mar;81(3):562-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23295136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ergonomics. 2018 Apr;61(4):517-527</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28817353</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40303442</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1938-3797</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>29</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <MedlineDate>2025 Apr-Jun</MedlineDate>
+            </PubDate>
+          </JournalIssue>
+          <Title>JSLS : Journal of the Society of Laparoendoscopic Surgeons</Title>
+          <ISOAbbreviation>JSLS</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>1- versus 2-Layer Renorrhaphy During Robotic Partial Nephrectomy.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e2024.00080</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.4293/JSLS.2024.00080</ELocationID>
+        <Abstract>
+          <AbstractText Label="Background and Objectives" NlmCategory="UNASSIGNED">To determine whether 1- versus 2-layer renorrhaphy affects renal function after partial nephrectomy.</AbstractText>
+          <AbstractText Label="Methods" NlmCategory="UNASSIGNED">A total of 18 patients undergoing robot-assisted partial nephrectomies for renal tumors at a single center were randomized to 1-layer or 2-layer renorrhaphy. All patients received a running base layer for hemostasis and collecting system closure. The 2-layer renorrhaphy group also underwent cortical closure with running suture, sliding clip method. Demographics and surgical outcomes were collected. Three-dimensional renal models were constructed using semiautomatic segmentation and planimetry pre- and 4 months postsurgery to determine renal volume loss. Welch's t test was used with statistical significance defined as <i>P</i> &lt; .05.</AbstractText>
+          <AbstractText Label="Results" NlmCategory="UNASSIGNED">Of the 18 patients included in the study, 10 were randomized to 1-layer and 8 to 2-layer renorrhaphy. Demographic variables were matched. There was no difference in postoperative creatinine at 1 month (<i>P</i> = .11), 1 year (<i>P</i> = .28), or 3 years (<i>P</i> = .28) postoperatively. However, the change from pre to postoperative creatinine favored the 1-layer group at 1 month (-0.043 vs +0.11 <i>P</i> = .02) and 3 years (-0.0025 vs 0.244, <i>P</i> = .08) follow up. The 1-layer group had a smaller mean volume loss at 4 months postoperatively compared to the 2-layer group (12% vs 22%, <i>P</i> = .04).</AbstractText>
+          <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">This small, randomized trial found increased creatinine and volume loss after 2-layer cortical renorrhaphy. Omitting cortical renorrhaphy may result in better preservation of renal volume and function.</AbstractText>
+          <CopyrightInformation>© 2025 by SLS, Society of Laparoscopic &amp; Robotic Surgeons.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Yong</LastName>
+            <ForeName>Courtney</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Indiana University, Indianapolis, IN, USA. (Drs. Yong, Sundaram, and Bahler).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sharfuddin</LastName>
+            <ForeName>Asif A</ForeName>
+            <Initials>AA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Nephrology, Indiana University, Indianapolis, IN, USA. (Dr. Sharfuddin).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sundaram</LastName>
+            <ForeName>Chandru P</ForeName>
+            <Initials>CP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Indiana University, Indianapolis, IN, USA. (Drs. Yong, Sundaram, and Bahler).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bahler</LastName>
+            <ForeName>Clinton D</ForeName>
+            <Initials>CD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Indiana University, Indianapolis, IN, USA. (Drs. Yong, Sundaram, and Bahler).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>04</Month>
+          <Day>29</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JSLS</MedlineTA>
+        <NlmUniqueID>100884618</NlmUniqueID>
+        <ISSNLinking>1086-8089</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="Y">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007680" MajorTopicYN="Y">Kidney Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013536" MajorTopicYN="Y">Suture Techniques</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Partial nephrectomy</Keyword>
+        <Keyword MajorTopicYN="N">Renal function</Keyword>
+        <Keyword MajorTopicYN="N">Renal mass</Keyword>
+        <Keyword MajorTopicYN="N">Renal parenchymal volume</Keyword>
+        <Keyword MajorTopicYN="N">Renorrhaphy</Keyword>
+      </KeywordList>
+      <CoiStatement>Conflict of interests: none.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>12</Hour>
+          <Minute>30</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>11</Hour>
+          <Minute>7</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40303442</ArticleId>
+        <ArticleId IdType="doi">10.4293/JSLS.2024.00080</ArticleId>
+        <ArticleId IdType="pii">JSLS.2024.00080</ArticleId>
+        <ArticleId IdType="pmc">PMC12039162</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

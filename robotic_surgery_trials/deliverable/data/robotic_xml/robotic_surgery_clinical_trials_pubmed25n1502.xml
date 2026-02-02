@@ -1,0 +1,2840 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39412737</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>10</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1863-2491</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>18</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Oct</Month>
+              <Day>16</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of robotic surgery</Title>
+          <ISOAbbreviation>J Robot Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A comparative analysis of robotic versus laparoscopic total pancreatectomy: insights from the National Cancer Database.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>372</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11701-024-02104-4</ELocationID>
+        <Abstract>
+          <AbstractText>Total pancreatectomy is a complex procedure used in the management of pancreatic cancer. While minimally invasive techniques have been increasingly adopted, limited data exist comparing robotic total pancreatectomy (RTP) and laparoscopic total pancreatectomy (LTP). This study evaluates the utilization, short- and long-term outcomes of RTP and LTP using the National Cancer Database. Patients with stages I-III pancreatic adenocarcinoma who underwent RTP or LTP between 2010 and 2019 were identified. Patient demographics, treatment characteristics, pathologic outcomes, postoperative outcomes, and overall survival were compared. Multivariable logistic regression and Cox proportional-hazards models were used to assess the association of surgical approach with outcomes. Of the 995 patients included, 188 (19%) underwent RTP and 807 (81%) underwent LTP. The utilization of minimally invasive techniques increased over time, with RTP accounting for 24% of cases in 2019. RTP had lower conversion rates than LTP (16% vs. 24%, p = 0.031), but this difference was not significant after adjusting for confounders. Postoperative outcomes, including length of stay, 30-day readmission, and 30- and 90-day mortality, were similar between RTP and LTP. The median overall survival was 22.3 months for RTP and 23.6 months for LTP (p = 0.647). RTP and LTP demonstrate comparable perioperative, pathological, and oncological outcomes for the management of pancreatic adenocarcinoma. Despite the increasing adoption of minimally invasive total pancreatectomy, it remains a rare operation and should be performed in experienced centers to optimize outcomes.</AbstractText>
+          <CopyrightInformation>© 2024. The Author(s), under exclusive licence to Springer-Verlag London Ltd., part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kahramangil Baytar</LastName>
+            <ForeName>Doga</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Florida, Gainesville, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Charles</LastName>
+            <ForeName>Angel</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Florida, Gainesville, FL, USA. angel.charles@surgery.ufl.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Parrish</LastName>
+            <ForeName>Austin</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Florida, Gainesville, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Voskamp</LastName>
+            <ForeName>Sarah</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Florida, Gainesville, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Novikov</LastName>
+            <ForeName>Aleksey</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Florida, Gainesville, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McKean</LastName>
+            <ForeName>Jordan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Florida, Gainesville, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hughes</LastName>
+            <ForeName>Steven</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Florida, Gainesville, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sahin</LastName>
+            <ForeName>Ilyas</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Florida, Gainesville, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>George</LastName>
+            <ForeName>Thomas</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Florida, Gainesville, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Paniccia</LastName>
+            <ForeName>Alessandro</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Florida, Gainesville, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nassour</LastName>
+            <ForeName>Ibrahim</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Florida, Gainesville, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>T32 HL160491</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Robot Surg</MedlineTA>
+        <NlmUniqueID>101300401</NlmUniqueID>
+        <ISSNLinking>1863-2483</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010180" MajorTopicYN="Y">Pancreatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010190" MajorTopicYN="Y">Pancreatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016208" MajorTopicYN="Y">Databases, Factual</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000230" MajorTopicYN="N">Adenocarcinoma</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Laparoscopic total pancreatectomy (LTP)</Keyword>
+        <Keyword MajorTopicYN="N">National cancer database (NCDB)</Keyword>
+        <Keyword MajorTopicYN="N">Pancreatic adenocarcinoma</Keyword>
+        <Keyword MajorTopicYN="N">Robotic total pancreatectomy (RTP)</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>07</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>09</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+          <Hour>12</Hour>
+          <Minute>24</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+          <Hour>12</Hour>
+          <Minute>23</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+          <Hour>11</Hour>
+          <Minute>17</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39412737</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11701-024-02104-4</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11701-024-02104-4</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Rockey EW (1943) Total pancreatectomy for carcinoma: case report. Ann Surg 118(4):603–611. https://doi.org/10.1097/00000658-194310000-00008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/00000658-194310000-00008</ArticleId>
+            <ArticleId IdType="pubmed">17858293</ArticleId>
+            <ArticleId IdType="pmcid">1617783</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ReMine WH, Priestley JT, Judd ES, King JN (1970) Total pancreatectomy. Ann Surg 172(4):595–604. https://doi.org/10.1097/00000658-197010000-00006</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/00000658-197010000-00006</ArticleId>
+            <ArticleId IdType="pubmed">4318798</ArticleId>
+            <ArticleId IdType="pmcid">1397289</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ihse I, Anderson H, Andren-Sandberg A (1996) Total pancreatectomy for cancer of the pancreas: is it appropriate? World J Surg 20(3):288–294. https://doi.org/10.1007/s002689900046</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s002689900046</ArticleId>
+            <ArticleId IdType="pubmed">8661833</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dresler CM, Fortner JG, Mcdermott K, Bajorunas DR (1991) Metabolic consequences of (Regional) total pancreatectomy. Ann Surg 214(2):131–140. https://doi.org/10.1097/00000658-199108000-00007</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/00000658-199108000-00007</ArticleId>
+            <ArticleId IdType="pubmed">1867520</ArticleId>
+            <ArticleId IdType="pmcid">1358512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Müller MW, Friess H, Kleeff J et al (2007) Is there still a role for total pancreatectomy? Ann Surg 246(6):966–975. https://doi.org/10.1097/SLA.0b013e31815c2ca3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0b013e31815c2ca3</ArticleId>
+            <ArticleId IdType="pubmed">18043098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poiraud C, El Amrani M, Barbier L et al (2018) Total pancreatectomy for presumed intraductal papillary mucinous neoplasms: a multicentric study of the french surgical association (AFC). Ann Surg 268(5):823–830. https://doi.org/10.1097/SLA.0000000000002944</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000002944</ArticleId>
+            <ArticleId IdType="pubmed">30048327</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Casadei R, Monari F, Buscemi S et al (2010) Total pancreatectomy: indications, operative technique, and results: a single centre experience and review of literature. Updat Surg 62(1):41–46. https://doi.org/10.1007/s13304-010-0005-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13304-010-0005-z</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barbier L, Jamal W, Dokmak S et al (2013) Impact of total pancreatectomy: short- and long-term assessment. HPB 15(11):882–892. https://doi.org/10.1111/hpb.12054</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/hpb.12054</ArticleId>
+            <ArticleId IdType="pubmed">23458647</ArticleId>
+            <ArticleId IdType="pmcid">4503286</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reddy S, Wolfgang CL, Cameron JL et al (2009) Total pancreatectomy for pancreatic adenocarcinoma: evaluation of morbidity and long-term survival. Ann Surg 250(2):282–287. https://doi.org/10.1097/SLA.0b013e3181ae9f93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0b013e3181ae9f93</ArticleId>
+            <ArticleId IdType="pubmed">19638918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nathan H, Wolfgang CL, Edil BH et al (2009) Peri-operative mortality and long-term survival after total pancreatectomy for pancreatic adenocarcinoma: a population-based perspective: survival after total pancreatectomy. J Surg Oncol 99(2):87–92. https://doi.org/10.1002/jso.21189</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jso.21189</ArticleId>
+            <ArticleId IdType="pubmed">19021191</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eguia E, Kuo PC, Sweigert PJ et al (2019) The laparoscopic approach to pancreatoduodenectomy is cost neutral in very high-volume centers. Surgery 166(6):1027–1032. https://doi.org/10.1016/j.surg.2019.07.004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2019.07.004</ArticleId>
+            <ArticleId IdType="pubmed">31472971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fan CJ, Hirose K, Walsh CM et al (2017) Laparoscopic total pancreatectomy with islet autotransplantation and intraoperative islet separation as a treatment for patients with chronic pancreatitis. JAMA Surg 152(6):550. https://doi.org/10.1001/jamasurg.2016.5707</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jamasurg.2016.5707</ArticleId>
+            <ArticleId IdType="pubmed">28241234</ArticleId>
+            <ArticleId IdType="pmcid">5540049</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Van Hilst J, De Rooij T, Klompmaker S et al (2019) Minimally invasive versus open distal pancreatectomy for ductal adenocarcinoma (DIPLOMA): a Pan-European propensity score matched study. Ann Surg 269(1):10–17. https://doi.org/10.1097/SLA.0000000000002561</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000002561</ArticleId>
+            <ArticleId IdType="pubmed">29099399</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weng Y, Chen M, Gemenetzis G et al (2020) Robotic-assisted versus open total pancreatectomy: a propensity score-matched study. Hepatobiliary Surg Nutr 9(6):759–770. https://doi.org/10.21037/hbsn.2020.03.19</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21037/hbsn.2020.03.19</ArticleId>
+            <ArticleId IdType="pubmed">33299830</ArticleId>
+            <ArticleId IdType="pmcid">7720059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang X, Li Y, Cai Y, Liu X, Peng B (2017) Laparoscopic total pancreatectomy: case report and literature review. Medicine (Baltimore) 96(3):e5869. https://doi.org/10.1097/MD.0000000000005869</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MD.0000000000005869</ArticleId>
+            <ArticleId IdType="pubmed">28099344</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>R: The R project for statistical computing. https://www.r-project.org/ . Accessed 24 Jul 2023</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wickham H (2009) Ggplot2: elegant graphics for data analysis. Springer. https://doi.org/10.1007/978-0-387-98141-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-0-387-98141-3</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Auguie B, Antonov A. GridExtra: Miscellaneous functions for “Grid” graphics. Published online September 9, 2017. https://cran.r-project.org/web/packages/gridExtra/index.html . Accessed 24 Jul 2023</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Therneau TM, until 2009) TL (original S &gt;R port and R maintainer, Elizabeth A, Cynthia C. Survival: survival analysis. Published online March 12, 2023. https://cran.r-project.org/web/packages/survival/index.html . Accessed 24 Jul 2023</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kassambara A, Kosinski M, Biecek P, Fabian S. Survminer: drawing survival curves using “ggplot2.” Published online March 9, 2021. https://cran.r-project.org/web/packages/survminer/index.html . Accessed 24 Jul 2023</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wickham H, Averick M, Bryan J et al (2019) Welcome to the Tidyverse. J Open Source Softw 4(43):1686. https://doi.org/10.21105/joss.01686</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21105/joss.01686</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bhayani NH, Miller JL, Ortenzi G et al (2014) Perioperative outcomes of pancreaticoduodenectomy compared to total pancreatectomy for neoplasia. J Gastrointest Surg 18(3):549–554. https://doi.org/10.1007/s11605-013-2393-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11605-013-2393-0</ArticleId>
+            <ArticleId IdType="pubmed">24165872</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stoop TF, Ateeb Z, Ghorbani P et al (2020) Impact of endocrine and exocrine insufficiency on quality of life after total pancreatectomy. Ann Surg Oncol 27(2):587–596. https://doi.org/10.1245/s10434-019-07853-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1245/s10434-019-07853-3</ArticleId>
+            <ArticleId IdType="pubmed">31562603</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hartwig W, Gluth A, Hinz U et al (2015) Total pancreatectomy for primary pancreatic neoplasms: renaissance of an unpopular operation. Ann Surg 261(3):537–546. https://doi.org/10.1097/SLA.0000000000000791</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000000791</ArticleId>
+            <ArticleId IdType="pubmed">24979606</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Petrucciani N, Nigri G, Giannini G et al (2020) Total pancreatectomy for pancreatic carcinoma: when, why, and what are the outcomes? Results of a systematic review. Pancreas 49(2):175–180. https://doi.org/10.1097/MPA.0000000000001474</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MPA.0000000000001474</ArticleId>
+            <ArticleId IdType="pubmed">32011524</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Raut CP, Cleary KR, Staerkel GA et al (2006) Intraductal papillary mucinous neoplasms of the pancreas: effect of invasion and pancreatic margin status on recurrence and survival. Ann Surg Oncol 13(4):582–594. https://doi.org/10.1245/ASO.2006.05.002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1245/ASO.2006.05.002</ArticleId>
+            <ArticleId IdType="pubmed">16523362</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>D’Angelica M, Brennan MF, Suriawinata AA, Klimstra D, Conlon KC (2004) Intraductal papillary mucinous neoplasms of the pancreas: an analysis of clinicopathologic features and outcome. Ann Surg 239(3):400–408. https://doi.org/10.1097/01.sla.0000114132.47816.dd</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/01.sla.0000114132.47816.dd</ArticleId>
+            <ArticleId IdType="pubmed">15075659</ArticleId>
+            <ArticleId IdType="pmcid">1356240</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johnston WC, Hoen HM, Cassera MA et al (2016) Total pancreatectomy for pancreatic ductal adenocarcinoma: review of the national cancer data base. HPB 18(1):21–28. https://doi.org/10.1016/j.hpb.2015.07.009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.hpb.2015.07.009</ArticleId>
+            <ArticleId IdType="pubmed">26776847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crippa S, Tamburrino D, Partelli S et al (2011) Total pancreatectomy: Indications, different timing, and perioperative and long-term outcomes. Surgery 149(1):79–86. https://doi.org/10.1016/j.surg.2010.04.007</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2010.04.007</ArticleId>
+            <ArticleId IdType="pubmed">20494386</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nassour I, Winters SB, Hoehn R, et al. Long‐term oncologic outcomes of robotic and open pancreatectomy in a national cohort of pancreatic adenocarcinoma.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kalabin A, Mani VR, Kruse RL et al (2023) New perspectives on robotic pancreaticoduodenectomy: an analysis of the national cancer database. World J Gastrointest Surg 15(1):60–71. https://doi.org/10.4240/wjgs.v15.i1.60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4240/wjgs.v15.i1.60</ArticleId>
+            <ArticleId IdType="pubmed">36741067</ArticleId>
+            <ArticleId IdType="pmcid">9896499</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nassour I, Choti MA, Porembka MR, Yopp AC, Wang SC, Polanco PM (2018) Robotic-assisted versus laparoscopic pancreaticoduodenectomy: oncological outcomes. Surg Endosc 32(6):2907–2913. https://doi.org/10.1007/s00464-017-6002-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-017-6002-2</ArticleId>
+            <ArticleId IdType="pubmed">29280014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen C, Hu J, Yang H et al (2022) Is robotic distal pancreatectomy better than laparoscopic distal pancreatectomy after the learning curve? A systematic review and meta-analysis. Front Oncol 12:954227. https://doi.org/10.3389/fonc.2022.954227</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fonc.2022.954227</ArticleId>
+            <ArticleId IdType="pubmed">36106111</ArticleId>
+            <ArticleId IdType="pmcid">9465417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scholten L, Klompmaker S, Van Hilst J et al (2023) Outcomes after minimally invasive versus open total pancreatectomy: a pan-european propensity score matched study. Ann Surg 277(2):313–320. https://doi.org/10.1097/SLA.0000000000005075</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000005075</ArticleId>
+            <ArticleId IdType="pubmed">34261885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nassour I, Polanco PM (2016) Minimally invasive liver surgery for hepatic colorectal metastases. Curr Colorectal Cancer Rep 12(2):103–112. https://doi.org/10.1007/s11888-016-0316-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11888-016-0316-7</ArticleId>
+            <ArticleId IdType="pubmed">27570500</ArticleId>
+            <ArticleId IdType="pmcid">4999254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nassour I, Wang SC, Porembka MR et al (2017) Conversion of minimally invasive distal pancreatectomy: predictors and outcomes. Ann Surg Oncol 24(12):3725–3731. https://doi.org/10.1245/s10434-017-6062-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1245/s10434-017-6062-5</ArticleId>
+            <ArticleId IdType="pubmed">28849407</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hester CA, Nassour I, Christie A et al (2020) Predictors and outcomes of converted minimally invasive pancreaticoduodenectomy: a propensity score matched analysis. Surg Endosc 34(2):544–550. https://doi.org/10.1007/s00464-019-06792-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-019-06792-0</ArticleId>
+            <ArticleId IdType="pubmed">31016458</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gavriilidis P, Lim C, Menahem B, Lahat E, Salloum C, Azoulay D (2016) Robotic versus laparoscopic distal pancreatectomy—the first meta-analysis. HPB 18(7):567–574. https://doi.org/10.1016/j.hpb.2016.04.008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.hpb.2016.04.008</ArticleId>
+            <ArticleId IdType="pubmed">27346136</ArticleId>
+            <ArticleId IdType="pmcid">4925795</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plotkin A, Ceppa EP, Zarzaur BL, Kilbane EM, Riall TS, Pitt HA (2017) Reduced morbidity with minimally invasive distal pancreatectomy for pancreatic adenocarcinoma. HPB 19(3):279–285. https://doi.org/10.1016/j.hpb.2017.01.014</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.hpb.2017.01.014</ArticleId>
+            <ArticleId IdType="pubmed">28161217</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anderson KL, Adam MA, Thomas S, Roman SA, Sosa JA (2017) Impact of minimally invasive vs. open distal pancreatectomy on use of adjuvant chemoradiation for pancreatic adenocarcinoma. Am J Surg 213(4):601–605. https://doi.org/10.1016/j.amjsurg.2017.01.005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.amjsurg.2017.01.005</ArticleId>
+            <ArticleId IdType="pubmed">28093119</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boffa DJ, Rosen JE, Mallin K et al (2017) Using the national cancer database for outcomes research: a review. JAMA Oncol 3(12):1722. https://doi.org/10.1001/jamaoncol.2016.6905</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jamaoncol.2016.6905</ArticleId>
+            <ArticleId IdType="pubmed">28241198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40090824</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1878-7533</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>21</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Surgery for obesity and related diseases : official journal of the American Society for Bariatric Surgery</Title>
+          <ISOAbbreviation>Surg Obes Relat Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Impact of high-protein bariatric diet on the prevention of postoperative nausea and vomiting.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>929-934</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S1550-7289(25)00066-8</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.soard.2025.02.002</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Postoperative nausea and vomiting (PONV) commonly occurs following metabolic/bariatric surgery, contributing to increased health care utilization and length of stay (LOS). Studies have suggested the benefit of protein-predominant meals in suppressing gastric tachyarrhythmia and PONV.</AbstractText>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To investigate the impact of a high-protein postoperative liquid diet on PONV and LOS after primary sleeve gastrectomy (SG).</AbstractText>
+          <AbstractText Label="SETTING" NlmCategory="METHODS">University Hospital, United States.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This prospective randomized trial included adult patients undergoing primary SG. Exclusion criteria were history of bariatric/foregut surgery, chronic nausea/vomiting, HbA1C ≥9, or therapeutic anticoagulation. Patients were randomized 1:1 to receive a clear liquid (control) or high-protein full-liquid diet (intervention) starting 4 hours postoperatively. The primary endpoint was incidence of PONV. Secondary endpoint was increased LOS due to PONV. Pearson's chi squared test for independence compared outcomes between groups on an intention to treat basis.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">One-hundred and twelve patients were randomized (56 control, 56 intervention). Most patients were female (80.4%). All underwent laparoscopic (72.3%) or robotic (27.7%) SG and 90.2% received inhalational anesthesia. In the intervention arm, 15 patients had zero protein intake due to PONV, 6 had missing data, and 35 had a mean intake of 24.2 grams. There was no observed treatment effect on PONV (78.6% control versus 89.3% intervention; P = .20). Almost 70% of patients were discharged home on postoperative day (POD) 1. Delay in discharge due to PONV was not significant between groups (32.1% control versus 28.6% intervention; P = .84).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Early introduction of liquid protein after SG does not improve PONV or LOS.</AbstractText>
+          <CopyrightInformation>Copyright © 2025 American Society for Metabolic and Bariatric Surgery. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Anderson</LastName>
+            <ForeName>Brigitte</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, University of Maryland Medical Center, Baltimore, Maryland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Iyer</LastName>
+            <ForeName>Amrita</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rama</LastName>
+            <ForeName>Martina</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Beth Israel Deaconess Medical Center, Boston, Massachusetts.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>O'Connell</LastName>
+            <ForeName>Abigail M</ForeName>
+            <Initials>AM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Torres</LastName>
+            <ForeName>Anna P</ForeName>
+            <Initials>AP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Koeneman</LastName>
+            <ForeName>Scott H</ForeName>
+            <Initials>SH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Biostatistics and Bioinformatics, Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tholey</LastName>
+            <ForeName>Renee</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Beekley</LastName>
+            <ForeName>Alec</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Palazzo</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tatarian</LastName>
+            <ForeName>Talar</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Sidney Kimmel Medical College at Thomas Jefferson University, Philadelphia, Pennsylvania. Electronic address: talar.tatarian@jefferson.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>14</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Surg Obes Relat Dis</MedlineTA>
+        <NlmUniqueID>101233161</NlmUniqueID>
+        <ISSNLinking>1550-7289</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020250" MajorTopicYN="Y">Postoperative Nausea and Vomiting</DescriptorName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+          <QualifierName UI="Q000178" MajorTopicYN="N">diet therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000073600" MajorTopicYN="Y">Diet, High-Protein</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005743" MajorTopicYN="Y">Gastrectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D050110" MajorTopicYN="Y">Bariatric Surgery</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009767" MajorTopicYN="Y">Obesity, Morbid</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Metabolic/bariatric surgery</Keyword>
+        <Keyword MajorTopicYN="N">PONV</Keyword>
+        <Keyword MajorTopicYN="N">Postoperative nausea and vomiting</Keyword>
+        <Keyword MajorTopicYN="N">Sleeve gastrectomy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>09</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>19</Day>
+          <Hour>16</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>17</Day>
+          <Hour>0</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>16</Day>
+          <Hour>23</Hour>
+          <Minute>2</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40090824</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.soard.2025.02.002</ArticleId>
+        <ArticleId IdType="pii">S1550-7289(25)00066-8</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40670635</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2045-2322</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>15</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jul</Month>
+              <Day>16</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Scientific reports</Title>
+          <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of necrotizing enterocolitis (NEC)-related apoptosis factors between preterm and full-term rats.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>25763</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41598-025-86506-w</ELocationID>
+        <Abstract>
+          <AbstractText>The aim of this study was to determine whether there is a difference in the degree of apoptosis and the pathways leading to necrotizing enterocolitis (NEC) between preterm and full-term rat pups. To achieve this goal, we investigated the pathogenesis of NEC. premature Sprague‒Dawley (SD) rat pups delivered by cesarean section at a gestational age of 21 days (preterm group), as well as full-term SD rat pups four days after birth (full-term group). The pups were exposed to lipopolysaccharides (LPS) and hypoxia to induce necrotizing enterocolitis. Both preterm and full-term rats developed necrotizing enterocolitis. The results indicated that the degree of apoptosis was greater in both the preterm and full-term NEC groups than in the untreated preterm and full-term control groups. Compared with the control group, the full-term group also presented a reduction in Bcl-2 levels and an increase in the ratio. Moreover, the preterm group presented significantly increased RIPK1 expression, suggesting the induction of RIPK1-dependent apoptosis. These findings suggest that the pathophysiology of necrotizing enterocolitis induced by LPS + hypoxia is associated with the programmed cell death pathway. It appears that the apoptotic pathway of the Bax/Bcl-2 system is the main mechanism of necrotizing enterocolitis in full-term rats. In contrast, several other mechanisms, including TNF-α-induced apoptosis mechanism, may work together for necrotizing enterocolitis in preterm rats. However, further studies are needed to elucidate the differences in the pathogenesis of necrotizing enterocolitis development between preterm and full-term rats.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Hye-Rim</ForeName>
+            <Initials>HR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, Seoul National University College of Medicine, Jongno-gu, Seoul, 03080, Republic of Korea. hyerim.lee.rim@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Ko</LastName>
+            <ForeName>Dayoung</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, Seoul National University College of Medicine, Jongno-gu, Seoul, 03080, Republic of Korea. kodayoung@snu.ac.kr.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Seoul National University College of Medicine, Jongno-gu, Seoul, 03080, Republic of Korea. kodayoung@snu.ac.kr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Kyeung Yeup</ForeName>
+            <Initials>KY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, Seoul National University College of Medicine, Jongno-gu, Seoul, 03080, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>So Young</ForeName>
+            <Initials>SY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Chonnam University medical school Nuclear medicine, Hwasun-gun, 58128, Gwangju, Jeollanam-do, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Youn</LastName>
+            <ForeName>Joong Kee</ForeName>
+            <Initials>JK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, Seoul National University College of Medicine, Jongno-gu, Seoul, 03080, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Seoul National University College of Medicine, Jongno-gu, Seoul, 03080, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Hee Beom</ForeName>
+            <Initials>HB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Seoul National University College of Medicine, Jongno-gu, Seoul, 03080, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Seoul National University Bundang Hospital, Seongnam, 13620, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Hyun-Young</ForeName>
+            <Initials>HY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, Seoul National University College of Medicine, Jongno-gu, Seoul, 03080, Republic of Korea. spkhy02@snu.ac.kr.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Seoul National University College of Medicine, Jongno-gu, Seoul, 03080, Republic of Korea. spkhy02@snu.ac.kr.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatric Surgery, Seoul National University College of Medicine, 101, Daehak-ro, Jongno-gu, Seoul, 03080, South Korea. spkhy02@snu.ac.kr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>07</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Sci Rep</MedlineTA>
+        <NlmUniqueID>101563288</NlmUniqueID>
+        <ISSNLinking>2045-2322</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D008070">Lipopolysaccharides</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D019253">Proto-Oncogene Proteins c-bcl-2</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D051028">bcl-2-Associated X Protein</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020345" MajorTopicYN="Y">Enterocolitis, Necrotizing</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017209" MajorTopicYN="Y">Apoptosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000831" MajorTopicYN="N">Animals, Newborn</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008070" MajorTopicYN="N">Lipopolysaccharides</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019253" MajorTopicYN="N">Proto-Oncogene Proteins c-bcl-2</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051028" MajorTopicYN="N">bcl-2-Associated X Protein</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D047928" MajorTopicYN="Y">Premature Birth</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Apoptosis</Keyword>
+        <Keyword MajorTopicYN="N">Full-term rat</Keyword>
+        <Keyword MajorTopicYN="N">Hypoxia</Keyword>
+        <Keyword MajorTopicYN="N">LPS</Keyword>
+        <Keyword MajorTopicYN="N">Necroptosis</Keyword>
+        <Keyword MajorTopicYN="N">Necrotizing enterocolitis (NEC)</Keyword>
+        <Keyword MajorTopicYN="N">Pre-term rat</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Competing interests: The authors declare no competing interests. Ethics approval and consent to participate: All animal experiments were performed in accordance with the applicable animal welfare regulations and with the approval of the Institutional Animal Care and Use Committee (IACUC #08–0069) of Seoul National University Hospital. All applicable international, national, and/or institutional guidelines for the care and use of animals were followed.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>05</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>01</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>27</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>17</Day>
+          <Hour>4</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>16</Day>
+          <Hour>23</Hour>
+          <Minute>36</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40670635</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41598-025-86506-w</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41598-025-86506-w</ArticleId>
+        <ArticleId IdType="pmc">PMC12267699</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Biochem J. 2005 Dec 1;392(Pt 2):335-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16048438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pathophysiology. 2018 Jun;25(2):83-88</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29501391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Death Differ. 2006 Aug;13(8):1272-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16676001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iran J Basic Med Sci. 2018 Mar;21(3):325-332</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29511500</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Pediatr Surg. 2008 Dec;18(6):423-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19012230</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pathophysiology. 2014 Feb;21(1):55-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24388163</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Pediatr Surg. 2020 Mar 25;3(1):e000109</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36474867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2000 Jan 18;97(2):529-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10639111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biochem Soc Trans. 2022 Feb 28;50(1):33-45</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34940803</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Chem Biol. 2008 May;4(5):313-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18408713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tumour Biol. 2016 Jul;37(7):8471-86</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27059734</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Cell. 2011 Oct 7;44(1):9-16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21981915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2020 Mar 3;117(9):4959-4970</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32071228</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cold Spring Harb Perspect Biol. 2013 Feb 01;5(2):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23378584</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pediatr Res. 2018 Jan;83(1-1):164-174</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28846670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Annu Rev Pathol. 2016 May 23;11:77-100</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27193451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Death Discov. 2024 Mar 4;10(1):112</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38438362</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2014 May 22;157(5):1189-202</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24813850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pediatr Rev. 2017 Dec;38(12):552-559</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29196510</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Pediatr. 2023 Jun 05;11:1199878</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37342533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Exp Pediatr. 2024 Mar;67(3):152-160</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38369803</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2011 Mar 17;471(7338):373-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21368761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pediatr Res. 2025 May;97(6):2126-2135</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39300277</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nutr Res Pract. 2023 Dec;17(6):1070-1083</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38053828</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Oncol. 2003 Jan;22(1):15-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12469180</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DNA Cell Biol. 2022 Apr;41(4):447-455</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35353612</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shock. 2002 Mar;17(3):180-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11900335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2012 Jul 20;150(2):339-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22817896</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Cell Dev Biol. 2023 May 17;11:1184159</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37266449</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Cancer Res. 2004 Nov;2(11):620-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15561778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Semin Cell Dev Biol. 2014 Nov;35:2-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25160988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Cancer. 2002 Sep;2(9):647-56</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12209154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 1997 Feb 7;88(3):355-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9039262</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Semin Perinatol. 2008 Apr;32(2):92-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18346532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Apoptosis. 2023 Jun;28(5-6):730-753</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37014578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Transplant. 2013 Nov;13(11):2797-804</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24103029</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>FASEB J. 2003 Jun;17(9):1156-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12709415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pediatr Surg. 2002 Jun;37(6):828-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12037744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Semin Pediatr Surg. 2005 Aug;14(3):137-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16084400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunol Cell Biol. 1999 Aug;77(4):312-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10457197</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pediatr Res. 2004 Apr;55(4):622-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14764921</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncogene. 2003 Nov 24;22(53):8608-18</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14634622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Drug Des Devel Ther. 2018 Dec 31;13:243-253</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30643390</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Biol Chem. 1998 Apr 17;273(16):9357-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9545256</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Perinatol. 2007 Jul;27(7):428-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17443195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Endocrinol. 2021 Aug;17(8):497-510</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34135504</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Mol Cell Biol. 2024 May;25(5):379-395</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38110635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40670881</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1863-2491</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>19</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jul</Month>
+              <Day>16</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of robotic surgery</Title>
+          <ISOAbbreviation>J Robot Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Mid-term outcomes of robotic assisted versus conventional sternotomy for mitral valve replacement: a nationwide propensity-weighted analysis using Taiwan's National Health Insurance Research Database.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>396</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11701-025-02564-2</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">This study aimed to compare survival, complications, and healthcare costs between robotic-assisted and conventional sternotomy mitral valve replacement, using a nationwide population-based dataset from Taiwan.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Patients who underwent isolated surgical MVR between 2016 and 2021 were identified from Taiwan's National Health Insurance Research Database. A total of 5,736 patients met inclusion criteria: 5,547 underwent conventional sternotomy MVR (CSMVR), and 113 received robot-assisted MVR (RAMVR). To reduce confounding, inverse probability of treatment weighting (IPTW) was applied using age, sex, and Charlson Comorbidity Index as covariates, yielding a weighted cohort of 5,660 CSMVR and 5,640 RAMVR cases for outcome analysis.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">After IPTW adjustment, RAMVR was associated with significantly better survival (hazard ratio: 0.37; 95% confidence interval: 0.33-0.41; p &lt; 0.01), shorter hospital stay (16.5 vs. 22.7 days, p &lt; 0.01), and shorter intensive care unit stay (4.4 vs. 9.1 days, p &lt; 0.01). RAMVR patients also had lower rates of dialysis and stroke. One-year post-discharge medical costs were significantly lower in the RAMVR group (USD 1,640 vs. 4,003, p &lt; 0.01). Although inpatient costs appeared lower for RAMVR, this reflects the exclusion of patient-borne expenses for robotic equipment not reimbursed by insurance.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In this national population-based analysis, RAMVR was associated with better mid-term survival, shorter hospital stays, and reduced medical costs compared with conventional sternotomy. These findings support the use of robotic-assisted surgery as a safe and effective alternative in selected patients undergoing mitral valve replacement.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Chien</LastName>
+            <ForeName>Yu-San</ForeName>
+            <Initials>YS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Critical Care, Mackay Memorial Hospital, CVICU-B, 7F, No. 92, Sec. 2, Zhongshan N. Rd, Taipei City, 104, Taiwan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Medicine, Mackay Medical College, No.46, Sec. 3, Zhongzheng Rd., Sanzhi Dist., New Taipei City, 252, Taiwan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chung</LastName>
+            <ForeName>Ching-Hu</ForeName>
+            <Initials>CH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medicine, Mackay Medical College, No.46, Sec. 3, Zhongzheng Rd., Sanzhi Dist., New Taipei City, 252, Taiwan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Jiun-Yi</ForeName>
+            <Initials>JY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medicine, Mackay Medical College, No.46, Sec. 3, Zhongzheng Rd., Sanzhi Dist., New Taipei City, 252, Taiwan. jyl5891@gmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular Surgery, Mackay Memorial Hospital, CVICU-B, 7F, No. 92, Sec. 2, Zhongshan N. Rd, Taipei City, 104, Taiwan. jyl5891@gmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Quality, Mackay Memorial Hospital, CVICU-B, 7F, No. 92, Sec. 2, Zhongshan N. Rd, Taipei City, 104, Taiwan. jyl5891@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>07</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Robot Surg</MedlineTA>
+        <NlmUniqueID>101300401</NlmUniqueID>
+        <ISSNLinking>1863-2483</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013624" MajorTopicYN="N" Type="Geographic">Taiwan</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056346" MajorTopicYN="Y">Sternotomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008943" MajorTopicYN="Y">Mitral Valve</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019918" MajorTopicYN="Y">Heart Valve Prosthesis Implantation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="N">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016208" MajorTopicYN="N">Databases, Factual</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009313" MajorTopicYN="N">National Health Programs</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017048" MajorTopicYN="N">Health Care Costs</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cost</Keyword>
+        <Keyword MajorTopicYN="N">Mitral valve replacement</Keyword>
+        <Keyword MajorTopicYN="N">Robot</Keyword>
+        <Keyword MajorTopicYN="N">Sternotomy</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Conflict of interest: The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>06</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>07</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>27</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>17</Day>
+          <Hour>4</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>16</Day>
+          <Hour>23</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40670881</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11701-025-02564-2</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11701-025-02564-2</ArticleId>
+        <ArticleId IdType="pmc">PMC12267384</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Circulation. 2021 Jan 12;143(2):178-196</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33428433</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>EuroIntervention. 2024 Feb 19;20(4):e230-e238</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38389473</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Clin North Am. 2020 Apr;100(2):219-236</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32169177</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heart Lung Circ. 2022 Apr;31(4):590-601</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34756532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adv Ther. 2025 Jul;42(7):3111-3140</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">40388090</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Turk Gogus Kalp Damar Cerrahisi Derg. 2023 Oct 19;31(4):498-506</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38075994</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Card Surg. 2022 Oct;37(10):3276-3278</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35989500</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circulation. 2021 Feb 2;143(5):e35-e71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33332149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Cardiothorac Surg. 2022 Nov;11(6):596-604</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36483620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Thorac Surg. 2025 May;119(5):1011-1019</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39536852</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Thorac Surg. 2022 Feb;113(2):386-391</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34717906</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Catheter Cardiovasc Interv. 2025 Jan;105(1):219-238</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39568133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Thorac Cardiovasc Surg. 2018 Sep;156(3):1040-1047</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29724597</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Thorac Cardiovasc Surg. 2005 Jun;129(6):1395-404</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15942584</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 2023 Jun 13;329(22):1957-1966</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37314276</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Cardiothorac Surg. 2021 Apr 29;59(4):863-868</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33313790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Cardiothorac Surg. 2022 Sep;11(5):490-503</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36237586</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>GMS Health Innov Technol. 2022 Mar 16;16:Doc02</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35360087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nan Fang Yi Ke Da Xue Xue Bao. 2020 Nov 30;40(11):1557-1563</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33243731</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Heart J. 2024 Mar 14;45(11):940-949</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38243821</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Cardiothorac Surg. 2018 Nov 1;54(5):853-859</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29617931</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ Open. 2021 Apr 14;11(4):e047676</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33853807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Med Care. 2005 Nov;43(11):1130-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16224307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2023 Oct;17(5):2375-2386</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37423965</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Cardiovasc Dev Dis. 2023 Sep 04;10(9):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37754809</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2010 Aug 19;363(8):701-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20818872</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Card Surg. 2021 Apr;36(4):1411-1418</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33566393</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA Surg. 2015 Aug;150(8):771-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26083734</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hellenic J Cardiol. 2023 May-Jun;71:16-25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36639122</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40682136</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1749-799X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>20</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jul</Month>
+              <Day>18</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of orthopaedic surgery and research</Title>
+          <ISOAbbreviation>J Orthop Surg Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>EPMEDBOT robotic-assisted total knee arthroplasty amplifies the advantage of intraoperative dynamic gap balance and alignment monitoring - a prospective randomized controlled and single center study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>674</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13018-025-06100-8</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND AND PURPOSE" NlmCategory="OBJECTIVE">Total knee arthroplasty (TKA) remains the primary treatment for end-stage knee osteoarthritis, with surgical navigation robots showing significant clinical benefits. This study aimed to evaluate and compare the radiographic and clinical outcomes of robot-assisted TKA (RATKA) using the EPMEDBOT-RATKA system against manual TKA.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A single-center study recruited 78 participants, with 66 patients randomized into two groups: 32 underwent RATKA and 34 underwent manual TKA. Key clinical outcomes, such as the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) score, Knee Society Score (KSS), and range of motion (ROM), were assessed and compared between the groups. Radiographic measures, including preoperative and postoperative hip-knee-ankle angle (HKA), the proportion of patients achieving HKA ≤ 3°, and postoperative prosthetic alignment, were also analyzed. Additionally, perioperative HKA axis values and flexion-extension gaps were dynamically monitored.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The RATKA group had significantly longer tourniquet times and greater intraoperative blood loss compared to the manual TKA group. Both groups exhibited improved postoperative knee function, ROM, KSS, and WOMAC scores at follow-up, though no significant differences were observed between the groups. RATKA showed superior postoperative mechanical alignment (p &lt; 0.05) and less variability in intraoperative alignment monitoring (p &lt; 0.05). Furthermore, RATKA resulted in smaller discrepancies in flexion-extension and medial-lateral gaps compared to manual TKA (p &lt; 0.05). Although the RATKA group displayed better postoperative prosthetic alignment angles, the difference between the groups was not statistically significant.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The EPMEDBOT-RATKA system is a dependable TKA tool, providing benefits in dynamic gap balancing, alignment monitoring, and prosthetic positioning. While short-term clinical outcomes were similar between the two approaches, the enhanced alignment precision achieved with RATKA may contribute to improved long-term implant survival. Extended follow-up studies are necessary to confirm these potential long-term advantages.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Ren</LastName>
+            <ForeName>Yi-Ming</ForeName>
+            <Initials>YM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Joint and Sport Medicine, Tianjin Union Medical Center, The First Affiliated Hospital of Nankai University, Jieyuan Road 190, Hongqiao District, Tianjin, 300121, PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Li</LastName>
+            <ForeName>Bo</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedics, Beijing Luhe Hospital, Capital Medical University, No. 82 Xinhua South Road, Tongzhou District, Beijing, 101199, PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Tian</LastName>
+            <ForeName>Si-Yu</ForeName>
+            <Initials>SY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Medicine, Kunming Medical University, Kunming, 650000, PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Tao</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Joint and Sport Medicine, Tianjin Union Medical Center, The First Affiliated Hospital of Nankai University, Jieyuan Road 190, Hongqiao District, Tianjin, 300121, PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Han-Ji</ForeName>
+            <Initials>HJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Joint and Sport Medicine, Tianjin Union Medical Center, The First Affiliated Hospital of Nankai University, Jieyuan Road 190, Hongqiao District, Tianjin, 300121, PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hou</LastName>
+            <ForeName>Wei-Yu</ForeName>
+            <Initials>WY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Joint and Sport Medicine, Tianjin Union Medical Center, The First Affiliated Hospital of Nankai University, Jieyuan Road 190, Hongqiao District, Tianjin, 300121, PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sun</LastName>
+            <ForeName>Yun-Bo</ForeName>
+            <Initials>YB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Joint and Sport Medicine, Tianjin Union Medical Center, The First Affiliated Hospital of Nankai University, Jieyuan Road 190, Hongqiao District, Tianjin, 300121, PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sun</LastName>
+            <ForeName>He-Jun</ForeName>
+            <Initials>HJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Joint and Sport Medicine, Tianjin Union Medical Center, The First Affiliated Hospital of Nankai University, Jieyuan Road 190, Hongqiao District, Tianjin, 300121, PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Cui-Bing</ForeName>
+            <Initials>CB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Joint and Sport Medicine, Tianjin Union Medical Center, The First Affiliated Hospital of Nankai University, Jieyuan Road 190, Hongqiao District, Tianjin, 300121, PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Liang</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedics, Beijing Luhe Hospital, Capital Medical University, No. 82 Xinhua South Road, Tongzhou District, Beijing, 101199, PR China. liuliang@ccmu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tian</LastName>
+            <ForeName>Meng-Qiang</ForeName>
+            <Initials>MQ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Joint and Sport Medicine, Tianjin Union Medical Center, The First Affiliated Hospital of Nankai University, Jieyuan Road 190, Hongqiao District, Tianjin, 300121, PR China. tmqjoint@126.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>07</Month>
+          <Day>18</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Orthop Surg Res</MedlineTA>
+        <NlmUniqueID>101265112</NlmUniqueID>
+        <ISSNLinking>1749-799X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019645" MajorTopicYN="Y">Arthroplasty, Replacement, Knee</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020370" MajorTopicYN="Y">Osteoarthritis, Knee</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016059" MajorTopicYN="N">Range of Motion, Articular</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016343" MajorTopicYN="Y">Monitoring, Intraoperative</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Alignment</Keyword>
+        <Keyword MajorTopicYN="N">Gap balance</Keyword>
+        <Keyword MajorTopicYN="N">Osteoarthritis</Keyword>
+        <Keyword MajorTopicYN="N">Robot-assisted</Keyword>
+        <Keyword MajorTopicYN="N">Total knee arthroplasty</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Ethics approval and consent to participate: The local Ethics Committee for Research on Human Beings of Tianjin Union Medical Center approved the study and original data collection (2023-ethical review No.14). The ethical approval statement and the need for informed consent were waived by the local Ethics Committee for Research on Human Beings of Tianjin Union Medical Center for this manuscript because the individual data was fully anonymized. All methods were performed in accordance with the relevant guidelines and regulations of Helsinki declaration of 1964 and its amendments. Consent for publication: None. Competing interests: The authors declare no competing interests. Declaration of AI and AI-assisted technologies in the writing process: None.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>07</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>19</Day>
+          <Hour>16</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>19</Day>
+          <Hour>16</Hour>
+          <Minute>45</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>18</Day>
+          <Hour>23</Hour>
+          <Minute>47</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40682136</ArticleId>
+        <ArticleId IdType="doi">10.1186/s13018-025-06100-8</ArticleId>
+        <ArticleId IdType="pii">10.1186/s13018-025-06100-8</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Rezuş E, Anca et al. From pathogenesis to therapy in knee osteoarthritis: Bench-to-Bedside.[J]. Int J Mol Sci. 2021;22.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Huang ZZZ,Wang, Wenzhe et al. The association between varus knee deformity and morphological changes in the foot and ankle in patients with end-stage varus knee osteoarthritis.[J].J Orthop Surg Res. 2025;20:15.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Choi YJ, Ra HJ. Patient satisfaction after total knee arthroplasty. Knee Surg Relat Res. 2016;28(1):1–15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26955608</ArticleId>
+            <ArticleId IdType="pmcid">4779800</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bernholt David L, Skinner William C, Holt Andrew M, et al. Knee arthroscopy after prior total knee arthroplastytype of study. Narrative Rev [J] J Am Acad Orthop Surg. 2023;31:57–63.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>DeFrance,Giles MJ. Scuderi,Are 20% of patients actually dissatisfied following total knee arthroplasty? Syst Rev Literature [J] J Arthroplasty. 2022;38:0.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>St Mart Jean-Pierre,Goh En lin,the current state of robotics in total knee arthroplasty[. J] EFORT Open Rev. 2021;6:270–9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yang HY. Seon Jong keun, the landscape of surgical robotics in orthopedics surgery[. J] Biomed Eng Lett. 2023;13:537–42.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Norton Johnston,Sambandam Senthil,Mounasamy Varatharaj. Robotic arm-assisted versus conventional total knee arthroplasty: comparing complications, costs, and postoperative opioid use in propensity-matched cohorts.[J]. Eur J Orthop Surg Traumatol. 2024;34:3917–29.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39237651</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Duensing Ian M, Stewart Wells,Novicoff Wendy M, et al. The impact of robotic-assisted total knee arthroplasty on resident Training[. J] J Arthroplasty. 2023;38:S227–31.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36781062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Laskin RS. Modular total knee-replacement arthroplasty. A review of eighty-nine patients.[J]. J Bone Joint Surg Am. 1976;58:766–73.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">956220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lustig Sébastien,Sappey-Marinier Elliot,Fary, Camdon et al. Personalized alignment in total knee arthroplasty: current concepts.[J].SICOT J. 2021;7:19.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Weber, Patrick. Gollwitzer Hans,Arthroplasty of the knee: current techniques for implant alignment.[J].Z Orthop Unfall. 2022;160:149–159.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Begum Fahima A, Kayani Babar,Magan Ahmed A, et al. Current concepts in total knee arthroplasty: mechanical, kinematic, anatomical, and functional alignment.[J]. Bone Jt Open. 2021;2:397–404.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34139884</ArticleId>
+            <ArticleId IdType="pmcid">8244789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang Justin S, Kayani Babar,Wallace Charles. Functional alignment achieves soft-tissue balance in total knee arthroplasty as measured with quantitative sensor-guided technology.[J].Bone Joint J. 2021;null:507–514.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gavin C. Steer richard,wood david,functional alignment achieves a more balanced total knee arthroplasty than either mechanical alignment or kinematic alignment prior to soft tissue releases.[J]. Knee Surg Sports Traumatol Arthrosc. 2023;31:1420–6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kayani Babar,Konan Sujith,Tahmassebi, Jenni et al. A prospective double-blinded randomised control trial comparing robotic arm-assisted functionally aligned total knee arthroplasty versus robotic arm-assisted mechanically aligned total knee arthroplasty.[J].Trials. 2020;21:194.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hampp Emily L, Laura, et al. Less iatrogenic soft-tissue damage utilizing robotic-assisted total knee arthroplasty when compared with a conventional approach: a blinded assessment[. J] Bone Joint Res. 2019;8:495–501.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Khlopas Anton,Sodhi Nipun,Hozack, William J et al. Patient-reported functional and satisfaction outcomes after robotic-arm-assisted total knee arthroplasty: early results of a prospective multicenter Investigation.[J].J knee Surg. 2020;33:685–90.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bhimani Samrath J, Austin, et al. Robotic-assisted total knee arthroplasty demonstrates decreased postoperative pain and opioid usage compared to conventional total knee arthroplasty.[J]. Bone Jt Open. 2020;1:8–12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33215101</ArticleId>
+            <ArticleId IdType="pmcid">7659658</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li ZC, Xin,Wang, Xiaoquan et al. HURWA robotic-assisted total knee arthroplasty improves component positioning and alignment - a prospective randomized and multicenter study.[J].J Orthop Translat. 2022;33:31–40.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Song E-K. Robotic-assisted TKA reduces postoperative alignment outliers and improves gap balance compared to conventional TKA.[J]. Clin Orthop Relat Res. 2013;471:118–26. Seon Jong-Keun,Yim Ji-Hyeon.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jeon SW, Kim KI, Song SJ. Robot-assisted total knee arthroplasty does not improve long-term clinical and radiologic outcomes. J Arthroplasty. 2019;34(8):1656–61.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31036450</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gregory David AC, Andrea,Scotti Dennis J, et al. A 90-day episode-of-care analysis including computed tomography scans of robotic-arm assisted versus conventional total knee Arthroplasty.[J].J knee Surg. 2023;36:1077–86.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Clark Gavin,Steer Richard,Tippett Bethany. Short-Term benefits of robotic assisted total knee arthroplasty over computer navigated total knee arthroplasty are not sustained with no difference in postoperative patient-reported outcome Measures.[J].Arthroplast today. 2022;14:210–5.e0.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Marchand Robert C, Anton, et al. Patient satisfaction outcomes after robotic arm-assisted total knee arthroplasty: a short-term evaluation. [J] J Knee Surg. 2017;30:849–53.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29029352</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Greiner Justin J, Wang Jesse F, Mitchell Joseph, et al. Opioid use in robotic-arm assisted total knee arthroplasty: a comparison to conventional manual. Total Knee Arthroplasty [J] Surg Technol Int. 2020;37:280–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33217759</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rice DA, Kluger M T,McNair PJ, et al. Persistent postoperative pain after total knee arthroplasty: a prospective cohort study of potential risk factors[. J] Br J Anaesth. 2018;121:804–12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30236242</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kayani B, Konan S, Tahmassebi J et al. Robotic-arm assisted total knee arthroplasty is associated with improved early functional recovery and reduced time to hospital discharge compared with conventional jig-based total knee arthroplasty: a prospective cohort study.[J].Bone Joint J. 2018;null:930–7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu Z et al. Li Hua,Liu Zaiyang. Robot-assisted surgery in total knee arthroplasty: trauma maker or trauma savior? A prospective, randomized cohort study.[J].Burns Trauma. 2022;10:tkac034.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pabinger II, Ay C. Biomarkers and venous thromboembolism. Arterioscler Thromb Vasc Biol. 2009;29(3):332–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19228607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Riva Nicoletta,Vella Kevin,Hickey Kieron. Biomarkers for the diagnosis of venous thromboembolism: D-dimer, thrombin generation, procoagulant phospholipid and soluble P-selectin[. J] J Clin Pathol. 2018;71:1015–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30093507</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mitani Genya,Takagaki Tomonori,Hamahashi Kosuke. Associations between venous thromboembolism onset, D-dimer, and soluble fibrin monomer complex after total knee arthroplasty.[J]. J Orthop Surg Res. 2015;10:172.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26555394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adam Soheir S, Key Nigel S, Greenberg Charles. S,D-dimer antigen: current concepts and future prospects.[J].Blood. 2009;113:2878-87.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>van Tan Melanie J, Westerbeek Robin E, et al. Diagnostic management of clinically suspected acute deep vein thrombosis[. J] Br J Haematol. 2009;146:347–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19466972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jih-Yang SK-K et al. Effects of computer-assisted navigation versus the conventional technique for total knee arthroplasty on levels of plasma thrombotic markers: a prospective study.[J].Biomed Eng Online. 2019;18:99.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40682167</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1749-799X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>20</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jul</Month>
+              <Day>18</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of orthopaedic surgery and research</Title>
+          <ISOAbbreviation>J Orthop Surg Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Visualized load-bearing-based robot control system improves early function in femoral neck fracture patients: a randomized controlled trial focusing on outcomes after total hip arthroplasty.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>673</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13018-025-06035-0</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">After total hip arthroplasty (THA), standing and walking balance are greatly affected in the early recovery period, making it important to increase weight-bearing amount (WBA) on the surgical side. Sometimes, traditional treatment methods may not be sufficient to satisfactorily improve WBA and weight-bearing ratio (WBR) on the surgical side. This study aims to evaluate the effectiveness of a visualized load-bearing-based robot control system in promoting early functional recovery of elderly patients after THA. The system senses lower limb weight and displays it in real-time on the screen to provide visual guidance for weight-bearing.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 126 patients with femoral neck fractures who underwent THA from July 2023 to June 2024 were selected and randomly divided into a robot group or a control group. As a result, each group was allocated 63 patients. The robot group used an intelligent weight-bearing robot for rehabilitation, while the control group used conventional walking aids for rehabilitation. Patients underwent rehabilitation for 5-7 days during their hospital stay and then continued with home-based rehabilitation after discharge. All measurements were taken one month after surgery to analyze the impact of the two rehabilitation methods on early postoperative function. The main outcome measures included VAS scores, hip joint extension-flexion range of motion (ROM), Harris scores, time for straight leg raising, and 3-minute walking distance.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were no statistically significant differences between the two groups in terms of age, gender, surgical time, blood loss, length of hospital stay, time to weight-bearing, and preoperative VAS score (P &gt; 0.05). At the 1-month postoperative follow-up, the robot group demonstrated superior outcomes compared to the control group in terms of VAS score, ROM of the hip joint, Harris score, time for straight leg raising, and 3-minute walking distance, with statistically significant differences (P &lt; 0.05). The WBR for the first postoperative weight-bearing on the operated side of the patient was (36.9 ± 14.0)%; it was (49.1 ± 11.1)% in the second week, (61.9 ± 8.4)% in the third week, (74.7 ± 5.8)% in the fourth week, (87.5 ± 4.0)% in the fifth week, and (100.0 ± 0.0)% in the sixth week. There were significant differences in WBR between every two postoperative weeks (p &lt; 0.05). The WBR on the operated side of all patients reached 100% by the end of the sixth week postoperatively.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This study demonstrates that a robot control system based on visualized load-bearing can effectively enhance early functional recovery after THA in a short postoperative period, making it a valuable intelligent rehabilitation system. This is beneficial for improving the ability to perform daily activities after THA and may contribute to optimizing the effectiveness of medical care.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">This study has been registered in national medical research registration and filing information system of China, www.medicalresearch.org.cn , Trail registration number: MR-35-24-038086.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Xiaofeng</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedics, Shanghai Sixth People's Hospital Fujian, No. 16, Luoshan Section, Jinguang Road, Luoshan Street, Jinjiang City, Quanzhou, 362200, Fujian, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Clinical Research Center for Orthopaedic Trauma and Reconstruction of Fujian Province, Jinjiang City, Quanzhou, 362200, Fujian, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, The First Affiliated Hospital of Fujian Medical University, Fuzhou, 350005, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Changzhi</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Joint Surgery and Sports Medicine, Ningde Municipal Hospital of Ningde Normal University, Ningde, 352000, Fujian, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, The First Affiliated Hospital of Fujian Medical University, Fuzhou, 350005, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Ningde Clinical Medical College of Fujian Medical University, Ningde, 352000, Fujian, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Liang</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedics, The First Hospital of Putian City, Putian, 351100, Fujian, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, The First Affiliated Hospital of Fujian Medical University, Fuzhou, 350005, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The School of Clinical Medicine, Fujian Medical University, Fuzhou, 350005, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Jinshan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedics, Shanghai Sixth People's Hospital Fujian, No. 16, Luoshan Section, Jinguang Road, Luoshan Street, Jinjiang City, Quanzhou, 362200, Fujian, China. zhangjinshan193@sina.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Clinical Research Center for Orthopaedic Trauma and Reconstruction of Fujian Province, Jinjiang City, Quanzhou, 362200, Fujian, China. zhangjinshan193@sina.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhu</LastName>
+            <ForeName>Zhenzhong</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedics, Shanghai Sixth People's Hospital Fujian, No. 16, Luoshan Section, Jinguang Road, Luoshan Street, Jinjiang City, Quanzhou, 362200, Fujian, China. zzz1129@sjtu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedics, Shanghai Sixth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 200233, China. zzz1129@sjtu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>XB2023197</GrantID>
+            <Agency>Clinical project of school management project of Fujian University of Traditional Chinese Medicine</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2023LC01</GrantID>
+            <Agency>Jinjiang Municipal Hospital (Shanghai Sixth People's Hospital Fujian) Science and Technology Project</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2022ZQNZD015</GrantID>
+            <Agency>Major Scientific Research Program for Young and Middle-aged Health Professionals of Fujian Province, China</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>21S31901000</GrantID>
+            <Agency>Shanghai Science and Technology Program</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2022ZZ01014</GrantID>
+            <Agency>Shanghai Spinal Disease and Trauma Orthopedics Research Center</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>No. ynyq202403</GrantID>
+            <Agency>Excellent Talent Incubation Program of Shanghai Sixth People's Hospital</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>07</Month>
+          <Day>18</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Orthop Surg Res</MedlineTA>
+        <NlmUniqueID>101265112</NlmUniqueID>
+        <ISSNLinking>1749-799X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016474" MajorTopicYN="Y">Weight-Bearing</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019644" MajorTopicYN="Y">Arthroplasty, Replacement, Hip</DescriptorName>
+          <QualifierName UI="Q000534" MajorTopicYN="N">rehabilitation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005265" MajorTopicYN="Y">Femoral Neck Fractures</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000534" MajorTopicYN="N">rehabilitation</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020127" MajorTopicYN="N">Recovery of Function</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Early function</Keyword>
+        <Keyword MajorTopicYN="N">Femoral neck fracture</Keyword>
+        <Keyword MajorTopicYN="N">Robot</Keyword>
+        <Keyword MajorTopicYN="N">Total hip arthroplasty</Keyword>
+        <Keyword MajorTopicYN="N">Visualized load</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Ethics approval and consent to participate: This study was approved by the Clinical Research Ethics Committee of Jinjiang Municipal Hospital (jjsyyyxll-2023053). This study was conducted in accordance with the principles of the Declaration of Helsinki. Informed consent was obtained from all patients. Consent for publication: Not Applicable. Competing interests: The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>06</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>19</Day>
+          <Hour>16</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>19</Day>
+          <Hour>16</Hour>
+          <Minute>45</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>18</Day>
+          <Hour>23</Hour>
+          <Minute>48</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40682167</ArticleId>
+        <ArticleId IdType="doi">10.1186/s13018-025-06035-0</ArticleId>
+        <ArticleId IdType="pii">10.1186/s13018-025-06035-0</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Cauley JA, Chalhoub D, Kassem AM, et al. Geographic and ethnic disparities in osteoporotic fractures. Nat Rev Endocrinol. 2014;10(6):338–51.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24751883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen M, Li Y, Yang Y, et al. Analysis of the risk factors for contralateral refracture after hip fracture surgery in elderly individuals: a retrospective study. J Orthop Surg Res. 2024;19(1):681.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39438923</ArticleId>
+            <ArticleId IdType="pmcid">11515634</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Han X, Han L, Chu F, et al. Predictors for 1-year mortality in geriatric patients following fragile intertrochanteric fracture surgery. J Orthop Surg Res. 2024;19(1):701.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39472932</ArticleId>
+            <ArticleId IdType="pmcid">11523668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu T, Zhang X, Zhang J, et al. Effect of the orthogeriatric co-management on older hip fracture patients with multimorbidity: a post-hoc exploratory subgroup analysis of a non-randomised controlled trial. J Orthop Surg Res. 2024;19(1):780.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39574198</ArticleId>
+            <ArticleId IdType="pmcid">11580192</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maffulli N, Aicale R. Proximal femoral fractures in the elderly: A few things to know, and some to forget. Med (Kaunas). 2022;58(10).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Quaranta M, Miranda L, Oliva F, et al. Haemoglobin and transfusions in elderly patients with hip fractures: the effect of a dedicated orthogeriatrician. J Orthop Surg Res. 2021;16(1):387.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34134743</ArticleId>
+            <ArticleId IdType="pmcid">8207795</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YP, Kuo YJ, Hung SW, et al. Loss of skeletal muscle mass can be predicted by sarcopenia and reflects poor functional recovery at one year after surgery for geriatric hip fractures. Injury. 2021;52(11):3446–52.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34404509</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang JL, Ou YH, Liu SY, et al. Exploring the effectiveness of PAC rehabilitation for elders with hip surgery: A retrospective study. Ther Clin Risk Manag. 2021;17:641–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34188477</ArticleId>
+            <ArticleId IdType="pmcid">8236282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pfeufer D, Kammerlander C, Stadler C, et al. Multidisciplinary inpatient rehabilitation improves the long-term functional status of geriatric hip-fracture patients. Eur J Med Res. 2020;25(1):31.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32778164</ArticleId>
+            <ArticleId IdType="pmcid">7418419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heiberg KE, Bruun-Olsen V, Ekeland A, et al. Effect of a walking skill training program in patients who have undergone total hip arthroplasty: followup one year after surgery. Arthritis Care Res (Hoboken). 2012;64(3):415–23.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22170790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gilbey HJ, Ackland TR, Wang AW, et al. Exercise improves early functional recovery after total hip arthroplasty. Clin Orthop Relat Res. 2003;Mar(408):193–200.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang AW, Gilbey HJ, Ackland TR. Perioperative exercise programs improve early return of ambulatory function after total hip arthroplasty: a randomized, controlled trial. Am J Phys Med Rehabil. 2002;81(11):801–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12394990</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Giaquinto S, Ciotola E, Dall’armi V, et al. Hydrotherapy after total hip arthroplasty: a follow-up study. Arch Gerontol Geriatr. 2010 Jan-Feb;50(1):92–5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liebs TR, Herzberg W, Rüther W, et al. Ergometer cycling after hip or knee replacement surgery: a randomized controlled trial. J Bone Joint Surg Am. 2010;92(4):814–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20360503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suetta C, Magnusson SP, Rosted A, et al. Resistance training in the early postoperative phase reduces hospitalization and leads to muscle hypertrophy in elderly hip surgery patients–a controlled, randomized study. J Am Geriatr Soc. 2004;52(12):2016–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15571536</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Larsen K, Sørensen OG, Hansen TB, et al. Accelerated perioperative care and rehabilitation intervention for hip and knee replacement is effective: a randomized clinical trial involving 87 patients with 3 months of follow-up. Acta Orthop. 2008;79(2):149–59.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18478482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miyazaki S, Tsuruta K, Yoshinaga S, et al. Effect of total hip arthroplasty on improving locomotive syndrome in hip disease patients: A prospective cohort study focused on total clinical decision limits stage 3. J Orthop Sci. 2022;27(2):408–13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33640221</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Matheis C, Stöggl T. Strength and mobilization training within the first week following total hip arthroplasty. J Bodyw Mov Ther. 2018;22(2):519–27.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29861260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hol AM, van Grinsven S, Lucas C, et al. Partial versus unrestricted weight bearing after an uncemented femoral stem in total hip arthroplasty: recommendation of a concise rehabilitation protocol from a systematic review of the literature. Arch Orthop Trauma Surg. 2010;130(4):547–55.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20012073</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marsillo E, Pintore A, Asparago G, et al. Cephalomedullary nailing for reverse oblique intertrochanteric fractures 31A3 (AO/OTA). Orthop Rev (Pavia). 2022;14(6):38560.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36267220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gargano G, Poeta N, Oliva F, et al. Zimmer natural nail and ELOS nails in Pertrochanteric fractures. J Orthop Surg Res. 2021;16(1):509.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34407829</ArticleId>
+            <ArticleId IdType="pmcid">8371819</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lahtinen A, Leppilahti J, Harmainen S, et al. Geriatric and physically oriented rehabilitation improves the ability of independent living and physical rehabilitation reduces mortality: a randomised comparison of 538 patients. Clin Rehabil. 2015;29(9):892–906.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25452632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Binder EF, Brown M, Sinacore DR, et al. Effects of extended outpatient rehabilitation after hip fracture: a randomized controlled trial. JAMA. 2004;292(7):837–46.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15315998</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Auais MA, Eilayyan O, Mayo NE. Extended exercise rehabilitation after hip fracture improves patients’ physical function: a systematic review and meta-analysis. Phys Ther. 2012;92(11):1437–51.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22822235</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kotani N, Morishita T, Saita K, et al. Feasibility of supplemental robot-assisted knee flexion exercise following total knee arthroplasty. J Back Musculoskelet Rehabil. 2020;33(3):413–21.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31561326</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Setoguchi D, Kinoshita K, Kamada S, et al. Hybrid assistive limb improves restricted hip extension after total hip arthroplasty. Assist Technol. 2022;34(1):112–20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31909703</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40684413</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>20</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1863-2491</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>19</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jul</Month>
+              <Day>20</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of robotic surgery</Title>
+          <ISOAbbreviation>J Robot Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic-assisted primary ventral and incisional hernia repair: a comprehensive comparative analysis of rv-TAPP, r-Rives, and r-TARUP techniques.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>405</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11701-025-02489-w</ELocationID>
+        <Abstract>
+          <AbstractText>Robotic-assisted surgery has transformed hernia repair by improving precision, minimizing postoperative complications, and accelerating recovery. This study evaluates three robotic techniques-robotic transabdominal preperitoneal (rTAPP), robotic Rives (rRives), and robotic transabdominal retromuscular umbilical prosthetic (rTARUP)-for treating primary ventral and incisional hernias. Following PRISMA guidelines, a systematic review and meta-analysis were conducted. Databases such as PubMed, Embase, Cochrane Library, and Web of Science were searched for studies comparing rTAPP, rRives, and rTARUP. Key outcomes included recurrence rates, surgical duration, and postoperative complications, with secondary outcomes assessing hospital stay and cost-effectiveness. Statistical analyses were performed using RevMan 5.4 and STATA 16, calculating pooled odds ratios (OR) and mean differences (MD). Heterogeneity was measured via I<sup>2</sup> statistics, and publication bias was evaluated using the Egger test. The analysis included 18 studies encompassing 1,500 patients. rTAPP showed shorter operative times (MD: - 25.3 min, 95% CI: - 30.1 to - 20.5, *p* &lt; 0.05) and reduced recurrence rates (OR: 0.45, 95% CI: 0.30-0.68, *p* &lt; 0.01) compared to rRives and rTARUP. However, rTARUP was linked to fewer postoperative complications (OR: 0.65, 95% CI: 0.50-0.85, *p* &lt; 0.05). No significant publication bias was detected (Egger test, *p* = 0.12). Robotic hernia repair techniques offer unique benefits: rTAPP is more efficient, while rTARUP reduces complications. These results emphasize the need for personalized surgical approaches.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s), under exclusive licence to Springer-Verlag London Ltd., part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Coco</LastName>
+            <ForeName>Danilo</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-5839-1767</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Giglio Hospital Foundation, Cefalù, Italy. webcostruction@msn.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Leanza</LastName>
+            <ForeName>Silvana</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-8672-7486</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Giglio Hospital Foundation, Cefalù, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D000078182">Systematic Review</PublicationType>
+          <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>07</Month>
+          <Day>20</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Robot Surg</MedlineTA>
+        <NlmUniqueID>101300401</NlmUniqueID>
+        <ISSNLinking>1863-2483</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059685" MajorTopicYN="Y">Herniorrhaphy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000069290" MajorTopicYN="Y">Incisional Hernia</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006555" MajorTopicYN="Y">Hernia, Ventral</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012008" MajorTopicYN="N">Recurrence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Incisional hernia</Keyword>
+        <Keyword MajorTopicYN="N">Meta-analysis</Keyword>
+        <Keyword MajorTopicYN="N">Robotic hernia repair</Keyword>
+        <Keyword MajorTopicYN="N">Ventral hernia</Keyword>
+        <Keyword MajorTopicYN="N">rRives</Keyword>
+        <Keyword MajorTopicYN="N">rTAPP</Keyword>
+        <Keyword MajorTopicYN="N">rTARUP</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Conflict of interest: The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>04</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>06</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>20</Day>
+          <Hour>12</Hour>
+          <Minute>45</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>20</Day>
+          <Hour>12</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>20</Day>
+          <Hour>11</Hour>
+          <Minute>3</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40684413</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11701-025-02489-w</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11701-025-02489-w</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Burger JW, Luijendijk RW, Hop WC, Halm JA, Verdaasdonk EG, Jeekel J (2004) Long-term follow-up of a randomized controlled trial of suture versus mesh repair of incisional hernia. Ann Surg 240(4):578–585</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15383785</ArticleId>
+            <ArticleId IdType="pmcid">1356459</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heniford BT, Park A, Ramshaw BJ, Voeller G (2003) Laparoscopic repair of ventral hernias: nine years’ experience with 850 consecutive hernias. J Am Coll Surg 196(6):848–855</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bittner R, Bingener-Casey J, Dietz U, Fabian M, Ferzli GS, Fortelny RH et al (2015) Guidelines for laparoscopic treatment of ventral and incisional abdominal wall hernias (International Endohernia Society [IEHS])—part 1. Surg Endosc 29(11):3281–3290</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kudsi OY, Gokcal F, Bou-Ayash N, Chung SK, Chang K, Tsuda S et al (2019) Learning curve in robotic transabdominal preperitoneal (rTAPP) ventral hernia repair: a cumulative sum (CUSUM) analysis. Hernia 23(5):917–925</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD et al (2021) The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 372:n71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33782057</ArticleId>
+            <ArticleId IdType="pmcid">8005924</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wells GA, Shea B, O’Connell D, Peterson J, Welch V, Losos M et al (2014) The Newcastle-Ottawa Scale (NOS) for assessing the quality of nonrandomised studies in meta-analyses. Ottawa Hospital Research Institute, Ottawa (ON)</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Belyansky I, Daes J, Radu VG, Balasubramanian R, Reza Zahiri H, Weltz AS et al (2018) A novel approach using the enhanced-view totally extraperitoneal (eTEP) technique for laparoscopic retromuscular hernia repair. Surg Endosc 32(3):1525–1532</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28916960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rives J, Pire JC, Flament JB, Palot JP (1973) Treatment of large eventrations (apropos of 133 cases). Chirurgie 99(2):119–123</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Novitsky YW, Elliott HL, Orenstein SB, Rosen MJ (2012) Transversus abdominis muscle release: a novel approach to posterior component separation during complex abdominal wall reconstruction. Hernia 16(4):381–385</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Muysoms FE, Miserez M, Berrevoet F, Campanelli G, Champault GG, Chelala E et al (2009) Classification of primary and incisional abdominal wall hernias. Hernia 13(4):407–414</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19495920</ArticleId>
+            <ArticleId IdType="pmcid">2719726</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Warren JA, Cobb WS, Ewing JA, Carbonell AM (2017) Standard laparoscopic versus robotic retromuscular ventral hernia repair. J Am Coll Surg 224(6):1177–1185</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Carbonell AM, Warren JA, Prabhu AS, Ballem CD, Klima DA, Rosen MJ et al (2018) Reducing length of stay using a robotic-assisted approach for retromuscular ventral hernia repair: a comparative analysis from the Americas Hernia Society Quality Collaborative. Surg Endosc 32(3):1525–1532</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bittner R, Bingener-Casey J, Dietz U, Fabian M, Ferzli GS, Fortelny RH et al (2015) Guidelines for laparoscopic treatment of ventral and incisional abdominal wall hernias (International Endohernia Society [IEHS])—Part 2. Surg Endosc 29(11):3291–3303</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Prabhu AS, Dickens EO, Mann JW, Nguyen-Tat S, Walsh RM, Amdur RL et al (2017) Laparoscopic vs robotic intraperitoneal mesh repair for incisional hernia: an Americas Hernia Society Quality Collaborative analysis. J Am Coll Surg 225(2):285–293</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28450062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muysoms FE, Antoniou SA, Bury K, Campanelli G, Conze J, Cuccurullo D et al (2015) European Hernia Society guidelines on the closure of abdominal wall incisions. Hernia 19(1):1–24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25618025</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>LeBlanc KA, Booth WV (1993) Laparoscopic repair of incisional abdominal hernias using expanded polytetrafluoroethylene: preliminary findings. Surg Laparosc Endosc 3(1):39–41</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8258069</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Itani KMF, Rosen M, Vargo D, Awad SS, Denoto G, Butler CE (2012) Prospective study of single-stage repair of contaminated hernias using a biologic porcine tissue matrix: the RICH Study. Surgery 152(3):498–505</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22763262</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Breuing K, Butler CE, Ferzoco S, Franz M, Hultman CS, Kilbridge JF et al (2010) Incisional ventral hernias: review of the literature and recommendations regarding the grading and technique of repair. Surgery 148(3):544–558</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20304452</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stoppa RE (1989) The treatment of complicated groin and incisional hernias. World J Surg 13(5):545–554</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2683400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramirez OM, Ruas E, Dellon AL (1990) “Components separation” method for closure of abdominal-wall defects: an anatomic and clinical study. Plast Reconstr Surg 86(3):519–526</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2143588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Köckerling F, Simon T, Hukauf M, Hellinger A, Fortelny R, Reinpold W et al (2018) The importance of registries in the postmarketing surveillance of surgical meshes. Ann Surg 268(6):1097–1104</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28594740</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Holihan JL, Askenasy EP, Greenberg JA, Keith JN, Martindale RG, Roth JS et al (2016) Component separation vs. bridged repair for large ventral hernias: a multi-institutional risk-adjusted comparison, systematic review, and meta-analysis. Surg Infect (Larchmt) 17(1):17–26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26375422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baucom RB, Ousley J, Feurer ID, Beveridge GB, Pierce RA, Holzman MD et al (2016) Patient reported outcomes after incisional hernia repair—establishing the ventral hernia recurrence inventory. Am J Surg 212(1):81–88</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26319337</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poulose BK, Shelton J, Phillips S, Moore D, Nealon W, Penson D et al (2012) Epidemiology and cost of ventral hernia repair: making the case for hernia research. Hernia 16(2):179–183</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21904861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Slater NJ, Montgomery A, Berrevoet F et al (2014) Criteria for definition of a complex abdominal wall hernia. Hernia 18(1):7–17</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24150721</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fischer JP, Basta MN, Mirzabeigi MN, Bauder AR, Fox JP, Drebin JA et al (2016) A risk model and cost analysis of incisional hernia after elective, abdominal surgery based upon 12,373 cases: the case for targeted prophylactic intervention. Ann Surg 263(5):1010–1017</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26465784</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liang MK, Holihan JL, Itani K, Alawadi ZM, Gonzalez JR, Askenasy EP et al (2017) Ventral hernia management: expert consensus guided by systematic review. Ann Surg 265(1):80–89</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28009730</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Deerenberg EB, Harlaar JJ, Steyerberg EW, Lont HE, van Doorn HC, Heisterkamp J et al (2015) Small bites versus large bites for closure of abdominal midline incisions (STITCH): a double-blind, multicentre, randomised controlled trial. Lancet 386(10000):1254–1260</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26188742</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jensen KK, Munim K, Kjaer M, Jorgensen LN (2017) Abdominal wall reconstruction for incisional hernia optimizes truncal function and quality of life: a prospective controlled study. Ann Surg 265(6):1235–1240</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27280505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krpata DM, Blatnik JA, Novitsky YW, Rosen MJ (2013) Evaluation of high-risk, comorbid patients undergoing open ventral hernia repair with synthetic mesh. Surgery 153(1):120–125</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22862901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

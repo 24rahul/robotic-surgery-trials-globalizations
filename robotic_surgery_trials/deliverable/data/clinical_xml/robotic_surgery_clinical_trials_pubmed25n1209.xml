@@ -1,0 +1,2223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37789753</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>10</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>10</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1365-2346</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>40</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>11</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>European journal of anaesthesiology</Title>
+          <ISOAbbreviation>Eur J Anaesthesiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Individualised positive end-expiratory pressure titrated intra-operatively by electrical impedance tomography optimises pulmonary mechanics and reduces postoperative atelectasis: A randomised controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>805-816</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/EJA.0000000000001901</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">A protective intra-operative lung ventilation strategy has been widely recommended for laparoscopic surgery. However, there is no consensus regarding the optimal level of positive end-expiratory pressure (PEEP) and its effects during pneumoperitoneum. Electrical impedance tomography (EIT) has recently been introduced as a bedside tool to monitor lung ventilation in real-time.</AbstractText>
+          <AbstractText Label="OBJECTIVE">We hypothesised that individually titrated EIT-PEEP adjusted to the surgical intervention would improve respiratory mechanics during and after surgery.</AbstractText>
+          <AbstractText Label="DESIGN">Randomised controlled trial.</AbstractText>
+          <AbstractText Label="SETTING">First Medical Centre of Chinese PLA General Hospital, Beijing.</AbstractText>
+          <AbstractText Label="PATIENTS">Seventy-five patients undergoing robotic-assisted laparoscopic hepatobiliary and pancreatic surgery under general anaesthesia.</AbstractText>
+          <AbstractText Label="INTERVENTIONS">Patients were randomly assigned 2 : 1 to individualised EIT-titrated PEEP (PEEPEIT; n = 50) or traditional PEEP 5 cmH2O (PEEP5 cmH2O; n = 25). The PEEPEIT group received individually titrated EIT-PEEP during pneumoperitoneum. The PEEP5 cmH2O group received PEEP of 5 cmH2O during pneumoperitoneum.</AbstractText>
+          <AbstractText Label="MAIN OUTCOME MEASURES">The primary outcome was respiratory system compliance during laparoscopic surgery. Secondary outcomes were individualised PEEP levels, oxygenation, respiratory and haemodynamic status, and occurrence of postoperative pulmonary complications (PPCs) within 7 days.</AbstractText>
+          <AbstractText Label="RESULTS">Compared with PEEP5 cmH2O, patients who received PEEPEIT had higher respiratory system compliance (mean values during surgery of 44.3 ± 11.3 vs. 31.9 ± 6.6, ml cmH2O-1; P &lt; 0.001), lower driving pressure (11.5 ± 2.1 vs. 14.0 ± 2.4 cmH2O; P &lt; 0.001), better oxygenation (mean PaO2/FiO2 427.5 ± 28.6 vs. 366.8 ± 36.4; P = 0.003), and less postoperative atelectasis (19.4 ± 1.6 vs. 46.3 ± 14.8 g of lung tissue mass; P = 0.003). Haemodynamic values did not differ significantly between the groups. No adverse effects were observed during surgery.</AbstractText>
+          <AbstractText Label="CONCLUSION">Individualised PEEP by EIT may improve intra-operative pulmonary mechanics and oxygenation without impairing haemodynamic stability, and decrease postoperative atelectasis.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION">Chinese Clinical Trial Registry (www.chictr.org.cn) identifier: ChiCTR2100045166.</AbstractText>
+          <CopyrightInformation>Copyright © 2023 European Society of Anaesthesiology and Intensive Care. Unauthorized reproduction of this article is prohibited.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ma</LastName>
+            <ForeName>Xiaojing</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Anaesthesia, First Medical Centre (XM, YF, XP, LM, YG, QF, WM, CZ), National Clinical Research Centre for Geriatric Diseases, Chinese PLA General Hospital, Beijing, PR China and Harvard Medical School, Department of Anesthesia, Critical Care and Pain Medicine, Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts, USA (RRDSS, LB).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fu</LastName>
+            <ForeName>Yunke</ForeName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Piao</LastName>
+            <ForeName>Xiangmei</ForeName>
+            <Initials>X</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>De Santis Santiago</LastName>
+            <ForeName>Roberta Ribeiro</ForeName>
+            <Initials>RR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ma</LastName>
+            <ForeName>Libin</ForeName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guo</LastName>
+            <ForeName>Ying</ForeName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fu</LastName>
+            <ForeName>Qiang</ForeName>
+            <Initials>Q</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mi</LastName>
+            <ForeName>Weidong</ForeName>
+            <Initials>W</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Berra</LastName>
+            <ForeName>Lorenzo</ForeName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Changsheng</ForeName>
+            <Initials>C</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>09</Month>
+          <Day>13</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Eur J Anaesthesiol</MedlineTA>
+        <NlmUniqueID>8411711</NlmUniqueID>
+        <ISSNLinking>0265-0215</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017097" MajorTopicYN="N">Electric Impedance</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011027" MajorTopicYN="Y">Pneumoperitoneum</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008168" MajorTopicYN="N">Lung</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011175" MajorTopicYN="N">Positive-Pressure Respiration</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001261" MajorTopicYN="Y">Pulmonary Atelectasis</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014054" MajorTopicYN="N">Tomography</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>4</Day>
+          <Hour>3</Hour>
+          <Minute>34</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37789753</ArticleId>
+        <ArticleId IdType="doi">10.1097/EJA.0000000000001901</ArticleId>
+        <ArticleId IdType="pii">00003643-202311000-00002</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Sanchez-Margallo FM, Moyano-Cuevas JL, Latorre R, et al. Anatomical changes due to pneumoperitoneum analyzed by MRI: an experimental study in pigs. Surg Radiol Anat 2011; 33:389–396.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Andersson LE, Baath M, Thorne A, et al. Effect of carbon dioxide pneumoperitoneum on development of atelectasis during anesthesia, examined by spiral computed tomography. Anesthesiology 2005; 102:293–299.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Guimaraes MM, El Dib R, Smith AF, et al. Incentive spirometry for prevention of postoperative pulmonary complications in upper abdominal surgery. Cochrane Database Syst Rev 2009; (3):CD006058.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Futier E, Constantin JM, Jaber S. Protective lung ventilation in operating room: a systematic review. Minerva Anestesiol 2014; 80:726–735.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park SJ, Kim BG, Oh AH, et al. Effects of intraoperative protective lung ventilation on postoperative pulmonary complications in patients with laparoscopic surgery: prospective, randomized and controlled trial. Surg Endosc 2016; 30:4598–4606.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shono A, Katayama N, Fujihara T, et al. Positive end-expiratory pressure and distribution of ventilation in pneumoperitoneum combined with steep Trendelenburg position. Anesthesiology 2020; 132:476–490.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hemmes SN, Gama de Abreu M, et al. PROVE Network Investigators for the Clinical Trial Network of the European Society of Anaesthesiology. High versus low positive end-expiratory pressure during general anaesthesia for open abdominal surgery (PROVHILO trial): a multicentre randomised controlled trial. Lancet 2014; 384:495–503.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kraut EJ, Anderson JT, Safwat A, et al. Impairment of cardiac performance by laparoscopy in patients receiving positive end-expiratory pressure. Arch Surg 1999; 134:76–80.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brandão JC, Lessa MA, Motta-Ribeiro G, et al. Global and regional respiratory mechanics during robotic-assisted laparoscopic surgery: a randomized study. Anesth Analg 2019; 129:1564–1573.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Grieco DL, Anzellotti GM, Russo A, et al. Airway closure during surgical pneumoperitoneum in obese patients. Anesthesiology 2019; 131:58–73.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Costa EL, Borges JB, Melo A, et al. Bedside estimation of recruitable alveolar collapse and hyperdistension by electrical impedance tomography. Intensive Care Med 2009; 35:1132–1137.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Girgis K, Hamed H, Khater Y, et al. A decremental PEEP trial identifies the PEEP level that maintains oxygenation after lung recruitment. Respir Care 2006; 51:1132–1139.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kacmarek RM, Wanderley HV, Villar J, et al. Weaning patients with obesity from ventilatory support. Curr Opin Crit Care 2021; 27:311–319.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nestler C, Simon P, Petroff D, et al. Individualized positive end-expiratory pressure in obese patients during general anaesthesia: a randomized controlled clinical trial using electrical impedance tomography. Br J Anaesth 2017; 119:1194–1205.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ferrando C, Tusman G, Suarez-Sipmann F, et al. Individualized lung recruitment maneuver guided by pulse-oximetry in anesthetized patients undergoing laparoscopy: a feasibility study. Acta Anaesthesiol Scand 2018; 62:608–619.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Maracaja-Neto LF, Vercosa N, Roncally AC, et al. Beneficial effects of high positive end-expiratory pressure in lung respiratory mechanics during laparoscopic surgery. Acta Anaesthesiol Scand 2009; 53:210–217.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Neto AS, Hemmes SN, Barbas CS, et al. PROVE Network Investigators. Association between driving pressure and development of postoperative pulmonary complications in patients undergoing mechanical ventilation for general anaesthesia: a meta-analysis of individual patient data. Lancet Respir Med 2016; 4:272–280.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mathis MR, Duggal NM, Likosky DS, et al. Intraoperative mechanical ventilation and postoperative pulmonary complications after cardiac surgery. Anesthesiology 2019; 131:1046–1062.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ladha K, Vidal Melo MF, McLean DJ, et al. Intraoperative protective mechanical ventilation and risk of postoperative respiratory complications: hospital based registry study. BMJ 2015; 351:h3646.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cinnella G, Grasso S, Spadaro S, et al. Effects of recruitment maneuver and positive end-expiratory pressure on respiratory mechanics and transpulmonary pressure during laparoscopic surgery. Anesthesiology 2013; 118:114–122.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Piriyapatsom A, Phetkampang S. Effects of intra-operative positive end-expiratory pressure setting guided by oesophageal pressure measurement on oxygenation and respiratory mechanics during laparoscopic gynaecological surgery: a randomised controlled trial. Eur J Anaesthesiol 2020; 37:1032–1039.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cui Y, Cao R, Li G, et al. The effect of lung recruitment maneuvers on postoperative pulmonary complications for patients undergoing general anesthesia: a meta-analysis. PLoS One 2019; 14:e0217405.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Karsten J, Luepschen H, Grossherr M, et al. Effect of PEEP on regional ventilation during laparoscopic surgery monitored by electrical impedance tomography. Acta Anaesthesiol Scand 2011; 55:878–886.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Costa Leme A, Hajjar LA, Volpe MS, et al. Effect of intensive vs moderate alveolar recruitment strategies added to lung-protective ventilation on postoperative pulmonary complications: a randomized clinical trial. JAMA 2017; 317:1422–1432.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hedenstierna G, Edmark L. Protective ventilation during anesthesia: is it meaningful? Anesthesiology 2016; 125:1079–1082.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hedenstierna G, Edmark L. Mechanisms of atelectasis in the perioperative period. Best Pract Res Clin Anaesthesiol 2010; 24:157–169.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bluth T, Bobek I, et al. Writing Committee for the PROBESE Collaborative Group of the PROtective VEntilation Network (PROVEnet) for the Clinical Trial Network of the European Society of Anaesthesiology. Effect of intraoperative high positive end-expiratory pressure (PEEP) with recruitment maneuvers vs low PEEP on postoperative pulmonary complications in obese patients: a randomized clinical trial. JAMA 2019; 321:2292–2305.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bernard D, Brandely A, Scatton O, et al. Positive end-expiratory pressure does not decrease cardiac output during laparoscopic liver surgery: a prospective observational evaluation. HPB (Oxford) 2017; 19:36–41.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>De Santis Santiago R, Teggia Droghi M, Fumagalli J, et al. High pleural pressure prevents alveolar overdistension and hemodynamic collapse in ARDS with class III obesity. Am J Respir Crit Care Med 2021; 203:575–584.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">37793795</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>03</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>03</Month>
+        <Day>26</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1759-8486</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>16</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Mar</Month>
+              <Day>14</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of neurointerventional surgery</Title>
+          <ISOAbbreviation>J Neurointerv Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Evaluation of effectiveness and safety of the CorPath GRX robotic system in endovascular embolization procedures of cerebral aneurysms.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>405-411</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1136/jnis-2023-020161</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Robotic-assisted neurointervention was recently introduced, with implications that it could be used to treat neurovascular diseases.</AbstractText>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To evaluate the effectiveness and safety of the robotic-assisted platform CorPath GRX for treating cerebral aneurysms.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This prospective, international, multicenter study enrolled patients with brain aneurysms that required endovascular coiling and/or stent-assisted coiling. The primary effectiveness endpoint was defined as successful completion of the robotic-assisted endovascular procedure without any unplanned conversion to manual treatment with guidewire or microcatheter navigation, embolization coil(s) or intracranial stent(s) deployment, or an inability to navigate vessel anatomy. The primary safety endpoint included intraprocedural and periprocedural events.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The study enrolled 117 patients (74.4% female) with mean age of 56.6 years from 10 international sites,. Headache was the most common presenting symptom in 40/117 (34.2%) subjects. Internal carotid artery was the most common location (34/122, 27.9%), and the mean aneurysm height and neck width were 5.7±2.6 mm and 3.5±1.4 mm, respectively. The overall procedure time was 117.3±47.3 min with 59.4±32.6 min robotic procedure time. Primary effectiveness was achieved in 110/117 (94%) subjects with seven subjects requiring conversion to manual for procedure completion. Only four primary safety events were recorded with two intraprocedural aneurysm ruptures and two strokes. A Raymond-Roy Classification Scale score of 1 was achieved in 71/110 (64.5%) subjects, and all subjects were discharged with a modified Rankin Scale score of ≤2.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This first-of-its-kind robotic-assisted neurovascular trial demonstrates the effectiveness and safety of the CorPath GRX System for endovascular embolization of cerebral aneurysm procedures.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION NUMBER" NlmCategory="BACKGROUND">NCT04236856.</AbstractText>
+          <CopyrightInformation>© Author(s) (or their employer(s)) 2024. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Mendes Pereira</LastName>
+            <ForeName>Vitor</ForeName>
+            <Initials>V</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-6804-3985</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Neurosurgery, Department of Surgery, St Michael's Hospital, University of Toronto, Toronto, Ontario, Canada vitormpbr@hotmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rice</LastName>
+            <ForeName>Hal</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurointervention, Gold Coast University Hospital, Southport, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>De Villiers</LastName>
+            <ForeName>Laetitia</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurointervention, Gold Coast University Hospital, Southport, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sourour</LastName>
+            <ForeName>Nader</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Neuroradiology, Hopital Universitaire Pitie Salpetriere, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Clarencon</LastName>
+            <ForeName>Frédéric</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Neuroradiology, Hopital Universitaire Pitie Salpetriere, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Spears</LastName>
+            <ForeName>Julian</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Neurosurgery, Department of Surgery, St Michael's Hospital, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tomasello</LastName>
+            <ForeName>Alejandro</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-6736-1535</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurointervention, Hospital Vall d'Hebron, Barcelona, Catalunya, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hernandez</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurointervention, Hospital Vall d'Hebron, Barcelona, Catalunya, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cancelliere</LastName>
+            <ForeName>Nicole M</ForeName>
+            <Initials>NM</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-8703-4304</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Neurosurgery, Department of Surgery, St Michael's Hospital, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Xiao Yu Eileen</ForeName>
+            <Initials>XYE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Neurosurgery, Department of Surgery, St Michael's Hospital, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nicholson</LastName>
+            <ForeName>Patrick</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Imaging, Toronto Western Hospital, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Costalat</LastName>
+            <ForeName>Vincent</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroradiology, Centre Hospitalier Universitaire de Montpellier, Montpellier, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gascou</LastName>
+            <ForeName>Gregory</ForeName>
+            <Initials>G</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-0817-7324</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroradiology, Centre Hospitalier Universitaire de Montpellier, Montpellier, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mordasini</LastName>
+            <ForeName>Pasquale</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Diagnostic and Interventional Neuroradiology, Inselspital Universitatsspital Bern, Bern, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gralla</LastName>
+            <ForeName>Jan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Diagnostic and Interventional Neuroradiology, Inselspital Universitatsspital Bern, Bern, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Martínez-Galdámez</LastName>
+            <ForeName>Mario</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-8024-4712</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Neuroradiology and Endovascular Neurosurgery, Hospital Clinico Universitario de Valladolid, Valladolid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Galvan Fernandez</LastName>
+            <ForeName>Jorge</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Neuroradiology and Endovascular Neurosurgery, Hospital Clinico Universitario de Valladolid, Valladolid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Killer-Oberpfalzer</LastName>
+            <ForeName>Monika</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-5572-7694</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Paracelsus Medical University, Salzburg, Austria.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liebeskind</LastName>
+            <ForeName>David S</ForeName>
+            <Initials>DS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurology, University of California, Los Angeles, CA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Turner</LastName>
+            <ForeName>Raymond D</ForeName>
+            <Initials>RD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Neurosurgery, Prisma Health, Greenville, South Carolina, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Blanc</LastName>
+            <ForeName>Raphael</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Neuroradiology, Fondation Rothschild, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Piotin</LastName>
+            <ForeName>Michel</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Neuroradiology, Fondation Rothschild, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT04236856</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>03</Month>
+          <Day>14</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Neurointerv Surg</MedlineTA>
+        <NlmUniqueID>101517079</NlmUniqueID>
+        <ISSNLinking>1759-8478</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002533" MajorTopicYN="N">Cerebral Angiography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004621" MajorTopicYN="Y">Embolization, Therapeutic</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057510" MajorTopicYN="Y">Endovascular Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002532" MajorTopicYN="Y">Intracranial Aneurysm</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015607" MajorTopicYN="N">Stents</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Aneurysm</Keyword>
+        <Keyword MajorTopicYN="N">Brain</Keyword>
+        <Keyword MajorTopicYN="N">Coil</Keyword>
+        <Keyword MajorTopicYN="N">Stent</Keyword>
+        <Keyword MajorTopicYN="N">Technology</Keyword>
+      </KeywordList>
+      <CoiStatement>Competing interests: VMP is an unpaid consultant for Siemens Healthinners Endovascular Robotics. The following authors have one or more competing interests: HR, NS, FC, DH, MP, JG, MK-O, RDT, RB. These competing interests include board membership, consultancy, employment, expert testimony grants, contract research, lectures/other education events, speakers’ bureau, and receipt of equipment or supplies, royalties, stock/stock options/other forms of ownership.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>02</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>05</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>3</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>5</Day>
+          <Hour>1</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>4</Day>
+          <Hour>21</Hour>
+          <Minute>22</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37793795</ArticleId>
+        <ArticleId IdType="pii">jnis-2023-020161</ArticleId>
+        <ArticleId IdType="doi">10.1136/jnis-2023-020161</ArticleId>
+        <ArticleId IdType="pmc">PMC10958306</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>JAMA Neurol. 2019 Mar 1;76(3):282-293</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30592482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JACC Cardiovasc Interv. 2016 Oct 10;9(19):2058-2064</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27639904</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Invasive Cardiol. 2014 Jul;26(7):318-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24993988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurointerv Surg. 2020 Apr;12(4):338-340</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32132138</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 2012 Jun;43(6):1711-37</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22556195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am Heart J. 2009 Jan;157(1):118-24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19081407</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Catheter Cardiovasc Interv. 2018 Jul;92(1):54-57</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29314560</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Radiology. 2011 Feb;258(2):546-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21131582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Neurosurg. 2015;29(4):485-92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26037936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Invasive Cardiol. 2018 Apr;30(4):152-156</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29335386</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>AJNR Am J Neuroradiol. 2012 Mar;33(3):474-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22207299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2017 Jul 20;377(3):257-266</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28723321</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosurg. 2021 Sep 24;136(4):992-1004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34560642</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Radiology. 2009 Jun;251(3):846-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19318586</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurosurgery. 2011 Oct;69(4):837-41; discussion 842</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21623247</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ScientificWorldJournal. 2015;2015:954954</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26146657</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rev Neurol (Paris). 2017 Nov;173(9):542-551</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28583271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cardiovasc Revasc Med. 2015 Sep;16(6):348-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26235977</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurointerv Surg. 2018 Apr;10(4):362-366</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28710085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurol Clin Pract. 2013 Apr;3(2):99-108</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23914319</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosurg. 2020 Aug 28;135(1):21-28</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32858520</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>AJNR Am J Neuroradiol. 2009 Jan;30(1):79-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18768715</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Catheter Cardiovasc Interv. 2016 Oct;88(4):565-570</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27189238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Continuum (Minneap Minn). 2017 Feb;23(1, Cerebrovascular Disease):181-210</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28157750</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JACC Cardiovasc Interv. 2015 Apr 20;8(4):616-27</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25907089</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurosurgery. 2020 Feb 1;86(2):309-314</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30993336</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Catheter Cardiovasc Interv. 2018 Oct 1;92(4):713-716</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29521479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circ Cardiovasc Interv. 2016 Apr;9(4):e003273</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27072525</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurointerv Surg. 2022 Dec;14(12):1229-1233</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34911735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 2013 Oct;44(10):2735-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23899916</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurointerv Surg. 2013 Nov;5 Suppl 3:iii56-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22730337</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Cardiol Rep. 2016 Sep;18(9):86</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27443382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acute Card Care. 2014 Jun;16(2):37-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24654789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurointerv Surg. 2019 May;11(5):489-496</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30842307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>AJNR Am J Neuroradiol. 2008 Feb;29(2):217-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18184832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Invasive Cardiol. 2016 Nov;28(11):E128-E131</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27801660</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crit Care. 2015 Aug 31;19:309</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26330064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 2008 Sep;39(9):2497-504</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18617659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>AJNR Am J Neuroradiol. 2014 May;35(5):935-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24481333</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Epidemiology. 2007 Nov;18(6):800-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18049194</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurointerv Surg. 2022 Dec;14(12):1284</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35169034</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Cardiol. 2013 Apr 16;61(15):1596-600</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23500318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurol Neurosurg Psychiatry. 2017 Aug;88(8):663-668</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28634280</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurointerv Surg. 2016 Feb;8(2):152-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25564539</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>AJNR Am J Neuroradiol. 2012 May;33(5):958-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22241382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Expert Rev Neurother. 2017 Oct;17(10):977-986</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28832231</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37794474</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>10</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>10</Month>
+        <Day>12</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1743-0003</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>20</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>10</Month>
+              <Day>04</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of neuroengineering and rehabilitation</Title>
+          <ISOAbbreviation>J Neuroeng Rehabil</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Feasibility and outcomes of supplemental gait training by robotic and conventional means in acute stroke rehabilitation.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>134</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12984-023-01243-3</ELocationID>
+        <Abstract>
+          <AbstractText Label="INTRODUCTION">Practicality of implementation and dosing of supplemental gait training in an acute stroke inpatient rehabilitation setting are not well studied but can have positive impact on outcomes.</AbstractText>
+          <AbstractText Label="OBJECTIVES">To determine the feasibility of early, intense supplemental gait training in inpatient stroke rehabilitation, compare functional outcomes and the specific mode of delivery.</AbstractText>
+          <AbstractText Label="DESIGN AND SETTING">Assessor blinded, randomized controlled trial in a tertiary Inpatient Rehabilitation Facility.</AbstractText>
+          <AbstractText Label="PARTICIPANTS">Thirty acute post-stroke patients with unilateral hemiparesis (≥ 18 years of age with a lower limb MAS ≤ 3).</AbstractText>
+          <AbstractText Label="INTERVENTION">Lokomat® or conventional gait training (CGT) in addition to standard mandated therapy time.</AbstractText>
+          <AbstractText Label="MAIN OUTCOME MEASURES">Number of therapy sessions; adverse events; functional independence measure (FIM motor); functional ambulation category (FAC); passive range of motion (PROM); modified Ashworth scale (MAS); 5 times sit-to-stand (5x-STS); 10-m walk test (10MWT); 2-min walk test (2MWT) were assessed before (pre) and after training (post).</AbstractText>
+          <AbstractText Label="RESULTS">The desired supplemental therapy was implemented during normal care delivery hours and the patients generally tolerated the sessions well. Both groups improved markedly on several measures; the CGT group obtained nearly 45% more supplemental sessions (12.8) than the Lokomat® group (8.9). Both groups showed greater FIM improvement scores (discharge - admission) than those from a reference group receiving no supplemental therapy. An overarching statistical comparison between methods was skewed towards a differential benefit (but not significant) in the Lokomat® group with medium effect sizes. By observation, the robotic group completed a greater number of steps, on average. These results provide some evidence for Lokomat® being a more efficient tool for gait retraining by providing a more optimal therapy "dose".</AbstractText>
+          <AbstractText Label="CONCLUSIONS">With careful planning, supplemental therapy was possible with minimal intrusion to schedules and was well tolerated. Participants showed meaningful functional improvement with relatively little supplemental therapy over a relatively short time in study.</AbstractText>
+          <CopyrightInformation>© 2023. BioMed Central Ltd., part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Talaty</LastName>
+            <ForeName>Mukul</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Gait and Motion Analysis Laboratory, MossRehab, Elkins Park, PA, 19027, USA. mukul.talaty@jefferson.edu.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Penn State University, 1600 Woodland Road, Abington, PA, 19001, USA. mukul.talaty@jefferson.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Esquenazi</LastName>
+            <ForeName>Alberto</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Gait and Motion Analysis Laboratory, MossRehab, Elkins Park, PA, 19027, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>04</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Neuroeng Rehabil</MedlineTA>
+        <NlmUniqueID>101232233</NlmUniqueID>
+        <ISSNLinking>1743-0003</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071939" MajorTopicYN="Y">Stroke Rehabilitation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005240" MajorTopicYN="N">Feasibility Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020521" MajorTopicYN="Y">Stroke</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005081" MajorTopicYN="N">Exercise Therapy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005684" MajorTopicYN="N">Gait</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020233" MajorTopicYN="Y">Gait Disorders, Neurologic</DescriptorName>
+          <QualifierName UI="Q000534" MajorTopicYN="N">rehabilitation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Gait</Keyword>
+        <Keyword MajorTopicYN="N">Inpatient Rehabilitation Facility</Keyword>
+        <Keyword MajorTopicYN="N">Lokomat®</Keyword>
+        <Keyword MajorTopicYN="N">Stroke</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>06</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>09</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>5</Day>
+          <Hour>1</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>4</Day>
+          <Hour>23</Hour>
+          <Minute>48</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37794474</ArticleId>
+        <ArticleId IdType="doi">10.1186/s12984-023-01243-3</ArticleId>
+        <ArticleId IdType="pii">10.1186/s12984-023-01243-3</ArticleId>
+        <ArticleId IdType="pmc">PMC10552424</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ther Adv Neurol Disord. 2022 Sep 15;15:17562864221123195</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36147622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 2020 Feb;51(2):563-570</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31884902</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 2005 Sep;36(9):e100-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16120836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neuroeng Rehabil. 2021 Apr 16;18(1):64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33863345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Stroke. 2012 Aug;7(6):482-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22494388</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PM R. 2015 Jan;7(1):60-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25171879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cochrane Database Syst Rev. 2020 Oct 22;10:CD006185</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33091160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circulation. 2022 Feb 22;145(8):e153-e639</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35078371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroscientist. 2018 Aug;24(4):400-416</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29283026</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Neurorobot. 2021 Sep 01;15:689363</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34539371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neuroeng Rehabil. 2016 Jun 08;13(1):53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27278136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Neurol Taiwan. 2022 Jan 18;:</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34918304</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circulation. 2014 Jan 21;129(3):399-410</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24446411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Int Soc Phys Rehabil Med. 2021 Oct-Dec;4(4):168-173</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38283707</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurorehabil Neural Repair. 2011 Sep;25(7):636-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21444654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Neurol Neurosci Rep. 2019 Feb 20;19(3):13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30788609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Phys Med Rehabil. 2006 Jan;87(1):32-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16401435</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Behav Neurol. 2015;2015:891651</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26246694</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Phys Ther. 2010 Feb;90(2):196-208</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20022995</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 2007 Feb;38(2):349-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17204680</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cochrane Database Syst Rev. 2013 Jul 25;(7):CD006185</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23888479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 2020 Sep;51(9):2639-2648</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32811378</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 2012 Apr;43(4):1140-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22180255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 2004 Feb 4;24(5):1245-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14762143</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Med. 2010 Oct 13;8:60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20942915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cochrane Database Syst Rev. 2017 May 10;5:CD006185</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28488268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Rehabil. 2007 Jan;21(1):17-27</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17213237</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuropsychiatr Dis Treat. 2017 May 15;13:1303-1311</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28553117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Rehabil Med. 2019 Feb 1;51(2):78-88</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30516821</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Neurol. 2013 Dec;26(6):609-16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24136129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Physiol. 2018 Aug 02;9:1021</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30127749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Continuum (Minneap Minn). 2011 Jun;17(3 Neurorehabilitation):443-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22810860</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PM R. 2013 Apr;5(4):280-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23200117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Atheroscler Rep. 2017 Nov 7;19(12):59</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29116473</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neuroeng Rehabil. 2022 Sep 14;19(1):99</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36104706</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2017 Jun 2;12(6):e0178636</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28575054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diagnostics (Basel). 2020 Dec 28;11(1):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33379391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37794551</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>10</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>10</Month>
+        <Day>06</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1119-3077</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>26</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nigerian journal of clinical practice</Title>
+          <ISOAbbreviation>Niger J Clin Pract</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Is testicular tissue resection effective in testicular compartment syndrome?</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1361-1367</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.4103/njcp.njcp_170_23</ELocationID>
+        <Abstract>
+          <AbstractText Label="Background" NlmCategory="UNASSIGNED">There have been many testicular losses due to testicular compartment syndrome (TCS). Studies are ongoing to lower the pressure within tunica vaginalis during TCS.</AbstractText>
+          <AbstractText Label="Aims" NlmCategory="UNASSIGNED">To provide enough space for reperfusion of the testicular tissue and to reduce intratesticular pressure by resecting testicular tissue in the affected testis for treatment of TCS.</AbstractText>
+          <AbstractText Label="Materials and Methods" NlmCategory="UNASSIGNED">The study was designed as a prospective randomized animal study. A total of 24 Wistar albino adult rats were randomly divided into three groups. After torsion surgery group 1 underwent detorsion + testicular tissue resection (TTR), while only detorsion was performed in group 2. The control group did not undergo any procedures. At the postoperative 5<sup>th</sup> day all subjects were sacrificed, and their testes were evaluated in terms of histologic findings, apoptosis, and microangiogenesis. One-way ANOVA and Tukey's test were used for analysis.</AbstractText>
+          <AbstractText Label="Results" NlmCategory="UNASSIGNED">According to Johnsen scores, all the groups were statistically different from each other and the damage in group 1 was less than in group 2 (P &lt; 0.05). Factor VIII expressions in surgical groups were significantly higher than in the control group (P &lt; 0.05). However, the surgical groups did not show any significant difference between each other (P &gt; 0.05). Apoptotic cell counts were higher in both surgical groups than in the control group. Also, there was significantly higher apoptotic cell count in group 2 than in group 1 (P &lt; 0.05).</AbstractText>
+          <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">The injury secondary to TCS is lower when TTR is performed. In the cases in which tunica vaginalis graft could not be obtained or in the delayed cases, TTR may be useful.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Caniklioglu</LastName>
+            <ForeName>M</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Urology, Yozgat Bozok University, Yozgat, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oztekin</LastName>
+            <ForeName>Ü</ForeName>
+            <Initials>Ü</Initials>
+            <AffiliationInfo>
+              <Affiliation>Urology Clinic, Kayseri System Hospital, Kayseri, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fırat</LastName>
+            <ForeName>F</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Tokat State Hospital, Tokat, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ataç</LastName>
+            <ForeName>F</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Batman Zilan Private Hospital, Batman, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Doğanyigit</LastName>
+            <ForeName>Z</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Histology and Embryology, Faculty of Medicine, Yozgat Bozok University, Yozgat, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oflamaz</LastName>
+            <ForeName>A Okan</ForeName>
+            <Initials>AO</Initials>
+            <AffiliationInfo>
+              <Affiliation>Histology and Embryology, Faculty of Medicine, Yozgat Bozok University, Yozgat, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>India</Country>
+        <MedlineTA>Niger J Clin Pract</MedlineTA>
+        <NlmUniqueID>101150032</NlmUniqueID>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013737" MajorTopicYN="Y">Testis</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013086" MajorTopicYN="Y">Spermatic Cord Torsion</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Detorsion</Keyword>
+        <Keyword MajorTopicYN="N">rat study</Keyword>
+        <Keyword MajorTopicYN="N">testicular compartment syndrome</Keyword>
+        <Keyword MajorTopicYN="N">testis torsion</Keyword>
+        <Keyword MajorTopicYN="N">tissue resection</Keyword>
+      </KeywordList>
+      <CoiStatement>None</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>5</Day>
+          <Hour>1</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>4</Day>
+          <Hour>23</Hour>
+          <Minute>51</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37794551</ArticleId>
+        <ArticleId IdType="pii">NigerJClinPract_2023_26_9_1361_386232</ArticleId>
+        <ArticleId IdType="doi">10.4103/njcp.njcp_170_23</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37796307</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>12</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>12</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1433-7347</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>31</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA</Title>
+          <ISOAbbreviation>Knee Surg Sports Traumatol Arthrosc</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Improved accuracy of implant placement with an imageless handheld robotic system compared to conventional instrumentation in patients undergoing total knee arthroplasty: a prospective randomized controlled trial using CT-based assessment of radiological outcomes.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>5446-5452</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00167-023-07590-x</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Image-free handheld robotic-assisted total knee arthroplasty (RATKA) has shown to achieve desired limb alignment compared to conventional jig-based instrumented total knee arthroplasty (CTKA). The aim of this prospective randomized controlled trial (RCT) was to evaluate the accuracy of a semi-autonomous imageless handheld RATKA compared to CTKA in order to achieve the perioperative planned target alignment of the knee postoperatively.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Fifty-two patients with knee osteoarthritis were randomized in 1:1 ratio to undergo unilateral CTKA or an imageless handheld RATKA. A full-length lower limb CT-scan was obtained pre- and 6-week postoperative. The primary outcomes were radiologic measurements of achieved target hip-knee-ankle axis (HKA-axis) and implant component position including varus and external rotation and flexion of the femur component, and posterior tibial slope. The proportion of outliers in above radiographic outcomes, defined as &gt; 3° deviation in postoperative CT measurements as compared to perioperative planned target, were also noted. Knee phenotypes were compared with use of the Coronal Plane Alignment of the Knee (CPAK) classification.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Baseline conditions were comparable between both groups. The overall proportion and percentage of outliers (n = 38, 24.4% vs n = 9, 5.8%) was statistically significant (p &lt; 0.001) in favor of RATKA. The achieved varus-valgus of the femoral component (varus 1.3° ± 1.7° vs valgus - 0.1° ± 1.9°, p &lt; 0.05) with statistically significant less outliers (0% vs 88.5%, p &lt; 0.01), the achieved HKA-axis (varus 0.4° ± 2.1° vs valgus - 1.2° ± 2.1°, p &lt; 0.05) and the posterior tibial slope (1.4° ± 1.1° vs 3.2° ± 1.8°, p &lt; 0.05) were more accurate with RATKA. The most common postoperative CPAK categories were type II (50% CTKA vs 61.5% RATKA), type I (3.8% CTKA vs 23.1% RATKA) and type V (26.9% CTKA vs 15.4% RATKA). CPAK classification III was only found in CTKA (19.2%). Type VI, VII, VIII, and IX were rare in both populations.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The present trial demonstrates that an imageless handheld RATKA system can be used to accurately perioperatively plan the desired individual component implant positions with less alignment outliers whilst aiming for a constitutional alignment.</AbstractText>
+          <AbstractText Label="LEVEL OF EVIDENCE" NlmCategory="METHODS">I.</AbstractText>
+          <CopyrightInformation>© 2023. The Author(s) under exclusive licence to European Society of Sports Traumatology, Knee Surgery, Arthroscopy (ESSKA).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bollars</LastName>
+            <ForeName>Peter</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-8611-2876</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, St. Trudo Hospital, Sint-Truiden, Belgium. pbollars@hotmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Janssen</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, St. Trudo Hospital, Sint-Truiden, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>De Weerdt</LastName>
+            <ForeName>Wim</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, St. Trudo Hospital, Sint-Truiden, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Albelooshi</LastName>
+            <ForeName>Ali</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, Mediclinic City Hospital, Dubai Healthcare City, Dubai, United Arab Emirates.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Orthocure Medical Center, Dubai, United Arab Emirates.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Meshram</LastName>
+            <ForeName>Prashant</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, Mediclinic City Hospital, Dubai Healthcare City, Dubai, United Arab Emirates.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Orthocure Medical Center, Dubai, United Arab Emirates.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nguyen</LastName>
+            <ForeName>Thang D</ForeName>
+            <Initials>TD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical, Aerospace, and Biomedical Engineering, University of Tennessee, Knoxville, TN, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lacour</LastName>
+            <ForeName>Michael T</ForeName>
+            <Initials>MT</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical, Aerospace, and Biomedical Engineering, University of Tennessee, Knoxville, TN, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schotanus</LastName>
+            <ForeName>Martijn G M</ForeName>
+            <Initials>MGM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery and Traumatology, Zuyderland Medical Center, Sittard-Geleen, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>School of Care and Public Health Research Institute, Faculty of Health, Medicine and Life Sciences, Maastricht University, Maastricht, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Knee Surg Sports Traumatol Arthrosc</MedlineTA>
+        <NlmUniqueID>9314730</NlmUniqueID>
+        <ISSNLinking>0942-2056</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019645" MajorTopicYN="Y">Arthroplasty, Replacement, Knee</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007720" MajorTopicYN="Y">Knee Prosthesis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007719" MajorTopicYN="N">Knee Joint</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020370" MajorTopicYN="Y">Osteoarthritis, Knee</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">3D-CT</Keyword>
+        <Keyword MajorTopicYN="N">CPAK classification</Keyword>
+        <Keyword MajorTopicYN="N">CT-shape match</Keyword>
+        <Keyword MajorTopicYN="N">Image-free</Keyword>
+        <Keyword MajorTopicYN="N">Imageless</Keyword>
+        <Keyword MajorTopicYN="N">Implant placement accuracy</Keyword>
+        <Keyword MajorTopicYN="N">Knee phenotypes</Keyword>
+        <Keyword MajorTopicYN="N">RATKA</Keyword>
+        <Keyword MajorTopicYN="N">Robotic assisted</Keyword>
+        <Keyword MajorTopicYN="N">Robotics</Keyword>
+        <Keyword MajorTopicYN="N">TKA</Keyword>
+        <Keyword MajorTopicYN="N">Total knee arthroplasty</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>02</Month>
+          <Day>06</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>09</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>17</Day>
+          <Hour>9</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>5</Day>
+          <Hour>12</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>5</Day>
+          <Hour>11</Hour>
+          <Minute>5</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37796307</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00167-023-07590-x</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00167-023-07590-x</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Kayani B, Konan S, Ayuob A et al (2019) Robotic technology in total knee arthroplasty: a systematic review. EFORT Open Rev 4(10):611–617</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1302/2058-5241.4.190022</ArticleId>
+            <ArticleId IdType="pubmed">31754467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baldini A, Indelli PF, De Luca L, Mariani PC, Marcucci M (2014) Rotational alignment of the tibial component in total knee arthroplasty: the anterior tibial cortex is a reliable landmark. Joints. 21:155–160</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bollars P, Boeckxstaens A, Mievis J et al (2020) Preliminary experience with an image-free handheld robot for total knee arthroplasty: 77 cases compared with a matched control group. Eur J Orthop Surg Traumatol 30(4):723–729</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00590-020-02624-3</ArticleId>
+            <ArticleId IdType="pubmed">31950265</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bollars P, Meshram P, Al Thani S et al (2022) Achieving functional alignment in total knee arthroplasty: early experience using a second-generation imageless semi-autonomous handheld robotic sculpting system. Int Orthop (SICOT) 47:585–593</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00264-022-05649-x</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Campanelli V, Lozano R, Akhlaghpour H et al (2020) Implant placement accuracy in total knee arthroplasty: validation of a CT-based measurement technique. Quant Imaging Med Surg 10:475–484</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21037/qims.2020.01.02</ArticleId>
+            <ArticleId IdType="pubmed">32190572</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Doan GW, Courtis RP, Wyss JG et al (2022) Image-free robotic-assisted total knee arthroplasty improves implant alignment accuracy: a cadaveric study. J Arthroplast 37(4):795–801</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.arth.2021.12.035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eerens W, Bollars P, Henckes ME et al (2022) Improved joint awareness two years after total knee arthroplasty with a handheld image-free robotic system. Acta Orthop Belg 88(1):47–52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.52628/88.1.07</ArticleId>
+            <ArticleId IdType="pubmed">35512154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hasegawa M, Tone S, Naito Y, Sudo A (2022) Two- and three-dimensional measurements following robotic-assisted total knee arthroplasty. Int J Med Robot 18:e2455</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/rcs.2455</ArticleId>
+            <ArticleId IdType="pubmed">35993231</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hirschmann MT, Konala P, Amsler F et al (2011) The position and orientation of total knee replacement components: a comparison of conventional radiographs, transverse 2D-CT slices and 3D-CT reconstruction. J Bone Jt Surg Br 93:629–633</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1302/0301-620X.93B5.25893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hirschmann MT, Hess S, Behrend H et al (2019) Phenotyping of hip–knee–ankle angle in young non-osteoarthritic knees provides better understanding of native alignment variability. Knee Surg Sports Traumatol Arthrosc 27:1378–1384</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00167-019-05507-1</ArticleId>
+            <ArticleId IdType="pubmed">30968238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hirschmann MT, Moser LB, Amsler F et al (2019) Functional knee phenotypes: a novel classification for phenotyping the coronal lower limb alignment based on the native alignment in young non-osteoarthritic patients. Knee Surg Sports Traumatol Arthrosc 27:1394–1402</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00167-019-05509-z</ArticleId>
+            <ArticleId IdType="pubmed">30976825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jonkergouw F, Allé F, Chellaoui K, Vander Sloten J, Vangeneugden D (2016) Three-dimensional measurement technique to assess implant position and orientation after total knee arthroplasty. Med Eng Phys 38(12):1513–1517</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.medengphy.2016.09.006</ArticleId>
+            <ArticleId IdType="pubmed">27727121</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>MacDessi SJ, Griffiths-Jones W, Harris IA, Bellemans J, Chen DB (2021) Coronal Plane Alignment of the Knee (CPAK) classification. Bone Jt J 103-B(2):329–337</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1302/0301-620X.103B2.BJJ-2020-1050.R1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mahfouz MR, Hoff WA, Komistek RD, Dennis DA (2003) A robust method for registration of three-dimensional knee implant models to two-dimensional fluoroscopy images. IEEE Trans Med Imaging 22:1561–1574</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TMI.2003.820027</ArticleId>
+            <ArticleId IdType="pubmed">14649746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Casper M, Mitra R, Khare R et al (2018) Accuracy assessment of a novel image-free handheld robot for total knee arthroplasty in a cadaveric study. Comput Assist Surg 23(1):14–20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/24699322.2018.1519038</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liow M, Chin P, Tay K, Chia S, Lo N, Yeo S (2014) Early experiences with robot-assisted total knee arthroplasty using the DigiMatchTM ROBODOC<sup>®</sup> surgical system. Singap Med J 55:529–534</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.11622/smedj.2014136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Popat R, Albelooshi A, Mahapatra P et al (2022) Improved joint line and posterior offset restoration in primary total knee replacement using a robotic-assisted surgical technique: an international multi-centre retrospective analysis of matched cohorts. PLoS ONE 17(8):e0272722</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0272722</ArticleId>
+            <ArticleId IdType="pubmed">36006969</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Riantho A, Butarbutar JCP, Fidiasrianto K et al (2023) Radiographic outcomes of robot-assisted versus conventional total knee arthroplasty: a systematic review and meta-analysis of randomized clinical trials. JB JS Open Access 15(e23):00010</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Savov P, Tuecking LR, Windhagen H, Ehmig J, Ettinger M (2021) Imageless robotic handpiece-assisted total knee arthroplasty: a learning curve analysis of surgical time and alignment accuracy. Arch Orthop Trauma Surg 141:2119–2128</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00402-021-04036-2</ArticleId>
+            <ArticleId IdType="pubmed">34259927</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seidenstein A, Birmingham M, Foran J, Ogden S (2021) Better accuracy and reproducibility of a new robotically-assisted system for total knee arthroplasty compared to conventional instrumentation: a cadaveric study. Knee Surg Sports Traumatol Arthrosc 29:859–866</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00167-020-06038-w</ArticleId>
+            <ArticleId IdType="pubmed">32448945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sicat CS, Chow JC, Kaper B, Mitra R, Xie J, Schwarzkopf R (2021) Component placement accuracy in two generations of handheld robotics-assisted knee arthroplasty. Arch Orthop Trauma Surg 141(12):2059–2067</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00402-021-04040-6</ArticleId>
+            <ArticleId IdType="pubmed">34304279</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Siddiqi A, Horan T, Molloy RM et al (2021) A clinical review of robotic navigation in total knee arthroplasty: historical systems to modern design. EFORT Open Rev 6(4):252–269</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1302/2058-5241.6.200071</ArticleId>
+            <ArticleId IdType="pubmed">34040803</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Singh V, Teo GM, Long WJ (2021) Versatility and accuracy of a novel image-free robotic-assisted system for total knee arthroplasty. Arch Orthop Trauma Surg 141:2077–2086</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00402-021-04049-x</ArticleId>
+            <ArticleId IdType="pubmed">34255174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sires JD, Wilson CJ (2021) CT Validation of intraoperative implant position and knee alignment as determined by the MAKO total knee arthroplasty system. J Knee Surg 34:1133–1137</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1055/s-0040-1701447</ArticleId>
+            <ArticleId IdType="pubmed">32131103</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thiengwittayaporn S, Uthaitas P, Senwiruch C, Hongku N, Tunyasuwanakul R (2021) Imageless robotic-assisted total knee arthroplasty accurately restores the radiological alignment with a short learning curve: a randomized controlled trial. Int Orthop 45:2851–2858</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00264-021-05179-y</ArticleId>
+            <ArticleId IdType="pubmed">34392382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vaidya NV, Deshpande AN, Panjwani T et al (2022) Robotic-assisted TKA leads to a better prosthesis alignment and a better joint line restoration as compared to conventional TKA: a prospective randomized controlled trial. Knee Surg Sports Traumatol Arthrosc 30:621–626</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00167-020-06353-2</ArticleId>
+            <ArticleId IdType="pubmed">33165631</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vermue H, Batailler C, Monk P et al (2023) The evolution of robotic systems for total knee arthroplasty, each system must be assessed for its own value: a systematic review of clinical evidence and meta-analysis. Arch Orthop Trauma Surg 143:3369–3381</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00402-022-04632-w</ArticleId>
+            <ArticleId IdType="pubmed">36153769</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang J, Ndou WS, Ng N, Gaston P et al (2022) Robotic-arm assisted total knee arthroplasty is associated with improved accuracy and patient reported outcomes: a systematic review and meta-analysis. Knee Surg Sports Traumatol Arthrosc 30:2677–2695</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00167-021-06464-4</ArticleId>
+            <ArticleId IdType="pubmed">33547914</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37800563</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>11</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>11</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1743-9159</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>109</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Nov</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of surgery (London, England)</Title>
+          <ISOAbbreviation>Int J Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic versus open surgery for simultaneous resection of rectal cancer and liver metastases: a randomized controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>3346-3353</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/JS9.0000000000000581</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study aimed to compare the short-term and long-term outcomes between robotic-assisted simultaneous resection and open surgery in patients with rectal cancer and liver metastases.</AbstractText>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Open simultaneous resection of colorectal cancer and synchronous liver metastases is widely performed and the potential cure for eligible patients. However, the feasibility of robotic simultaneous resection of primary and secondary liver lesions has not been established as a treatment option for metastatic rectal cancer.</AbstractText>
+          <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">A single-center randomized controlled trial was conducted at a hospital in China. Enrolling patients were aged from 18 to 75 years and diagnosed with surgically resectable metastatic rectal cancer (distal extension to ≤15 cm from the anal margin). Patients selected for simultaneous resection were randomly assigned to have robotic or open surgery at a 1:1 ratio. The primary endpoint was the incidence rate of complications within 30 days after surgery. Secondary endpoints were bladder, sexual function, 3-year disease-free survival, and overall survival.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 171 patients were enrolled in this trial with 86 in the robotic group and 85 in the open group. As a result, patients in the robotic group demonstrated fewer complications within 30 days after surgery than those in the open group (31.4 vs. 57.6%, P =0.014) and no mortality seen in either group. Patients in the robotic group had less blood loss [mean (SD), 125.5 (38.3) vs. 211.6 (68.7) ml; P &lt;0.001], faster bowel function recovery [mean (SD), 63.7 (27.4) vs. 93.8 (33.5) h P &lt;0.001] and shorter hospital stay [mean (SD), 8.0 (2.2) vs. 10.7 (5.4) days; P &lt;0.001] compared with those in the open group. The robotic group had a faster recovery of bladder and sexual function at 3 months after surgery than that of the open group. The 3-year disease-free survival rate (39.5 vs. 35.3%, P =0.739) and the 3-year overall survival rate (76.7 vs. 72.9%, P =0.712) were not statistically significant between the two groups.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In our randomized clinical trial, robotic simultaneous resection treatment of patients with rectal cancer and liver metastases resulted in fewer surgical complications, and a faster recovery to those of open surgery. Oncological outcomes showed no significant difference between the two groups.</AbstractText>
+          <CopyrightInformation>Copyright © 2023 The Author(s). Published by Wolters Kluwer Health, Inc.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Chang</LastName>
+            <ForeName>Wenju</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Zhongshan Hospital (Xiamen Branch), Fudan University, Xiamen, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ye</LastName>
+            <ForeName>Qinghai</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Liver Surgery.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Donghao</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Yu</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Shizhao</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ren</LastName>
+            <ForeName>Li</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>Guodong</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Guofeng</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, Zhongshan Hospital.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Fei</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biostatistics Department.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fan</LastName>
+            <ForeName>Jia</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Liver Surgery.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wei</LastName>
+            <ForeName>Ye</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Xiaoying</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Liver Surgery.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Jianmin</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT02642978</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>11</Month>
+          <Day>01</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Int J Surg</MedlineTA>
+        <NlmUniqueID>101228232</NlmUniqueID>
+        <ISSNLinking>1743-9159</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012004" MajorTopicYN="Y">Rectal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008113" MajorTopicYN="Y">Liver Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>06</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>11</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>6</Day>
+          <Hour>12</Hour>
+          <Minute>45</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>6</Day>
+          <Hour>7</Hour>
+          <Minute>3</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37800563</ArticleId>
+        <ArticleId IdType="doi">10.1097/JS9.0000000000000581</ArticleId>
+        <ArticleId IdType="pii">01279778-990000000-00709</ArticleId>
+        <ArticleId IdType="pmc">PMC10651267</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Chang W, Wei Y, Ren L, et al. Randomized controlled trial of intraportal chemotherapy combined with adjuvant chemotherapy (mFOLFOX6) for Stage II and III Colon Cancer. Ann Surg 2016;263:434–439.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Reddy SK, Pawlik TM, Zorzi D, et al. Simultaneous resections of colorectal cancer and synchronous liver metastases: a multi-institutional analysis. Ann Surg Oncol 2007;14:3481–3491.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Simillis C, Lal N, Thoukididou SN, et al. Open versus laparoscopic versus robotic versus transanal mesorectal excision for rectal cancer: a systematic review and network meta-analysis. Ann Surg 2019;270:59–68.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ye SP, Qiu H, Liao SJ, et al. Mini-invasive vs open resection of colorectal cancer and liver metastases: a meta-analysis. World J Gastroenterol 2019;25:2819–2832.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ji WB, Wang HG, Zhao ZM, et al. Robotic-assisted laparoscopic anatomic hepatectomy in China: initial experience. Ann Surg 2011;253:342–348.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen PD, Wu CY, Hu RH, et al. Robotic versus open hepatectomy for hepatocellular carcinoma: a matched comparison. Ann Surg Oncol 2017;24:1021–1028.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dwyer RH, Scheidt MJ, Marshall JS, et al. Safety and efficacy of synchronous robotic surgery for colorectal cancer with liver metastases. J Rob Surg 2018;12:603–606.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Navarro J, Rho SY, Kang I, et al. Robotic simultaneous resection for colorectal liver metastasis: feasibility for all types of liver resection. Langenbecks Arch Surg 2019;404:895–908.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ye LC, Liu TS, Ren L, et al. Randomized controlled trial of cetuximab plus chemotherapy for patients with KRAS wild-type unresectable colorectal liver-limited metastases. J Clin Oncol 2013;31:1931–1938.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Butcher NJ, Monsour A, Mew EJ, et al. Guidelines for reporting outcomes in trial reports: The CONSORT-outcomes 2022 extension. JAMA 2022;328:2252–2264.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Khorgami Z, Li WT, Jackson TN, et al. The cost of robotics: an analysis of the added costs of robotic-assisted versus laparoscopic surgery using the National Inpatient Sample. Surg Endosc 2019;33:2217–2221.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chang W, Liu T, Ren L, et al. A trinity technique for prevention of low rectal anastomotic leakage in the robotic era. Eur J Surg Oncol 2020;46(10 Pt B):e47–e54.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Abrams P, Avery K, Gardener N, et al. The international consultation on incontinence modular questionnaire: www.iciq.net. J Urol 2006;175(3 Pt 1):1063–1066; discussion 1066.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rosen RC, Riley A, Wagner G, et al. The international index of erectile function (IIEF): a multidimensional scale for assessment of erectile dysfunction. Urology 1997;49:822–830.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rosen R, Brown C, Heiman J, et al. The Female Sexual Function Index (FSFI): a multidimensional self-report instrument for the assessment of female sexual function. J Sex Marital Ther 2000;26:191–208.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dindo D, Demartines N, Clavien PA. Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey. Ann Surg 2004;240:205–213.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fong Y, Fortner J, Sun RL, et al. Clinical score for predicting recurrence after hepatic resection for metastatic colorectal cancer: analysis of 1001 consecutive cases. Ann Surg 1999;230:309–318.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Crippa J, Grass F, Dozois EJ, et al. Robotic surgery for rectal cancer provides advantageous outcomes over laparoscopic approach: results from a large retrospective cohort. Ann Surgery 2021;274:e1218–e1222.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Feng Q, Yuan W, Li T, et al. Robotic versus laparoscopic surgery for middle and low rectal cancer (REAL): short-term outcomes of a multicentre randomised controlled trial. Lancet Gastroenterol Hepatol 2022;7:991–1004.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, Feng H, Wang S, et al. Short- and long-term outcomes of robotic- versus laparoscopic-assisted right hemicolectomy: a propensity score-matched retrospective cohort study. Int J Surg (London, England) 2022;105:106855.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kang J, Yoon KJ, Min BS, et al. The impact of robotic surgery for mid and low rectal cancer: a case-matched analysis of a 3-arm comparison–open, laparoscopic, and robotic surgery. Ann Surg 2013;257:95–101.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Saito S, Fujita S, Mizusawa J, et al. Male sexual dysfunction after rectal cancer surgery: Results of a randomized trial comparing mesorectal excision with and without lateral lymph node dissection for patients with lower rectal cancer: Japan Clinical Oncology Group Study JCOG0212. Eur J Surg Oncol 2016;42:1851–1858.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Andersson J, Abis G, Gellerstedt M, et al. Patient-reported genitourinary dysfunction after laparoscopic and open rectal cancer surgery in a randomized trial (COLOR II). Br J Surg 2014;101:1272–1279.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Luca F, Valvo M, Ghezzi TL, et al. Impact of robotic surgery on sexual and urinary functions after fully robotic nerve-sparing total mesorectal excision for rectal cancer. Ann Surg 2013;257:672–678.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Forsmark A, Gehrman J, Angenete E, et al. Health economic analysis of open and robot-assisted laparoscopic surgery for prostate cancer within the prospective multicentre LAPPRO Trial. Eur Urol 2018;74:816–824.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bolenz C, Freedland SJ, Hollenbeck BK, et al. Costs of radical prostatectomy for prostate cancer: a systematic review. Eur Urol 2014;65:316–324.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

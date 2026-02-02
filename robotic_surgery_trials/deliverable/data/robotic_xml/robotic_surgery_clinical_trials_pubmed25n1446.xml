@@ -1,0 +1,2523 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">38878359</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>07</Month>
+        <Day>27</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1872-7565</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>254</Volume>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Computer methods and programs in biomedicine</Title>
+          <ISOAbbreviation>Comput Methods Programs Biomed</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Is the mouse nose a miniature version of a rat nose? A computational comparative study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>108282</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0169-2607(24)00277-3</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cmpb.2024.108282</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND AND OBJECTIVE" NlmCategory="OBJECTIVE">Although the mouse is a widely used animal model in biomedical research, there are few published studies on its nasal aerodynamics, potentially due to its small size. It is not appropriate to assume that mice and rats' nasal structure and airflow characteristics are the same because the ratio of nasal surface area to nasal volume and body weight is much higher in a mouse than in a rat. The aim of this work is to use anatomically accurate image-based computational fluid dynamic modeling to quantitatively reveal the characteristics of mouse nasal airflow and mass transport that haven't been detailed before and find key differences to that of rat nose, which will deepen our understanding of the mouse's physiological functions.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We created an anatomically accurate 3D computational nasal model of a B6 mouse using postmortem high-resolution micro-CT scans and simulated the airflow distribution and odor transport patterns under restful breathing conditions. The deposition pattern of airborne particles was also simulated and validated against experimental data. In addition, we calculated the gas chromatograph efficiency of odor transport in the mouse employing the theoretical plate concept and compared it with previous studies involving cat and rat models.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Similar to the published rat model, respiratory and olfactory flow regimes are clearly separated in the mouse nasal cavity. A high-speed dorsal medial (DM) stream was observed, which enhances the delivery speed and efficiency of odor to the ethmoid (olfactory) recess (ER). The DM stream split into axial and secondary paths in the ER. However, the secondary flow in the mouse is less extensive than in the rat. The gas chromatograph efficiency calculations suggest that the rat may possess a moderately higher odorant transport efficiency than that of the mouse due to its more complex ethmoid recess structure and extensive secondary flow. However, the mouse's nasal structure seems to adapt better to varying airflow velocity.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Due to the inherent structural disparities, the rat and mouse models exhibit moderate differences in airflow and mass transport patterns, potentially impacting their olfaction and other behavioral habits.</AbstractText>
+          <CopyrightInformation>Copyright © 2024 The Authors. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Zhenxing</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology-Head &amp; Neck Surgery, the Ohio State University, 915 Olentangy River Road, Columbus, OH 43212, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jiang</LastName>
+            <ForeName>Jianbo</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Monell Chemical Senses Center, Philadelphia, PA, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lischka</LastName>
+            <ForeName>Fritz W</ForeName>
+            <Initials>FW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Monell Chemical Senses Center, Philadelphia, PA, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Kai</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology-Head &amp; Neck Surgery, the Ohio State University, 915 Olentangy River Road, Columbus, OH 43212, United States of America. Electronic address: zhao.1949@osu.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 DC020302</GrantID>
+            <Acronym>DC</Acronym>
+            <Agency>NIDCD NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>06</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Ireland</Country>
+        <MedlineTA>Comput Methods Programs Biomed</MedlineTA>
+        <NlmUniqueID>8506513</NlmUniqueID>
+        <ISSNLinking>0169-2607</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009296" MajorTopicYN="Y">Nasal Cavity</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+          <QualifierName UI="Q000033" MajorTopicYN="N">anatomy &amp; histology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055114" MajorTopicYN="N">X-Ray Microtomography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009666" MajorTopicYN="N">Nose</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+          <QualifierName UI="Q000033" MajorTopicYN="N">anatomy &amp; histology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009812" MajorTopicYN="N">Odorants</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008953" MajorTopicYN="N">Models, Anatomic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057446" MajorTopicYN="N">Hydrodynamics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D021621" MajorTopicYN="N">Imaging, Three-Dimensional</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Computational fluid dynamics</Keyword>
+        <Keyword MajorTopicYN="N">Gas chromatography</Keyword>
+        <Keyword MajorTopicYN="N">Micro-CT</Keyword>
+        <Keyword MajorTopicYN="N">Mouse olfactory</Keyword>
+        <Keyword MajorTopicYN="N">Nasal cavity</Keyword>
+        <Keyword MajorTopicYN="N">Odorant transport</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of competing interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>03</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2024</Year>
+          <Month>05</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>06</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>7</Month>
+          <Day>28</Day>
+          <Hour>14</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>6</Month>
+          <Day>16</Day>
+          <Hour>11</Hour>
+          <Minute>58</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>6</Month>
+          <Day>15</Day>
+          <Hour>18</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38878359</ArticleId>
+        <ArticleId IdType="pii">S0169-2607(24)00277-3</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.cmpb.2024.108282</ArticleId>
+        <ArticleId IdType="pmc">PMC12125470</ArticleId>
+        <ArticleId IdType="mid">NIHMS2084474</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40336806</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>05</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1938-3797</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>29</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <MedlineDate>2025 Apr-Jun</MedlineDate>
+            </PubDate>
+          </JournalIssue>
+          <Title>JSLS : Journal of the Society of Laparoendoscopic Surgeons</Title>
+          <ISOAbbreviation>JSLS</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Clinical and Patient-Reported Outcomes of Robotic Versus Laparoscopic Inguinal Hernia Repair.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e2025.00005</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.4293/JSLS.2025.00005</ELocationID>
+        <Abstract>
+          <AbstractText Label="Background" NlmCategory="UNASSIGNED">This study aimed to assess the clinical and patient-reported outcomes of laparoscopic and robotic-assisted inguinal hernia repair in Indian real-world settings.</AbstractText>
+          <AbstractText Label="Methods" NlmCategory="UNASSIGNED">This is a single-center, prospective, nonrandomized, comparative study. Consecutive patients who were 18 years of age or older, and provided informed consent were included in the study between June 2023 and May 2024.</AbstractText>
+          <AbstractText Label="Results" NlmCategory="UNASSIGNED">In all, 83 patients were prospectively enrolled in this study: 24 patients were in the robotic-assisted surgery (RAS) group and 59 patients were in the laparoscopic surgery (LS) group. The baseline characteristics of the study cohorts were comparable. The mean total operating time for the RAS group was significantly longer than the LS group (89.83 ± 24.31 vs 67.71 ± 18.34 minutes, <i>P</i> = .0000). For the bilateral hernias, the RAS group's total operating time was significantly longer than that of the LS group; however, for the unilateral hernias, there was no discernible difference. Urine retention was the only early complication in 8.33% and 16.95% of patients, respectively, in the RAS and LS groups. The duration of hospital stay did not significantly differ between the 2 groups (<i>P</i> = .395). The pain scores of the RAS group were significantly lower on postoperative days 1, 4, and 7. Patients in the RAS group scored considerably higher on the quality of life (QoL) scale 1 month after surgery than patients in the LS group.</AbstractText>
+          <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">This study reports encouraging preliminary clinical outcomes of RAS inguinal hernia repairs in Indian settings, in terms of postoperative pain and QoL.</AbstractText>
+          <CopyrightInformation>© 2025 by SLS, Society of Laparoscopic &amp; Robotic Surgeons.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wadhawan</LastName>
+            <ForeName>Randeep</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Veetil</LastName>
+            <ForeName>Deepa Kizhakke</ForeName>
+            <Initials>DK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Batra</LastName>
+            <ForeName>Priti</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bhardwaj</LastName>
+            <ForeName>Arun</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Verma</LastName>
+            <ForeName>Naveen Kumar</ForeName>
+            <Initials>NK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JSLS</MedlineTA>
+        <NlmUniqueID>100884618</NlmUniqueID>
+        <ISSNLinking>1086-8089</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006552" MajorTopicYN="Y">Hernia, Inguinal</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071066" MajorTopicYN="Y">Patient Reported Outcome Measures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059685" MajorTopicYN="Y">Herniorrhaphy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Data collection</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopic inguinal repair</Keyword>
+        <Keyword MajorTopicYN="N">Pain</Keyword>
+        <Keyword MajorTopicYN="N">Prospective</Keyword>
+        <Keyword MajorTopicYN="N">Quality of life</Keyword>
+        <Keyword MajorTopicYN="N">Robotic-assisted inguinal repair</Keyword>
+      </KeywordList>
+      <CoiStatement>Conflict of interest: The authors disclose no conflicts of interest. No benefits of any kind have been obtained from a business entity that is connected to the topic of this paper, either directly or indirectly.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>8</Day>
+          <Hour>11</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>8</Day>
+          <Hour>11</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>8</Day>
+          <Hour>5</Hour>
+          <Minute>8</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40336806</ArticleId>
+        <ArticleId IdType="doi">10.4293/JSLS.2025.00005</ArticleId>
+        <ArticleId IdType="pii">JSLS.2025.00005</ArticleId>
+        <ArticleId IdType="pmc">PMC12057728</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Surg Endosc. 2018 Apr;32(4):2131-2136</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29067575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am Surg. 2016 Oct;82(10):1014-1017</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27779996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2018 Dec;32(12):4850-4859</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29766308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJS Open. 2021 Jan 8;5(1):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33609369</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2024 Feb 26;19(2):e0298989</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38408054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ANZ J Surg. 2021 Nov;91(11):2277-2287</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33475236</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2018 Jan;267(1):171-176</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27655239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hernia. 2020 Oct;24(5):1069-1081</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32495043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2022 Aug;16(4):775-781</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34609697</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Today. 2022 Oct;52(10):1395-1404</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34860300</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cureus. 2023 Feb 27;15(2):e35562</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36874312</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2020 Aug;34(8):3496-3507</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31571036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Oncol. 2015 Sep;112(3):310-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26153353</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2016 Sep;10(3):239-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27112781</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2010 Dec;24(12):3026-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20454807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hernia. 2024 Aug;28(4):1205-1214</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38503978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2023 Jan;37(1):723-728</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35578051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Res. 2019 Sep;241:247-253</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31035139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arq Bras Cir Dig. 2018 Dec 06;31(4):e1408</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30539983</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2019 Oct;33(10):3436-3443</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30535936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2018 Jun;12(2):261-269</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28707149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA Surg. 2020 May 1;155(5):380-387</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32186683</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 1990 Apr;159(4):370-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2138432</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pers Med. 2024 Jan 16;14(1):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38248801</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trials. 2024 Aug 8;25(1):529</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39118135</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2017 Sep;41(9):2251-2257</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28337532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hernia. 2018 Feb;22(1):1-165</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29330835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2013 Nov;27(11):4142-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23708722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2007 Oct;178(4 Pt 1):1296-9; discussion 1299-300</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17698133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cureus. 2023 Apr 24;15(4):e38053</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37122980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2020 Aug;16(4):e2111</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32303112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40381515</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>01</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1878-7452</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>82</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of surgical education</Title>
+          <ISOAbbreviation>J Surg Educ</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Eye Movement Modeling Examples in Robotic Surgery Training-A Randomized Controlled Study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>103539</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S1931-7204(25)00120-5</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jsurg.2025.103539</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">In robotic-assisted laparoscopic surgery, the perception and interpretation of the visual scene poses a huge challenge for medical trainees. However, their ability to assist effectively in surgical procedures depends heavily on mastering these visual skills. Research on multimedia learning suggests that seeing an expert's eye movements during task completion as a "worked-example" (i.e., eye movement modeling examples [EMME]) may guide learners' attention to critical areas and improve learning outcomes. The effectiveness of EMMEs in robotic surgical training remains unclear.</AbstractText>
+          <AbstractText Label="DESIGN" NlmCategory="METHODS">A randomized controlled 2-group study was conducted in which participants viewed an audio-guided robotic prostatectomy video. The EMME group viewed the surgical video with an overlay showing an expert urologist's eye movements captured through eye-tracking technology, while the control group viewed the video without the overlay. Learning outcomes were assessed through anatomical landmark identification tasks in 14 laparoscopic images (reliability coefficient α = 0.684). Training engagement was measured through time spent with the learning material.</AbstractText>
+          <AbstractText Label="SETTING" NlmCategory="METHODS">The study was conducted within the medical education program at Charité Berlin in an affiliated secondary care geriatric hospital during 2024.</AbstractText>
+          <AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">The study included 137 fourth-year medical students randomized into 2 groups: EMME group (n = 67; mean age 26 ± 4 years; 62.7% female) and control group (n = 70; mean age 26 ± 5 years; 62.9% female).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The EMME group engaged with the material significantly longer (M = 971 s ±  241 s) compared to the control (M = 881 s  ±  217 s), t(135) = 2.288, p = 0.012, d = 0.391, 95% CI [12.137; 167.066]. However, there was no significant difference in the ability to interpret anatomical landmarks in laparoscopic images between the EMME (M = 54.9% ± 19.4%) and the control group (M = 57.1% ± 18.7%), t(135) = 0.688, p = 0.493, 95% CI [-0.042; 0.087].</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Contrary to literature, these findings suggest that although EMME may enhance attention to educational content, the increased engagement does not automatically translate into superior visual performances in laparoscopic surgery. We discuss these results in the broader context of multimedia learning.</AbstractText>
+          <CopyrightInformation>Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Storck</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Urologie, Universitätsklinikum Münster, Münster, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schönefeld</LastName>
+            <ForeName>Eva</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Education and Student Affairs, University of Münster, Münster, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bellstedt</LastName>
+            <ForeName>Michelle</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Anatomy and Neurobiology, Münster, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Janssen</LastName>
+            <ForeName>Martin</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Urologie, Universitätsklinikum Münster, Münster, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Seifert</LastName>
+            <ForeName>Konstantin E</ForeName>
+            <Initials>KE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinik für Urologie, Universitätsklinikum Münster, Münster, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Darici</LastName>
+            <ForeName>Dogus</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Anatomy and Neurobiology, Münster, Germany. Electronic address: darici@uni-muenster.de.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Surg Educ</MedlineTA>
+        <NlmUniqueID>101303204</NlmUniqueID>
+        <ISSNLinking>1878-7452</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005133" MajorTopicYN="Y">Eye Movements</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="Y">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="Y">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004504" MajorTopicYN="Y">Education, Medical, Undergraduate</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">EMME</Keyword>
+        <Keyword MajorTopicYN="N">expert reversal effect</Keyword>
+        <Keyword MajorTopicYN="N">eye tracking</Keyword>
+        <Keyword MajorTopicYN="N">prior knowledge</Keyword>
+        <Keyword MajorTopicYN="N">prostatectomy</Keyword>
+        <Keyword MajorTopicYN="N">robotic surgery training</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2025</Year>
+          <Month>04</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>04</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>18</Day>
+          <Hour>17</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>18</Day>
+          <Hour>17</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>17</Day>
+          <Hour>18</Hour>
+          <Minute>9</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40381515</ArticleId>
+        <ArticleId IdType="pii">S1931-7204(25)00120-5</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jsurg.2025.103539</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40439274</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>05</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1478-596X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>21</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The international journal of medical robotics + computer assisted surgery : MRCAS</Title>
+          <ISOAbbreviation>Int J Med Robot</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robot-Assisted Colectomy for Left-Sided Colon Cancer: Comparison of da Vinci SP and Single-Site Platforms.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e70079</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/rcs.70079</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">To compare the clinicopathological and cosmetic outcomes of robotic colectomy using the da Vinci SP and Single-Site for left-sided colon cancer.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">The study included 31 and 52 patients who underwent robotic colectomy using the SP and Single-Site, respectively, between July 2011 and July 2023. The Patient Scar Assessment Questionnaire (PSAQ) was used to assess cosmetic outcomes.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Patients who underwent colectomy using the SP had a shorter wound length, less bleeding, and fewer port usages compared with those who underwent colectomy using the Single-Site. The SP group required fewer analgesics on post-operative day 2, showed a shorter time to flatulence, sip water and soft diet, and a shorter hospital stay. Total PSAQ scores for the SP group were superior to those of the Single-Site group.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Robotic colectomy for left-sided colon cancer using the SP presents better short-term recovery, requires fewer analgesics and has better cosmetic outcomes than Single-Site.</AbstractText>
+          <CopyrightInformation>© 2025 The Author(s). The International Journal of Medical Robotics and Computer Assisted Surgery published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Kyeong Eui</ForeName>
+            <Initials>KE</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0001-9984-9976</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Armed Forced Yangju Hospital, Yangju, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jeong</LastName>
+            <ForeName>Woon Kyung</ForeName>
+            <Initials>WK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, School of Medicine, Keimyung University and Dongsan Medical Center, Daegu, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Baek</LastName>
+            <ForeName>Seong Kyu</ForeName>
+            <Initials>SK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, School of Medicine, Keimyung University and Dongsan Medical Center, Daegu, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bae</LastName>
+            <ForeName>Sung Uk</ForeName>
+            <Initials>SU</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-7876-4196</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, School of Medicine, Keimyung University and Dongsan Medical Center, Daegu, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Int J Med Robot</MedlineTA>
+        <NlmUniqueID>101250764</NlmUniqueID>
+        <ISSNLinking>1478-5951</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003082" MajorTopicYN="Y">Colectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003110" MajorTopicYN="Y">Colonic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011795" MajorTopicYN="N">Surveys and Questionnaires</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">cicatrix/surgery</Keyword>
+        <Keyword MajorTopicYN="N">colonic neoplasms</Keyword>
+        <Keyword MajorTopicYN="N">natural orifice endoscopic surgery</Keyword>
+        <Keyword MajorTopicYN="N">robotic surgical procedures</Keyword>
+        <Keyword MajorTopicYN="N">treatment outcome</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>01</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>29</Day>
+          <Hour>13</Hour>
+          <Minute>7</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>29</Day>
+          <Hour>13</Hour>
+          <Minute>6</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>29</Day>
+          <Hour>8</Hour>
+          <Minute>25</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40439274</ArticleId>
+        <ArticleId IdType="doi">10.1002/rcs.70079</ArticleId>
+        <ArticleId IdType="pmc">PMC12121463</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>World J Gastrointest Surg. 2024 Aug 27;16(8):2484-2493</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39220065</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ANZ J Surg. 2016 May;86(5):403-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25041064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Coloproctol. 2015 Feb;31(1):16-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25745622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wideochir Inne Tech Maloinwazyjne. 2022 Mar;17(1):179-187</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35251404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2017 Aug;31(8):3242-3250</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27864724</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tech Coloproctol. 2021 Jul;25(7):857-864</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34052901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Treat Res. 2023 Aug;105(2):99-106</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37564948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2013 Mar;27(3):1021</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23052525</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Rep. 2020 Jan 9;10(1):75</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31919417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pediatr Surg. 2014 Jan;49(1):120-2; discussion 122</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24439594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2015 Apr 2;372(14):1324-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25830422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JSLS. 2022 Apr-Jun;26(2):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35815324</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tech Coloproctol. 2022 Jun;26(6):461-470</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35182278</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Treat Res. 2018 Mar;94(3):147-153</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29520349</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Colon Rectum. 2001 Dec;44(12):1800-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11742165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2016 Sep;12(3):517-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26099476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Transl Androl Urol. 2020 Apr;9(2):919-924</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32420207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Minim Invasive Ther Allied Technol. 2014 Aug;23(4):214-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24483133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Dermatol. 2016 Oct;28(5):615-623</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27746642</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Laparoendosc Adv Surg Tech A. 2018 Mar;28(3):330-336</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28829927</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Colon Rectum. 2024 Jan 1;67(1):e1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37656755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Treat Res. 2017 Nov;93(5):231-239</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29184875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 2024 Feb;175(2):297-303</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38036394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tech Coloproctol. 2023 Jul;27(7):589-599</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36971849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gastroenterol Rep (Oxf). 2022 Jun 07;10:goac023</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35686174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Minim Invasive Surg. 2023 Jun 15;26(2):55-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37347098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40441770</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>05</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2044-6055</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>15</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>May</Month>
+              <Day>28</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>BMJ open</Title>
+          <ISOAbbreviation>BMJ Open</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robot-assisted versus video-assisted thoracoscopic thymectomy for stage I-II thymic epithelial tumour: a protocol for the first multicentre, randomised controlled clinical trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e095802</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1136/bmjopen-2024-095802</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Minimally invasive approaches, including video-assisted thoracoscopic thymectomy (VATT) and robot-assisted thoracoscopic thymectomy (RATT), have emerged as alternatives to median sternotomy for resectable thymic epithelial tumours (TETs). However, their comparative clinical efficacy remains inconclusive due to limited prospective evidence. This phase II randomised controlled trial aims to provide the first direct comparative analysis of perioperative outcomes between RATT and VATT in stage I-II TETs.</AbstractText>
+          <AbstractText Label="METHODS AND ANALYSIS" NlmCategory="METHODS">This phase II clinical trial is a prospective, multicentre, randomised controlled study. A total of 100 patients with stage I-II TETs will be recruited and randomly allocated into two groups: RATT and VATT groups, with a 1:1 ratio. Follow-up visits will be scheduled at 1 month, 3 months and 6 months postsurgery, and semiannual visits will continue until November 2027, including the record of tumour recurrence, metastasis, survival outcomes and overall long-term effects. The primary endpoint is total postoperative thoracic drainage. Secondary outcomes encompass intraoperative factors like R0 resection rate, operative time, postoperative drainage duration, hospital stay length, conversion rates, levels of stress markers, pain scores, quality of life assessments, perioperative complication rates, mortality rates and 3-year disease-free and overall survival rates.</AbstractText>
+          <AbstractText Label="ETHICS AND DISSEMINATION" NlmCategory="BACKGROUND">The study protocol is approved by the ethics committees of Zhongshan Hospital, Fudan University (No. B2024-365), and will be conducted under the guidance of the Helsinki Declaration. All data and findings will be disseminated and published through peer review.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION NUMBER" NlmCategory="BACKGROUND">NCT06654830.</AbstractText>
+          <CopyrightInformation>© Author(s) (or their employer(s)) 2025. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ Group.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Shuai</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-8503-9024</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Zhu</LastName>
+            <ForeName>Junkan</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0009-0004-3102-4838</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Sun</LastName>
+            <ForeName>Zhenguo</ForeName>
+            <Initials>Z</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-3485-4034</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Qilu Hospital of Shandong University, Jinan, Shandong, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Jiang</LastName>
+            <ForeName>Jiahao</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Bin</ForeName>
+            <Initials>B</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-8318-8947</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Fei</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biostatistics, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Yuansheng</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Xinyu</ForeName>
+            <Initials>X</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-9433-667X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jiang</LastName>
+            <ForeName>Xifei</ForeName>
+            <Initials>X</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0009-0007-4002-4794</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ao</LastName>
+            <ForeName>Yong-Qiang</ForeName>
+            <Initials>YQ</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-0334-0161</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Jian</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-6400-7290</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tan</LastName>
+            <ForeName>Lijie</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Qi</LastName>
+            <ForeName>Yu</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-8755-4238</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, China ding.jianyong@zs-hospital.sh.cn qiyu@zzu.edu.cn ywmfz2013@126.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yue</LastName>
+            <ForeName>Weiming</ForeName>
+            <Initials>W</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0009-0009-2027-2605</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Qilu Hospital of Shandong University, Jinan, Shandong, China ding.jianyong@zs-hospital.sh.cn qiyu@zzu.edu.cn ywmfz2013@126.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ding</LastName>
+            <ForeName>Jianyong</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Zhongshan Hospital Fudan University, Shanghai, China ding.jianyong@zs-hospital.sh.cn qiyu@zzu.edu.cn ywmfz2013@126.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT06654830</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D000078325">Clinical Trial Protocol</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>28</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>BMJ Open</MedlineTA>
+        <NlmUniqueID>101552874</NlmUniqueID>
+        <ISSNLinking>2044-6055</ISSNLinking>
+      </MedlineJournalInfo>
+      <SupplMeshList>
+        <SupplMeshName Type="Disease" UI="C536905">Thymic epithelial tumor</SupplMeshName>
+      </SupplMeshList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020775" MajorTopicYN="Y">Thoracic Surgery, Video-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013953" MajorTopicYN="Y">Thymus Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013934" MajorTopicYN="Y">Thymectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009375" MajorTopicYN="Y">Neoplasms, Glandular and Epithelial</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015337" MajorTopicYN="N">Multicenter Studies as Topic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016032" MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Clinical Protocols</Keyword>
+        <Keyword MajorTopicYN="N">Randomized Controlled Trial</Keyword>
+        <Keyword MajorTopicYN="N">Thoracic surgery</Keyword>
+      </KeywordList>
+      <CoiStatement>Competing interests: None declared.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>30</Day>
+          <Hour>1</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>30</Day>
+          <Hour>1</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>29</Day>
+          <Hour>20</Hour>
+          <Minute>53</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40441770</ArticleId>
+        <ArticleId IdType="pii">bmjopen-2024-095802</ArticleId>
+        <ArticleId IdType="doi">10.1136/bmjopen-2024-095802</ArticleId>
+        <ArticleId IdType="pmc">PMC12121579</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40442682</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>05</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1471-2482</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>25</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>May</Month>
+              <Day>29</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>BMC surgery</Title>
+          <ISOAbbreviation>BMC Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Gastric greater curvature plication combined with Nissen fundoplication compared to sleeve gastrectomy in patients with obesity and animal model.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>237</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12893-025-02960-3</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Gastric greater curvature plication combined with Nissen fundoplication (GGCP + Nissen) has been previously performed, but its efficacy remains uncertain.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A single-center retrospective review was conducted on patients with obesity who underwent GGCP + Nissen or sleeve gastrectomy (SG) between January 2016 and December 2022. Both groups were matched for age, gender, and baseline BMI. In the animal experiments, GGCP + Nissen, SG, and sham procedures were performed on Goto-Kakizaki rats, a model of normal-weight rats with T2DM.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 75 patients were included in this study, of whom 35 underwent GGCP + Nissen, and 40 underwent SG. Both groups were matched for age, gender, and baseline BMI. The percent total weight loss (%TWL) in the GGCP + Nissen and SG groups were 16.38 ± 3.69 and 25.05 ± 7.24 at 6 months (P &lt; 0.05), 16.40 ± 4.96 and 26.85 ± 9.13 at 12 months (P &lt; 0.05), and 12.46 ± 5.90 and 24.57 ± 8.61 at 24 months (P &lt; 0.05), respectively. However, all 8 patients with preoperative reflux in the GGCP + Nissen group achieved complete resolution of symptoms postoperatively, whereas in the SG group, 10 patients developed new-onset reflux at 1 month, with 4 continuing to experience persistent symptoms at 24-month follow-up. In the animal experiments, both GGCP + Nissen and SG induced significant weight loss and improved glucose tolerance, with rats showing increased insulin sensitivity and secretion. However, the SG group performed better than the GGCP + Nissen group in terms of both weight loss and improvement of glucose tolerance.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">GGCP + Nissen was inferior to SG both in weight loss and improvement of glucose tolerance, although GGCP + Nissen could lead a substantial weight loss and improve GERD efficiently.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Cao</LastName>
+            <ForeName>Chong</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Obesity and Hernia Surgery, Department of General Surgery, Huashan Hospital, Fudan University, Shanghai, 200040, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Bo</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Obesity and Hernia Surgery, Department of General Surgery, Huashan Hospital, Fudan University, Shanghai, 200040, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Yu</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Nursing, Huashan Hospital, Fudan University, Shanghai, 200040, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shao</LastName>
+            <ForeName>Yikai</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Obesity and Hernia Surgery, Department of General Surgery, Huashan Hospital, Fudan University, Shanghai, 200040, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shen</LastName>
+            <ForeName>Qiwei</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Obesity and Hernia Surgery, Department of General Surgery, Huashan Hospital, Fudan University, Shanghai, 200040, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fu</LastName>
+            <ForeName>Xiaojian</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Obesity and Hernia Surgery, Department of General Surgery, Huashan Hospital, Fudan University, Shanghai, 200040, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hua</LastName>
+            <ForeName>Rong</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Obesity and Hernia Surgery, Department of General Surgery, Huashan Hospital, Fudan University, Shanghai, 200040, China. blossom875@sina.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yao</LastName>
+            <ForeName>Qiyuan</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Obesity and Hernia Surgery, Department of General Surgery, Huashan Hospital, Fudan University, Shanghai, 200040, China. hs_cbms@sina.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>81970458</GrantID>
+            <Agency>National Natural Science Foundation of China</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>29</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>BMC Surg</MedlineTA>
+        <NlmUniqueID>100968567</NlmUniqueID>
+        <ISSNLinking>1471-2482</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018662" MajorTopicYN="Y">Fundoplication</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005743" MajorTopicYN="Y">Gastrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005764" MajorTopicYN="Y">Gastroesophageal Reflux</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015431" MajorTopicYN="N">Weight Loss</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009765" MajorTopicYN="Y">Obesity</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009767" MajorTopicYN="Y">Obesity, Morbid</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Bariatric surgery</Keyword>
+        <Keyword MajorTopicYN="N">Gastric greater curvature plication</Keyword>
+        <Keyword MajorTopicYN="N">Nissen fundoplication</Keyword>
+        <Keyword MajorTopicYN="N">Obesity</Keyword>
+        <Keyword MajorTopicYN="N">Sleeve gastrectomy</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Ethics approval and consent to participate: This study was approved by the Institutional Review Board of Huashan Hospital (HIRB) (No. 2022–546). This study in accordance with the Declaration of Helsinki. Informed consent to participate was obtained from all of the participants in the study. Consent for publication: Written informed consent for publication was obtained from all participants. Competing interests: The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>30</Day>
+          <Hour>1</Hour>
+          <Minute>35</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>30</Day>
+          <Hour>1</Hour>
+          <Minute>34</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>29</Day>
+          <Hour>23</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40442682</ArticleId>
+        <ArticleId IdType="doi">10.1186/s12893-025-02960-3</ArticleId>
+        <ArticleId IdType="pii">10.1186/s12893-025-02960-3</ArticleId>
+        <ArticleId IdType="pmc">PMC12123742</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Yonsei Med J. 2017 Sep;58(5):1025-1030</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28792149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 2018 Jan 16;319(3):255-265</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29340679</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2018 Aug 25;392(10148):637-649</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30122305</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Clin North Am. 2016 Aug;96(4):763-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27473800</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2021 Jan 23;397(10271):293-304</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33485454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2014 Sep;24(9):1447-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24610517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Obes Relat Dis. 2020 Sep;16(9):1202-1211</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32423830</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2017 Nov;27(11):2818-2828</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28560523</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2022 Sep;36(9):6924-6930</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35122150</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gut. 2023 Jun;72(6):1073-1080</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36241388</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2018 Dec;28(12):4087-4094</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30112601</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2017 Dec;27(12):3258-3266</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28674838</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2021 Apr;31(4):1714-1721</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33389630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2021 Mar 18;384(11):989-1002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33567185</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2020 Jul;30(7):2642-2651</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32193741</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2011 Nov;21(11):1657-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21898042</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Medicina (Kaunas). 2016;52(5):283-290</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27707580</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gastroenterology. 2018 Jan;154(2):267-276</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28780072</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2018 Oct;28(10):3199-3212</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29951784</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Surg. 2001 Oct;193(4):428-39</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11584971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2021 Oct;31(10):4492-4501</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34374931</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2002 May;16(5):753-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11997816</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40442741</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>05</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1471-2482</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>25</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>May</Month>
+              <Day>29</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>BMC surgery</Title>
+          <ISOAbbreviation>BMC Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Thermal effects of the anovo<sup>®</sup> instrument arms hook electrode and curved scissors: an ex vivo study of safety and precision in monopolar electrosurgery.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>236</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12893-025-02969-8</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Thermal damage during surgical procedures is a critical factor influencing patient safety and outcomes, particularly in minimally invasive laparoscopic surgeries. Advanced robotic-assisted surgical systems, such as the Anovo<sup>®</sup> Surgical System, incorporate monopolar electrosurgical tools designed to optimize precision while minimizing collateral tissue damage. This study evaluates the thermal effects of the Anovo<sup>®</sup> Hook Electrode and Curved Scissors compared to conventional off-the-shelf (OTS) tools.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">An ex vivo study was conducted using 288 tissue samples from a swine model, including liver, kidney, and muscle tissues. Thermal effects during monopolar cutting and coagulation were evaluated at three power settings (low, medium, high) and durations (5, 10, 15 s). Histological analysis was performed on all samples to assess coagulation necrosis and thermal spread. Statistical equivalence testing was applied to compare the Anovo<sup>®</sup> devices with OTS tools.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The Anovo<sup>®</sup> devices achieved precise and consistent thermal effects, meeting equivalence criteria in 97.57% of samples. Histological analysis confirmed well-defined coagulation zones with no unintended necrosis beyond the treated areas. Thermal spread increased proportionally with power settings and activation durations, but remained within clinically acceptable limits. The Anovo<sup>®</sup> devices demonstrated performance comparable to, and occasionally superior to, OTS tools.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The Anovo<sup>®</sup> Hook Electrode and Curved Scissors provide safe and effective monopolar electrosurgical performance with precise thermal effects. These findings support their use in robotic-assisted laparoscopic surgeries and highlight their potential to enhance surgical precision and patient outcomes.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ramot</LastName>
+            <ForeName>Yuval</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Dermatology, Hadassah Medical Center, Jerusalem, Israel.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hillel</LastName>
+            <ForeName>Sapir</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Momentis Surgical, Or Yehuda, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mussan</LastName>
+            <ForeName>Maor</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Momentis Surgical, Or Yehuda, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Manor</LastName>
+            <ForeName>Ronit</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Momentis Surgical, Or Yehuda, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nyska</LastName>
+            <ForeName>Abraham</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Consultant in Toxicologic Pathology, Tel Aviv and Tel Aviv University, Tel Aviv, Israel. anyska@nyska.net.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>29</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>BMC Surg</MedlineTA>
+        <NlmUniqueID>100968567</NlmUniqueID>
+        <ISSNLinking>1471-2482</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D004598" MajorTopicYN="Y">Electrosurgery</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013552" MajorTopicYN="N">Swine</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004566" MajorTopicYN="N">Electrodes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006358" MajorTopicYN="Y">Hot Temperature</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008099" MajorTopicYN="N">Liver</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013525" MajorTopicYN="Y">Surgical Instruments</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Anovo® surgical system</Keyword>
+        <Keyword MajorTopicYN="N">Coagulation necrosis</Keyword>
+        <Keyword MajorTopicYN="N">Histological analysis</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopic surgery</Keyword>
+        <Keyword MajorTopicYN="N">Monopolar electrosurgery</Keyword>
+        <Keyword MajorTopicYN="N">Robotic-assisted surgery</Keyword>
+        <Keyword MajorTopicYN="N">Surgical precision</Keyword>
+        <Keyword MajorTopicYN="N">Thermal damage</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Ethics approval and consent to participate: This study was conducted using ex vivo tissue samples obtained from GLPigs at Shamir Medical Center, an approved research supplier. GLPigs operates under the supervision of The Institutional Animal Care and Use Committee (IACUC) and adheres to all ethical and regulatory standards for animal research. This study was conducted in accordance with the Basel Declaration and international ethical standards for animal research. Additionally, we confirm that the study is reported in accordance with the ARRIVE (Animal Research: Reporting of In Vivo Experiments) guidelines. The use of ex vivo tissues in this study did not involve live animal experimentation, and no additional procedures were performed on the animals beyond routine tissue procurement in accordance with approved protocols. Consent for publication: Not applicable. Competing interests: Yuval Ramot and Abraham Nyska declare no conflicts of interest. Sapir Hillel, Maor Mussan, and Ronit Manor are employees of Momentis Surgical, the sponsor of this study.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>30</Day>
+          <Hour>1</Hour>
+          <Minute>36</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>30</Day>
+          <Hour>1</Hour>
+          <Minute>35</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>29</Day>
+          <Hour>23</Hour>
+          <Minute>45</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40442741</ArticleId>
+        <ArticleId IdType="doi">10.1186/s12893-025-02969-8</ArticleId>
+        <ArticleId IdType="pii">10.1186/s12893-025-02969-8</ArticleId>
+        <ArticleId IdType="pmc">PMC12121031</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Fitzgerald JE, Malik M, Ahmed I. A single-blind controlled study of electrocautery and ultrasonic scalpel smoke plumes in laparoscopic surgery. Surg Endosc. 2012;26:337–42.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-011-1872-1</ArticleId>
+            <ArticleId IdType="pubmed">21898022</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hainer BL. Fundamentals of electrosurgery. J Am Board Fam Pract. 1991;4:419–26.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1767694</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liang J, Xing H, Chang Y. Thermal damage width and hemostatic effect of bipolar electrocoagulation, LigaSure, and ultracision techniques on goat mesenteric vessels and optimal power for bipolar electrocoagulation. BMC Surg. 2019;19:147.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12893-019-0615-4</ArticleId>
+            <ArticleId IdType="pubmed">31640661</ArticleId>
+            <ArticleId IdType="pmcid">6805479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Link WJ, Incropera FP, Glover JL. A plasma scalpel: comparison of tissue damage and wound healing with electrosurgical and steel scalpels. Arch Surg. 1976;111:392–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/archsurg.1976.01360220088014</ArticleId>
+            <ArticleId IdType="pubmed">1259576</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reidenbach HD. Fundamentals of bipolar high-frequency surgery. Endosc Surg Allied Technol. 1993;1:85–90.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8055306</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarin A, Samreen S, Moffett JM, Inga-Zapata E, Bianco F, Alkhamesi NA, Owen JD, Shahi N, DeLong JC, Stefanidis D, Schlachta CM, Sylla P, Azagury DE, Group SRPW. Upcoming multi-visceral robotic surgery systems: a SAGES review. Surg Endosc. 2024;38:6987–7010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-024-11384-8</ArticleId>
+            <ArticleId IdType="pubmed">39542888</ArticleId>
+            <ArticleId IdType="pmcid">11615118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gamal A, Moschovas MC, Jaber AR, Saikali S, Perera R, Headley C, Patel E, Rogers T, Roche MW, Leveillee RJ, Albala D, Patel V. Clinical applications of robotic surgery platforms: a comprehensive review. J Robot Surg. 2024;18:29.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-023-01815-4</ArticleId>
+            <ArticleId IdType="pubmed">38231279</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pavone M, Baroni A, Taliento C, Goglia M, Lecointre L, Rosati A, Forgione A, Akladios C, Scambia G, Querleu D, Marescaux J, Seeliger B. Robotic platforms in gynaecological surgery: past, present, and future. Facts Views Vis Obgyn. 2024;16:163–72.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.52054/FVVO.16.2.024</ArticleId>
+            <ArticleId IdType="pubmed">38950530</ArticleId>
+            <ArticleId IdType="pmcid">11366121</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee A, Baker TS, Bederson JB, Rapoport BI. Levels of autonomy in FDA-cleared surgical robots: a systematic review. NPJ Digit Med. 2024;7:103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41746-024-01102-y</ArticleId>
+            <ArticleId IdType="pubmed">38671232</ArticleId>
+            <ArticleId IdType="pmcid">11053143</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li C, Zhang T, Wang H, Hou Z, Zhang Y, Chen W. Advanced surgical tool: progress in clinical application of intelligent surgical robot. Smart Med. 2022;1:e20220021.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/SMMD.20220021</ArticleId>
+            <ArticleId IdType="pubmed">39188736</ArticleId>
+            <ArticleId IdType="pmcid">11235784</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Keum H, Cevik E, Kim J, Demirlenk YM, Atar D, Saini G, Sheth RA, Deipolyi AR, Oklu R. Tissue ablation: applications and perspectives. Adv Mater. 2024;36:e2310856.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/adma.202310856</ArticleId>
+            <ArticleId IdType="pubmed">38771628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beitel-White N, Lorenzo MF, Zhao Y, Brock RM, Coutermarsh-Ott S, Allen IC, Manuchehrabadi N, Davalos RV. Multi-Tissue analysis on the impact of electroporation on electrical and thermal properties. IEEE Trans Biomed Eng. 2021;68:771–82.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TBME.2020.3013572</ArticleId>
+            <ArticleId IdType="pubmed">32746081</ArticleId>
+            <ArticleId IdType="pmcid">8048145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>FDA. Premarket notification (510(k)) submissions for electrosurgical devices for general surgery. Guidance for Industry and Food and Drug Administration Staff; 2016.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y, Jing L, Liang C, Liu J, Wang S, Wang G. Comparison of the safety and effectiveness of the four-hook needle and Hook wire for the preoperative positioning of localization ground glass nodules. J Cardiothorac Surg. 2024;19:35.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13019-024-02497-1</ArticleId>
+            <ArticleId IdType="pubmed">38297385</ArticleId>
+            <ArticleId IdType="pmcid">10829251</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DaCosta ML, Regan MC, al Sader M, Leader M, Bouchier-Hayes D. Diphenylhydantoin sodium promotes early and marked angiogenesis and results in increased collagen deposition and tensile strength in healing wounds. Surgery. 1998;123:287–93.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0039-6060(98)70181-3</ArticleId>
+            <ArticleId IdType="pubmed">9526520</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frazier KS, Seely JC, Hard GC, Betton G, Burnett R, Nakatsuji S, Nishikawa A, Durchfeld-Meyer B, Bube A. Proliferative and nonproliferative lesions of the rat and mouse urinary system. Toxicol Pathol. 2012;40:S14–86.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/0192623312438736</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kerlin R, Bolon B, Burkhardt J, Francke S, Greaves P, Meador V, Popp J. Scientific and regulatory policy committee: recommended (Best) practices for determining, communicating, and using adverse effect data from nonclinical studies. Toxicol Pathol. 2016;44:147–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/0192623315623265</ArticleId>
+            <ArticleId IdType="pubmed">26704930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Palazzi X, Burkhardt JE, Caplain H, Dellarco V, Fant P, Foster JR, Francke S, Germann P, Groters S, Harada T, Harleman J, Inui K, Kaufmann W, Lenz B, Nagai H, Pohlmeyer-Esch G, Schulte A, Skydsgaard M, Tomlinson L, Wood CE, Yoshida M. Characterizing adversity of pathology findings in nonclinical toxicity studies: results from the 4th ESTP international expert workshop. Toxicol Pathol. 2016;44:810–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/0192623316642527</ArticleId>
+            <ArticleId IdType="pubmed">27102650</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wancket LM, Bolon B, Funk KA, Schuh JCL. (2024) Toxicologic Pathology Forum*: Opinion on Assessing and Communicating Adversity for Implantable Medical Devices. Toxicol Pathol:1926233241300313.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hefermehl LJ, Largo RA, Hermanns T, Poyet C, Sulser T, Eberli D. Lateral temperature spread of monopolar, bipolar and ultrasonic instruments for robot-assisted laparoscopic surgery. BJU Int. 2014;114:245–52.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/bju.12498</ArticleId>
+            <ArticleId IdType="pubmed">24127773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Druzijanic N, Pogorelic Z, Perko Z, Mrklic I, Tomic S. Comparison of lateral thermal damage of the human peritoneum using monopolar diathermy, harmonic scalpel and LigaSure. Can J Surg. 2012;55:317–21.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1503/cjs.000711</ArticleId>
+            <ArticleId IdType="pubmed">22854112</ArticleId>
+            <ArticleId IdType="pmcid">3468644</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nechay TV, Titkova SM, Anurov MV, Mikhalchik EV, Melnikov-Makarchyk KY, Ivanova EA, Tyagunov AE, Fingerhut A, Sazhin AV. Thermal effects of monopolar electrosurgery detected by real-time infrared thermography: an experimental appendectomy study. BMC Surg. 2020;20:116.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12893-020-00735-6</ArticleId>
+            <ArticleId IdType="pubmed">32460827</ArticleId>
+            <ArticleId IdType="pmcid">7251678</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40448883</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>05</Month>
+        <Day>31</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>05</Month>
+        <Day>31</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1863-2491</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>19</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>May</Month>
+              <Day>31</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of robotic surgery</Title>
+          <ISOAbbreviation>J Robot Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A systematic review of ergonomic and muscular strain in surgeons comparing robotic to laparoscopic approaches.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>252</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11701-025-02401-6</ELocationID>
+        <Abstract>
+          <AbstractText>Robotic-assisted laparoscopic surgery has become more common in recent years with multiple benefits to patients. However, it poses musculoskeletal risks to surgeons, and given their long careers, it is vital to prolong surgeons' longevity. This review aims to evaluate ergonomic impact and methods of ergonomic assessment in surgeons performing traditional and robotic-assisted laparoscopic surgery. To evaluate the ergonomics and how different body areas were being affected by robotic and laparoscopic surgeons, we performed a systematic review of studies following PRISMA guidelines and focussing on muscular and ergonomic assessment of laparoscopic surgeons. Electronic Ovid Medline and Embase databases were searched on the 15th of June 2023. 16 studies were identified, involving 508 surgeons. 530 traditional laparoscopies and 535 robotic-assisted laparoscopies were included. Mixed methods, including surface electromyography (sEMG) and Borg CR10 physical exertion scale, were used to assess muscular activation and fatigue. Whilst individual studies produced conflicting results, overall sEMG and BORG CR10 scales showed that in TLS the deltoid, triceps, biceps and wrist muscles are most commonly activated. In addition, in RALs, lower back, trapezius and finger muscles were activated most commonly. Muscle activations as a whole were generally lower in robotic-assisted laparoscopy. Survey tools such as NASA-TLX confirmed that overall RALS was less fatiguing than TLS for the majority of surgeons. This review explored the ergonomic risks faced by surgeons performing both traditional laparoscopic and robotic surgery. Further research, including standardised methodology and continuous ergonomic assessment, are warranted to ensure robotic surgery remains safe.</AbstractText>
+          <CopyrightInformation>© 2025. Crown.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Cooper</LastName>
+            <ForeName>Hedda</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-5344-4049</Identifier>
+            <AffiliationInfo>
+              <Affiliation>St Vincent's Hospital Melbourne, Victoria, Australia. heddacooper@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lau</LastName>
+            <ForeName>Hiu Ming</ForeName>
+            <Initials>HM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Peter MacCallum Cancer Centre, Melbourne, VIC, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mohan</LastName>
+            <ForeName>Helen</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Peter MacCallum Cancer Centre, Melbourne, VIC, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D000078182">Systematic Review</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>31</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Robot Surg</MedlineTA>
+        <NlmUniqueID>101300401</NlmUniqueID>
+        <ISSNLinking>1863-2483</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006804" MajorTopicYN="Y">Ergonomics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066231" MajorTopicYN="Y">Surgeons</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004576" MajorTopicYN="N">Electromyography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018482" MajorTopicYN="Y">Muscle, Skeletal</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009784" MajorTopicYN="N">Occupational Diseases</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018763" MajorTopicYN="N">Muscle Fatigue</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Ergonomics</Keyword>
+        <Keyword MajorTopicYN="N">Minimally invasive surgery</Keyword>
+        <Keyword MajorTopicYN="N">Muscular straining</Keyword>
+        <Keyword MajorTopicYN="N">Robotic-assisted laparoscopic surgery</Keyword>
+        <Keyword MajorTopicYN="N">Traditional laparoscopic surgery</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Conflict of interest: The authors declare no conflicts of interest. The corresponding author is not a recipient of a research scholarship. This paper has not been submitted elsewhere.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>31</Day>
+          <Hour>22</Hour>
+          <Minute>28</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>31</Day>
+          <Hour>22</Hour>
+          <Minute>27</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>31</Day>
+          <Hour>11</Hour>
+          <Minute>15</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40448883</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11701-025-02401-6</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11701-025-02401-6</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Association IE. What Is Ergonomics [HFE]? Internet https://iea.cc/about/what-is-ergonomics/ .</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schlussel AT, Maykel JA (2019) Ergonomics and musculoskeletal health of the surgeon. Clin Colon Rectal Surg 32(6):424–434</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1055/s-0039-1693026</ArticleId>
+            <ArticleId IdType="pubmed">31686994</ArticleId>
+            <ArticleId IdType="pmcid">6824896</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Costa ADS Jr (2017) Assessment of operative times of multiple surgical specialties in a public university hospital. Einstein [Sao Paulo] 15(2):200–205</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1590/s1679-45082017gs3902</ArticleId>
+            <ArticleId IdType="pubmed">28767919</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grant KMK, Vo T, Tiong LU (2020) The painful truth: work-related musculoskeletal disorders in Australian surgeons. Occup Med [Lond] 70(1):60–63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/occmed/kqz155</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Medical Deans Fact Sheet profession entry medical qualifications in australia: contributions and costs for domestic STUDENTS Internet: Medical Deans Australia and New Zealand Inc; 2014 https://medicaldeans.org.au/md/2018/07/2014-July_FACT-SHEETContributions-and-Costs-of-a-Medical-Qualification.pdf .</Citation>
+        </Reference>
+        <Reference>
+          <Citation>O'Callaghan J, Mohan HM, Sharrock A, Gokani V, Fitzgerald JE, Williams AP, et al. Cross-sectional study of the financial cost of training to the surgical trainee in the UK and Ireland. BMJ Open. 2017;7[11]:e018086.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Agha R, Muir G (2003) Does laparoscopic surgery spell the end of the open surgeon? Jrsm 96(11):544–546</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/014107680309601107</ArticleId>
+            <ArticleId IdType="pubmed">14594961</ArticleId>
+            <ArticleId IdType="pmcid">539626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Palep JH (2009) Robotic assisted minimally invasive surgery. J Minim Access Surg 5(1):1–7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4103/0972-9941.51313</ArticleId>
+            <ArticleId IdType="pubmed">19547687</ArticleId>
+            <ArticleId IdType="pmcid">2699074</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alleblas CCJ, de Man AM, van den Haak L, Vierhout ME, Jansen FW, Nieboer TE (2017) Prevalence of musculoskeletal disorders among surgeons performing minimally invasive surgery: a systematic review. Ann Surg 266(6):905–920</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000002223</ArticleId>
+            <ArticleId IdType="pubmed">28306646</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alnefaie MN, Alamri AA, Hariri AF, Alsaad MS, Alsulami AM, Abbas AM et al (2019) Musculoskeletal symptoms among surgeons at a tertiary care center: a survey based study. Med Arch 73(1):49–54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5455/medarh.2019.73.49-54</ArticleId>
+            <ArticleId IdType="pubmed">31097861</ArticleId>
+            <ArticleId IdType="pmcid">6445622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stucky CH, Cromwell KD, Voss RK, Chiang YJ, Woodman K, Lee JE et al (2018) Surgeon symptoms, strain, and selections: systematic review and meta-analysis of surgical ergonomics. Ann Med Surg [Lond] 27:1–8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.amsu.2017.12.013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hotton J, Bogart E, Le Deley MC, Lambaudie E, Narducci F, Marchal F (2023) Ergonomic assessment of the surgeon’s physical workload during robot-assisted versus standard laparoscopy in a french multicenter randomized trial [ROBOGYN-1004 Trial]. Ann Surg Oncol 30(2):916–923</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1245/s10434-022-12548-3</ArticleId>
+            <ArticleId IdType="pubmed">36175710</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dalsgaard T, Jensen MD, Hartwell D, Mosgaard BJ, Jorgensen A, Jensen BR (2020) Robotic surgery is less physically demanding than laparoscopic surgery: paired cross sectional study. Ann Surg 271(1):106–113</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000002845</ArticleId>
+            <ArticleId IdType="pubmed">29923873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anand S, Sandlas G, Pednekar A, Jadhav B, Terdal M. A Comparative Study of the Ergonomic Risk to the Surgeon During Vesicoscopic and Robotic Cross-Trigonal Ureteric Reimplantation. J Laparoendosc Adv Surg Tech A. 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dalager T, Jensen PT, Eriksen JR, Jakobsen HL, Mogensen O, Sogaard K (2020) Surgeons’ posture and muscle strain during laparoscopic and robotic surgery. Br J Surg 107(6):756–766</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/bjs.11394</ArticleId>
+            <ArticleId IdType="pubmed">31922258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuo LJ, Ngu JC, Lin YK, Chen CC, Tang YH. A pilot study comparing ergonomics in laparoscopy and robotics: beyond anecdotes, and subjective claims. J Surg Case Rep. 2020;2020[2]:rjaa005.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kramer B, Neis F, Reisenauer C, Walter C, Brucker S, Wallwiener D, et al. Save our surgeons [SOS] - an explorative comparison of surgeons' muscular and cardiovascular demands, posture, perceived workload and discomfort during robotic vs. laparoscopic surgery. Arch Gynecol Obstet. 2023;307[3]:849–62.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Butler KA, Kapetanakis VE, Smith BE, Sanjak M, Verheijde JL, Chang YH et al (2013) Surgeon fatigue and postural stability: is robotic better than laparoscopic surgery? J Laparoendosc Adv Surg Tech A 23(4):343–346</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/lap.2012.0531</ArticleId>
+            <ArticleId IdType="pubmed">23410117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zihni AM, Ohu I, Cavallo JA, Cho S, Awad MM (2014) Ergonomic analysis of robot-assisted and traditional laparoscopic procedures. Surg Endosc 28(12):3379–3384</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-014-3604-9</ArticleId>
+            <ArticleId IdType="pubmed">24928233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Szeto GP, Poon JT, Law WL (2013) A comparison of surgeon’s postural muscle activity during robotic-assisted and laparoscopic rectal surgery. J Robot Surg 7(3):305–308</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-012-0374-z</ArticleId>
+            <ArticleId IdType="pubmed">27000928</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Armijo PR, Huang CK, High R, Leon M, Siu KC, Oleynikov D (2019) Ergonomics of minimally invasive surgery: an analysis of muscle effort and fatigue in the operating room between laparoscopic and robotic surgery. Surg Endosc 33(7):2323–2331</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-018-6515-3</ArticleId>
+            <ArticleId IdType="pubmed">30341653</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mendes V, Bruyere F, Escoffre JM, Binet A, Lardy H, Marret H et al (2020) Experience implication in subjective surgical ergonomics comparison between laparoscopic and robot-assisted surgeries. J Robot Surg 14(1):115–121</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-019-00933-2</ArticleId>
+            <ArticleId IdType="pubmed">30863913</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marcon B, Ngueyon Sime W, Guillemin F, Hubert N, Lagrange F, Huselstein C et al (2019) An ergonomic assessment of four different donor nephrectomy approaches for the surgeons and their assistants. Res Rep Urol 11:261–268</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31579673</ArticleId>
+            <ArticleId IdType="pmcid">6773969</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>AlSabah S, Al Haddad E, Khwaja H (2019) The prevalence of musculoskeletal injuries in bariatric surgeons. Surg Endosc 33(6):1818–1827</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-018-6460-1</ArticleId>
+            <ArticleId IdType="pubmed">30251136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alhusuny A, Cook M, Khalil A, Johnston V (2021) Visual symptoms, neck/shoulder problems and associated factors among surgeons performing Minimally Invasive Surgeries [MIS]: a comprehensive survey. Int Arch Occup Environ Health 94(5):959–979</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00420-020-01642-2</ArticleId>
+            <ArticleId IdType="pubmed">33515063</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grochola LF, Soll C, Zehnder A, Wyss R, Herzog P, Breitenstein S (2019) Robot-assisted versus laparoscopic single-incision cholecystectomy: results of a randomized controlled trial. Surg Endosc 33(5):1482–1490</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-018-6430-7</ArticleId>
+            <ArticleId IdType="pubmed">30218263</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kee D. Systematic Comparison of OWAS, RULA, and REBA Based on a Literature Review. Int J Environ Res Public Health. 2022;19[1].</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tarr ME, Brancato SJ, Cunkelman JA, Polcari A, Nutter B, Kenton K (2015) Comparison of postural ergonomics between laparoscopic and robotic sacrocolpopexy: a pilot study. J Minim Invasive Gynecol 22(2):234–238</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jmig.2014.10.004</ArticleId>
+            <ArticleId IdType="pubmed">25315401</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

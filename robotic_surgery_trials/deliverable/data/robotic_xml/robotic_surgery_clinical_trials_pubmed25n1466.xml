@@ -1,0 +1,1922 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">39831855</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>01</Month>
+        <Day>20</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2724-6442</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>76</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Minerva urology and nephrology</Title>
+          <ISOAbbreviation>Minerva Urol Nephrol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Percutaneous nephrolithotomy vs. robotic pyelolithotomy for large renal stones: an inverse probability treatment weighting analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>726-735</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.23736/S2724-6051.24.06074-9</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The American Urologic Association (AUA) and the European Association of Urology (EAU) guidelines endorse percutaneous nephrolithotomy (PCNL) for symptomatic stones larger than 20 mm despite significant risks such as bleeding and urosepsis. Robotic pyelolithotomy (RPL) is emerging as an appealing alternative to PCNL, particularly for patients with anatomical variations like pelvic or horseshoe kidneys, malrotation, previous unsuccessful PCNL, and congenital renal anomalies such as ureteropelvic junction obstruction (UPJO).</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A retrospective observational study was conducted involving patients from Miulli Hospital and A. Gemelli University Hospital between February 2016 and December 2023. Adults with large renal stones, including both pelvic and caliceal stones, who underwent either RPL or PCNL were included. The primary outcome was the Stone-Free Rate (SFR) at 12 months. Secondary outcomes included operative time, estimated blood loss, delta hemoglobin, delta creatinine, hospital stay length, and complications. This study compares the effectiveness and outcomes of PCNL and RPL using Propensity Score-Inverse Probability Treatment Weighting (PS-IPTW) analysis.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">No statistically significant differences were found in the 12-month SFR between RPL and PCNL, both in the calyceal-pelvic (73.6% vs. 70.6%; P=0.722) and pelvic groups (91% vs. 91.7%; P=1). Complication rates were also similar between RPL and PCNL in both the calyceal-pelvic (15.4% vs. 14.3%; P=0.856) and renal pelvic groups (27.3% vs. 10.8%; P=0.225, with Clavien-Dindo Grade ≥3 complications in 9% vs. 8.9% and 4.4% vs. 0%, respectively. RPL showed significant advantages in operation time in the pyelocaliceal (P&lt;0.001) and pelvic groups (P=0.006), delta creatinine (P=0.018) in the pyelocaliceal group, and hospital stay length in the pelvic group (P=0.011).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">RPL demonstrated similar success and complication rates compared to PCNL, with significantly lower intraoperative time, delta creatinine rate, and hospital stay length. RPL is a safe, effective, and minimally invasive treatment option, particularly valuable for large renal stones in patients with complex anatomy and those requiring concomitant renal reconstructive procedures.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Moretto</LastName>
+            <ForeName>Stefano</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, F. Miulli General Hospital, Acquaviva delle Fonti, Bari, Italy - stefano.moretto.ch@gmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Humanitas Clinical and Research Center, Rozzano, Milan, Italy - stefano.moretto.ch@gmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS A. Gemelli University Polyclinic Foundation, Rome, Italy - stefano.moretto.ch@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zazzara</LastName>
+            <ForeName>Michele</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, F. Miulli General Hospital, Acquaviva delle Fonti, Bari, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Marino</LastName>
+            <ForeName>Filippo</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS A. Gemelli University Polyclinic Foundation, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Sacred Heart Catholic University, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ragonese</LastName>
+            <ForeName>Mauro</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS A. Gemelli University Polyclinic Foundation, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Sacred Heart Catholic University, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Scarcia</LastName>
+            <ForeName>Marcello</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, F. Miulli General Hospital, Acquaviva delle Fonti, Bari, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gradilone</LastName>
+            <ForeName>Ugo</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS A. Gemelli University Polyclinic Foundation, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Sacred Heart Catholic University, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Russo</LastName>
+            <ForeName>Pierluigi</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS A. Gemelli University Polyclinic Foundation, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Sacred Heart Catholic University, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Montesi</LastName>
+            <ForeName>Marco</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS A. Gemelli University Polyclinic Foundation, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Sacred Heart Catholic University, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lentini</LastName>
+            <ForeName>Nicolò</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sacred Heart Catholic University, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Section of Hygiene, Department of Life Sciences and Public Health, Sacred Heart Catholic University, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pastorino</LastName>
+            <ForeName>Roberta</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sacred Heart Catholic University, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Section of Hygiene, Department of Life Sciences and Public Health, Sacred Heart Catholic University, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ludovico</LastName>
+            <ForeName>Giuseppe M</ForeName>
+            <Initials>GM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, F. Miulli General Hospital, Acquaviva delle Fonti, Bari, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pinto</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS A. Gemelli University Polyclinic Foundation, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Sacred Heart Catholic University, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D064888">Observational Study</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Italy</Country>
+        <MedlineTA>Minerva Urol Nephrol</MedlineTA>
+        <NlmUniqueID>101777299</NlmUniqueID>
+        <ISSNLinking>2724-6051</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000074642" MajorTopicYN="Y">Nephrolithotomy, Percutaneous</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007669" MajorTopicYN="Y">Kidney Calculi</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007682" MajorTopicYN="Y">Kidney Pelvis</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="N">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>1</Month>
+          <Day>20</Day>
+          <Hour>22</Hour>
+          <Minute>55</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>1</Month>
+          <Day>20</Day>
+          <Hour>22</Hour>
+          <Minute>54</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>1</Month>
+          <Day>20</Day>
+          <Hour>10</Hour>
+          <Minute>23</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39831855</ArticleId>
+        <ArticleId IdType="pii">S2724-6051.24.06074-9</ArticleId>
+        <ArticleId IdType="doi">10.23736/S2724-6051.24.06074-9</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">40237278</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1534-4908</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>35</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jun</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Surgical laparoscopy, endoscopy &amp; percutaneous techniques</Title>
+          <ISOAbbreviation>Surg Laparosc Endosc Percutan Tech</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Efficacy and Safety of Robotic Bilateral Axillo-Breast Approach Versus Robotic Gasless Axillary Approach for Thyroidectomy: A Systematic Review and Meta-Analysis.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e1370</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/SLE.0000000000001370</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To evaluate the comparative efficacy and safety of robotic thyroidectomy techniques, including the robotic bilateral axillo-breast approach (BABA) and the robotic gasless axillary approach (GAA).</AbstractText>
+          <AbstractText Label="DATA SOURCES" NlmCategory="METHODS">A comprehensive literature search was conducted across 5 major electronic databases (PubMed, Embase, Cochrane Library, Web of Science, and Scopus) to identify relevant studies published until May 2024.</AbstractText>
+          <AbstractText Label="REVIEW METHODS" NlmCategory="METHODS">Analysis was conducted using RevMan 5.4 software with pooled mean and rate ratios calculated with 95% CIs.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 73 studies, comprising 70 eligible for meta-analysis, were included. Compared with robotic GAA, robotic BABA was associated with significantly longer operative time (pooled mean: 64.65 min, 95% CI: 51.77-77.53, P &lt;0.00001), increased hospital stay (pooled mean: 1.24 d, 95% CI: 0.92-1.56, P &lt;0.00001), and higher intraoperative bleeding (pooled mean: 44.90 mL, 95% CI: 26.99-62.81, P &lt;0.00001). While no significant differences were observed in the rates of hypoparathyroidism, recurrent laryngeal nerve palsy, chyle leakage, seroma, hematoma, or infection, the incidence of Horner syndrome was significantly higher in the BABA group (pooled risk ratio: 0.01, 95% CI: 0.00-0.05, P =0.003).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Robotic BABA was associated with longer operative times, increased hospital stays, and higher intraoperative bleeding compared with Robotic GAA, although both techniques demonstrated comparable safety profiles for most outcomes. The higher incidence of Horner syndrome with BABA should be considered when selecting the optimal surgical approach for thyroidectomy.</AbstractText>
+          <CopyrightInformation>Copyright © 2025 Wolters Kluwer Health, Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Al Juhani</LastName>
+            <ForeName>Abdulkreem A</ForeName>
+            <Initials>AA</Initials>
+            <Identifier Source="ORCID">0009-0000-4738-218</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, King Abdulaziz University Hospital.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alzahrani</LastName>
+            <ForeName>Faisal</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>King Saud University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Esmail</LastName>
+            <ForeName>Aya K</ForeName>
+            <Initials>AK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Sciences, Sulaiman Alrajhi University, Qassim.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>AlRasheed</LastName>
+            <ForeName>Raghad F</ForeName>
+            <Initials>RF</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Medicine, Alfaisal University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Esmail</LastName>
+            <ForeName>Abdullah</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Sciences, Sulaiman Alrajhi University, Qassim.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alnakhli</LastName>
+            <ForeName>Hasan M</ForeName>
+            <Initials>HM</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Medicine, Ibn Sina International College.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alotaibi</LastName>
+            <ForeName>Lujain B</ForeName>
+            <Initials>LB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Ad Diriyah Hospital, Riyadh.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alturki</LastName>
+            <ForeName>Bayan M</ForeName>
+            <Initials>BM</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Medicine, Ibn Sina International College.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Borah</LastName>
+            <ForeName>Mohammed A</ForeName>
+            <Initials>MA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Medicine Program, Batterjee Medical College, Jeddah.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alahmari</LastName>
+            <ForeName>Ghala S</ForeName>
+            <Initials>GS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Collage of Medicine and Surgery, King Khaled University, Abha, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D000078182">Systematic Review</PublicationType>
+          <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>06</Month>
+          <Day>01</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Surg Laparosc Endosc Percutan Tech</MedlineTA>
+        <NlmUniqueID>100888751</NlmUniqueID>
+        <ISSNLinking>1530-4515</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013965" MajorTopicYN="Y">Thyroidectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001365" MajorTopicYN="N">Axilla</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001940" MajorTopicYN="N">Breast</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016063" MajorTopicYN="N">Blood Loss, Surgical</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">robotic bilateral axillo-breast approach</Keyword>
+        <Keyword MajorTopicYN="N">robotic gasless axillary approach</Keyword>
+        <Keyword MajorTopicYN="N">thyroidectomy</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>09</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>6</Month>
+          <Day>3</Day>
+          <Hour>12</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>16</Day>
+          <Hour>14</Hour>
+          <Minute>34</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>16</Day>
+          <Hour>7</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40237278</ArticleId>
+        <ArticleId IdType="doi">10.1097/SLE.0000000000001370</ArticleId>
+        <ArticleId IdType="pii">00129689-990000000-00318</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Biello A, Kinberg EC, Wirtz ED Thyroidectomy. 2024.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>de Vries LH, Aykan D, Lodewijk L, et al. Outcomes of minimally invasive thyroid surgery—a systematic review and meta-analysis. Front Endocrinol. 2021;12:719397.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xing Z, Qiu Y, Abuduwaili M, et al. Surgical outcomes of different approaches in robotic assisted thyroidectomy for thyroid cancer: a systematic review and Bayesian network meta-analysis. Int J Surg. 2021;89:105941.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Alzahrani HA, Mohsin K, Ali DB, et al. Gasless trans-axillary robotic thyroidectomy: the technique and evidence. Gland Surg. 2017;6:236–242.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee KE, Rao J, Youn Y-K. Endoscopic thyroidectomy with the da Vinci Robot System using the bilateral axillary breast approach (BABA) technique. Surg Laparosc Endosc Percutan Tech. 2009;19:e71–e75.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liu SY-W, Kim JS. Bilateral axillo-breast approach robotic thyroidectomy: review of evidences. Gland Surg. 2017;6:250–257.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Holsinger FC, Terris DJ, Kuppersmith RB. Robotic thyroidectomy: operative technique using a transaxillary endoscopic approach without CO2 insufflation. Otolaryngol Clin North Am. 2010;43:381–388.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim HY, Choi YJ, Yu H-N, et al. Optimal carbon dioxide insufflation pressure during robot-assisted thyroidectomy in patients with various benign and malignant thyroid diseases. World J Surg Oncol. 2012;10:202.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ludwig B, Ludwig M, Dziekiewicz A, et al. Modern surgical techniques of thyroidectomy and advances in the prevention and treatment of perioperative complications. Cancers. 2023;15:2931.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Moro F, Mangano A. Why should a “gasless” oncologic robotic procedure be performed? Saudi J Anaesth. 2017;11:260.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cumpston M, Li T, Page MJ, et al. Updated guidance for trusted systematic reviews: a new edition of the Cochrane Handbook for Systematic Reviews of Interventions. Cochrane Database Syst Rev. 2019;10:ED000142.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liberati A, Altman DG, Tetzlaff J, et al. The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration. J Clin Epidemiol. 2009;62:e1–e34.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>National Institutes of Health (NIH). National Institutes of Health (NIH) quality assessment tool for observational cohort and cross-sectional studies. Accessed 11 Jun 2024. https://www.nhlbi.nih.gov/health-topics/study-quality-assessment-tools</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sterne JAC, Savović J, Page MJ, et al. RoB 2: a revised tool for assessing risk of bias in randomized trials. BMJ. 2019;366:l4898.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kang SW, Lee SC, Lee SH, et al. Robotic thyroid surgery using a gasless, transaxillary approach and the da Vinci S system: the operative outcomes of 338 consecutive patients. Surg. 2009;146:1048–1055.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yap Z, Kim WW, Kang SW, et al. Impact of body mass index on robotic transaxillary thyroidectomy. Sci Rep. 2019;9:8955.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu P, Fang Q, Mai J, et al. Gasless robot-assisted transaxillary hemithyroidectomy (RATH): learning curve and complications. BMC Surg. 2024;24:78.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ryu HR, Kang SW, Lee SH, et al. Feasibility and safety of a new robotic thyroidectomy through a gasless, transaxillary single-incision approach. J Am Coll Surg. 2010;211:e13–e19.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Giulianotti PC, Addeo P, Buchs NC, et al. Robotic thyroidectomy: an initial experience with the gasless transaxillary approach. J Laparoendosc Adv Surg Techn. 2012;22:387–391.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kang S-W, Park JH, Jeong S, et al. Prospects of robotic thyroidectomy using a gasless, transaxillary approach for the management of thyroid carcinoma. Surg Laparosc Endosc Percutan Tech. 2011;21:223–229.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yu DY, Chang YW, Lee HY, et al. Detailed comparison of the da Vinci Xi and S surgical systems for transaxillary thyroidectomy. Medicine. 2021;100:E24370.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Garstka M, Moshin K, Ali DB, et al. Well-differentiated thyroid cancer and robotic transaxillary surgery at a North American institution. J Surg Res. 2018;228:170–178.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ha TK, Kim DW, Park HK, et al. Comparison of postoperative neck pain and discomfort, swallowing difficulty, and voice change after conventional open, endoscopic, and robotic thyroidectomy: a single-center cohort study. Front Endocrinol. 2018;9:416.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Stang MT, Yip L, Wharry L, et al. Gasless transaxillary endoscopic thyroidectomy with robotic assistance: a high-volume experience in North America. Thyroid. 2018;28:1655–1661.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kang IK, Park J, Bae JS, et al. Safety and feasibility of single-port trans-axillary robotic thyroidectomy: experience through consecutive 100 cases. Medicina. 2022;58:1486.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kang SW, Jeong JJ, Yun JS, et al. Robot-assisted endoscopic surgery for thyroid cancer: experience with the first 100 patients. Surg Endosc. 2009;23:2399–2406.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Somashekhar SP, Ashwin KR. Robot-assisted thyroidectomy using a gasless, transaxillary approach for the management of thyroid lesions: Indian experience. J Minim Access Surg. 2017;13:280–285.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fregoli L, Materazzi G, Miccoli M, et al. Postoperative pain evaluation after robotic transaxillary thyroidectomy versus conventional thyroidectomy: a prospective study. J Laparoendos Adv Surg Techn. 2017;27:146–150.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yi O, Yoon JH, Lee YM, et al. Technical and oncologic safety of robotic thyroid surgery. Ann Surg Oncol. 2013;20:1927–1933.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Song CM, Yun BR, Ji YB, et al. Long-term voice outcomes after robotic thyroidectomy. World J Surg. 2016;40:110–116.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee KE, Choi JY, Youn Y-K. Bilateral axillo-breast approach robotic thyroidectomy. Surg Laparosc Endosc Percutan Tech. 2011;21:230–236.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Song CM, Ji YB, Bang HS, et al. Quality of life after robotic thyroidectomy by a gasless unilateral axillary approach. Ann Surg Oncol. 2014;21:4188–4194.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ryu HR, Lee J, Park JH, et al. A comparison of postoperative pain after conventional open thyroidectomy and transaxillary single-incision robotic thyroidectomy: a prospective study. Ann Surg Oncol. 2013;20:2279–2284.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Papini P, De Palma A, Ginesini M, et al. Robot-assisted transaxillary surgery for thyroid cancer: oncologic and surgical outcomes in long term follow-up. Int J Med Robot Comput Assist Surg. 2024:e2563. doi:10.1002/rcs.2563. Epub ahead of print.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/rcs.2563</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Park JH, Lee J, Hakim NA, et al. Robotic thyroidectomy learning curve for beginning surgeons with little or no experience of endoscopic surgery. Head Neck. 2015;37:1705–1711.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee J, Yun JH, Nam KH, et al. Perioperative clinical outcomes after robotic thyroidectomy for thyroid carcinoma: a multicenter study. Surg Endosc. 2011;25:906–912.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee YM, Yi O, Sung TY, et al. Surgical outcomes of robotic thyroid surgery using a double incision gasless transaxillary approach: analysis of 400 cases treated by the same surgeon. Head Neck. 2014;36:1413–1419.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim EB, Cho JW, Lee YM, et al. Postsurgical outcomes and surgical completeness of robotic thyroid surgery: a single surgeon’s experience on 700 cases. J Laparoendosc Adv Surg Techn. 2018;28:540–545.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee J, Lee JH, Nah KY, et al. Comparison of endoscopic and robotic thyroidectomy. Ann Surg Oncol. 2011;18:1439–1446.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim MJ, Nam KH, Lee SG, et al. Yonsei experience of 5000 gasless transaxillary robotic thyroidectomies. World J Surg. 2018;42:393–401.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim MJ, Lee J, Lee SG, et al. Transaxillary robotic modified radical neck dissection: a 5-year assessment of operative and oncologic outcomes. Surg Endosc. 2017;31:1599–1606.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yu HW, Chai YJ, Kim S jin, et al. Robotic-assisted modified radical neck dissection using a bilateral axillo-breast approach (robotic BABA MRND) for papillary thyroid carcinoma with lateral lymph node metastasis. Surg Endosc. 2018;32:2322–2327.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang D, Wang C, Sui C, et al. Robotic bilateral axillo-breast versus endoscopic bilateral areola thyroidectomy outcomes of 757 patients. Front Endocrinol. 2023;13:1029845.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kwak J, Kim SJ, Xu Z, et al. Robotic completion thyroidectomy via the bilateral axillo-breast approach. J Clin Med. 2021;10:1707.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yang SC, Ahn JH, Kim JH, et al. Comparison of the vessel sealer extend® with harmonic ACE® in robotic bilateral axillary-breast approach thyroid surgery. Gland Surg. 2020;9:164–171.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shin IB, Koo DH, Ko MJ, et al. A prospective, randomized controlled study of the safety and efficacy of gasless bilateral axillo-breast approach (BABA) robotic thyroidectomy. Surg Endosc. 2020;34:4846–4856.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sun HX, Gao HJ, Ying XY, et al. Robotic thyroidectomy via bilateral axillo-breast approach: Experience and learning curve through initial 220 cases. Asian J Surg. 2020;43:482–487.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yu HW, Chai YJ, Kwon H, et al. Bilateral axillo-breast approach robotic thyroidectomy (BABA RT) does not interfere with breast image follow-up. World J Surg. 2017;41:2020–2025.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee KE, Koo DH, Im HJ, et al. Surgical completeness of bilateral axillo-breast approach robotic thyroidectomy: comparison with conventional open thyroidectomy after propensity score matching. Surgery. 2011;150:1266–1274.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ouyang H, Xue W, Zhang Z, et al. Learning curve for robotic thyroidectomy using BABA: CUSUM analysis of a single surgeon’s experience. Front Endocrinol. 2022;13:942973.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen WH, Chen CY. Postoperative quality of life and cosmetic outcome between minimally invasive video-assisted thyroidectomy and bilateral axillo-breast approach robotic thyroidectomy: a single center retrospective cohort study. Updates Surg. 2021;73:1459–1465.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>You JY, Kim HK, Kim HY, et al. Bilateral axillo-breast approach robotic thyroidectomy: review of a single surgeon’s consecutive 317 cases. Gland Surg. 2021;10:1962–1970.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park Y, Yu HW, Lee JK, et al. Effect of body habitus on surgical outcomes following bilateral axillo-breast approach robotic thyroidectomy: a retrospective cohort study. Int J Surg. 2023;109:1257–1263.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim WW, Jung JH, Park HY. A single surgeon’s experience and surgical outcomes of 300 robotic thyroid surgeries using a bilateral axillo-breast approach. J Surg Oncol. 2015;111:135–140.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee HS, Chai YJ, Kim SJ, et al. Influence of body habitus on the surgical outcomes of bilateral axillo-breast approach robotic thyroidectomy in papillary thyroid carcinoma patients. Ann Surg Treat Res. 2016;91:1–7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chai YJ, Kim HY, Kim HK, et al. Comparative analysis of 2 robotic thyroidectomy procedures: transoral versus bilateral axillo-breast approach. Head Neck. 2018;40:886–892.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Choi YS, Hong YT, Yi JW. Initial experience with robotic modified radical neck dissection using the da Vinci XI system through the bilateral axillo-breast approach. Clin Exp Otorhinolaryngol. 2021;14:137–144.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>He Q, Zhu J, Li X, et al. A comparative study of two robotic thyroidectomy procedures: transoral vestibular versus bilateral axillary-breast approach. BMC Surg. 2022;22:173.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Choi JY, Kang KH. Robotic modified radical neck dissection with bilateral axillobreast approach. Gland Surg 2017;6:243–249.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shin HR, Lee K, Yu HW, et al. Comparison of perioperative outcomes using the da vinci s, si, x, and xi robotic platforms for baba robotic thyroidectomy. Medicina. 2021;57:1130.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim SK, Woo JW, Park I, et al. Propensity score-matched analysis of robotic versus endoscopic bilateral axillo-breast approach (BABA) thyroidectomy in papillary thyroid carcinoma. Langenbecks Arch Surg. 2017;402:243–250.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim BS, Kang KH, Park SJ. Robotic modified radical neck dissection by bilateral axillary breast approach for papillary thyroid carcinoma with lateral neck metastasis. Head Neck. 2015;37:37–45.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim WW, Lee J, Jung JH, et al. A comparison study of the transoral and bilateral axillo-breast approaches in robotic thyroidectomy. J Surg Oncol. 2018;118:381–387.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kwak JH, Yu HW, Ahn JH, et al. A time trend analysis of 5,000 robotic thyroidectomies via bilateral axillo-breast approach. World J Surg. 2023;47:403–411.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bae DS, Koo DH. A propensity score-matched comparison study of surgical outcomes in patients with differentiated thyroid cancer after robotic versus open total thyroidectomy. World J Surg. 2019;43:540–551.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee KE, Koo DH, Kim SJ, et al. Outcomes of 109 patients with papillary thyroid carcinoma who underwent robotic total thyroidectomy with central node dissection via the bilateral axillo-breast approach. Surg. 2010;148:1207–1213.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Choi JY, Choi JY, Bae IE, et al. Comparative study of bilateral axillo-breast approach endoscopic and robotic thyroidectomy: propensity score matching analysis of large multi-institutional data. Ann Surg Treat Res. 2020;98:307–314.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kwak HY, Kim HY, Lee HY, et al. Robotic thyroidectomy using bilateral axillo-breast approach: Comparison of surgical results with open conventional thyroidectomy. J Surg Oncol. 2015;111:141–145.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Choi YS, Shin WY, Yi JW. Single surgeon experience with 500 cases of the robotic bilateral axillary breast approach (Baba) for thyroid surgery using the da-vinci xi system. J Clin Med. 2021;10:4048.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fu X, Ma Y, Hou Y, et al. Comparison of endoscopic bilateral areolar and robotic-assisted bilateral axillo-breast approach thyroidectomy in differentiated thyroid carcinoma: a propensity-matched retrospective cohort study. BMC Surg. 2023;23:338.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim WW, Jung JH, Park HY. The learning curve for robotic thyroidectomy using a bilateral axillo-breast approach from the 100 cases. Surg Laparosc Endosc Percutan Tech. 2015;25:412–416.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>He QQ, Zhu J, Zhuang DY, et al. Comparative study between robotic total thyroidectomy with central lymph node dissection via bilateral axillo-breast approach and conventional open procedure for papillary thyroid microcarcinoma. Chin Med J. 2016;129:2160–2166.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chai YJ, Song J, Kang J, et al. A comparative study of postoperative pain for open thyroidectomy versus bilateral axillo-breast approach robotic thyroidectomy using a self-reporting application for iPad. Ann Surg Treat Res. 2016;90:239–245.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yang SM, Park WS, You JY, et al. Comparison of postoperative outcomes between bilateral axillo-breast approach-robotic thyroidectomy and transoral robotic thyroidectomy. Gland Surg. 2020;9:1998–2004.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chae S, Min SY, Park WS. Comparison study of robotic thyroidectomies through a bilateral axillo-breast approach and a transoral approach. J Laparoendos Adv Surg Techn. 2020;30:175–182.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim BS, Kang KH, Kang H, et al. Central neck dissection using a bilateral axillo-breast approach for robotic thyroidectomy: comparison with conventional open procedure after propensity score matching. Surg Laparosc Endosc Percutan Tech. 2014;24:67–72.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>He Q, Zhu J, Zhuang D, et al. Robotic lateral cervical lymph node dissection via bilateral axillo-breast approach for papillary thyroid carcinoma: a single-center experience of 260 cases. J Robot Surg. 2020;14:317–323.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bae DS, Suh BJ, Park JK, et al. Technical, oncological, and functional safety of bilateral axillo-breast approach (BABA) robotic total thyroidectomy. Surg Laparosc Endosc Percutan Tech. 2016;26:253–258.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim MK, Kang H, Choi GJ, et al. Robotic thyroidectomy decreases postoperative pain compared with conventional thyroidectomy. Surg Laparosc Endosc Percutan Tech. 2019;29:255–260.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim WW, Kim JS, Hur SM, et al. Is robotic surgery superior to endoscopic and open surgeries in thyroid cancer? World J Surg. 2011;35:779–784.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hoon Koo D, Myoung Kim D, Young Choi J, et al. In-depth survey of scarring and distress in patients undergoing bilateral axillo-breast approach robotic thyroidectomy or conventional open thyroidectomy. Surg Laparosc Endosc Percutan Tech. 2015;25:436–439.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Paek H, Kang KH, Park SJ. A comparison of robotic versus open thyroidectomy for papillary thyroid cancer. Surg Laparosc Endosc Percutan Tech. 2018;28:170–173.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shin IB, Bae DS. Comparison of the postoperative outcomes of the mini-flap bilateral axillo-breast approach (BABA) and conventional baba robot-assisted thyroidectomy. J Clin Med. 2022;11:4894.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Prete FP, Marzaioli R, Lattarulo S, et al. Transaxillary robotic-assisted thyroid surgery: technique and results of a preliminary experience on the da Vinci Xi platform. BMC Surg. 2019;18:19.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aidan P, Pickburn H, Monpeyssen H, et al. Indications for the gasless transaxillary robotic approach to thyroid surgery: experience of forty-seven procedures at the American Hospital of Paris. Eur Thyroid J. 2013;2:102–109.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Piccoli M, Mullineris B, Gozzo D, et al. Evolution strategies in transaxillary robotic thyroidectomy: considerations on the first 449 cases performed. J Laparoendosc Adv Surg Techn. 2019;29:433–440.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Paek H, Kwon H, Kang KH. A comparison of the bilateral axillo-breast approach (BABA) robotic and open thyroidectomy for papillary thyroid cancer after propensity score matching. Surg Laparosc Endosc Percutan Tech. 2022;32:537–541.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kang YJ, Stybayeva G, Hwang SH. Surgical safety and effectiveness of bilateral axillo-breast approach robotic thyroidectomy: a systematic review and meta-analysis. Braz J Otorhinolaryngol. 2024;90:101376.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40336806</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>05</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1938-3797</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>29</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <MedlineDate>2025 Apr-Jun</MedlineDate>
+            </PubDate>
+          </JournalIssue>
+          <Title>JSLS : Journal of the Society of Laparoendoscopic Surgeons</Title>
+          <ISOAbbreviation>JSLS</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Clinical and Patient-Reported Outcomes of Robotic Versus Laparoscopic Inguinal Hernia Repair.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e2025.00005</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.4293/JSLS.2025.00005</ELocationID>
+        <Abstract>
+          <AbstractText Label="Background" NlmCategory="UNASSIGNED">This study aimed to assess the clinical and patient-reported outcomes of laparoscopic and robotic-assisted inguinal hernia repair in Indian real-world settings.</AbstractText>
+          <AbstractText Label="Methods" NlmCategory="UNASSIGNED">This is a single-center, prospective, nonrandomized, comparative study. Consecutive patients who were 18 years of age or older, and provided informed consent were included in the study between June 2023 and May 2024.</AbstractText>
+          <AbstractText Label="Results" NlmCategory="UNASSIGNED">In all, 83 patients were prospectively enrolled in this study: 24 patients were in the robotic-assisted surgery (RAS) group and 59 patients were in the laparoscopic surgery (LS) group. The baseline characteristics of the study cohorts were comparable. The mean total operating time for the RAS group was significantly longer than the LS group (89.83 ± 24.31 vs 67.71 ± 18.34 minutes, <i>P</i> = .0000). For the bilateral hernias, the RAS group's total operating time was significantly longer than that of the LS group; however, for the unilateral hernias, there was no discernible difference. Urine retention was the only early complication in 8.33% and 16.95% of patients, respectively, in the RAS and LS groups. The duration of hospital stay did not significantly differ between the 2 groups (<i>P</i> = .395). The pain scores of the RAS group were significantly lower on postoperative days 1, 4, and 7. Patients in the RAS group scored considerably higher on the quality of life (QoL) scale 1 month after surgery than patients in the LS group.</AbstractText>
+          <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">This study reports encouraging preliminary clinical outcomes of RAS inguinal hernia repairs in Indian settings, in terms of postoperative pain and QoL.</AbstractText>
+          <CopyrightInformation>© 2025 by SLS, Society of Laparoscopic &amp; Robotic Surgeons.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wadhawan</LastName>
+            <ForeName>Randeep</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Veetil</LastName>
+            <ForeName>Deepa Kizhakke</ForeName>
+            <Initials>DK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Batra</LastName>
+            <ForeName>Priti</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bhardwaj</LastName>
+            <ForeName>Arun</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Verma</LastName>
+            <ForeName>Naveen Kumar</ForeName>
+            <Initials>NK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JSLS</MedlineTA>
+        <NlmUniqueID>100884618</NlmUniqueID>
+        <ISSNLinking>1086-8089</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006552" MajorTopicYN="Y">Hernia, Inguinal</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071066" MajorTopicYN="Y">Patient Reported Outcome Measures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059685" MajorTopicYN="Y">Herniorrhaphy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Data collection</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopic inguinal repair</Keyword>
+        <Keyword MajorTopicYN="N">Pain</Keyword>
+        <Keyword MajorTopicYN="N">Prospective</Keyword>
+        <Keyword MajorTopicYN="N">Quality of life</Keyword>
+        <Keyword MajorTopicYN="N">Robotic-assisted inguinal repair</Keyword>
+      </KeywordList>
+      <CoiStatement>Conflict of interest: The authors disclose no conflicts of interest. No benefits of any kind have been obtained from a business entity that is connected to the topic of this paper, either directly or indirectly.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>8</Day>
+          <Hour>11</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>8</Day>
+          <Hour>11</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>8</Day>
+          <Hour>5</Hour>
+          <Minute>8</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40336806</ArticleId>
+        <ArticleId IdType="doi">10.4293/JSLS.2025.00005</ArticleId>
+        <ArticleId IdType="pii">JSLS.2025.00005</ArticleId>
+        <ArticleId IdType="pmc">PMC12057728</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Surg Endosc. 2018 Apr;32(4):2131-2136</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29067575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am Surg. 2016 Oct;82(10):1014-1017</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27779996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2018 Dec;32(12):4850-4859</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29766308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJS Open. 2021 Jan 8;5(1):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33609369</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2024 Feb 26;19(2):e0298989</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38408054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ANZ J Surg. 2021 Nov;91(11):2277-2287</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33475236</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2018 Jan;267(1):171-176</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27655239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hernia. 2020 Oct;24(5):1069-1081</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32495043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2022 Aug;16(4):775-781</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34609697</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Today. 2022 Oct;52(10):1395-1404</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34860300</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cureus. 2023 Feb 27;15(2):e35562</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36874312</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2020 Aug;34(8):3496-3507</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31571036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Oncol. 2015 Sep;112(3):310-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26153353</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2017 Sep;41(9):2251-2257</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28337532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2016 Sep;10(3):239-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27112781</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2010 Dec;24(12):3026-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20454807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hernia. 2024 Aug;28(4):1205-1214</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38503978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2023 Jan;37(1):723-728</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35578051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Res. 2019 Sep;241:247-253</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31035139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arq Bras Cir Dig. 2018 Dec 06;31(4):e1408</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30539983</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2019 Oct;33(10):3436-3443</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30535936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2018 Jun;12(2):261-269</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28707149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA Surg. 2020 May 1;155(5):380-387</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32186683</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 1990 Apr;159(4):370-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2138432</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pers Med. 2024 Jan 16;14(1):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38248801</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trials. 2024 Aug 8;25(1):529</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39118135</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2013 Nov;27(11):4142-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23708722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2007 Oct;178(4 Pt 1):1296-9; discussion 1299-300</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17698133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cureus. 2023 Apr 24;15(4):e38053</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37122980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2020 Aug;16(4):e2111</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32303112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">40368722</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2405-4569</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>11</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>European urology focus</Title>
+          <ISOAbbreviation>Eur Urol Focus</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Contemporary Practice in Adrenal Surgery: A Review of Multiport versus Single-port and Transperitoneal versus Retroperitoneal Approaches.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>26-28</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S2405-4569(25)00116-6</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.euf.2025.05.004</ELocationID>
+        <Abstract>
+          <AbstractText>Robotic adrenalectomy has emerged as the preferred approach for adrenal gland surgery because of its greater precision, better ergonomics, good safety profile, and minimally invasive nature. There is ongoing debate over the optimal surgical approach, specifically regarding multiport versus single-port platforms, and transperitoneal versus retroperitoneal access. Multiport robotic adrenalectomy remains the standard because of its familiarity and wider surgical exposure, whereas single-port surgery offers the advantage of better cosmesis and lower incision-related morbidity despite a more challenging learning curve. The transperitoneal approach provides familiar and superior anatomic visibility and working space, while the retroperitoneal approach avoids intra-abdominal dissection, reduces postoperative ileus, and may be preferable in selected patients. This review summarises the advantages and limitations of each technique to inform surgical decision-making. PATIENT SUMMARY: This review compares ways of performing keyhole surgery on the adrenal gland. Keyhole surgery using multiple small incisions has been more common because of the ease of use and familiarity, while keyhole surgery using a single incision has better cosmetic results but is more difficult. Accessing the adrenal gland through the abdomen (transperitoneal access) provides better visibility, whereas access by avoiding the abdomen (retroperitoneal access) allows faster patient recovery after surgery.</AbstractText>
+          <CopyrightInformation>Copyright © 2025 European Association of Urology. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hegazy</LastName>
+            <ForeName>Mohammed</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Guy's and St. Thomas' NHS Trust, London, UK. Electronic address: mohammedheg@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Toubasey</LastName>
+            <ForeName>Saif</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>King's College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Giudice</LastName>
+            <ForeName>Francesco Del</ForeName>
+            <Initials>FD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Guy's and St. Thomas' NHS Trust, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Challacombe</LastName>
+            <ForeName>Ben</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Guy's and St. Thomas' NHS Trust, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>13</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>Eur Urol Focus</MedlineTA>
+        <NlmUniqueID>101665661</NlmUniqueID>
+        <ISSNLinking>2405-4569</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000315" MajorTopicYN="Y">Adrenalectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012187" MajorTopicYN="N">Retroperitoneal Space</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000310" MajorTopicYN="Y">Adrenal Gland Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010537" MajorTopicYN="N">Peritoneum</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000311" MajorTopicYN="N">Adrenal Glands</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Adrenal surgery</Keyword>
+        <Keyword MajorTopicYN="N">Extraperitoneal</Keyword>
+        <Keyword MajorTopicYN="N">Multiport surgery</Keyword>
+        <Keyword MajorTopicYN="N">Retroperitoneal</Keyword>
+        <Keyword MajorTopicYN="N">Robotics</Keyword>
+        <Keyword MajorTopicYN="N">Single-port surgery</Keyword>
+        <Keyword MajorTopicYN="N">Transperitoneal</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2025</Year>
+          <Month>04</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>6</Month>
+          <Day>16</Day>
+          <Hour>11</Hour>
+          <Minute>11</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+          <Hour>0</Hour>
+          <Minute>36</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>14</Day>
+          <Hour>21</Hour>
+          <Minute>58</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40368722</ArticleId>
+        <ArticleId IdType="pii">S2405-4569(25)00116-6</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.euf.2025.05.004</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">40522553</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1863-2491</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>19</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jun</Month>
+              <Day>16</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of robotic surgery</Title>
+          <ISOAbbreviation>J Robot Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic vs laparoscopic approaches of pancreatic resection: a systematic review and meta-analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>295</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11701-025-02446-7</ELocationID>
+        <Abstract>
+          <AbstractText>Pancreatic resection is necessary to treat pancreatic diseases, especially malignancy. Minimally invasive procedures, including robotic (RPR) and laparoscopic (LPR) pancreatic resections, have grown in popularity due to their potential to improve recovery and lower morbidity. The aim of this study is to provide evidence-based data for clinical decision-making by systematically comparing RPR and LPR with respect to postoperative recovery, perioperative safety, and oncological outcomes. A systematic review and meta-analysis following PRISMA guidelines was conducted using PubMed, Google Scholar, Cochrane, and Web of Science. Two independent reviewers extracted data, and pooled prevalence was analyzed using a random-effects model. Heterogeneity was assessed with Higgins I<sup>2</sup> and Cochran's Q test. A sensitivity analysis was done using R. Forty-six peer-reviewed articles with follow-up periods ranging from 3 to 288 months were included in this review. Robotic surgery was performed in 4.8%-67.6% of cases, with patient ages ranging from 30 to 70 years. A considerably shorter hospital stay (MD: - 0.72, P = 0.004) and a higher rate of conversion to open surgery (OR: 0.52, P &lt; 0.00001) were associated with RPR. However, no significant differences were observed between RPR.and LPR in important outcomes, including resection rate, lymph node yield, overall complications, operating time, 90-day mortality, and postoperative complications. While RPR outperforms LPR in terms of conversion and hospital stay rates, it is not significantly superior in terms of oncological outcomes and morbidity rate. The high heterogeneity in the studies suggests the need for more research to determine the optimal minimally invasive technique for pancreatic surgery.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s), under exclusive licence to Springer-Verlag London Ltd., part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Jamjoum</LastName>
+            <ForeName>Ghader</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, King Abdulaziz University Hospital, Jeddah, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Gastrointestinal Oncology Unit, King Abdulaziz University Hospital, Jeddah, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Altoukhi</LastName>
+            <ForeName>Samar M</ForeName>
+            <Initials>SM</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Medicine, University of Jeddah, Jeddah, Saudi Arabia. samaraltoukhi72@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alsulaimani</LastName>
+            <ForeName>Muntaha Sami</ForeName>
+            <Initials>MS</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Medicine, University of Jeddah, Jeddah, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alghamidi</LastName>
+            <ForeName>Fouad Abdulsalam S</ForeName>
+            <Initials>FAS</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Medicine, King Khalid University, Abha, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alqahtani</LastName>
+            <ForeName>Muath A</ForeName>
+            <Initials>MA</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Medicine, King Khalid University, Abha, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aljedani</LastName>
+            <ForeName>Lina Saleh</ForeName>
+            <Initials>LS</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Medicine, University of Jeddah, Jeddah, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alahmari</LastName>
+            <ForeName>Ziyad Khalid</ForeName>
+            <Initials>ZK</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Medicine, King Khalid University, Abha, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Maghrabi</LastName>
+            <ForeName>Ashraf</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, King Abdulaziz University, Jeddah, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D000078182">Systematic Review</PublicationType>
+          <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>06</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Robot Surg</MedlineTA>
+        <NlmUniqueID>101300401</NlmUniqueID>
+        <ISSNLinking>1863-2483</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010180" MajorTopicYN="Y">Pancreatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010190" MajorTopicYN="N">Pancreatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Laparoscopic</Keyword>
+        <Keyword MajorTopicYN="N">Pancreatic resection</Keyword>
+        <Keyword MajorTopicYN="N">Robotic</Keyword>
+        <Keyword MajorTopicYN="N">Surgery</Keyword>
+        <Keyword MajorTopicYN="N">Systematic review</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Conflict of interests: The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>04</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>6</Month>
+          <Day>16</Day>
+          <Hour>12</Hour>
+          <Minute>29</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>6</Month>
+          <Day>16</Day>
+          <Hour>12</Hour>
+          <Minute>28</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>6</Month>
+          <Day>16</Day>
+          <Hour>11</Hour>
+          <Minute>17</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40522553</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11701-025-02446-7</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11701-025-02446-7</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Qadir RMAB, Umair MB, Tariq UB, Ahmad A, Kiran W, Shahid MH et al (2024) Unraveling pancreatic cancer: epidemiology, risk factors, and global trends. Cureus. https://doi.org/10.7759/cureus.72816</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7759/cureus.72816</ArticleId>
+            <ArticleId IdType="pubmed">39776729</ArticleId>
+            <ArticleId IdType="pmcid">11706570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aziz H. Analysis of outcomes of open robotic and laparoscopic pancreaticoduodenectomy using NSQIP 2018.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Marino MV, Mirabella A, Gomez Ruiz M, Komorowski AL (2019) Robotic-assisted versus laparoscopic distal pancreatectomy: the results of a case-matched analysis from a tertiary care center. Dig Surg 37:229–239. https://doi.org/10.1159/000501428</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1159/000501428</ArticleId>
+            <ArticleId IdType="pubmed">31269490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eckhardt S, Schicker C, Maurer E, Fendrich V, Bartsch DK (2016) Robotic-assisted approach improves vessel preservation in spleen-preserving distal pancreatectomy. Dig Surg 33:406–413. https://doi.org/10.1159/000444269</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1159/000444269</ArticleId>
+            <ArticleId IdType="pubmed">27160088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee SY, Allen PJ, Sadot E, D’Angelica MI, DeMatteo RP, Fong Y et al (2015) Distal pancreatectomy: a single institution’s experience in open, laparoscopic, and robotic approaches. J Am Coll Surg 220:18–27. https://doi.org/10.1016/j.jamcollsurg.2014.10.004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jamcollsurg.2014.10.004</ArticleId>
+            <ArticleId IdType="pubmed">25456783</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Di Franco G, Peri A, Lorenzoni V, Palmeri M, Furbetta N, Guadagni S et al (2022) Minimally invasive distal pancreatectomy: a case-matched cost-analysis between robot-assisted surgery and direct manual laparoscopy. Surg Endosc 36:651–662. https://doi.org/10.1007/s00464-021-08332-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-021-08332-1</ArticleId>
+            <ArticleId IdType="pubmed">33534074</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acciuffi S, Hilal MA, Ferrari C, Al-Madhi S, Chouillard M-A, Messaoudi N et al (2024) Study international multicentric pancreatic left resections (SIMPLR): does surgical approach matter? Cancers (Basel). https://doi.org/10.3390/cancers16051051</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers16051051</ArticleId>
+            <ArticleId IdType="pubmed">38672577</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ausania F, Landi F, Martinie JB, Vrochides D, Walsh M, Hossain SM et al (2023) Robotic versus laparoscopic distal pancreatectomy in obese patients. Surg Endosc 37:8384–8393. https://doi.org/10.1007/s00464-023-10361-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-023-10361-x</ArticleId>
+            <ArticleId IdType="pubmed">37715084</ArticleId>
+            <ArticleId IdType="pmcid">10615948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baimas-George M, Watson M, Salibi P, Tschuor C, Murphy KJ, Iannitti D et al (2021) Oncologic outcomes of robotic left pancreatectomy for pancreatic adenocarcinoma: a single-center comparison to laparoscopic resection. Am Surg 87:45–49. https://doi.org/10.1177/0003134820949524</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/0003134820949524</ArticleId>
+            <ArticleId IdType="pubmed">32915060</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kahramangil Baytar D, Charles A, Parrish A, Voskamp S, Novikov A, McKean J et al (2024) A comparative analysis of robotic versus laparoscopic total pancreatectomy: insights from the National Cancer Database. J Robotic Surg 18:372. https://doi.org/10.1007/s11701-024-02104-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-024-02104-4</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Benizri EI, Germain A, Ayav A, Bernard J-L, Zarnegar R, Benchimol D et al (2014) Short-term perioperative outcomes after robot-assisted and laparoscopic distal pancreatectomy. J Robot Surg 8:125–132. https://doi.org/10.1007/s11701-013-0438-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-013-0438-8</ArticleId>
+            <ArticleId IdType="pubmed">27637522</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Butturini G, Damoli I, Crepaz L, Malleo G, Marchegiani G, Daskalaki D et al (2015) A prospective non-randomised single-center study comparing laparoscopic and robotic distal pancreatectomy. Surg Endosc 29:3163–3170. https://doi.org/10.1007/s00464-014-4043-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-014-4043-3</ArticleId>
+            <ArticleId IdType="pubmed">25552231</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chao Y-J, Lu W-H, Liao T-K, Su P-J, Wang C-J, Lai C-H et al (2023) Feasibility of simultaneous development of laparoscopic and robotic pancreaticoduodenectomy. Sci Rep. https://doi.org/10.1038/s41598-023-33269-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-023-33269-x</ArticleId>
+            <ArticleId IdType="pubmed">38040954</ArticleId>
+            <ArticleId IdType="pmcid">10692213</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen S, Zhan Q, Chen J, Jin J, Deng X, Chen H et al (2015) Robotic approach improves spleen-preserving rate and shortens postoperative hospital stay of laparoscopic distal pancreatectomy: a matched cohort study. Surg Endosc 29:3507–3518. https://doi.org/10.1007/s00464-015-4101-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-015-4101-5</ArticleId>
+            <ArticleId IdType="pubmed">25791063</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Daouadi M, Zureikat AH, Zenati MS, Choudry H, Tsung A, Bartlett DL et al (2013) Robot-assisted minimally invasive distal pancreatectomy is superior to the laparoscopic technique. Ann Surg 257:128–132. https://doi.org/10.1097/SLA.0b013e31825fff08</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0b013e31825fff08</ArticleId>
+            <ArticleId IdType="pubmed">22868357</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ding H, Kawka M, Gall TMH, Wadsworth C, Habib N, Nicol D et al (2023) Robotic distal pancreatectomy yields superior outcomes compared to laparoscopic technique: a single surgeon experience of 123 consecutive cases. Cancers. https://doi.org/10.3390/cancers15225492</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers15225492</ArticleId>
+            <ArticleId IdType="pubmed">38201434</ArticleId>
+            <ArticleId IdType="pmcid">10778229</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Duran H, Ielpo B, Caruso R, Ferri V, Quijano Y, Diaz E et al (2014) Does robotic distal pancreatectomy surgery offer similar results as laparoscopic and open approach? A comparative study from a single medical center. Int J Med Robot 10:280–285. https://doi.org/10.1002/rcs.1569</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/rcs.1569</ArticleId>
+            <ArticleId IdType="pubmed">24431290</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Emmen AMLH, Görgec B, Zwart MJW, Daams F, Erdmann J, Festen S et al (2023) Impact of shifting from laparoscopic to robotic surgery during 600 minimally invasive pancreatic and liver resections. Surg Endosc 37:2659–2672. https://doi.org/10.1007/s00464-022-09735-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-022-09735-4</ArticleId>
+            <ArticleId IdType="pubmed">36401105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Emmen AMLH, Zwart MJW, Khatkov IE, Boggi U, Groot Koerkamp B, Busch OR et al (2024) Robot-assisted versus laparoscopic pancreatoduodenectomy: a pan-European multicenter propensity-matched study. Surgery 175:1587–1594. https://doi.org/10.1016/j.surg.2024.02.015</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2024.02.015</ArticleId>
+            <ArticleId IdType="pubmed">38570225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lai ECH, Tang CN (2015) Robotic distal pancreatectomy versus conventional laparoscopic distal pancreatectomy: a comparative study for short-term outcomes. Front Med 9:356–360. https://doi.org/10.1007/s11684-015-0404-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11684-015-0404-0</ArticleId>
+            <ArticleId IdType="pubmed">26271291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goh BKP, Low T-Y, Kam J-H, Lee S-Y, Chan C-Y (2019) Initial experience with laparoscopic and robotic surgery for the treatment of periampullary tumours: single institution experience with the first 30 consecutive cases. ANZ J Surg. https://doi.org/10.1111/ans.15033</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/ans.15033</ArticleId>
+            <ArticleId IdType="pubmed">31721400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo W, Ye X, Li J, Lu S, Wang M, Wang Z et al (2022) Comparison of surgical outcomes among open, laparoscopic, and robotic pancreatoduodenectomy: a single-center retrospective study. BMC Surg. https://doi.org/10.1186/s12893-022-01797-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12893-022-01797-4</ArticleId>
+            <ArticleId IdType="pubmed">36474286</ArticleId>
+            <ArticleId IdType="pmcid">9724394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Han HJ, Kang CM (2019) Reduced port minimally invasive distal pancreatectomy: single-port laparoscopic versus robotic single-site plus one-port distal pancreatectomy. Surg Endosc 33:1091–1099. https://doi.org/10.1007/s00464-018-6361-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-018-6361-3</ArticleId>
+            <ArticleId IdType="pubmed">29998392</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hong S, Song KB, Madkhali AA, Hwang K, Yoo D, Lee JW et al (2020) Robotic versus laparoscopic distal pancreatectomy for left-sided pancreatic tumors: a single surgeon’s experience of 228 consecutive cases. Surg Endosc 34:2465–2473. https://doi.org/10.1007/s00464-019-07047-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-019-07047-8</ArticleId>
+            <ArticleId IdType="pubmed">31463719</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jureidini R, Namur GN, Ribeiro TC, Bacchella T, Stolzemburg L, Jukemura J et al (2023) Robotic assisted versus laparoscopic distal pancreatectomy: a retrospective study. Arq Bras Cir Dig. https://doi.org/10.1590/0102-672020230065e1783</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1590/0102-672020230065e1783</ArticleId>
+            <ArticleId IdType="pubmed">38088728</ArticleId>
+            <ArticleId IdType="pmcid">10712921</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kalabin A, Mani VR, Kruse RL, Schlesselman C, Li KY, Staveley-O’Carroll KF et al (2023) New perspectives on robotic pancreaticoduodenectomy: an analysis of the national cancer database. World J Gastrointest Surg. https://doi.org/10.4240/wjgs.v15.i1.60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4240/wjgs.v15.i1.60</ArticleId>
+            <ArticleId IdType="pubmed">36741067</ArticleId>
+            <ArticleId IdType="pmcid">9896499</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kang CM, Kim DH, Lee WJ, Chi HS (2011) Conventional laparoscopic and robot-assisted spleen-preserving pancreatectomy: does da Vinci have clinical advantages? Surg Endosc 25:2004–2009. https://doi.org/10.1007/s00464-010-1504-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-010-1504-1</ArticleId>
+            <ArticleId IdType="pubmed">21136089</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ielpo B, Duran H, Diaz E, Fabra I, Caruso R, Malavé L et al (2017) Robotic versus laparoscopic distal pancreatectomy: a comparative study of clinical outcomes and costs analysis. Int J Surg 48:300–304. https://doi.org/10.1016/j.ijsu.2017.10.075</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ijsu.2017.10.075</ArticleId>
+            <ArticleId IdType="pubmed">29122707</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu R, Zhang T, Zhao Z-M, Tan X-L, Zhao G-D, Zhang X et al (2017) The surgical outcomes of robot-assisted laparoscopic pancreaticoduodenectomy versus laparoscopic pancreaticoduodenectomy for periampullary neoplasms: a comparative study of a single center. Surg Endosc 31:2380–2386. https://doi.org/10.1007/s00464-016-5238-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-016-5238-6</ArticleId>
+            <ArticleId IdType="pubmed">27631318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu R, Liu Q, Zhao Z-M, Tan X-L, Gao Y-X, Zhao G-D (2017) Robotic versus laparoscopic distal pancreatectomy: a propensity score-matched study. J Surg Oncol 116:461–469. https://doi.org/10.1002/jso.24676</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jso.24676</ArticleId>
+            <ArticleId IdType="pubmed">28628713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lof S, van der Heijde N, Abuawwad M, Al-Sarireh B, Boggi U, Butturini G et al (2021) Robotic versus laparoscopic distal pancreatectomy: multicentre analysis. Br J Surg 108:188–195. https://doi.org/10.1093/bjs/znaa039</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bjs/znaa039</ArticleId>
+            <ArticleId IdType="pubmed">33711145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Raoof M, Nota CLMA, Melstrom LG, Warner SG, Woo Y, Singh G et al (2018) Oncologic outcomes after robot-assisted versus laparoscopic distal pancreatectomy: analysis of the National Cancer Database. J Surg Oncol 118:651–656. https://doi.org/10.1002/jso.25170</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jso.25170</ArticleId>
+            <ArticleId IdType="pubmed">30114321</ArticleId>
+            <ArticleId IdType="pmcid">6386178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nassour I, Choti MA, Porembka MR, Yopp AC, Wang SC, Polanco PM (2018) Robotic-assisted versus laparoscopic pancreaticoduodenectomy: oncological outcomes. Surg Endosc 32:2907–2913. https://doi.org/10.1007/s00464-017-6002-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-017-6002-2</ArticleId>
+            <ArticleId IdType="pubmed">29280014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nell S, Brunaud L, Ayav A, Bonsing BA, Groot Koerkamp B, Nieveen van Dijkum EJ et al (2016) Robot-assisted spleen preserving pancreatic surgery in MEN1 patients. J Surg Oncol. https://doi.org/10.1002/jso.24315</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jso.24315</ArticleId>
+            <ArticleId IdType="pubmed">27263513</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van Oosten AF, Ding D, Habib JR, Irfan A, Schmocker RK, Sereni E et al (2021) Perioperative outcomes of robotic pancreaticoduodenectomy: a propensity-matched analysis to open and laparoscopic pancreaticoduodenectomy. J Gastrointest Surg 25:1795–1804. https://doi.org/10.1007/s11605-020-04869-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11605-020-04869-z</ArticleId>
+            <ArticleId IdType="pubmed">33201457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Park SE, Choi HJ, You YK, Hong TH (2021) Effectiveness and stability of robot-assisted anastomosis in minimally invasive pancreaticoduodenectomy. Ann Surg Treat Res 100:329–337. https://doi.org/10.4174/astr.2021.100.6.329</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4174/astr.2021.100.6.329</ArticleId>
+            <ArticleId IdType="pubmed">34136429</ArticleId>
+            <ArticleId IdType="pmcid">8176201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De Pastena M, Esposito A, Paiella S, Surci N, Montagnini G, Marchegiani G et al (2021) Cost-effectiveness and quality of life analysis of laparoscopic and robotic distal pancreatectomy: a propensity score-matched study. Surg Endosc 35:1420–1428. https://doi.org/10.1007/s00464-020-07528-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-020-07528-1</ArticleId>
+            <ArticleId IdType="pubmed">32240383</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rodriguez M, Memeo R, Leon P, Panaro F, Tzedakis S, Perotto O et al (2018) Which method of distal pancreatectomy is cost-effective among open laparoscopic or robotic surgery? Hepatobiliary Surg Nutr. https://doi.org/10.21037/hbsn.2018.09.03</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21037/hbsn.2018.09.03</ArticleId>
+            <ArticleId IdType="pubmed">30498710</ArticleId>
+            <ArticleId IdType="pmcid">6230836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ryan CE, Ross SB, Sukharamwala PB, Sadowitz BD, Wood TW, Rosemurgy AS (2015) Distal pancreatectomy and splenectomy: a robotic or LESS approach. JSLS. https://doi.org/10.4293/JSLS.2014.00246</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4293/JSLS.2014.00246</ArticleId>
+            <ArticleId IdType="pubmed">26175552</ArticleId>
+            <ArticleId IdType="pmcid">4487956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Souche R, Herrero A, Bourel G, Chauvat J, Pirlet I, Guillon F et al (2018) Robotic versus laparoscopic distal pancreatectomy: a French prospective single-center experience and cost-effectiveness analysis. Surg Endosc 32:3562–3569. https://doi.org/10.1007/s00464-018-6080-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-018-6080-9</ArticleId>
+            <ArticleId IdType="pubmed">29396754</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tyutyunnik P, Klompmaker S, Lombardo C, Lapshyn H, Menonna F, Napoli N et al (2022) Learning curve of three European centers in laparoscopic, hybrid laparoscopic, and robotic pancreatoduodenectomy. Surg Endosc 36:1515–1526. https://doi.org/10.1007/s00464-021-08439-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-021-08439-5</ArticleId>
+            <ArticleId IdType="pubmed">33825015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Waters JA, Canal DF, Wiebke EA, Dumas RP, Beane JD, Aguilar-Saavedra JR et al (2010) Robotic distal pancreatectomy: cost effective? Surgery 148:814–823. https://doi.org/10.1016/j.surg.2010.07.027</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2010.07.027</ArticleId>
+            <ArticleId IdType="pubmed">20797748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wehrle CJ, Chang JH, Gross AR, Woo K, Naples R, Stackhouse KA et al (2024) Comparing oncologic and surgical outcomes of robotic and laparoscopic pancreatoduodenectomy in patients with pancreatic cancer: a propensity-matched analysis. Surg Endosc 38:2602–2610. https://doi.org/10.1007/s00464-024-10783-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-024-10783-1</ArticleId>
+            <ArticleId IdType="pubmed">38498210</ArticleId>
+            <ArticleId IdType="pmcid">11078803</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xourafas D, Ashley SW, Clancy TE (2017) Comparison of perioperative outcomes between open, laparoscopic, and robotic distal pancreatectomy: an analysis of 1815 patients from the ACS-NSQIP procedure-targeted pancreatectomy database. J Gastrointest Surg 21:1442–1452. https://doi.org/10.1007/s11605-017-3463-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11605-017-3463-5</ArticleId>
+            <ArticleId IdType="pubmed">28573358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Revisiting the potential advantage of robotic surgical system in spleen-preserving distal pancreatectomy over conventional laparoscopic approach - PubMed n.d. https://pubmed.ncbi.nlm.nih.gov/32309335/ (accessed April 21, 2025).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang J, Jin J, Chen S, Gu J, Zhu Y, Qin K et al (2017) Minimally invasive distal pancreatectomy for PNETs: laparoscopic or robotic approach? Oncotarget. https://doi.org/10.18632/oncotarget.17513</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/oncotarget.17513</ArticleId>
+            <ArticleId IdType="pubmed">30546827</ArticleId>
+            <ArticleId IdType="pmcid">5814161</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, Hong D, Zhang C, Hu Z (2018) Total laparoscopic versus robot-assisted laparoscopic pancreaticoduodenectomy. Biosci Trends 12:484–490. https://doi.org/10.5582/bst.2018.01236</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5582/bst.2018.01236</ArticleId>
+            <ArticleId IdType="pubmed">30473556</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zong K, Luo K, Chen K, Ye J, Liu W, Zhai W (2022) A comparative study of robotics and laparoscopic in minimally invasive pancreatoduodenectomy: a single-center experience. Front Oncol. https://doi.org/10.3389/fonc.2022.960241</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fonc.2022.960241</ArticleId>
+            <ArticleId IdType="pubmed">36276160</ArticleId>
+            <ArticleId IdType="pmcid">9581246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guerrini GP, Lauretta A, Belluco C, Olivieri M, Forlin M, Basso S et al (2017) Robotic versus laparoscopic distal pancreatectomy: an up-to-date meta-analysis. BMC Surg 17:105. https://doi.org/10.1186/s12893-017-0301-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12893-017-0301-3</ArticleId>
+            <ArticleId IdType="pubmed">29121885</ArticleId>
+            <ArticleId IdType="pmcid">5680787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim DH, Kang CM, Lee WJ, Chi HS (2011) The first experience of robot assisted spleen-preserving laparoscopic distal pancreatectomy in Korea. Yonsei Med J 52:539–542. https://doi.org/10.3349/ymj.2011.52.3.539</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3349/ymj.2011.52.3.539</ArticleId>
+            <ArticleId IdType="pubmed">21488201</ArticleId>
+            <ArticleId IdType="pmcid">3101058</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

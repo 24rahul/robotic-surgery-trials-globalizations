@@ -1,0 +1,1173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37485989</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>01</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>02</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1528-1140</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>279</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Feb</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annals of surgery</Title>
+          <ISOAbbreviation>Ann Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Propensity Score-Matching Analysis Comparing Robotic Versus Laparoscopic Limited Liver Resections of the Posterosuperior Segments: An International Multicenter Study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>297-305</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/SLA.0000000000006027</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The purpose of this study was to compare the outcomes of robotic limited liver resections (RLLR) versus laparoscopic limited liver resections (LLLR) of the posterosuperior segments.</AbstractText>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Both laparoscopic and robotic liver resections have been used for tumors in the posterosuperior liver segments. However, the comparative performance and safety of both approaches have not been well examined in the existing literature.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This is a post hoc analysis of a multicenter database of 5446 patients who underwent RLLR or LLLR of the posterosuperior segments (I, IVa, VII, and VIII) at 60 international centers between 2008 and 2021. Data on baseline demographics, center experience and volume, tumor features, and perioperative characteristics were collected and analyzed. Propensity score-matching (PSM) analysis (in both 1:1 and 1:2 ratios) was performed to minimize selection bias.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 3510 cases met the study criteria, of whom 3049 underwent LLLR (87%), and 461 underwent RLLR (13%). After PSM (1:1: and 1:2), RLLR was associated with a lower open conversion rate [10 of 449 (2.2%) vs 54 of 898 (6.0%); P =0.002], less blood loss [100 mL [IQR: 50-200) days vs 150 mL (IQR: 50-350); P &lt;0.001] and a shorter operative time (188 min (IQR: 140-270) vs 222 min (IQR: 158-300); P &lt;0.001]. These improved perioperative outcomes associated with RLLR were similarly seen in a subset analysis of patients with cirrhosis-lower open conversion rate [1 of 136 (0.7%) vs 17 of 272 (6.2%); P =0.009], less blood loss [100 mL (IQR: 48-200) vs 160 mL (IQR: 50-400); P &lt;0.001], and shorter operative time [190 min (IQR: 141-258) vs 230 min (IQR: 160-312); P =0.003]. Postoperative outcomes in terms of readmission, morbidity and mortality were similar between RLLR and LLLR in both the overall PSM cohort and cirrhosis patient subset.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">RLLR for the posterosuperior segments was associated with superior perioperative outcomes in terms of decreased operative time, blood loss, and open conversion rate when compared with LLLR.</AbstractText>
+          <CopyrightInformation>Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Krenzien</LastName>
+            <ForeName>Felix</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte and Campus Virchow-Klinikum, Charité-Universitätsmedizin, Corporate Member of Freie Universität Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schmelzle</LastName>
+            <ForeName>Moritz</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte and Campus Virchow-Klinikum, Charité-Universitätsmedizin, Corporate Member of Freie Universität Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pratschke</LastName>
+            <ForeName>Johann</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte and Campus Virchow-Klinikum, Charité-Universitätsmedizin, Corporate Member of Freie Universität Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Feldbrügge</LastName>
+            <ForeName>Linda</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte and Campus Virchow-Klinikum, Charité-Universitätsmedizin, Corporate Member of Freie Universität Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Rong</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Hepatopancreatobiliary Surgery, the First Medical Center of Chinese People's Liberation Army (PLA) General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Qu</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Hepatopancreatobiliary Surgery, the First Medical Center of Chinese People's Liberation Army (PLA) General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Wanguang</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepatic Surgery Center and Hubei Key Laboratory of Hepato-Biliary-Pancreatic Diseases, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Joseph J</ForeName>
+            <Initials>JJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatopancreatobiliary and Transplant Surgery, Singapore General Hospital and National Cancer Centre Singapore, Singapore, Singapore.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tan</LastName>
+            <ForeName>Hwee-Leong</ForeName>
+            <Initials>HL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatopancreatobiliary and Transplant Surgery, Singapore General Hospital and National Cancer Centre Singapore, Singapore, Singapore.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cipriani</LastName>
+            <ForeName>Federica</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepatobiliary Surgery Division, IRCCS San Raffaele Hospital, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hoogteijling</LastName>
+            <ForeName>Tijs J</ForeName>
+            <Initials>TJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Fondazione Poliambulanza, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aghayan</LastName>
+            <ForeName>Davit L</ForeName>
+            <Initials>DL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of HPB Surgery, The Intervention Centre, Oslo University Hospital, Institute of Clinical Medicine, University of Oslo, Oslo, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fretland</LastName>
+            <ForeName>Åsmund A</ForeName>
+            <Initials>ÅA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of HPB Surgery, The Intervention Centre, Oslo University Hospital, Institute of Clinical Medicine, University of Oslo, Oslo, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Siow</LastName>
+            <ForeName>Tiing Foong</ForeName>
+            <Initials>TF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Division of General Surgery, Far Eastern Memorial Hospital, New Taipei City, Taiwan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lim</LastName>
+            <ForeName>Chetana</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive, HBP and Liver Transplantation, Hopital Pitie-Salpetriere, Sorbonne Universite, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Scatton</LastName>
+            <ForeName>Olivier</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive, HBP and Liver Transplantation, Hopital Pitie-Salpetriere, Sorbonne Universite, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Herman</LastName>
+            <ForeName>Paulo</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Liver Surgery Unit, Department of Gastroenterology, University of Sao Paulo School of Medicine, Sao Paulo, Brazil.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Coelho</LastName>
+            <ForeName>Fabricio F</ForeName>
+            <Initials>FF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Liver Surgery Unit, Department of Gastroenterology, University of Sao Paulo School of Medicine, Sao Paulo, Brazil.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Marino</LastName>
+            <ForeName>Marco V</ForeName>
+            <Initials>MV</Initials>
+            <AffiliationInfo>
+              <Affiliation>General Surgery Department, Azienda Ospedaliera Ospedali Riuniti Villa Sofia-Cervello, Palermo, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Oncologic Surgery Department, P. Giaccone University Hospital, Palermo, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mazzaferro</LastName>
+            <ForeName>Vincenzo</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>HPB Surgery and Liver Transplantation, Fondazione IRCCS Istituto Nazionale Tumori di Milano and University of Milan, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chiow</LastName>
+            <ForeName>Adrian K H</ForeName>
+            <Initials>AKH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepatopancreatobiliary Unit, Department of Surgery, Changi General Hospital, Singapore.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sucandy</LastName>
+            <ForeName>Iswanto</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Digestive Health Institute, AdventHealth Tampa, Tampa, FL.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ivanecz</LastName>
+            <ForeName>Arpad</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Abdominal and General Surgery, University Medical Center Maribor, Maribor, Slovenia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Choi</LastName>
+            <ForeName>Sung Hoon</ForeName>
+            <Initials>SH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Jae Hoon</ForeName>
+            <Initials>JH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Division of Hepato-Biliary and Pancreatic Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gastaca</LastName>
+            <ForeName>Mikel</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepatobiliary Surgery and Liver Transplantation Unit, Biocruces Bizkaia Health Research Institute, Cruces University Hospital, University of the Basque Country, Bilbao, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vivarelli</LastName>
+            <ForeName>Marco</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>HPB Surgery and Transplantation Unit, Department of Experimental and Clinical Medicine, United Hospital of Ancona, Polytechnic University of Marche, Ancona, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Giuliante</LastName>
+            <ForeName>Felice</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepatobiliary Surgery Unit, Fondazione Policlinico Universitario A. Gemelli, IRCCS, Catholic University of the Sacred Heart, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dalla Valle</LastName>
+            <ForeName>Bernardo</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>General and Hepatobiliary Surgery, Department of Surgery, Dentistry, Gynecology and Pediatrics, University of Verona, GB Rossi Hospital, Verona, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ruzzenente</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>General and Hepatobiliary Surgery, Department of Surgery, Dentistry, Gynecology and Pediatrics, University of Verona, GB Rossi Hospital, Verona, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yong</LastName>
+            <ForeName>Chee-Chien</ForeName>
+            <Initials>CC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Chang Gung Memorial Hospital, Kaohsiung, Taiwan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Zewei</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary Surgery, Affiliated Jinhua Hospital, Zhejiang University School of Medicine, Jinhua, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yin</LastName>
+            <ForeName>Mengqiu</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary Surgery, Affiliated Jinhua Hospital, Zhejiang University School of Medicine, Jinhua, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fondevila</LastName>
+            <ForeName>Constantino</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>General and Digestive Surgery, Hospital Clinic, IDIBAPS, CIBERehd, University of Barcelona, Barcelona, Spain.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>General and Digestive Surgery, Hospital Universitario La Paz, IdiPAZ, CIBERehd, Madrid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Efanov</LastName>
+            <ForeName>Mikhail</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepato-Pancreato-Biliary Surgery, Moscow Clinical Scientific Center, Moscow, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Morise</LastName>
+            <ForeName>Zenichi</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Okazaki Medical Center, Fujita Health University School of Medicine, Okazaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Di Benedetto</LastName>
+            <ForeName>Fabrizio</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>HPB Surgery and Liver Transplant Unit, University of Modena and Reggio Emilia, Modena, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brustia</LastName>
+            <ForeName>Raffaele</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive and Hepatobiliary and Pancreatic Surgery, AP-HP, Henri-Mondor Hospital, Creteil, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dalla Valle</LastName>
+            <ForeName>Raffaele</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepatobiliary Surgery Unit, Department of Medicine and Surgery, University of Parma, Parma, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Boggi</LastName>
+            <ForeName>Ugo</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of General and Transplant Surgery, University of Pisa, Pisa, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Geller</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Division of Hepatobiliary and Pancreatic Surgery, University of Pittsburgh Medical Center, Pittsburgh, PA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Belli</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Abdominal Oncology, Division of Hepatopancreatobiliary Surgical Oncology, National Cancer Center-IRCCS-G. Pascale, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Memeo</LastName>
+            <ForeName>Riccardo</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unit of Hepato-Pancreatc-Biliary Surgery, "F. Miulli" General Regional Hospital, Acquaviva delle Fonti, Bari, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gruttadauria</LastName>
+            <ForeName>Salvatore</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department for the Treatment and Study of Abdominal Diseases and Abdominal Transplantation, Istituto di Ricovero e Cura a Carattere Scientifico-Istituto Mediterraneo per i Trapianti e Terapie ad Alta Specializzazione (IRCCS-ISMETT), University of Pittsburgh Medical Center Italy, Palermo, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery and Medical Surgical Specialties, University of Catania, Catania, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mejia</LastName>
+            <ForeName>Alejandro</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>The Liver Institute, Methodist Dallas Medical Center, Dallas, TX.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Park</LastName>
+            <ForeName>James O</ForeName>
+            <Initials>JO</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, University of Washington Medical Center, Seattle, WA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rotellar</LastName>
+            <ForeName>Fernando</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>HPB and Liver Transplant Unit, Department of General Surgery, Clinica Universidad de Navarra, Universidad de Navarra, Pamplona, Spain &amp; Institute of Health Research of Navarra (IdisNA), Pamplona, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Choi</LastName>
+            <ForeName>Gi-Hong</ForeName>
+            <Initials>GH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Division of Hepatopancreatobiliary Surgery, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Robles-Campos</LastName>
+            <ForeName>Ricardo</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral and Transplantation Surgery, Clinic and University Hospital Virgen de la Arrixaca, IMIB-ARRIXACA, El Palmar, Murcia, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Xiaoying</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sutcliffe</LastName>
+            <ForeName>Robert P</ForeName>
+            <Initials>RP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatopancreatobiliary and Liver Transplant Surgery, University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hasegawa</LastName>
+            <ForeName>Kiyoshi</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Hepato-Biliary-Pancreatic Surgery Division, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tang</LastName>
+            <ForeName>Chung-Ngai</ForeName>
+            <Initials>CN</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Pamela Youde Nethersole Eastern Hospital, Hong Kong SAR, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chong</LastName>
+            <ForeName>Charing C N</ForeName>
+            <Initials>CCN</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Prince of Wales Hospital, The Chinese University of Hong Kong, New Territories, Hong Kong SAR, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Kit-Fai</ForeName>
+            <Initials>KF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Prince of Wales Hospital, The Chinese University of Hong Kong, New Territories, Hong Kong SAR, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Meurs</LastName>
+            <ForeName>Juul</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive and Hepatobiliary/Pancreatic Surgery, Groeninge Hospital, Kortrijk, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>D'Hondt</LastName>
+            <ForeName>Mathieu</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive and Hepatobiliary/Pancreatic Surgery, Groeninge Hospital, Kortrijk, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Monden</LastName>
+            <ForeName>Kazuteru</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Fukuyama City Hospital, Hiroshima, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lopez-Ben</LastName>
+            <ForeName>Santiago</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepatobiliary and Pancreatic Surgery Unit, Department of Surgery, Dr. Josep Trueta Hospital, IdIBGi, Girona, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kingham</LastName>
+            <ForeName>T Peter</ForeName>
+            <Initials>TP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ferrero</LastName>
+            <ForeName>Alessandro</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General and Oncological Surgery, Mauriziano Hospital, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ettorre</LastName>
+            <ForeName>Giuseppe M</ForeName>
+            <Initials>GM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of General Surgery and Liver Transplantation, San Camillo Forlanini Hospital, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pascual</LastName>
+            <ForeName>Franco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary Surgery, Assistance Publique Hopitaux de Paris, Centre Hepato-Biliaire, Paul-Brousse Hospital, Villejuif, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cherqui</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary Surgery, Assistance Publique Hopitaux de Paris, Centre Hepato-Biliaire, Paul-Brousse Hospital, Villejuif, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Junhao</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Sir Run-Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Xiao</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Sir Run-Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Soubrane</LastName>
+            <ForeName>Olivier</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive, Oncologic and Metabolic Surgery, Institute Mutualiste Montsouris, Universite Paris Descartes, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wakabayashi</LastName>
+            <ForeName>Go</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Advanced Treatment of Hepatobiliary and Pancreatic Diseases, Ageo Central General Hospital, Saitama, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Troisi</LastName>
+            <ForeName>Roberto I</ForeName>
+            <Initials>RI</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Medicine and Surgery, Division of HPB, Minimally Invasive and Robotic Surgery, Federico II University Hospital Naples, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cheung</LastName>
+            <ForeName>Tan-To</ForeName>
+            <Initials>TT</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Queen Mary Hospital, The University of Hong Kong, Hong Kong SAR, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kato</LastName>
+            <ForeName>Yutaro</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Fujita Health University School of Medicine, Aichi, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sugioka</LastName>
+            <ForeName>Atsushi</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Fujita Health University School of Medicine, Aichi, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dokmak</LastName>
+            <ForeName>Safi</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of HPB Surgery and Liver Transplantation, Beaujon Hospital, University Paris Cite, Clichy, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>D'Silva</LastName>
+            <ForeName>Mizelle</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Seoul National University Hospital Bundang, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Ho-Seong</ForeName>
+            <Initials>HS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Seoul National University Hospital Bundang, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nghia</LastName>
+            <ForeName>Phan Phuoc</ForeName>
+            <Initials>PP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepato-Pancreato-Biliary Surgery, University Medical Center Ho Chi Minh City, University of Medicine and Pharmacy, Ho Chi Minh City, Vietnam.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Long</LastName>
+            <ForeName>Tran Cong Duy</ForeName>
+            <Initials>TCD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepato-Pancreato-Biliary Surgery, University Medical Center Ho Chi Minh City, University of Medicine and Pharmacy, Ho Chi Minh City, Vietnam.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hilal</LastName>
+            <ForeName>Mohammad Abu</ForeName>
+            <Initials>MA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Fondazione Poliambulanza, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, University Hospital Southampton, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Kuo-Hsin</ForeName>
+            <Initials>KH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Division of General Surgery, Far Eastern Memorial Hospital, New Taipei City, Taiwan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fuks</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive, Oncologic and Metabolic Surgery, Institute Mutualiste Montsouris, Universite Paris Descartes, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aldrighetti</LastName>
+            <ForeName>Luca</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepatobiliary Surgery Division, IRCCS San Raffaele Hospital, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Edwin</LastName>
+            <ForeName>Bjørn</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of HPB Surgery, The Intervention Centre, Oslo University Hospital, Institute of Clinical Medicine, University of Oslo, Oslo, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goh</LastName>
+            <ForeName>Brian K P</ForeName>
+            <Initials>BKP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatopancreatobiliary and Transplant Surgery, Singapore General Hospital and National Cancer Centre Singapore, Singapore, Singapore.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Surgery Academic Clinical Programme, Duke-National University of Singapore Medical School, Singapore, Singapore.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <CollectiveName>International robotic and laparoscopic liver resection study group investigators</CollectiveName>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>07</Month>
+          <Day>24</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Ann Surg</MedlineTA>
+        <NlmUniqueID>0372354</NlmUniqueID>
+        <ISSNLinking>0003-4932</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008113" MajorTopicYN="Y">Liver Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="N">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008103" MajorTopicYN="N">Liver Cirrhosis</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006498" MajorTopicYN="N">Hepatectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors report no conflicts of interest.</CoiStatement>
+      <InvestigatorList>
+        <Investigator ValidYN="Y">
+          <LastName>Syn</LastName>
+          <ForeName>Nicholas L</ForeName>
+          <Initials>NL</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Prieto</LastName>
+          <ForeName>Mikel</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>De Meyere</LastName>
+          <ForeName>Celine</ForeName>
+          <Initials>C</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Ng</LastName>
+          <ForeName>Kelvin K</ForeName>
+          <Initials>KK</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Salimgereeva</LastName>
+          <ForeName>Diana</ForeName>
+          <Initials>D</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Alikhanov</LastName>
+          <ForeName>Ruslan</ForeName>
+          <Initials>R</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Thiruchelvam</LastName>
+          <ForeName>Nita</ForeName>
+          <Initials>N</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Jang</LastName>
+          <ForeName>Jae Young</ForeName>
+          <Initials>JY</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Kojima</LastName>
+          <ForeName>Masayuki</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Kruger</LastName>
+          <ForeName>Jaime Arthur Pirola</ForeName>
+          <Initials>JAP</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Lopez-Lopez</LastName>
+          <ForeName>Victor</ForeName>
+          <Initials>V</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Robert</LastName>
+          <ForeName>Margarida Casellas I</ForeName>
+          <Initials>MCI</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Montalti</LastName>
+          <ForeName>Roberto</ForeName>
+          <Initials>R</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Giglio</LastName>
+          <ForeName>Mariano</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Lee</LastName>
+          <ForeName>Boram</ForeName>
+          <Initials>B</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Wang</LastName>
+          <ForeName>Hao-Ping</ForeName>
+          <Initials>HP</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Salleh</LastName>
+          <ForeName>Mansour</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Yu</LastName>
+          <ForeName>Shian</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Vani</LastName>
+          <ForeName>Simone</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Ardito</LastName>
+          <ForeName>Francesco</ForeName>
+          <Initials>F</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Giustizieri</LastName>
+          <ForeName>Ugo</ForeName>
+          <Initials>U</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Citterio</LastName>
+          <ForeName>Davide</ForeName>
+          <Initials>D</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Mocchegiani</LastName>
+          <ForeName>Federico</ForeName>
+          <Initials>F</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Colasanti</LastName>
+          <ForeName>Marco</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Berardi</LastName>
+          <ForeName>Giammauro</ForeName>
+          <Initials>G</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Guzmán</LastName>
+          <ForeName>Yoelimar</ForeName>
+          <Initials>Y</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Labadie</LastName>
+          <ForeName>Kevin P</ForeName>
+          <Initials>KP</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Conticchio</LastName>
+          <ForeName>Maria</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Dogeas</LastName>
+          <ForeName>Epameinondas</ForeName>
+          <Initials>E</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Kauffmann</LastName>
+          <ForeName>Emanuele F</ForeName>
+          <Initials>EF</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Giuffrida</LastName>
+          <ForeName>Mario</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Sommacale</LastName>
+          <ForeName>Daniele</ForeName>
+          <Initials>D</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Amory</LastName>
+          <ForeName>Boris</ForeName>
+          <Initials>B</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Magistri</LastName>
+          <ForeName>Paolo</ForeName>
+          <Initials>P</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Mishima</LastName>
+          <ForeName>Kohei</ForeName>
+          <Initials>K</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Kadam</LastName>
+          <ForeName>Prashant</ForeName>
+          <Initials>P</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Lai</LastName>
+          <ForeName>Eric C H</ForeName>
+          <Initials>ECH</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Ghotbi</LastName>
+          <ForeName>Jacob</ForeName>
+          <Initials>J</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Forchino</LastName>
+          <ForeName>Fabio</ForeName>
+          <Initials>F</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Mazzotta</LastName>
+          <ForeName>Alessandro</ForeName>
+          <Initials>A</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Kawaguchi</LastName>
+          <ForeName>Yoshikuni</ForeName>
+          <Initials>Y</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Cauchy</LastName>
+          <ForeName>Francois</ForeName>
+          <Initials>F</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Karam</LastName>
+          <ForeName>Elias</ForeName>
+          <Initials>E</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Barbara</LastName>
+          <ForeName>Marco</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Pagano</LastName>
+          <ForeName>Duilio</ForeName>
+          <Initials>D</Initials>
+        </Investigator>
+      </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>1</Month>
+          <Day>11</Day>
+          <Hour>7</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>7</Month>
+          <Day>24</Day>
+          <Hour>13</Hour>
+          <Minute>8</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>7</Month>
+          <Day>24</Day>
+          <Hour>7</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37485989</ArticleId>
+        <ArticleId IdType="doi">10.1097/SLA.0000000000006027</ArticleId>
+        <ArticleId IdType="pii">00000658-202402000-00015</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Reich H, McGlynn F, DeCaprio J, et al. Laparoscopic excision of benign liver lesions. Obstet Gynecol. 1991;78:956–958.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wakabayashi G, Cherqui D, Geller DA, et al. Recommendations for laparoscopic liver resection: a report from the second international consensus conference held in Morioka. Ann Surg. 2015;261:619–629.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chin KM, Linn YL, Cheong CK, et al. Minimally invasive versus open major hepatectomies for liver malignancies: a propensity score-matched analysis. J Gastrointest Surg. 2022;26:1041–1053.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>D’Hondt M, Tamby E, Boscart I, et al. Laparoscopic versus open parenchymal preserving liver resections in the posterosuperior segments: a case-matched study. Surg Endosc. 2018;32:1478–1485.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ibuki S, Hibi T, Tanabe M, et al. Short-term outcomes of “difficult” laparoscopic liver resection at specialized centers: report from INSTALL (International Survey on Technical Aspects of Laparoscopic Liver Resection)-2 on 4478 patients. Ann Surg. 2022;275:940–946.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Krenzien F, Wabitsch S, Haber P, et al. Validity of the Iwate criteria for patients with hepatocellular carcinoma undergoing minimally invasive liver resection. J Hepatobiliary Pancreat Sci. 2018;25:403–411.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Choi SH, Chen KH, Syn NL, et al. Utility of the Iwate difficulty scoring system for laparoscopic right posterior sectionectomy: do surgical outcomes differ for tumors in segments VI and VII? Surg Endosc. 2022;36:9204–9214.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Linn YL, Wu AG, Han HS, et al. Systematic review and meta-analysis of difficulty scoring systems for laparoscopic and robotic liver resections. J Hepatobiliary Pancreat Sci. 2022;30:36–59.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Morikawa T, Ishida M, Takadate T, et al. Laparoscopic partial liver resection improves the short-term outcomes compared to open surgery for liver tumors in the posterosuperior segments. Surg Today. 2019;49:214–223.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Machairas N, Prodromidou A, Kostakis ID, et al. Safety and efficacy of laparoscopic liver resection for lesions located on posterosuperior segments: a meta-analysis of short-term outcomes. Surg Laparosc Endosc Percutan Tech. 2018;28:203–208.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chiow AKH, Fuks D, Choi GH, et al. International multicentre propensity score-matched analysis comparing robotic versus laparoscopic right posterior sectionectomy. Br J Surg. 2021;108:1513–1520.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chua D, Syn N, Koh YX, et al. Learning curves in minimally invasive hepatectomy: systematic review and meta-regression analysis. Br J Surg. 2021;108:351–358.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Krenzien F, Benzing C, Feldbrügge L, et al. Complexity-adjusted learning curves for robotic and laparoscopic liver resection. Ann Surg Open. 2022;3:e131.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yang HY, Choi GH, Chin KM, et al. Robotic and laparoscopic right anterior sectionectomy and central hepatectomy: multicentre propensity score-matched analysis. Br J Surg. 2022;109:311–314.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chong CC, Fuks D, Lee KF, et al. Propensity score-matched analysis comparing robotic and laparoscopic right and extended right hepatectomy. JAMA Surg. 2022;157:436–444.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kadam P, Sutcliffe RP, Scatton O, et al. An international multicenter propensity-score matched and coarsened-exact matched analysis comparing robotic versus laparoscopic partial liver resections of the anterolateral segments. J Hepatobiliary Pancreat Sci. 2022;29:843–854.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>D’Silva M, Han HS, Liu R, et al. Limited liver resections in the posterosuperior segments: international multicentre propensity score-matched and coarsened exact-matched analysis comparing the laparoscopic and robotic approaches. Br J Surg;109:1140–1149.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Haber PK, Wabitsch S, Krenzien F, et al. Laparoscopic liver surgery in cirrhosis—addressing lesions in posterosuperior segments. Surg Oncol. 2019;28:140–144.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kabir T, Tan ZZ, Syn NL, et al. Laparoscopic versus open resection of hepatocellular carcinoma in patients with cirrhosis: meta-analysis. Br J Surg. 2021;109:21–29.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Troisi RI, Berardi G, Morise Z, et al. Laparoscopic and open liver resection for hepatocellular carcinoma with Child-Pugh B cirrhosis: multicentre propensity score-matched study. Br J Surg. 2021;108:196–204.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Goh BKP, Syn N, Lee SY, et al. Impact of liver cirrhosis on the difficulty of minimally-invasive liver resections: a 1:1 coarsened exact-matched controlled study. Surg Endosc. 2021;35:5231–5238.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Strasberg SM. Nomenclature of hepatic anatomy and resections: a review of the Brisbane 2000 system. J Hepatobiliary Pancreat Surg. 2005;12:351–355.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kawaguchi Y, Fuks D, Kokudo N, et al. Difficulty of laparoscopic liver resection: proposal for a new classification. Ann Surg. 2018;267:13–17.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wakabayashi G, Cherqui D, Geller DA, et al. The Tokyo 2020 terminology of liver anatomy and resections: updates of the Brisbane 2000 system. J Hepatobiliary Pancreat Sci. 2022;29:6–15.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nagino M, DeMatteo R, Lang H, et al. Proposal of a new comprehensive notation for hepatectomy: the “New World” terminology. Ann Surg. 2021;274:1–3.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Clavien PA, Barkun J, de Oliveira ML, et al. The Clavien-Dindo classification of surgical complications: five-year experience. Ann Surg. 2009;250:187–196.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wakabayashi G. What has changed after the Morioka consensus conference 2014 on laparoscopic liver resection? Hepatobiliary Surg Nutr. 2016;5:281–289.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hobeika C, Fuks D, Cauchy F, et al. Impact of cirrhosis in patients undergoing laparoscopic liver resection in a nationwide multicentre survey. Br J Surg. 2020;107:268–277.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Teo JY, Kam JH, Chan CY, et al. Laparoscopic liver resections for posterosuperior and anterolateral lesions—a comparison experience in an Asian Centre. Hepatobiliary Surg Nutr. 2015;4:379–390.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fung AKY, Lee KF. Robotic resection for posterosuperior liver lesions: is it really superior to laparoscopic resection? Hepatobiliary Surg Nutr. 2019;8:264–266.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cheung TT, Han HS, She WH, et al. The Asia Pacific Consensus Statement on Laparoscopic Liver Resection for Hepatocellular Carcinoma: a report from the 7th Asia-Pacific Primary Liver Cancer Expert Meeting Held in Hong Kong. Lichenologist. 2018;7:28–39.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee W, Han HS, Yoon YS, et al. Comparison of laparoscopic liver resection for hepatocellular carcinoma located in the posterosuperior segments or anterolateral segments: a case-matched analysis. Surgery. 2016;160:1219–1226.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Troisi RI, Patriti A, Montalti R, et al. Robot assistance in liver surgery: a real advantage over a fully laparoscopic approach? Results of a comparative bi-institutional analysis. Int J Med Robot. 2013;9:160–166.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Boggi U, Caniglia F, Vistoli F, et al. Laparoscopic robot-assisted resection of tumors located in posterosuperior liver segments. Updates Surg. 2015;67:177–183.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kamarajah SK, Bundred J, Manas D, et al. Robotic versus conventional laparoscopic liver resections: a systematic review and meta-analysis. Scand J Surg. 2021;110:290–300.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ziogas IA, Giannis D, Esagian SM, et al. Laparoscopic versus robotic major hepatectomy: a systematic review and meta-analysis. Surg Endosc. 2021;35:524–535.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Alvarez FA, Sanchez Claria R, Oggero S, et al. Parenchymal-sparing liver surgery in patients with colorectal carcinoma liver metastases. World J Gastrointest Surg. 2016;8:407–423.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nota CL, Molenaar IQ, van Hillegersberg R, et al. Robotic liver resection including the posterosuperior segments: initial experience. J Surg Res. 2016;206:133–138.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Montalti R, Scuderi V, Patriti A, et al. Robotic versus laparoscopic resections of posterosuperior segments of the liver: a propensity score-matched comparison. Surg Endosc. 2016;30:1004–1013.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Feldbrügge L, Ortiz Galindo SA, Frisch O, et al. Safety and feasibility of robotic liver resection after previous abdominal surgeries. Surg Endosc. 2022;36:2842–2849.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Feldbrügge L, Wabitsch S, Benzing C, et al. Safety and feasibility of laparoscopic liver resection in patients with a history of abdominal surgeries. HPB. 2020;22:1191–1196.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chong Y, Koh YX, Teo JY, et al. Impact of non-liver-related previous abdominal surgery on the difficulty of minimally-invasive liver resections: a propensity score-mathced controlled study. Surg Endosc. 2022;36:591–597.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

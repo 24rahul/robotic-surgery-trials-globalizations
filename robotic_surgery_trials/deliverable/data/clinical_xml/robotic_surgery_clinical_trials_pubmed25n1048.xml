@@ -1,0 +1,1379 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">32875670</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>08</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>08</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1478-596X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>17</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Feb</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The international journal of medical robotics + computer assisted surgery : MRCAS</Title>
+          <ISOAbbreviation>Int J Med Robot</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>easyEndo robotic endoscopy system: Development and usability test in a randomized controlled trial with novices and physicians.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1-14</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/rcs.2158</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Some difficulties are common when using endoscopes. Steering is not intuitive, the endoscope weight is a physical burden to physicians and communication problems often occur between operators.</AbstractText>
+          <AbstractText Label="METHOD" NlmCategory="METHODS">To overcome these, we developed a robotic endoscopy system and conducted a usability test to compare conventional and robotic manipulation. Nine novices and eighteen physicians participated with the physicians being divided into intermediate and expert groups. The participants performed endoscope insertion into a simulator (physicians) or lesion marking on a testbed (novices) and simulate biopsies.</AbstractText>
+          <AbstractText Label="RESULT" NlmCategory="RESULTS">Novices completed the tasks faster and with a lower workload when using robotic manipulation, whereas the experts showed the opposite trend. Still, the intermediates showed no significant difference as trials proceeded. Nevertheless, the learning curve analysis showed that the learning rate in all groups is greater for robotic manipulation (21.02% on average) than for conventional manipulation (13.75%) and predicted that physicians can reach manual performance.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The proposed robotic endoscopy system may allow solo-manipulation using one controller and may be more intuitive and convenient to use than conventional manipulation.</AbstractText>
+          <CopyrightInformation>© 2020 John Wiley &amp; Sons Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Dong-Ho</ForeName>
+            <Initials>DH</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-6694-2514</Identifier>
+            <AffiliationInfo>
+              <Affiliation>The Robotics Program, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cheon</LastName>
+            <ForeName>Byungsik</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>The Robotics Program, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>EasyEndo Surgical Inc., Daejeon, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Joonhwan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kwon</LastName>
+            <ForeName>Dong-Soo</ForeName>
+            <Initials>DS</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0003-1540-3307</Identifier>
+            <AffiliationInfo>
+              <Affiliation>The Robotics Program, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>EasyEndo Surgical Inc., Daejeon, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>NRF-2017H1A2A1043159</GrantID>
+            <Agency>National Research Foundation of Korea</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>P0006718</GrantID>
+            <Agency>Ministry of Trade, Industry and Energy</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>10</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Int J Med Robot</MedlineTA>
+        <NlmUniqueID>101250764</NlmUniqueID>
+        <ISSNLinking>1478-5951</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="N">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019723" MajorTopicYN="N">Endoscopes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004724" MajorTopicYN="N">Endoscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010820" MajorTopicYN="Y">Physicians</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">endoscope robotization</Keyword>
+        <Keyword MajorTopicYN="N">learning curve</Keyword>
+        <Keyword MajorTopicYN="N">task completion time</Keyword>
+        <Keyword MajorTopicYN="N">usability test</Keyword>
+        <Keyword MajorTopicYN="N">workload</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>02</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2020</Year>
+          <Month>08</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>08</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32875670</ArticleId>
+        <ArticleId IdType="doi">10.1002/rcs.2158</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <ReferenceList>
+          <Title>REFERENCES</Title>
+          <Reference>
+            <Citation>Tanaka S, Oka S, Kaneko I, et al. Endoscopic submucosal dissection for colorectal neoplasia: possibility of standardization. Gastrointest Endosc. 2007;66(1):100-107.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Reavis K, Melvin W. Advanced endoscopic technologies. Surg Endosc. 2008;22(6):1533-1546.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Kalloo AN, Singh VK, Jagannath SB, et al. Flexible transgastric peritoneoscopy: a novel approach to diagnostic and therapeutic interventions in the peritoneal cavity. Gastrointest Endosc. 2004;60(1):114-117.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Rattner D, Kalloo A. ASGE/SAGES Working Group on natural orifice translumenal endoscopic surgery. October 2005. Surg Endosc. 2006;20(2):329-333.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Rattner DW, Hawes R, Schwaitzberg S, et al. The Second SAGES/ASGE White Paper on natural orifice transluminal endoscopic surgery. Surg Endosc. 2011;25(8):2441-2448.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Hansel SL, Crowell MD, Pardi DS, et al. Prevalence and impact of musculoskeletal injury among endoscopists: a controlled pilot study. J Clin Gastroenterol. 2009;43(5):399-404.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Shergill AK, McQuaid KR, Rempel D. Ergonomics and GI endoscopy. Gastrointest Endosc. 2009;70(1):145-153.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Ruiter JG, Rozeboom ED, van der Voort MC, Bonnema GM, Broeders IAMJ. Design and evaluation of robotic steering of a flexible endoscope. In: Proceedings of International Conference on Biomedical Robotics and Biomechatronics, Rome, Italy; 2012:761-767.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Tassios PS, Ladas SD, Grammenos I, et al. Acquisition of competence in colonoscopy: the learning curve of trainees. Endoscopy. 1999;31(9):702-706.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Harewood GC. Relationship of colonoscopy completion rates and endoscopist features. Dig Dis Sci. 2005;50(1):47-51.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Vrielink TJCO, Puyal JGB, Kogkas A, Mylonas G. Intuitive gaze-control of a robotized flexible endoscope. In: Proceedings of International Conference on Intelligent Robots and Systems, Madrid, Spain; 2018; 1776-1782.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Ruiter JG, Bonnema GM, Voort MC, Broeders IAMJ. Robotic control of a traditional flexible endoscope for therapy. J Robot Surg. 2013;7(3):227-234.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Kume K, Sakai N, Goto T. Development of a novel endoscopic manipulation system: the Endoscopic Operation Robot ver. 3. Endoscopy. 2015;47(9):815-819.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Phee SJ, Kencana AP, Huynh VA, et al. Design of a master and slave transluminal endoscopic robot for natural orifice transluminal endoscopic surgery. J Mech Eng Sci. 2010;224(7):1495-1503.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Abbott DJ, Becke C, Rothstein RI, Peine WJ. Design of an endoluminal NOTES robotic system. In: Proceedings of International Conference on Intelligent Robots and Systems, San Diego, CA, USA; 2007; 410-416.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Berthet-Rayne P, Gras G, Leibrandt K, et al. The i2Snake robotic platform for endoscopic surgery. Ann Biomed Eng. 2018;46(10):1663-1675.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Légner A, Diana M, Halvax P, et al. Endoluminal surgical triangulation 2.0: a new flexible surgical robot preliminary pre-clinical results with colonic submucosal dissection. Int J Med Robot. 2017;13(3):1-8.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Schuler PJ, Hoffmann TK, Veit JA, et al. Hybrid procedure for total laryngectomy with a flexible robot-assisted surgical system. Int J Med Robot. 2016;13(2):1-7.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Hwang M, Kwon DS. K-FLEX: a flexible robotic platform for scar-free endoscopic surgery. Int J Med Robot. 2020;16(2):1-14.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Kim H, Hwang M, Kim J, et al. Effect of backlash hysteresis of surgical tool bending joints on task performance in teleoperated flexible endoscopic robot. Int J Med Robot. 2020;16(1):e2047.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Franken M. Control of Haptic Interaction, an Energy Based Approach [Ph.D. thesis]. University of Twente; 2011.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Nielsen J. Usability Engineering. San Francisco, CA: Morgan Kaufmann; 1993.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Wright TP. Factors affecting the cost of airplanes. J Aeronaut Sci. 1936;3(4):122-128.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Crawford JR. Learning Curve, Ship Curve, Ratios, Related Data. Burbank, CA: Lockheed Aircraft Corporation; 1944.</Citation>
+          </Reference>
+          <Reference>
+            <Citation>Hart SG, Staveland LE. Development of NASA-TLX (task load index): results of empirical and theoretical research. In: Hancock PA, Meshkati N, eds. Human Mental Workload. Amsterdam, the Netherlands: North Holland Press; 1988; 239-250.</Citation>
+          </Reference>
+        </ReferenceList>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">32886532</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>06</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>09</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1748-3115</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>17</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>08</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Disability and rehabilitation. Assistive technology</Title>
+          <ISOAbbreviation>Disabil Rehabil Assist Technol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle><i>"I was like intoxicated with this positivity":</i> the politics of hope amongst participants in a trial of a novel spinal cord injury rehabilitation technology in South Africa.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>712-718</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/17483107.2020.1815086</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE">This study discussed the reports by participants in a randomised controlled trial of a novel intervention for spinal cord injury (SCI) rehabilitation in Cape Town, South Africa.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS">Sixteen participants were randomised to rehabilitation involving the use of robotic locomotor training, a novel technology, or to a group receiving an activity-based intervention. All participants were interviewed before the intervention and at six months follow-up.</AbstractText>
+          <AbstractText Label="RESULTS">In a context in which rehabilitation services for SCI are virtually non-existent, all participants approached the study with enthusiasm and expressed gratitude for participation. They had high hopes for what the programme could achieve, with many believing, perhaps incorrectly, that the programme would help them walk independently again. While hope and enthusiasm are useful for adherence to experimental intervention studies, there is a danger, especially in poorly resourced contexts, for participants to experience considerable disappointment following false hope not being realised. This raises important ethical issues for researchers interested in the potential of new technologies to promote health in poorly resourced contexts.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">For clinicians, the path between supporting positive emotions (which may lead to positive outcomes), and confronting unrealistic hope (which may lead to negative outcomes) may be difficult. Follow-up with participants after re-integration into their communities is important to determine long-term psychological impact.<b>Pan African Clinical Trial Number:</b> PACTR201608001647143IMPLICATIONS FOR REHABILITATIONIn low-resource contexts where there is a low level of access to rehabilitation services, such access in the context of a trial of a new intervention may engender hope in a group of people with spinal cord injury. This hope may increase when a new technology is used, as was the case in this study.Hope can be very helpful to people entering rehabilitation, but unrealistic hope and expectations may have negative implications in the longer term.In this study, expectations of participants centred, unrealistically, around regaining the ability to walk again, despite past experiences and medical advice suggesting otherwise.A thin line exists between supporting high expectations and confronting unrealistic hope. This conundrum is difficult for the clinician, as both inappropriate hope and undue pessimism about an intervention have the potential to cause harm.Participant follow-up after the end of any innovative trial is important, not just to monitor physical progress, but also, where necessary, to support participants through a potential period of disillusionment when they find their expectations have not been fully met.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Evans</LastName>
+            <ForeName>Robert W</ForeName>
+            <Initials>RW</Initials>
+            <Identifier Source="ORCID">0000-0001-7306-3131</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Exercise Science and Sports Medicine, Department of Human Biology, Faculty of Health Sciences, University of Cape Town, Cape Town, South Africa.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bantjes</LastName>
+            <ForeName>Jason</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0002-3626-9883</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychology, Faculty of Arts and Social Sciences, Stellenbosch University, South Africa.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shackleton</LastName>
+            <ForeName>Claire L</ForeName>
+            <Initials>CL</Initials>
+            <Identifier Source="ORCID">0000-0002-5042-1490</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Exercise Science and Sports Medicine, Department of Human Biology, Faculty of Health Sciences, University of Cape Town, Cape Town, South Africa.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>West</LastName>
+            <ForeName>Sacha</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0001-8770-995X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Sport Management, Cape Peninsula University of Technology, Cape Town, South Africa.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Derman</LastName>
+            <ForeName>Wayne</ForeName>
+            <Initials>W</Initials>
+            <Identifier Source="ORCID">0000-0002-8879-177X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Institute of Sport and Exercise Medicine, Division of Orthopaedic Surgery, Faculty of Medicine and Health Sciences, University of Stellenbosch, Cape Town, South Africa.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>IOC Research Centre, Cape Town, South Africa.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Albertus</LastName>
+            <ForeName>Yumna</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0002-6563-8596</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Exercise Science and Sports Medicine, Department of Human Biology, Faculty of Health Sciences, University of Cape Town, Cape Town, South Africa.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Swartz</LastName>
+            <ForeName>Leslie</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">0000-0003-1741-5897</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychology, Faculty of Arts and Social Sciences, Stellenbosch University, South Africa.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>PACTR</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>PACTR201608001647143</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>09</Month>
+          <Day>04</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Disabil Rehabil Assist Technol</MedlineTA>
+        <NlmUniqueID>101255937</NlmUniqueID>
+        <ISSNLinking>1748-3107</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006293" MajorTopicYN="Y">Health Promotion</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011057" MajorTopicYN="N">Politics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013019" MajorTopicYN="N" Type="Geographic">South Africa</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013119" MajorTopicYN="Y">Spinal Cord Injuries</DescriptorName>
+          <QualifierName UI="Q000534" MajorTopicYN="N">rehabilitation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013672" MajorTopicYN="N">Technology</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Exoskeleton device</Keyword>
+        <Keyword MajorTopicYN="N">hope</Keyword>
+        <Keyword MajorTopicYN="N">qualitative research</Keyword>
+        <Keyword MajorTopicYN="N">rehabilitation</Keyword>
+        <Keyword MajorTopicYN="N">spinal cord injuries</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>6</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>4</Day>
+          <Hour>17</Hour>
+          <Minute>9</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32886532</ArticleId>
+        <ArticleId IdType="doi">10.1080/17483107.2020.1815086</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">32889876</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>01</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1528-1140</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>273</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>05</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annals of surgery</Title>
+          <ISOAbbreviation>Ann Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Assessment of Robotic Versus Laparoscopic Distal Gastrectomy for Gastric Cancer: A Randomized Controlled Trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>858-867</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/SLA.0000000000004466</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE">To evaluate the short-term outcomes of patients with GC who received RDG or LDG.</AbstractText>
+          <AbstractText Label="SUMMARY BACKGROUND DATA">Despite the increasing use of RDG in patients with GC, its safety and efficacy compared to those of LDG have not been elucidated in a randomized controlled trial.</AbstractText>
+          <AbstractText Label="METHODS">Three hundred patients with cT1-4a and N0/+ between September 2017 and January 2020 were enrolled in this randomized controlled trial at a high-volume hospital in China. The short-term outcomes were compared between the groups.</AbstractText>
+          <AbstractText Label="RESULTS">The modified intention-to-treat analysis included data from 283 patients (RDG group: n = 141) and (LDG group: n = 142). Patients in the RDG group exhibited faster postoperative recovery, milder inflammatory responses, and reduced postoperative morbidity (9.2% vs 17.6%, respectively, P = 0.039). Higher extraperigastric lymph nodes (LNs) were retrieved in the RDG group (17.6 ± 5.8 vs 15.8 ± 6.6, P = 0.018) with lower noncompliance rate (7.7% vs 16.9%, respectively, P = 0.006). Additionally, patients in the RDG group were more likely to initiate adjuvant chemotherapy earlier [median (interquartile range) postoperative days: 28 (24-32) vs 32 (26-42), P = 0.003]. Although total hospital costs were higher in the robotic group than in the laparoscopic group, the direct cost was lower for RDG than for LDG (all P &lt; 0.001).</AbstractText>
+          <AbstractText Label="CONCLUSIONS">RDG is associated with a lower morbidity rate, faster recovery, milder inflammatory responses, and improved lymphadenectomy. Additionally, faster postoperative recovery in the RDG group enables early initiation of adjuvant chemotherapy. Our results provide evidence for the application of RDG in patients with GC.</AbstractText>
+          <CopyrightInformation>Copyright © 2020 Wolters Kluwer Health, Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lu</LastName>
+            <ForeName>Jun</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Chao-Hui</ForeName>
+            <Initials>CH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Bin-Bin</ForeName>
+            <Initials>BB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xie</LastName>
+            <ForeName>Jian-Wei</ForeName>
+            <Initials>JW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Jia-Bin</ForeName>
+            <Initials>JB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Jian-Xian</ForeName>
+            <Initials>JX</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Qi-Yue</ForeName>
+            <Initials>QY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cao</LastName>
+            <ForeName>Long-Long</ForeName>
+            <Initials>LL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Mi</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tu</LastName>
+            <ForeName>Ru-Hong</ForeName>
+            <Initials>RH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Ze-Ning</ForeName>
+            <Initials>ZN</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Ju-Li</ForeName>
+            <Initials>JL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Hua-Long</ForeName>
+            <Initials>HL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Chang-Ming</ForeName>
+            <Initials>CM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Ping</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Fujian Medical University Union Hospital, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Ministry of Education of Gastrointestinal Cancer, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Fujian Key Laboratory of Tumor Microbiology, Fujian Medical University, Fuzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Ann Surg</MedlineTA>
+        <NlmUniqueID>0372354</NlmUniqueID>
+        <ISSNLinking>0003-4932</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Eur J Surg Oncol. 2023 Oct;49(10):107007. doi: 10.1016/j.ejso.2023.107007</RefSource>
+          <PMID Version="1">37591026</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005743" MajorTopicYN="N">Gastrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057194" MajorTopicYN="N">Intention to Treat Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013274" MajorTopicYN="N">Stomach Neoplasms</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors report no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>5</Day>
+          <Hour>17</Hour>
+          <Minute>5</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32889876</ArticleId>
+        <ArticleId IdType="pii">00000658-202105000-00007</ArticleId>
+        <ArticleId IdType="doi">10.1097/SLA.0000000000004466</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Kitano S, Iso Y, Moriyama M, et al. Laparoscopy-assisted Billroth I gastrectomy. Surg Laparosc Endosc 1994; 4:146–148.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim W, Kim HH, Han SU, et al. Decreased morbidity of laparoscopic distal gastrectomy compared with open distal gastrectomy for stage I gastric cancer: short-term outcomes from a multicenter randomized controlled trial (KLASS-01). Ann Surg 2016; 263:28–35.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hu Y, Huang C, Sun Y, et al. Morbidity and mortality of laparoscopic versus open D2 distal gastrectomy for advanced gastric cancer: a randomized controlled trial. J Clin Oncol 2016; 34:1350–1357.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim H-H, Han S-U, Kim M-C, et al. Effect of laparoscopic distal gastrectomy vs open distal gastrectomy on long-term survival among patients with stage I gastric cancer. JAMA Oncology 2019; 5:506–513.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yu J, Huang C, Sun Y, et al. Effect of laparoscopic vs open distal gastrectomy on 3-year disease-free survival in patients with locally advanced gastric cancer: the CLASS-01 Randomized clinical trial. JAMA 2019; 321:1983–1992.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Katai H, Mizusawa J, Katayama H, et al. Short-term surgical outcomes from a phase III study of laparoscopy-assisted versus open distal gastrectomy with nodal dissection for clinical stage IA/IB gastric cancer: Japan clinical oncology group study JCOG0912. Gastric Cancer 2016; 20:699–708.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Inaki N, Etoh T, Ohyama T, et al. A multi-institutional, prospective, phase II feasibility study of laparoscopy-assisted distal gastrectomy with D2 lymph node dissection for locally advanced gastric cancer (JLSSG0901). World J Surg 2015; 39:2734–2741.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Song J, Oh SJ, Kang WH, et al. Robot-assisted gastrectomy with lymph node dissection for gastric cancer. Ann Surg 2009; 249:927–932.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bobo Z, Xin W, Jiang L, et al. Robotic gastrectomy versus laparoscopic gastrectomy for gastric cancer: meta-analysis and trial sequential analysis of prospective observational studies. Surg Endosc 2019; 33:1033–1048.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park JM, Kim HI, Han SU, et al. Who may benefit from robotic gastrectomy?: A subgroup analysis of multicenter prospective comparative study data on robotic versus laparoscopic gastrectomy. Eur J Surg Oncol (EJSO) 2016; 42:1944–1949.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim KM, An JY, Kim HI, et al. Major early complications following open, laparoscopic and robotic gastrectomy. Br J Surg 2012; 99:1681–1687.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee J, Kim YM, Woo Y, et al. Robotic distal subtotal gastrectomy with D2 lymphadenectomy for gastric cancer patients with high body mass index: comparison with conventional laparoscopic distal subtotal gastrectomy with D2 lymphadenectomy. Surg Endosc 2015; 29:3251–3260.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang W-J, Li H-T, Yu J-P, et al. Severity and incidence of complications assessed by the Clavien–Dindo classification following robotic and laparoscopic gastrectomy for advanced gastric cancer: a retrospective and propensity score-matched study. Surg Endosc 2018; 33:3341–3354.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y, Zhao X, Song Y, et al. A systematic review and meta-analysis of robot-assisted versus laparoscopically assisted gastrectomy for gastric cancer. Medicine (Baltimore) 2017; 96:e8797.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim HI, Han SU, Yang HK, et al. Multicenter prospective comparative study of robotic versus laparoscopic gastrectomy for gastric adenocarcinoma. Ann Surg 2016; 263:103–109.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen QY, Xie JW, Zhong Q, et al. Safety and efficacy of indocyanine green tracer-guided lymph node dissection during laparoscopic radical gastrectomy in patients with gastric cancer: a randomized clinical Trial. JAMA Surg 2020; Online ahead of print.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Amin MB, Edge S, Greene F, et al. AJCC Cancer Staging Manual. 8th ed.Netherlands: Springer International Publishing; 2017.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Japanese Gastric Cancer A. Japanese gastric cancer treatment guidelines 2014 (ver. 4). Gastric Cancer 2017; 20:1–19.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Huang CM, Zheng CH. Laparoscopic Gastrectomy for Gastric Cancer. Netherlands: Springer; 2015.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Huang CM, Chen QY, Lin JX, et al. Laparoscopic suprapancreatic lymph node dissection for advanced gastric cancer using a left-sided approach. Ann Surg Oncol 2015; 22:2351.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lu J, Zheng HL, Li P, et al. A propensity score-matched comparison of robotic versus laparoscopic gastrectomy for gastric cancer: oncological, cost, and surgical stress analysis. J Gastrointest Surg 2018; 22:1152–1162.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Choi YY, Kim H, Shin SJ, et al. Microsatellite instability and programmed cell death-ligand 1 expression in stage II/III gastric cancer: post hoc analysis of the CLASSIC randomized controlled study. Ann Surg 2019; 270:309–316.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu BB, Lu J, Zheng ZF, et al. The predictive value of the preoperative C-reactive protein-albumin ratio for early recurrence and chemotherapy benefit in patients with gastric cancer after radical gastrectomy: using randomized phase III trial data. Gastric Cancer 2019; 22:1016–1028.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dindo D, Demartines N, Clavien PA. Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey. Ann Surg 2004; 240:205–213.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang JB, Zheng CH, Li P, et al. Effect of comorbidities on postoperative complications in patients with gastric cancer after laparoscopy-assisted total gastrectomy: results from an 8-year experience at a large-scale single center. Surg Endosc 2017; 31:2651–2660.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu BB, Lu J, Zheng ZF, et al. Comparison of short-term and long-term efficacy of laparoscopic and open gastrectomy in high-risk patients with gastric cancer: a propensity score-matching analysis. Surg Endosc 2019; 33:58–70.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen QY, Zhong Q, Liu ZY, et al. Does noncompliance in lymph node dissection affect oncological efficacy in gastric cancer patients undergoing radical gastrectomy? Ann Surg Oncol 2019; 26:1759–1771.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park YK, Yoon HM, Kim YW, et al. Laparoscopy-assisted versus open D2 distal gastrectomy for advanced gastric cancer: results from a randomized phase II multicenter clinical trial (COACT 1001). Ann Surg 2018; 267:638–645.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Singer E, Kneuertz PJ, D'Souza DM, et al. Understanding the financial cost of robotic lobectomy: calculating the value of innovation? Ann Cardiothorac Surg 2019; 8:194–201.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chehab M, Friedlander JA, Handel J, et al. Percutaneous cryoablation vs partial nephrectomy: cost comparison of T1a tumors. J Endourol 2016; 30:170–176.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen K, Xu X, Mou Y, et al. Totally laparoscopic distal gastrectomy with D2 lymphadenectomy and Billroth II gastrojejunostomy for gastric cancer: short- and medium-term results of 139 consecutive cases from a single institution. Int J Med Sci 2013; 10:1462–1470.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shin HJ, Son SY, Wang B, et al. Long-term comparison of robotic and laparoscopic gastrectomy for gastric cancer: a propensity score-weighted analysis of 2084 consecutive patients. Ann Surg 2020; Online ahead of print.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Han TS, Kong SH, Lee HJ, et al. Dissemination of free cancer cells from the gastric lumen and from perigastric lymphovascular pedicles during radical gastric cancer surgery. Ann Surg Oncol 2011; 18:2818–2825.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang H, Meng F, Lu S. Risk factors of sepsis following pancreaticoduodenectomy based on inflammation markers and clinical characteristics. ANZ J Surg 2020; Online ahead of print.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shishido Y, Fujitani K, Yamamoto K, et al. C-reactive protein on postoperative day 3 as a predictor of infectious complications following gastric cancer resection. Gastric Cancer 2016; 19:293–301.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park JS, Kang H, Park SY, et al. Long-term oncologic after robotic versus laparoscopic right colectomy: a prospective randomized study. Surg Endosc 2019; 33:2975–2981.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hyun MH, Lee CH, Kwon YJ, et al. Robot versus laparoscopic gastrectomy for cancer by an experienced surgeon: comparisons of surgery, complications, and surgical stress. Ann Surg Oncol 2013; 20:1258–1265.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sun LF, Liu K, Su XS, et al. Robot-assisted versus laparoscopic-assisted gastrectomy among gastric cancer patients: a retrospective short-term analysis from a single institution in China. Gastroenterol Res Pract 2019; 2019:9059176.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cianchi F, Indennitate G, Trallori G, et al. Robotic vs laparoscopic distal gastrectomy with D2 lymphadenectomy for gastric cancer: a retrospective comparative mono-institutional study. BMC Surg 2016; 16:65.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Son T, Lee JH, Kim YM, et al. Robotic spleen-preserving total gastrectomy for gastric cancer: comparison with conventional laparoscopic procedure. Surg Endosc 2014; 28:2606–2615.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim YW, Reim D, Park JY, et al. Role of robot-assisted distal gastrectomy compared to laparoscopy-assisted distal gastrectomy in suprapancreatic nodal dissection for gastric cancer. Surg Endosc 2016; 30:1547–1552.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liu HB, Wang WJ, Li HT, et al. Robotic versus conventional laparoscopic gastrectomy for gastric cancer: A retrospective cohort study. Int J Surg 2018; 55:15–23.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen QY, Lin GT, Zhong Q, et al. Laparoscopic total gastrectomy for upper-middle advanced gastric cancer: analysis based on lymph node noncompliance. Gastric Cancer 2020; 23:184–194.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>de Steur WO, Hartgrink HH, Dikken JL, et al. Quality control of lymph node dissection in the Dutch Gastric Cancer Trial. Br J Surg 2015; 102:1388–1393.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sakuramoto S, Sasako M, Yamaguchi T, et al. Adjuvant chemotherapy for gastric cancer with S-1, an oral fluoropyrimidine. N Engl J Med 2007; 357:1810–1820.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Noh SH, Park SR, Yang H-K, et al. Adjuvant capecitabine plus oxaliplatin for gastric cancer after D2 gastrectomy (CLASSIC): 5-year follow-up of an open-label, randomised phase 3 trial. Lancet Oncol 2014; 15:1389–1396.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee HJ, Hyung WJ, Yang HK, et al. Short-term outcomes of a multicenter randomized controlled trial comparing laparoscopic distal gastrectomy with D2 lymphadenectomy to open distal gastrectomy for locally advanced gastric cancer (KLASS-02-RCT). Ann Surg 2019; 270:983–991.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jung YB, Kang J, Park EJ, et al. Time to initiation of adjuvant chemotherapy in colon cancer: comparison of open, laparoscopic, and robotic surgery. J Laparoendosc Adv Surg Tech A 2016; 26:799–805.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yamamoto M, Sakaguchi Y, Kinjo N, et al. S-1 adjuvant chemotherapy earlier after surgery clinically correlates with prognostic factors for advanced gastric cancer. Ann Surg Oncol 2016; 23:546–551.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park HS, Jung M, Kim HS, et al. Proper timing of adjuvant chemotherapy affects survival in patients with stage 2 and 3 gastric cancer. Ann Surg Oncol 2015; 22:224–231.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nakanishi K, Kanda M, Ito S, et al. Delay in initiation of postoperative adjuvant chemotherapy with S-1 monotherapy and prognosis for gastric cancer patients: analysis of a multi-institutional dataset. Gastric Cancer 2019; 22:1215–1225.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Uyama I, Suda K, Nakauchi M, et al. Clinical advantages of robotic gastrectomy for clinical stage I/II gastric cancer: a multi-institutional prospective single-arm study. Gastric Cancer 2019; 22:377–385.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>van der Schans EM, Hiep MAJ, Consten ECJ, et al. From Da Vinci Si to Da Vinci Xi: realistic times in draping and docking the robot. J Robot Surg 2020; Online ahead of print.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Avondstondt AM, Wallenstein M, D’Adamo CR, et al. Change in cost after 5 years of experience with robotic-assisted hysterectomy for the treatment of endometrial cancer. J Robot Surg 2018; 12:93–96.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liu H, Kinoshita T, Tonouchi A, et al. What are the reasons for a longer operation time in robotic gastrectomy than in laparoscopic gastrectomy for stomach cancer? Surg Endosc 2019; 33:192–198.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Berguer R, Smith W. An ergonomic comparison of robotic and laparoscopic technique: the influence of surgeon experience and task complexity. J Surg Res 2006; 134:87–92.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Terashima M, Tokunaga M, Tanizawa Y, et al. Robotic surgery for gastric cancer. Gastric Cancer 2015; 18:449–457.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park JY, Kim YW, Ryu KW, et al. Emerging role of robot-assisted gastrectomy: analysis of consecutive 200 cases. J Gastric Cancer 2013; 13:255–262.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim MS, Kim WJ, Hyung WJ, et al. Comprehensive learning curve of robotic surgery: discovery from a multicenter prospective trial of robotic gastrectomy. Ann Surg 2019; Online ahead of print.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gao Y, Xi H, Qiao Z, et al. Comparison of robotic- and laparoscopic-assisted gastrectomy in advanced gastric cancer: updated short- and long-term results. Surg Endosc 2019; 33:528–534.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>An JY, Kim KM, Kim YM, et al. Surgical complications in gastric cancer patients preoperatively treated with chemotherapy: their risk factors and clinical relevance. Ann Surg Oncol 2012; 19:2452–2458.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Claassen YHM, Hartgrink HH, Dikken JL, et al. Surgical morbidity and mortality after neoadjuvant chemotherapy in the CRITICS gastric cancer trial. Eur J Surg Oncol 2018; 44:613–619.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li Z, Shan F, Ying X, et al. Assessment of laparoscopic distal gastrectomy after neoadjuvant chemotherapy for locally advanced gastric cancer: a randomized clinical trial. JAMA Surg 2019; 154:1093–1101.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Crew KD, Neugut AI. Epidemiology of gastric cancer. World J Gastroenterol 2006; 12:354–362.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">32890015</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>04</Month>
+        <Day>27</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>08</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1365-2346</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>38</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>04</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>European journal of anaesthesiology</Title>
+          <ISOAbbreviation>Eur J Anaesthesiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effects of magnesium on the dose of rocuronium for deep neuromuscular blockade: A randomised controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>432-437</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/EJA.0000000000001329</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Magnesium is known to enhance the effect of rocuronium, but the extent is not quantified.</AbstractText>
+          <AbstractText Label="OBJECTIVES">We aimed to quantify the effect of magnesium on the dose of rocuronium for deep neuromuscular blockade.</AbstractText>
+          <AbstractText Label="DESIGN">A randomised controlled study.</AbstractText>
+          <AbstractText Label="SETTING">A single tertiary care hospital.</AbstractText>
+          <AbstractText Label="PATIENTS">Seventy males scheduled to undergo robot-assisted laparoscopic prostatectomy, aged between 20 and 80 years with American Society of Anesthesiologists physical status classification 1 or 2, were enrolled.</AbstractText>
+          <AbstractText Label="INTERVENTIONS">Patients were randomised to either the magnesium group or control group. The magnesium group were infused with 50 mg kg-1 of magnesium, followed by a continuous intra-operative infusion at 15 mg kg-1 h-1 while the control group were infused with the same volumes of 0.9% saline. Deep neuromuscular blockade was maintained with a continuous infusion of rocuronium and was reversed using sugammadex.</AbstractText>
+          <AbstractText Label="MAIN OUTCOME MEASURES">The primary outcome was the dose of rocuronium administered to maintain deep neuromuscular blockade. The secondary outcomes were recovery time, defined as the time from the administration of sugammadex to train-of-four ratio 0.9, and the incidence of postoperative nausea and vomiting.</AbstractText>
+          <AbstractText Label="RESULTS">The dose of rocuronium administered to maintain deep neuromuscular blockade was significantly lower in the magnesium group (7.5 vs. 9.4 μg kg-1 min-1, P = 0.01). There was no difference in recovery time or the incidence of nausea and vomiting.</AbstractText>
+          <AbstractText Label="CONCLUSION">Magnesium reduced the dose of rocuronium required for deep neuromuscular blockade by approximately 20% without affecting the recovery time after administration of sugammadex.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION">ClinicalTrials.gov identifier: NCT04013243.</AbstractText>
+          <CopyrightInformation>Copyright © 2020 European Society of Anaesthesiology and Intensive Care. Unauthorized reproduction of this article is prohibited.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Jiwon</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Anesthesiology and Pain Medicine, Seoul National University Bundang Hospital, Seongnam (JH, Y-TJ, J-HR, C-HK, SWN, S-IC, A-YO) and Department of Anesthesiology and Pain Medicine, Seoul National University, Seoul, South Korea (Y-TJ, J-HR, A-YO).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jeon</LastName>
+            <ForeName>Young-Tae</ForeName>
+            <Initials>YT</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ryu</LastName>
+            <ForeName>Jung-Hee</ForeName>
+            <Initials>JH</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Koo</LastName>
+            <ForeName>Chang-Hoon</ForeName>
+            <Initials>CH</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nam</LastName>
+            <ForeName>Sun Woo</ForeName>
+            <Initials>SW</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cho</LastName>
+            <ForeName>Sang-Il</ForeName>
+            <Initials>SI</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oh</LastName>
+            <ForeName>Ah-Young</ForeName>
+            <Initials>AY</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT04013243</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Eur J Anaesthesiol</MedlineTA>
+        <NlmUniqueID>8411711</NlmUniqueID>
+        <ISSNLinking>0265-0215</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000732">Androstanols</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D003473">Neuromuscular Nondepolarizing Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D047408">gamma-Cyclodextrins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>I38ZP9992A</RegistryNumber>
+          <NameOfSubstance UI="D008274">Magnesium</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>WRE554RFEZ</RegistryNumber>
+          <NameOfSubstance UI="D000077123">Rocuronium</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Eur J Anaesthesiol. 2021 Apr 1;38(4):333-334. doi: 10.1097/EJA.0000000000001381</RefSource>
+          <PMID Version="1">33661826</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000732" MajorTopicYN="N">Androstanols</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008274" MajorTopicYN="N">Magnesium</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019148" MajorTopicYN="Y">Neuromuscular Blockade</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003473" MajorTopicYN="Y">Neuromuscular Nondepolarizing Agents</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000077123" MajorTopicYN="N">Rocuronium</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D047408" MajorTopicYN="Y">gamma-Cyclodextrins</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>4</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>5</Day>
+          <Hour>17</Hour>
+          <Minute>6</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32890015</ArticleId>
+        <ArticleId IdType="pii">00003643-202104000-00014</ArticleId>
+        <ArticleId IdType="doi">10.1097/EJA.0000000000001329</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Bruintjes MH, van Helden EV, Braat AE, et al. Deep neuromuscular block to optimize surgical space conditions during laparoscopic surgery: a systematic review and meta-analysis. Br J Anaesth 2017; 118:834–842.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Madsen MV, Scheppan S, Mork E, et al. Influence of deep neuromuscular block on the surgeons assessment of surgical conditions during laparotomy: a randomized controlled double blinded trial with rocuronium and sugammadex. Br J Anaesth 2017; 119:1247.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Koo BW, Oh AY, Na HS, et al. Effects of depth of neuromuscular block on surgical conditions during laparoscopic colorectal surgery: a randomised controlled trial. Anaesthesia 2018; 73:1090–1096.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Choi ES, Oh AY, Koo BW, et al. Comparison of reversal with neostigmine of low-dose rocuronium vs. reversal with sugammadex of high-dose rocuronium for a short procedure. Anaesthesia 2017; 72:1185–1190.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Koo BW, Oh AY, Seo KS, et al. Randomized clinical trial of moderate versus deep neuromuscular block for low-pressure pneumoperitoneum during laparoscopic cholecystectomy. World J Surg 2016; 40:2898–2903.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim MH, Lee KY, Lee KY, et al. Maintaining optimal surgical conditions with low insufflation pressures is possible with deep neuromuscular blockade during laparoscopic colorectal surgery: a prospective, randomized, double-blind, parallel-group clinical trial. Medicine (Baltimore) 2016; 95:e2920.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fuchs-Buder T, Schmartz D, Baumann C, et al. Deep neuromuscular blockade improves surgical conditions during gastric bypass surgery for morbid obesity: a randomised controlled trial. Eur J Anaesthesiol 2019; 36:486–493.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Herroeder S, Schonherr ME, De Hert SG, et al. Magnesium-essentials for anesthesiologists. Anesthesiology 2011; 114:971–993.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dubois V, Fostier G, Dutrieux M, et al. Philips Intellivue NMT module: precision and performance improvements to meet the clinical requirements of neuromuscular block management. J Clin Monit Comput 2019; 34:111–116.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Meek R, Egerton-Warburton D, Mee MJ, et al. Measurement and monitoring of nausea severity in emergency department patients: a comparison of scales and exploration of treatment efficacy outcome measures. Acad Emerg Med 2015; 22:685–693.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Czarnetzki C, Lysakowski C, Elia N, et al. Time course of rocuronium-induced neuromuscular block after pretreatment with magnesium sulphate: a randomised study. Acta Anaesthesiol Scand 2010; 54:299–306.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rotava P, Cavalcanti IL, Barrucand L, et al. Effects of magnesium sulphate on the pharmacodynamics of rocuronium in patients aged 60 years and older: a randomised trial. Eur J Anaesthesiol 2013; 30:599–604.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Queiroz Rangel Micuci AJ, Vercosa N, Filho PAG, et al. Effect of pretreatment with magnesium sulphate on the duration of intense and deep neuromuscular blockade with rocuronium: a randomised controlled trial. Eur J Anaesthesiol 2019; 36:502–508.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yoo YC, Kim NY, Shin S, et al. The intraocular pressure under deep versus moderate neuromuscular blockade during low-pressure robot assisted laparoscopic radical prostatectomy in a randomized trial. PLoS One 2015; 10:e0135412.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Naguib M, Lien CL, Meistelman C. Miller RD. Pharmacology of neuromuscular blocking drugs. Miller's anesthesia . Philadelphia: Elsevier; 2015. 971–972.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bevan DR, Fiset P, Balendran P, et al. Pharmacodynamic behaviour of rocuronium in the elderly. Can J Anaesth 1993; 40:127–132.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Frolkis VV, Martynenko OA, Zamostyan VP. Aging of the neuromuscular apparatus. Gerontology 1976; 22:244–279.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oda K. Age changes of motor innervation and acetylcholine receptor distribution on human skeletal muscle fibres. J Neurol Sci 1984; 66:327–338.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Adamus M, Hrabalek L, Wanek T, et al. Influence of age and gender on the pharmacodynamic parameters of rocuronium during total intravenous anesthesia. Biomed Pap Med Fac Univ Palacky Olomouc Czech Re pub 2011; 155:347–353.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fawcett WJ, Haxby EJ, Male DA. Magnesium: physiology and pharmacology. Br J Anaesth 1999; 83:302–320.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fisher DM. Clinical pharmacology of neuromuscular blocking agents. Am J Health Syst Pharm 1999; 56:S4–S9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hubbard JI, Jones SF, Landau EM. On the mechanism by which calcium and magnesium affect the release of transmitter by nerve impulses. J Physiol 1968; 196:75–86.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Del Castillo J, Engbaek L. The nature of the neuromuscular block produced by magnesium. J Physiol 1954; 124:370–384.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fuchs-Buder T, Tassonyi E. Magnesium sulphate enhances residual neuromuscular block induced by vecuronium. Br J Anaesth 1996; 76:565–566.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ryu JH, Kang MH, Park KS, et al. Effects of magnesium sulphate on intraoperative anaesthetic requirements and postoperative analgesia in gynaecology patients receiving total intravenous anaesthesia. Br J Anaesth 2008; 100:397–403.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fuchs-Buder T, Ziegenfuss T, Lysakowski K, et al. Antagonism of vecuronium-induced neuromuscular block in patients pretreated with magnesium sulphate: dose–effect relationship of neostigmine. Br J Anaesth 1999; 82:61–65.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Germano Filho PA, Cavalcanti IL, Barrucand L, et al. Effect of magnesium sulphate on sugammadex reversal time for neuromuscular blockade: a randomised controlled study. Anaesthesia 2015; 70:956–961.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Czarnetzki C, Tassonyi E, Lysakowski C, et al. Efficacy of sugammadex for the reversal of moderate and deep rocuronium-induced neuromuscular block in patients pretreated with intravenous magnesium: a randomized controlled trial. Anesthesiology 2014; 121:59–67.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gan TJ, Meyer T, Apfel CC, et al. Consensus guidelines for managing postoperative nausea and vomiting. Anesth Analg 2003; 97:62–71.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wong ET, Rude RK, Singer FR, et al. A high prevalence of hypomagnesemia and hypermagnesemia in hospitalized patients. Am J Clin Pathol 1983; 79:348–352.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aglio LS, Stanford GG, Maddi R, et al. Hypomagnesemia is common following cardiac surgery. J Cardiothorac Vasc Anesth 1991; 5:201–208.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sohn HM, Jheon SH, Nam S, et al. Magnesium sulphate improves pulmonary function after video-assisted thoracoscopic surgery: a randomised double-blind placebo-controlled study. Eur J Anaesthesiol 2017; 34:508–514.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ryu JH, Koo BW, Kim BG, et al. Prospective, randomized and controlled trial on magnesium sulfate administration during laparoscopic gastrectomy: effects on surgical space conditions and recovery profiles. Surg Endosc 2016; 30:4976–4984.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

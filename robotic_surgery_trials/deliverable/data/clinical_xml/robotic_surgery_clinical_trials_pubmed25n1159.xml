@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36265267</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>11</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>03</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1873-4529</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>83</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>12</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of clinical anesthesia</Title>
+          <ISOAbbreviation>J Clin Anesth</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The effect of hyperoxia on ventilation during recovery from general anesthesia: A randomized pilot study for a parallel randomized controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>110982</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0952-8180(22)00340-3</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jclinane.2022.110982</ELocationID>
+        <Abstract>
+          <AbstractText Label="STUDY OBJECTIVE">While supplemental O<sub>2</sub> inhalation corrects hypoxemia, its effect on post-anesthesia ventilation remains unknown. This pilot trial tested the hypothesis that hyperoxia increases the time spent with a transcutaneous PCO<sub>2</sub> (TcPCO<sub>2</sub>) &gt; 45 mmHg, compared with standard O<sub>2</sub> supplementation.</AbstractText>
+          <AbstractText Label="DESIGN">Single-blinded, parallel two-arm randomized pilot trial.</AbstractText>
+          <AbstractText Label="SETTING">University hospital.</AbstractText>
+          <AbstractText Label="PATIENTS">20 patients undergoing robotic-assisted laparoscopic nephrectomy.</AbstractText>
+          <AbstractText Label="MEASUREMENTS">After institutional approval and informed consent, patients were randomized to receive O<sub>2</sub> titrated to arterial saturation (SpO<sub>2</sub>): 90-94% (Conservative O<sub>2</sub>, N =10), or to SpO<sub>2</sub> &gt; 96% (Liberal O<sub>2</sub>, N = 10) for up to 90 min after anesthesia. Continuous TcPCO<sub>2</sub>, respiratory inductance plethysmography (RIP), and SpO<sub>2</sub>, were recorded. We calculated the percentage of time at TcPCO<sub>2</sub> &gt; 45 mmHg for each patient and compared the two groups using analysis of covariance, adjusting for sex, age, and body mass index. We also estimated the sample size required to detect the between-group difference observed in this pilot trial. RIP signals were used to calculate apnea/hypopnea index (AHI), which was then compared between two groups.</AbstractText>
+          <AbstractText Label="MAIN RESULTS">The mean percentage of time with a TcPCO<sub>2</sub> &gt; 45 mmHg was 80.6% for the Conservative O<sub>2</sub> (N=9) and 61.2% for the Liberal O<sub>2</sub> (N=10) group [between-group difference of 19.4% (95% CI: -18.7% to 57.6%), P = 0.140]. With an observed effect size of 0.73, we estimated that 30 participants per group are required, to demonstrate this difference with a power of 80% at a two-sided alpha of 5%. Means SpO<sub>2</sub> were 94.5% and 99.9% for the Conservative O<sub>2</sub> and the Liberal O<sub>2</sub> groups, respectively. AHI was significantly higher in the Conservative O<sub>2</sub>, compared with the Liberal O<sub>2</sub> group (median AHI: 16 vs. 3; P = 0.0014).</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Hyperoxia in the post-anesthesia period reduced the time spent at TcPCO<sub>2</sub> &gt; 45 mmHg and significantly decreased AHI, while mean SpO<sub>2</sub> ranged inside the a priori defined limits.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION">ClinicalTrials.gov identifier: NCT04723433.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Doufas</LastName>
+            <ForeName>Anthony G</ForeName>
+            <Initials>AG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology, Perioperative and Pain Medicine, Stanford University School of Medicine, Stanford, CA, United States of America; Center for Sleep and Circadian Sciences, Department of Psychiatry and Behavioral Sciences, Stanford University School of Medicine, Stanford, CA, United States of America. Electronic address: agdoufas@stanford.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tian</LastName>
+            <ForeName>Lu</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Data Science, Stanford University School of Medicine, Stanford, CA, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kutscher</LastName>
+            <ForeName>Scott</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychiatry and Behavioral Sciences, and Center for Sleep Sciences and Medicine, Stanford University School of Medicine, Stanford, CA, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Finnsson</LastName>
+            <ForeName>Eysteinn</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nox Research, Nox Medical ehf, Reykjavík, Iceland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ágústsson</LastName>
+            <ForeName>Jón Skírnir</ForeName>
+            <Initials>JS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nox Research, Nox Medical ehf, Reykjavík, Iceland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chung</LastName>
+            <ForeName>Benjamin I</ForeName>
+            <Initials>BI</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Stanford University School of Medicine, Stanford, CA, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Panousis</LastName>
+            <ForeName>Periklis</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology, Perioperative and Pain Medicine, Stanford University School of Medicine, Stanford, CA, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT04723433</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Clin Anesth</MedlineTA>
+        <NlmUniqueID>8812166</NlmUniqueID>
+        <ISSNLinking>0952-8180</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>S88TT14065</RegistryNumber>
+          <NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018496" MajorTopicYN="Y">Hyperoxia</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010102" MajorTopicYN="N">Oxygen Inhalation Therapy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010100" MajorTopicYN="N">Oxygen</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000768" MajorTopicYN="N">Anesthesia, General</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Anesthesia</Keyword>
+        <Keyword MajorTopicYN="N">Hyperoxia</Keyword>
+        <Keyword MajorTopicYN="N">Obstructive sleep apnea</Keyword>
+        <Keyword MajorTopicYN="N">Oxygen</Keyword>
+        <Keyword MajorTopicYN="N">Pharmacologically induced ventilatory depression</Keyword>
+        <Keyword MajorTopicYN="N">Postoperative period</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of Competing Interest None of the authors has any competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>07</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>20</Day>
+          <Hour>18</Hour>
+          <Minute>20</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36265267</ArticleId>
+        <ArticleId IdType="pii">S0952-8180(22)00340-3</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jclinane.2022.110982</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

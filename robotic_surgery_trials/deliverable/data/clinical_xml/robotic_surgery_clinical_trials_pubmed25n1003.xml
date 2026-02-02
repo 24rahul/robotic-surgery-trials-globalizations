@@ -1,0 +1,963 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">31501983</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>11</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>11</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-1335</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>145</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>Nov</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of cancer research and clinical oncology</Title>
+          <ISOAbbreviation>J Cancer Res Clin Oncol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Association between lymphovascular invasion and oncologic outcomes among upper urinary tract urothelial carcinoma patients who underwent radical nephroureterectomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>2863-2870</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00432-019-03020-z</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To determine the association between lymphovascular invasion (LVI) and upper tract urothelial carcinoma (UTUC) among patients who underwent radical nephroureterectomy (RNU).</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">From 2003 and 2018, retrospective data of 453 patients treated for UTUC with open, laparoscopic, or robotic RNU were collected. Pathological specimens were assessed for LVI through hematoxylin and eosin staining. According to presence of LVI, patients were stratified into two groups and compared for perioperative characteristics. Kaplan-Meier analysis was used to assess progression-free (PFS), cancer-specific (CSS), and overall survival (OS). Uni- and multivariate Cox regression models were used to find significance of LVI to survival.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">LVI was present in 132 (29.1%) of patients and was associated with higher age and lower preoperative GFR. Pathological outcomes included significantly higher tumor grade, higher rates of lymph node invasion and more positive surgical margins. During median 23.2 months follow-up (mean 37.1 months), 59.2% (n = 268) of total patients had tumor recurrence, with highest incidences in lymph nodes (51.5%). 5-year PFS, CSS, and OS were estimated at 35.4%, 94.6%, and 91.1% in LVI-negative patients and 17.2%, 75.1%, and 70.8% in LVI-positive patients, respectively (all p &lt; 0.001). Multivariate analysis showed LVI to be an independent predictor of PFS (HR = 1.480; p = 0.018).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">LVI is an independent predictor of adverse PFS and is associated with poor CSS and OS in patients undergoing RNU for UTUC. These results may guide clinicians in selecting patients for adjuvant chemotherapy. Future prospective trials are necessary to further validate our results.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Song</LastName>
+            <ForeName>Sang Hun</ForeName>
+            <Initials>SH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University Bundang Hospital, 300, Gumi-dong, Bundang-gu, Seongnam-si, Kyunggi-do, 463-707, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ye</LastName>
+            <ForeName>Chang Hee</ForeName>
+            <Initials>CH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University Bundang Hospital, 300, Gumi-dong, Bundang-gu, Seongnam-si, Kyunggi-do, 463-707, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Sangchul</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University Bundang Hospital, 300, Gumi-dong, Bundang-gu, Seongnam-si, Kyunggi-do, 463-707, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hong</LastName>
+            <ForeName>Sung Kyu</ForeName>
+            <Initials>SK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University Bundang Hospital, 300, Gumi-dong, Bundang-gu, Seongnam-si, Kyunggi-do, 463-707, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Byun</LastName>
+            <ForeName>Seok-Soo</ForeName>
+            <Initials>SS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University Bundang Hospital, 300, Gumi-dong, Bundang-gu, Seongnam-si, Kyunggi-do, 463-707, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Sang Eun</ForeName>
+            <Initials>SE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University Bundang Hospital, 300, Gumi-dong, Bundang-gu, Seongnam-si, Kyunggi-do, 463-707, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oh</LastName>
+            <ForeName>Jong Jin</ForeName>
+            <Initials>JJ</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-0448-5992</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University Bundang Hospital, 300, Gumi-dong, Bundang-gu, Seongnam-si, Kyunggi-do, 463-707, Korea. urojin@snu.ac.kr.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University College of Medicine, Seoul, Korea. urojin@snu.ac.kr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>09</Month>
+          <Day>09</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>J Cancer Res Clin Oncol</MedlineTA>
+        <NlmUniqueID>7902060</NlmUniqueID>
+        <ISSNLinking>0171-5216</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008198" MajorTopicYN="N">Lymph Nodes</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008207" MajorTopicYN="N">Lymphatic Metastasis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D042601" MajorTopicYN="N">Lymphatic Vessels</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009361" MajorTopicYN="N">Neoplasm Invasiveness</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009364" MajorTopicYN="N">Neoplasm Recurrence, Local</DescriptorName>
+          <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000074682" MajorTopicYN="N">Nephroureterectomy</DescriptorName>
+          <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015996" MajorTopicYN="N">Survival Rate</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014571" MajorTopicYN="N">Urologic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Lymphovascular invasion</Keyword>
+        <Keyword MajorTopicYN="N">Nephroureterectomy</Keyword>
+        <Keyword MajorTopicYN="N">Progression-free survival</Keyword>
+        <Keyword MajorTopicYN="N">Upper tract urothelial carcinoma</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2019</Year>
+          <Month>07</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2019</Year>
+          <Month>09</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>9</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>11</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>9</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31501983</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00432-019-03020-z</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00432-019-03020-z</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2015 Apr;22(4):1392-400</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25239005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2005 Dec;174(6):2120-3; discussion 2124</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16280740</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urol Oncol. 2018 Jun;36(6):293-305</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29685374</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer. 2018 Jun 15;124(12):2507-2514</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29624636</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg Pathol. 1998 Dec;22(12):1435-48</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9850170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Comput Assist Tomogr. 2011 Mar-Apr;35(2):217-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21412093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Oncol. 2017 Mar 10;35(8):852-860</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28045620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2018 Feb;36(2):257-263</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29209771</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yonsei Med J. 2019 Feb;60(2):174-181</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30666839</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urol Oncol. 2015 Nov;33(11):495.e15-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26228160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2012 Sep;110(6):798-803</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22313599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2011 Aug;29(4):495-501</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21681525</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2012 Oct;19(11):3613-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22843187</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Cancer Res. 2001 Mar;7(3):462-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11297234</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2018 Jan;73(1):111-122</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28867446</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Cancer. 2013 Aug;49(12):2665-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23721778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Genitourin Cancer. 2017 Aug;15(4):e543-e550</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28110834</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2010 Jun;57(6):1064-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20071073</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urol J. 2017 Aug 29;14(5):5008-5012</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28853106</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2005 Sep;48(3):438-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16115524</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2010 Feb;75(2):328-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20018349</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Oncol. 2009 Feb 1;27(4):612-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19075275</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2008 Apr;53(4):720-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18207315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2007 Dec;178(6):2291-6; discussion 2296</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17936818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2018 Feb;121(2):252-259</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28940605</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 1992 Dec;148(6):1783-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1433607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">31503017</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1528-1140</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>273</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>05</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annals of surgery</Title>
+          <ISOAbbreviation>Ann Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comprehensive Learning Curve of Robotic Surgery: Discovery From a Multicenter Prospective Trial of Robotic Gastrectomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>949-956</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/SLA.0000000000003583</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE">To evaluate the complication-based learning curve and identify learning-associated complications of robotic gastrectomy.</AbstractText>
+          <AbstractText Label="SUMMARY BACKGROUND DATA">With the increased popularity of robotic surgery, a sound understanding of the learning curve in the surgical outcome of robotic surgery has taken on great importance. However, a multicenter prospective study analyzing learning-associated morbidity has never been conducted in robotic gastrectomy.</AbstractText>
+          <AbstractText Label="METHODS">Data on 502 robotic gastrectomy cases were prospectively collected from 5 surgeons. Risk-adjusted cumulative sum analysis was applied to visualize the learning curve of robotic gastrectomy on operation time and complications.</AbstractText>
+          <AbstractText Label="RESULTS">Twenty-five cases, on average, were needed to overcome complications and operation time-learning curve sufficiently to gain proficiency in 3 surgeons. An additional 23 cases were needed to cross the transitional phase to progress from proficiency to mastery. The moderate complication rate (CD ≥ grade II) was 20% in phase 1 (cases 1-25), 10% in phase 2 (cases 26-65), 26.1% in phase 3 (cases 66-88), and 6.4% in phase 4 (cases 89-125) (P &lt; 0.001). Among diverse complications, CD ≥ grade II intra-abdominal bleeding (P &lt; 0.001) and abdominal pain (P = 0.01) were identified as major learning-associated morbidities of robotic gastrectomy. Previous experience on laparoscopic surgery and mode of training influenced progression in the learning curve.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">This is the first study suggesting that technical immaturity substantially affects the surgical outcomes of robotic gastrectomy and that robotic gastrectomy is a complex procedure with a significant learning curve that has implications for physician training and credentialing.</AbstractText>
+          <CopyrightInformation>Copyright © 2019 Wolters Kluwer Health, Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Min Seo</ForeName>
+            <Initials>MS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Korea University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Won Jun</ForeName>
+            <Initials>WJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Korea University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hyung</LastName>
+            <ForeName>Woo Jin</ForeName>
+            <Initials>WJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Yonsei University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Hyoung-Il</ForeName>
+            <Initials>HI</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Yonsei University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Sang-Uk</ForeName>
+            <Initials>SU</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Ajou University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Young-Woo</ForeName>
+            <Initials>YW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Gastric Cancer, National Cancer Center, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ryu</LastName>
+            <ForeName>Keun Won</ForeName>
+            <Initials>KW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Gastric Cancer, National Cancer Center, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Park</LastName>
+            <ForeName>Sungsoo</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Upper Gastrointestinal Surgery, Department of Surgery, Korea University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT01309256</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Ann Surg</MedlineTA>
+        <NlmUniqueID>0372354</NlmUniqueID>
+        <ISSNLinking>0003-4932</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D004503" MajorTopicYN="N">Education, Medical, Graduate</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005743" MajorTopicYN="N">Gastrectomy</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059032" MajorTopicYN="Y">Learning Curve</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013274" MajorTopicYN="N">Stomach Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066231" MajorTopicYN="N">Surgeons</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors report no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>9</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>9</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31503017</ArticleId>
+        <ArticleId IdType="pii">00000658-202105000-00018</ArticleId>
+        <ArticleId IdType="doi">10.1097/SLA.0000000000003583</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Lanfranco AR, Castellanos AE, Desai JP, et al. Robotic surgery: a current perspective. Ann Surg 2004; 239:14–21.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mirnezami A, Mirnezami R, Venkatasubramaniam A, et al. Robotic colorectal surgery: hype or new hope? A systematic review of robotics in colorectal surgery. Colorectal Dis 2010; 12:1084–1093.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cirocchi R, Partelli S, Trastulli S, et al. A systematic review on robotic pancreaticoduodenectomy. Surg Oncol 2013; 22:238–246.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim M-C, Heo G-U, Jung G-J. Robotic gastrectomy for gastric cancer: surgical techniques and clinical merits. Surg Endosc 2010; 24:610–615.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Woo Y, Hyung WJ, Pak K-H, et al. Robotic gastrectomy as an oncologically sound alternative to laparoscopic resections for the treatment of early-stage gastric cancers. Arch Surg 2011; 146:1086–1092.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hyun M-H, Lee C-H, Kwon Y-J, et al. Robot versus laparoscopic gastrectomy for cancer by an experienced surgeon: comparisons of surgery, complications, and surgical stress. Ann Surg Oncol 2013; 20:1258–1265.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Junfeng Z, Yan S, Bo T, et al. Robotic gastrectomy versus laparoscopic gastrectomy for gastric cancer: comparison of surgical performance and short-term outcomes. Surg Endosc 2014; 28:1779–1787.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shen W-S, Xi H-Q, Chen L, et al. A meta-analysis of robotic versus laparoscopic gastrectomy for gastric cancer. Surg Endosc 2014; 28:2795–2802.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim H-I, Han S-U, Yang H-K, et al. Multicenter prospective comparative study of robotic versus laparoscopic gastrectomy for gastric adenocarcinoma. Ann Surg 2016; 263:103–109.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Almadani ME, Abalajon DD, Yang K, et al. Robotic gastrectomy: the future. Transl Gastrointest Cancer 2015; 4:448–452.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Stenstra M, Berkelmans G, Slaman A, et al. Learning curve and associated morbidity of minimally invasive esophagectomy: a retrospective multicenter study. Ann Surg 2019; 269:88–94.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Broering DC, Berardi G, El YS, et al. Learning curve under proctorship of pure laparoscopic living donor left lateral sectionectomy for pediatric transplantation. Ann Surg 2018; [Epub ahead of print].</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhou J, Shi Y, Qian F, et al. Cumulative summation analysis of learning curve for robot-assisted gastrectomy in gastric cancer. J Surg Oncol 2015; 111:760–767.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park S-S, Kim M-C, Park MS, et al. Rapid adaptation of robotic gastrectomy for gastric cancer by experienced laparoscopic surgeons. Surg Endosc 2012; 26:60–67.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Association JGC. Japanese gastric cancer treatment guidelines 2010 (ver. 3). Gastric Cancer 2011; 14:113–123.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Song J, Oh SJ, Kang WH, et al. Robot-assisted gastrectomy with lymph node dissection for gastric cancer: lessons learned from an initial 100 consecutive procedures. Ann Surg 2009; 249:927–932.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dindo D, Demartines N, Clavien P-A. Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey. Ann Surg 2004; 240:205–213.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Doumouras AG, Saleh F, Anvari S, et al. Mastery in bariatric surgery: the long-term surgeon learning curve of roux-en-y gastric bypass. Ann Surg 2018; 267:489–494.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>De Saintonge DC, Vere D. Why don’t doctors use cusums? Lancet 1974; 303:120–121.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wohl H. The cusum plot: its utility in the analysis of clinical data. N Engl J Med 1977; 296:1044–1045.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Steiner SH, Cook RJ, Farewell VT, et al. Monitoring surgical performance using risk-adjusted cumulative sum charts. Biostatistics 2000; 1:441–452.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>van der Poel MJ, Besselink MG, Cipriani F, et al. Outcome and learning curve in 159 consecutive patients undergoing total laparoscopic hemihepatectomy. JAMA Surg 2016; 151:923–928.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Halls MC, Alseidi A, Berardi G, et al. A Comparison of the learning curves of laparoscopic liver surgeons in differing stages of the IDEAL paradigm of surgical innovation: standing on the shoulders of pioneers. Ann Surg 2019; 269:221–228.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Markar SR, Mackenzie H, Lagergren P, et al. Surgeon age in relation to prognosis after esophageal cancer resection. Ann Surg 2018; 268:100–105.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Biau DJ, Porcher R. A method for monitoring a process from an out of control to an in control state: application to the learning curve. Stat Med 2010; 29:1900–1909.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Markar SR, Mackenzie H, Lagergren P, et al. Surgical proficiency gain and survival after esophagectomy for cancer. J Clin Oncol 2016; 34:1528–1536.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>O’reilly EA, Burke JP, O’connell PR. A meta-analysis of surgical morbidity and recurrence after laparoscopic and open repair of primary unilateral inguinal hernia. Ann Surg 2012; 255:846–853.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Venkat R, Edil BH, Schulick RD, et al. Laparoscopic distal pancreatectomy is associated with significantly less overall morbidity compared to the open technique: a systematic review and meta-analysis. Ann Surg 2012; 255:1048–1059.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim W, Kim H-H, Han S-U, et al. Decreased morbidity of laparoscopic distal gastrectomy compared with open distal gastrectomy for stage I gastric cancer. Ann Surg 2016; 263:28–35.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Viñuela EF, Gonen M, Brennan MF, et al. Laparoscopic versus open distal gastrectomy for gastric cancer: a meta-analysis of randomized controlled trials and high-quality nonrandomized studies. Ann Surg 2012; 255:446–456.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Parisi A, Scrucca L, Desiderio J, et al. Robotic right hemicolectomy: analysis of 108 consecutive procedures and multidimensional assessment of the learning curve. Surg Oncol 2017; 26:28–36.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Boone BA, Zenati M, Hogg ME, et al. Assessment of quality outcomes for robotic pancreaticoduodenectomy: identification of the learning curve. JAMA Surg 2015; 150:416–422.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park EJ, Kim CW, Cho MS, et al. Multidimensional analyses of the learning curve of robotic low anterior resection for rectal cancer: 3-phase learning process comparison. Surg Endosc 2014; 28:2821–2831.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Santok GD, Raheem AA, Kim LH, et al. Proctorship and mentoring: its backbone and application in robotic surgery. Investig Clin Urol 2016; 57:S114–S120.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ahmed K, Khan R, Mottrie A, et al. Development of a standardised training curriculum for robotic surgery: a consensus statement from an international multidisciplinary group of experts. BJU Int 2015; 116:93–101.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bokhari MB, Patel CB, Ramos-Valadez DI, et al. Learning curve for robotic-assisted laparoscopic colorectal surgery. Surg Endosc 2011; 25:855–860.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jiménez-Rodríguez RM, Díaz-Pavón JM, de Juan dlP, et al. Learning curve for robotic-assisted laparoscopic rectal cancer surgery. Int J Colorectal Dis 2013; 28:815–821.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Akmal Y, Baek J-H, McKenzie S, et al. Robot-assisted total mesorectal excision: is there a learning curve? Surg Endosc 2012; 26:2471–2476.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>D’Annibale A, Pernazza G, Monsellato I, et al. Total mesorectal excision: a comparison of oncological and functional outcomes between robotic and laparoscopic surgery for rectal cancer. Surg Endosc 2013; 27:1887–1895.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sng KK, Hara M, Shin J-W, et al. The multiphasic learning curve for robot-assisted rectal surgery. Surg Endosc 2013; 27:3297–3307.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Atug F, Castle EP, Srivastav SK, et al. Positive surgical margins in robotic-assisted radical prostatectomy: impact of learning curve on oncologic outcomes. Eur Urol 2006; 49:866–872.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cundy TP, Rowland SP, Gattas NE, et al. The learning curve of robot-assisted laparoscopic fundoplication in children: a prospective evaluation and CUSUM analysis. Int J Med Robot 2015; 11:141–149.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>van der Sluis PC, Ruurda JP, van der Horst S, et al. Learning curve for robot-assisted minimally invasive thoracoscopic esophagectomy: results from 312 cases. Ann Thorac Surg 2018; 106:264–271.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yim GW, Kim SW, Nam EJ, et al. Learning curve analysis of robot-assisted radical hysterectomy for cervical cancer: initial experience at a single institution. J Gynecol Oncol 2013; 24:303–312.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">31504875</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>22</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>06</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1526-4637</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>21</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>02</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Pain medicine (Malden, Mass.)</Title>
+          <ISOAbbreviation>Pain Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The Effects of Ultrasound-Guided Transversus Abdominis Plane Block on Acute and Chronic Postsurgical Pain After Robotic Partial Nephrectomy: A Prospective Randomized Clinical Trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>378-386</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1093/pm/pnz214</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Use of a locoregional analgesia technique, such as the ultrasound-guided transversus abdominis plane block (TAPb), can improve postoperative pain management. We investigated the role of TAPb in robotic partial nephrectomy, a surgery burdened by severe postoperative pain.</AbstractText>
+          <AbstractText Label="METHODS">In this prospective trial, patients with American Society of Anesthesiologists class I-III physical status undergoing robotic partial nephrectomy were randomly assigned to standard general anesthetic plus ultrasound-guided TAPb (TAP group) or sole standard general anesthetic (NO-TAP group). The primary end point was morphine consumption 24 hours after surgery. Secondary outcomes were postoperative nausea and vomiting in the first 24 hours, sensitivity, and acute and chronic pain, as measured by multiple indicators.</AbstractText>
+          <AbstractText Label="RESULTS">A total of 96 patients were evaluated: 48 patients in the TAP group and 48 in the NO-TAP group. Median morphine consumption after 24 hours was higher in the NO-TAP group compared with the TAP group (14.1 ± 4.5 mg vs 10.6 ± 4.6, P &lt; 0.008). The intensity of acute somatic pain and the presence of chronic pain at three and six months were higher in the NO-TAP group.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Our results show that TAPb can significantly reduce morphine consumption and somatic pain, but not visceral pain. TAPb reduced the incidence of chronic pain.</AbstractText>
+          <CopyrightInformation>© 2019 American Academy of Pain Medicine. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Covotta</LastName>
+            <ForeName>Marco</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Anesthesia and Intensive Care at the Neuroscience Department, San Camillo Forlanini Hospital, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Claroni</LastName>
+            <ForeName>Claudia</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology, S. Giovanni Calibita Fatebenefratelli Hospital, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Costantini</LastName>
+            <ForeName>Manuela</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Urology, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Torregiani</LastName>
+            <ForeName>Giulia</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Anesthesiology, IRCCS Regina Elena National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pelagalli</LastName>
+            <ForeName>Lorella</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Anesthesiology, IRCCS Regina Elena National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zinilli</LastName>
+            <ForeName>Antonio</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Institute on Sustainable Economic Growth of the National Research Council of Italy, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Forastiere</LastName>
+            <ForeName>Ester</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Anesthesiology, IRCCS Regina Elena National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT02460640</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Pain Med</MedlineTA>
+        <NlmUniqueID>100894201</NlmUniqueID>
+        <ISSNLinking>1526-2375</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Pain Med. 2021 May 21;22(5):1228-1229. doi: 10.1093/pm/pnz339</RefSource>
+          <PMID Version="1">31904848</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000009" MajorTopicYN="N">Abdominal Muscles</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059350" MajorTopicYN="N">Chronic Pain</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015994" MajorTopicYN="N">Incidence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="N">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009407" MajorTopicYN="N">Nerve Block</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059408" MajorTopicYN="N">Pain Management</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010149" MajorTopicYN="N">Pain, Postoperative</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018084" MajorTopicYN="N">Ultrasonography, Interventional</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059265" MajorTopicYN="N">Visceral Pain</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Abdominal Block</Keyword>
+        <Keyword MajorTopicYN="N">Analgesia</Keyword>
+        <Keyword MajorTopicYN="N">Robotic Nephrectomy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>9</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>9</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31504875</ArticleId>
+        <ArticleId IdType="pii">5556333</ArticleId>
+        <ArticleId IdType="doi">10.1093/pm/pnz214</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

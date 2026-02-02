@@ -1,0 +1,771 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">25861746</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>04</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>11</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1741-0444</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>53</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2015</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Medical &amp; biological engineering &amp; computing</Title>
+          <ISOAbbreviation>Med Biol Eng Comput</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Upper-limb kinematic reconstruction during stroke robot-aided therapy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>815-28</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11517-015-1276-9</ELocationID>
+        <Abstract>
+          <AbstractText>The paper proposes a novel method for an accurate and unobtrusive reconstruction of the upper-limb kinematics of stroke patients during robot-aided rehabilitation tasks with end-effector machines. The method is based on a robust analytic procedure for inverse kinematics that simply uses, in addition to hand pose data provided by the robot, upper arm acceleration measurements for computing a constraint on elbow position; it is exploited for task space augmentation. The proposed method can enable in-depth comprehension of planning strategy of stroke patients in the joint space and, consequently, allow developing therapies tailored for their residual motor capabilities. The experimental validation has a twofold purpose: (1) a comparative analysis with an optoelectronic motion capturing system is used to assess the method capability to reconstruct joint motion; (2) the application of the method to healthy and stroke subjects during circle-drawing tasks with InMotion2 robot is used to evaluate its efficacy in discriminating stroke from healthy behavior. The experimental results have shown that arm angles are reconstructed with a RMSE of 8.3 × 10(-3) rad. Moreover, the comparison between healthy and stroke subjects has revealed different features in the joint space in terms of mean values and standard deviations, which also allow assessing inter- and intra-subject variability. The findings of this study contribute to the investigation of motor performance in the joint space and Cartesian space of stroke patients undergoing robot-aided therapy, thus allowing: (1) evaluating the outcomes of the therapeutic approach, (2) re-planning the robotic treatment based on patient needs, and (3) understanding pathology-related motor strategies.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Papaleo</LastName>
+            <ForeName>E</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Biomedical Robotics and Biomicrosystems, Università Campus Bio-Medico di Roma, Rome, Italy. eugeniapapaleo@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zollo</LastName>
+            <ForeName>L</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Biomedical Robotics and Biomicrosystems, Università Campus Bio-Medico di Roma, Rome, Italy. l.zollo@unicampus.it.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Garcia-Aracil</LastName>
+            <ForeName>N</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Virtual Reality and Robotics Lab, Universidad Miguel Hernandez de Elche, Elche, Spain. nicolas.garcia@umh.es.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Badesa</LastName>
+            <ForeName>F J</ForeName>
+            <Initials>FJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Virtual Reality and Robotics Lab, Universidad Miguel Hernandez de Elche, Elche, Spain. fbadesa@umh.es.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Morales</LastName>
+            <ForeName>R</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Virtual Reality and Robotics Lab, Universidad Miguel Hernandez de Elche, Elche, Spain. rmorales@umh.es.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mazzoleni</LastName>
+            <ForeName>S</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>BioRobotics Institute, Scuola Superiore Sant'Anna Pisa, Pisa, Italy. s.mazzoleni@sssup.it.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sterzi</LastName>
+            <ForeName>S</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Operative Unit of Physical Medicine and Rehabilitation, Università Campus Bio-Medico di Roma, Rome, Italy. s.sterzi@unicampus.it.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guglielmelli</LastName>
+            <ForeName>E</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Biomedical Robotics and Biomicrosystems, Università Campus Bio-Medico di Roma, Rome, Italy. e.guglielmelli@unicampus.it.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2015</Year>
+          <Month>04</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Med Biol Eng Comput</MedlineTA>
+        <NlmUniqueID>7704869</NlmUniqueID>
+        <ISSNLinking>0140-0118</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001132" MajorTopicYN="N">Arm</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001696" MajorTopicYN="N">Biomechanical Phenomena</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004551" MajorTopicYN="N">Elbow Joint</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012785" MajorTopicYN="N">Shoulder Joint</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020521" MajorTopicYN="N">Stroke</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071939" MajorTopicYN="Y">Stroke Rehabilitation</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Rehabilitation robotics</Keyword>
+        <Keyword MajorTopicYN="N">Stroke rehabilitation</Keyword>
+        <Keyword MajorTopicYN="N">Upper-limb kinematics</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2013</Year>
+          <Month>11</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2015</Year>
+          <Month>03</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>4</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>4</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>4</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">25861746</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11517-015-1276-9</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11517-015-1276-9</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Cortex. 2009 Mar;45(3):318-24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18640668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Biomech. 2002 Apr;35(4):537-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11934425</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurorehabil Neural Repair. 2010 Jan;24(1):62-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19684304</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2011 May 14;377(9778):1693-702</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21571152</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 1995 Sep;15(9):6271-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7666209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Int Conf Rehabil Robot. 2011;2011:5975401</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22275604</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2000 May;123 ( Pt 5):940-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10775539</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 2002 Sep 15;22(18):8297-304</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12223584</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Rehabil Res Dev. 2012;49(4):479-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22773253</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Graph Models. 2000 Sep;62(5):353-88</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12143897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Presence (Camb). 1996 Fall;5(4):393-401</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11539377</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurophysiol. 2000 Nov;84(5):2302-16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11067974</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circulation. 2013 Jan 1;127(1):e6-e245</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23239837</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Biomed Eng. 2012 Jun;59(6):1770-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22510944</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurophysiol. 2007 Aug;98 (2):757-68</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17553941</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurorehabil Neural Repair. 2008 Jan-Feb;22(1):50-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17626223</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Phys Med Rehabil. 2012 Nov;91(11 Suppl 3):S255-69</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23080041</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gait Posture. 2002 Apr;15(2):113-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11869904</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Geriatr Med. 1999 Nov;15(4):819-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10499937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scand J Rehabil Med. 1975;7(1):13-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1135616</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">25869025</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1496-8975</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>62</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2015</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Canadian journal of anaesthesia = Journal canadien d'anesthesie</Title>
+          <ISOAbbreviation>Can J Anaesth</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The impact of two different inspiratory to expiratory ratios (1:1 and 1:2) on respiratory mechanics and oxygenation during volume-controlled ventilation in robot-assisted laparoscopic radical prostatectomy: a randomized controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>979-87</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s12630-015-0383-2</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Volume-controlled ventilation with a prolonged inspiratory to expiratory ratio (I:E ratio) has been used to optimize gas exchange and respiratory mechanics in various surgical settings. We hypothesized that, when compared with an I:E ratio of 1:2, a prolonged I:E ratio of 1:1 would improve respiratory mechanics without reducing cardiac output (CO) during pneumoperitoneum and steep Trendelenburg positioning, both of which can impair respiratory function in robot-assisted laparoscopic radical prostatectomy. Furthermore, we evaluated its effect on oxygenation during robot-assisted laparoscopic radical prostatectomy.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Eighty patients undergoing robot-assisted laparoscopic radical prostatectomy were randomly allocated to receive an I:E ratio of either 1:1 (group 1:1) or 1:2 (group 1:2). The primary endpoint, peak airway pressure (Ppeak), as well as hemodynamic data, including cardiac output (CO) and arterial oxygen tension (PaO2), were compared between groups at four time points: ten minutes after anesthesia induction (T1), 30 and 60 min after pneumoperitoneum with steep Trendelenburg positioning (T2 and T3), and ten minutes after supine positioning (T4). Overall comparisons were made between groups using linear mixed model analysis with post hoc testing of individual time points adjusted using a Bonferroni correction.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Linear mixed model analysis showed a significant overall difference in Ppeak between the two groups (P &lt; 0.001). Post hoc analysis showed a significantly lower mean (SD) Ppeak in group 1:1 than in group 1:2 at T2 [28.4 (4.0) cm H2O vs 32.8 (5.2) cm H2O, respectively; mean difference, 4.3 cm H2O; 95% confidence interval (CI), 2.3 to 6.4; P &lt; 0.001] and T3 [27.8 (3.9) cm H2O vs 32.6 (5.0) cm H2O, respectively; mean difference, 4.7 cm H2O; 95% CI, 2.7 to 6.7; P &lt; 0.001]. The CO assessed over these time points was comparable in both groups (P = 0.784). In addition, there were no significant differences in PaO2 between the two groups (P = 0.521).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Compared with an I:E ratio of 1:2, a ratio of 1:1 lowered Ppeak without reducing CO during pneumoperitoneum and steep Trendelenburg positioning. Nevertheless, our results did not support its use solely for improving oxygenation. This trial was registered at http://clinicaltrials.gov/ (NCT01892449).</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Min-Soo</ForeName>
+            <Initials>MS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Anesthesia and Pain Research Institute, Yonsei University College of Medicine, 50-1 Yonsei-ro, Seodaemun-gu, Seoul, 120-752, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Na Young</ForeName>
+            <Initials>NY</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Ki-Young</ForeName>
+            <Initials>KY</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Choi</LastName>
+            <ForeName>Young Deuk</ForeName>
+            <Initials>YD</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hong</LastName>
+            <ForeName>Jung Hwa</ForeName>
+            <Initials>JH</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bai</LastName>
+            <ForeName>Sun-Joon</ForeName>
+            <Initials>SJ</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT01892449</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2015</Year>
+          <Month>04</Month>
+          <Day>14</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Can J Anaesth</MedlineTA>
+        <NlmUniqueID>8701709</NlmUniqueID>
+        <ISSNLinking>0832-610X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>S88TT14065</RegistryNumber>
+          <NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001784" MajorTopicYN="N">Blood Gas Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018475" MajorTopicYN="N">Head-Down Tilt</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010100" MajorTopicYN="N">Oxygen</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011028" MajorTopicYN="N">Pneumoperitoneum, Artificial</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012121" MajorTopicYN="N">Respiration, Artificial</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015656" MajorTopicYN="N">Respiratory Mechanics</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2014</Year>
+          <Month>12</Month>
+          <Day>01</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2015</Year>
+          <Month>04</Month>
+          <Day>01</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>4</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>4</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">25869025</ArticleId>
+        <ArticleId IdType="doi">10.1007/s12630-015-0383-2</ArticleId>
+        <ArticleId IdType="pii">10.1007/s12630-015-0383-2</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">25871803</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>03</Month>
+        <Day>25</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1661-7819</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>108</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2015</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Neonatology</Title>
+          <ISOAbbreviation>Neonatology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Prematurity, Opioid Exposure and Neonatal Pain: Do They Affect the Developing Brain?</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>8-15</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1159/000376566</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Traditionally, 10 years ago, children born preterm often routinely received morphine, especially during mechanical ventilation. Studies in neonatal rats, whose stage of brain development roughly corresponds to that of children born preterm, found negative long-term effects after pain and opioid exposure.</AbstractText>
+          <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">We studied possible effects of prematurity, procedural pain and opioids in humans 10 years later. We hypothesized that these factors would negatively influence neurobiological, neuropsychological and sensory development later in life.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We included 19 children born preterm who as neonates participated in an RCT on the short-term effects of morphine administration and who previously participated in our follow-up studies at ages 5 and 8/9 years. We assessed associations between brain morphology (n = 11), neuropsychological functioning (n = 19) and thermal sensitivity (n = 17) and prematurity, opioid exposure and neonatal pain.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Significant correlations (coefficients 0.60-0.85) of gestational age, number of painful procedures and morphine exposure with brain volumes were observed. Significant correlations between these factors and thermal sensitivity were not established. Neuropsychological outcome was significantly moderately correlated with morphine exposure in only two subtests, and children performed in general 'average' by Dutch norms.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Although prematurity, opioid exposure and neonatal pain were significantly associated with brain volume, no major associations with neuropsychological functioning or thermal sensitivity were detected. Our findings suggest that morphine administration during neonatal life does not affect neurocognitive performance or thermal sensitivity during childhood in children born preterm without brain damage during early life. Future studies with larger sample sizes are needed to confirm these findings.</AbstractText>
+          <CopyrightInformation>© 2015 S. Karger AG, Basel.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>van den Bosch</LastName>
+            <ForeName>Gerbrich E</ForeName>
+            <Initials>GE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Intensive Care and Department of Pediatric Surgery, Erasmus MC-Sophia Children's Hospital, Rotterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>White</LastName>
+            <ForeName>Tonya</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>El Marroun</LastName>
+            <ForeName>Hanan</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Simons</LastName>
+            <ForeName>Sinno H P</ForeName>
+            <Initials>SH</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van der Lugt</LastName>
+            <ForeName>Aad</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van der Geest</LastName>
+            <ForeName>Jos N</ForeName>
+            <Initials>JN</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tibboel</LastName>
+            <ForeName>Dick</ForeName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Dijk</LastName>
+            <ForeName>Monique</ForeName>
+            <Initials>M</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2015</Year>
+          <Month>04</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Neonatology</MedlineTA>
+        <NlmUniqueID>101286577</NlmUniqueID>
+        <ISSNLinking>1661-7800</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>76I7G6D29C</RegistryNumber>
+          <NameOfSubstance UI="D009020">Morphine</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Neonatology. 2016;109(2):122-3. doi: 10.1159/000442098</RefSource>
+          <PMID Version="1">26666420</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Neonatology. 2016;109(2):120-1. doi: 10.1159/000442081</RefSource>
+          <PMID Version="1">26670662</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000375" MajorTopicYN="Y">Aging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001835" MajorTopicYN="N">Body Weight</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059350" MajorTopicYN="N">Chronic Pain</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005865" MajorTopicYN="N">Gestational Age</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007234" MajorTopicYN="N">Infant, Premature</DescriptorName>
+          <QualifierName UI="Q000254" MajorTopicYN="Y">growth &amp; development</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009020" MajorTopicYN="N">Morphine</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009483" MajorTopicYN="N">Neuropsychological Tests</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012121" MajorTopicYN="N">Respiration, Artificial</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2014</Year>
+          <Month>09</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2015</Year>
+          <Month>01</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>4</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>4</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>3</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">25871803</ArticleId>
+        <ArticleId IdType="pii">000376566</ArticleId>
+        <ArticleId IdType="doi">10.1159/000376566</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

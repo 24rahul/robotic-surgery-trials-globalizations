@@ -1,0 +1,2342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">34676970</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>12</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>12</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1478-596X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>18</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Feb</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The international journal of medical robotics + computer assisted surgery : MRCAS</Title>
+          <ISOAbbreviation>Int J Med Robot</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A retrospective multicentre study on the evaluation of perioperative outcomes of single-port robotic cholecystectomy comparing the Xi and SP versions of the da Vinci robotic surgical system.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e2345</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/rcs.2345</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Single-incision robotic cholecystectomy (SIRC) is widely performed with both the da Vinci Xi system (Xi) and the da Vinci SP system (SP). But there are limited numbers of studies comparing these platforms.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Patients who underwent SIRC between 2019 and 2020 were enrolled. Patient demographics, intraoperative factors, postoperative complications, postoperative pain were compared using a one-to-one propensity score matching (PSM).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, 258 patients underwent SIRC with Xi and 72 with SP. After PSM, there were significant differences between the Xi and SP in operation time at console and numeric rating scale for postoperative pain, but no difference in total operation time and postoperative complications. The SP group showed more estimated blood loss.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Despite the statistical difference, clinical benefit was not significant. Both platforms can be safe and feasible to perform SIRC, but further investigation including the surgeon's workload and ergonomics is needed as a prospective study.</AbstractText>
+          <CopyrightInformation>© 2021 John Wiley &amp; Sons Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kang</LastName>
+            <ForeName>Yoon Hyung</ForeName>
+            <Initials>YH</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-4127-8821</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery and Cancer Research Institute, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kang</LastName>
+            <ForeName>Jae Seung</ForeName>
+            <Initials>JS</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0001-6587-9579</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery and Cancer Research Institute, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cho</LastName>
+            <ForeName>Yo Seok</ForeName>
+            <Initials>YS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Ewha Womans University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Hyeong Seok</ForeName>
+            <Initials>HS</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0003-4711-3603</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery and Cancer Research Institute, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Mirang</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-3171-2540</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery and Cancer Research Institute, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Youngmin</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0003-0456-7824</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery and Cancer Research Institute, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sohn</LastName>
+            <ForeName>Hee Ju</ForeName>
+            <Initials>HJ</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-9339-930X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery and Cancer Research Institute, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Hongbeom</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-1595-0135</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery and Cancer Research Institute, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kwon</LastName>
+            <ForeName>Wooil</ForeName>
+            <Initials>W</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-4827-7805</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery and Cancer Research Institute, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jang</LastName>
+            <ForeName>Jin-Young</ForeName>
+            <Initials>JY</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0003-3312-0503</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery and Cancer Research Institute, Seoul National University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Hyeon Kook</ForeName>
+            <Initials>HK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Ewha Womans University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>04</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Int J Med Robot</MedlineTA>
+        <NlmUniqueID>101250764</NlmUniqueID>
+        <ISSNLinking>1478-5951</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D002763" MajorTopicYN="N">Cholecystectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Da Vinci SP</Keyword>
+        <Keyword MajorTopicYN="N">Da Vinci Xi</Keyword>
+        <Keyword MajorTopicYN="N">cholecystectomy</Keyword>
+        <Keyword MajorTopicYN="N">robotic surgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>09</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>05</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>22</Day>
+          <Hour>8</Hour>
+          <Minute>54</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34676970</ArticleId>
+        <ArticleId IdType="doi">10.1002/rcs.2345</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Soper NJ, Stockmann PT, Dunnegan DL, Ashley SW. Laparoscopic cholecystectomy. The new ‘gold standard’? Arch Surg. 1992;127(8):917-921; discussion 921-923. https://doi.org/10.1001/archsurg.1992.01420080051008</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sanford DE. An update on technical aspects of cholecystectomy. Surg Clin North Am. 2019;99(2):245-258. https://doi.org/10.1016/j.suc.2018.11.005</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Küper MA, Eisner F, Königsrainer A, Glatzle J. Laparoscopic surgery for benign and malign diseases of the digestive system: indications, limitations, and evidence. World J Gastroenterol. 2014;20(17):4883-4891. https://doi.org/10.3748/wjg.v20.i17.4883</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim HS, Han Y, Kang JS, et al. Comparison of single-incision robotic cholecystectomy, single-incision laparoscopic cholecystectomy and 3-port laparoscopic cholecystectomy - postoperative pain, cosmetic outcome and surgeon’s workload. J Minim Invasive Surg. 2018;21(4):168-176. https://doi.org/10.7602/jmis.2018.21.4.168</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lurje G, Raptis DA, Steinemann DC, et al. Cosmesis and body image in patients undergoing single-port versus conventional laparoscopic cholecystectomy: a multicenter double-blinded randomized controlled trial (SPOCC-trial). Ann Surg. 2015;262(5):728-735; discussion 734-735. https://doi.org/10.1097/SLA.0000000000001474</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lirici MM, Tierno SM, Ponzano C. Single-incision laparoscopic cholecystectomy: does it work? A systematic review. Surg Endosc. 2016;30(10):4389-4399. https://doi.org/10.1007/s00464-016-4757-5</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zanghì G, Leanza V, Vecchio R, et al. Single-incision laparoscopic cholecystectomy: our experience and review of literature. G Chir. 2015;36(6):243-246. https://doi.org/10.11138/gchir/2015.36.6.243</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Grochola LF, Soll C, Zehnder A, Wyss R, Herzog P, Breitenstein S. Robot-assisted versus laparoscopic single-incision cholecystectomy: results of a randomized controlled trial. Surg Endosc. 2019;33(5):1482-1490. https://doi.org/10.1007/s00464-018-6430-7</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Han DH, Choi SH, Kang CM, Lee WJ. Propensity score-matching analysis for single-site robotic cholecystectomy versus single-incision laparoscopic cholecystectomy: a retrospective cohort study. Int J Surg. 2020;78:138-142. https://doi.org/10.1016/j.ijsu.2020.04.042</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee H, Lee DH, Kim H, Han Y, Kim SW, Jang JY. Single-incision robotic cholecystectomy: a special emphasis on utilization of transparent glove ports to overcome limitations of single-site port. Int J Med Robot. 2017;13(3). https://doi.org/10.1002/rcs.1789</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cruz CJ, Huynh F, Kang I, Lee WJ, Kang CM. Initial experiences of robotic SP cholecystectomy: a comparative analysis with robotic Si single-site cholecystectomy. Ann Surg Treat Res. 2021;100(1):1-7. https://doi.org/10.4174/astr.2021.100.1.1</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Marks JH, Salem JF, Anderson BK, Josse JM, Schoonyoung HP. Single-port robotic left colectomy: first clinical experience using the SP robot (rSILS). Tech Coloproctol. 2020;24(1):57-63. https://doi.org/10.1007/s10151-019-02129-0</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dy GW, Jun MS, Blasdel G, Bluebond-Langner R, Zhao LC. Outcomes of gender affirming peritoneal flap vaginoplasty using the da Vinci single port versus Xi robotic systems. Eur Urol. 2020;2838(20):30469-30463. https://doi.org/10.1016/j.eururo.2020.06.040</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Knuf KM, Maani CV, Cummings AK. Clinical agreement in the American Society of Anesthesiologists physical status classification. Perioper Med (Lond). 2018;7:14. https://doi.org/10.1186/s13741-018-0094-7</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hartrick CT, Kovan JP, Shapiro S. The numeric rating scale for clinical pain measurement: a ratio measure? Pain Pract 2003;3(4):310-316. https://doi.org/10.1111/j.1530-7085.2003.03034.x</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Leal Ghezzi T, Campos Corleta O. 30 years of robotic surgery. World J Surg. 2016;40(10):2550-2557. https://doi.org/10.1007/s00268-016-3543-9</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Peters BS, Armijo PR, Krause C, Choudhury SA, Oleynikov D. Review of emerging surgical robotic technology. Surg Endosc. 2018;32(4):1636-1655. https://doi.org/10.1007/s00464-018-6079-2</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lane T. A short history of robotic surgery. Ann R Coll Surg Engl. 2018;100(6_sup):5-7. https://doi.org/10.1308/rcsann.supp1.5</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jara RD, Guerrón AD, Portenier D. Complications of robotic surgery. Surg Clin North Am. 2020;100(2):461-468. https://doi.org/10.1016/j.suc.2019.12.008</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brodie A, Vasdev N. The future of robotic surgery. Ann R Coll Surg Engl. 2018;100(Suppl 7):4-13. https://doi.org/10.1308/rcsann.supp2.4</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Moschovas MC, Bhat S, Sandri M, et al. Comparing the approach to radical prostatectomy using the multiport da Vinci Xi and da Vinci SP robots: a propensity score analysis of perioperative outcomes. Eur Urol. 2021;79(3):393-404. https://doi.org/10.1016/j.eururo.2020.11.042</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee SR, Roh A, Jeong K, Kim SH, Chae HD, Moon H. First report comparing the two types of single-incision robotic sacrocolpopexy: single site using the da Vinci Xi or Si system and single port using the da Vinci SP system. Taiwan J Obstet Gynecol. 2021;60(1):60-65. https://doi.org/10.1016/j.tjog.2020.10.007</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ma J, Cassera MA, Spaun GO, Hammill CW, Hansen PD, Aliabadi-Wahle S. Randomized controlled trial comparing single-port laparoscopic cholecystectomy and four-port laparoscopic cholecystectomy. Ann Surg. 2011;254(1):22-27. https://doi.org/10.1097/SLA.0b013e3182192f89</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Abel SA, Dy BM, Al-Lami H, et al. Comparison of short- and long-term postoperative occurrences after robotic single-incision cholecystectomy versus multiport laparoscopic cholecystectomy. Surg Endosc. 2021. Published online. https://doi.org/10.1007/s00464-021-08513-y</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">34677080</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>07</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>07</Month>
+        <Day>06</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1557-9034</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>32</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of laparoendoscopic &amp; advanced surgical techniques. Part A</Title>
+          <ISOAbbreviation>J Laparoendosc Adv Surg Tech A</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic Vessel Sealer Device for Lymphocele Prevention After Pelvic Lymphadenectomy: Results of a Randomized Trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>721-726</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1089/lap.2021.0531</ELocationID>
+        <Abstract>
+          <AbstractText><b><i>Introduction:</i></b> Pelvic lymph node dissection (PLND) during robotic prostatectomy is associated with potential complications. The most common complication of PLND is lymphoceles, occurring in up to 50% of patients in studies with screening imaging but usually asymptomatic. We performed a prospective randomized trial to evaluate whether using advanced bipolar energy for PLND via the robotic vessel sealer can prevent lymphoceles. <b><i>Methods:</i></b> A total of 120 patients were enrolled in the trial with each patient serving as their own control. Robotic PLND was randomly performed using the vessel sealer on one side and standard PLND using clips on the other side. All patients underwent screening computed tomography scan 3 months postoperatively with radiologists blinded to the assigned technique. Significant lymphoceles were defined as fluid collections ≥3 cm in any plane. <b><i>Results:</i></b> Of those enrolled, 114 completed the study. The mean nodal yield was 6.5 nodes, with 3.1 versus 3.4 nodes for vessel sealer side versus standard technique (<i>P</i> = .35), respectively. The mean operative time for PLND was 11.3 versus 11.1 minutes (<i>P</i> = .62), respectively. Twenty-two lymphoceles were identified. Ten occurred on the vessel sealer side versus 12 on the standard side (8.8% versus 10.5%, <i>P</i> = .412). All lymphoceles were asymptomatic. <b><i>Conclusions:</i></b> While the robotic advanced bipolar device did not appear to prevent lymphoceles, the vessel sealer also did not increase the rate of lymphoceles compared with a standard technique using clips. Both techniques were equally efficacious, efficient, and safe for PLND such that surgeons who prefer to avoid clips can reasonably use the vessel sealer, although at increased cost. Clinical Trial Registration number: NCT02035475.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Abaza</LastName>
+            <ForeName>Ronney</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Central Ohio Urology Group, LLC, Columbus, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Henderson</LastName>
+            <ForeName>Sean Jay</ForeName>
+            <Initials>SJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Robotic Surgery, OhioHealth Dublin Methodist Hospital, Dublin, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Martinez</LastName>
+            <ForeName>Oscar</ForeName>
+            <Initials>O</Initials>
+            <Identifier Source="ORCID">0000-0002-6869-5924</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Robotic Surgery, OhioHealth Dublin Methodist Hospital, Dublin, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT02035475</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>22</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Laparoendosc Adv Surg Tech A</MedlineTA>
+        <NlmUniqueID>9706293</NlmUniqueID>
+        <ISSNLinking>1092-6429</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008197" MajorTopicYN="N">Lymph Node Excision</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008210" MajorTopicYN="Y">Lymphocele</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010388" MajorTopicYN="N">Pelvis</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013525" MajorTopicYN="N">Surgical Instruments</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">complications</Keyword>
+        <Keyword MajorTopicYN="N">lymph node dissection</Keyword>
+        <Keyword MajorTopicYN="N">lymphocele</Keyword>
+        <Keyword MajorTopicYN="N">prostatectomy</Keyword>
+        <Keyword MajorTopicYN="N">robotic surgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>7</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>22</Day>
+          <Hour>12</Hour>
+          <Minute>12</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34677080</ArticleId>
+        <ArticleId IdType="doi">10.1089/lap.2021.0531</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">34681785</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1422-0067</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>22</Volume>
+            <Issue>20</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Oct</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of molecular sciences</Title>
+          <ISOAbbreviation>Int J Mol Sci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of Bone Regeneration in Different Forms of Bovine Bone Scaffolds with Recombinant Human Bone Morphogenetic Protein-2.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">11121</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/ijms222011121</ELocationID>
+        <Abstract>
+          <AbstractText>The aim of this study was to compare the bone regeneration ability of particle and block bones, acting as bone scaffolds, with recombinant human bone morphogenetic protein (rhBMP)-2 and evaluate them as rhBMP-2 carriers. Demineralized bovine bone particles, blocks, and rhBMP-2 were grafted into the subperiosteal space of a rat calvarial bone, and the rats were randomly divided into four groups: particle, block, P (particle)+BMP, and B (block)+BMP groups. The bone volume of the B+BMP group was significantly higher than that of the other groups (<i>p</i> &lt; 0.00), with no significant difference in bone mineral density. The average adipose tissue volume of the B+BMP group was higher than that of the P+BMP group, although the difference was not significant. Adipose tissue formation was observed in the rhBMP-2 application group. Histologically, the particle and B+BMP groups showed higher formation of a new bone. However, adipose tissue and void spaces were also formed, especially in the B+BMP group. Hence, despite the formation of a large central void space, rhBMP-2 could be effectively used with block bone scaffolds and showed excellent new bone formation. Further studies are required to evaluate the changes in adipose tissue.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Seok</LastName>
+            <ForeName>Hyun</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">0000-0002-5278-3807</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Oral and Maxillofacial Surgery, School of Dentistry, Jeonbuk National University, Jeonju 54896, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Research Institute of Clinical Medicine of Jeonbuk National University-Biomedical Research Institute of Jeonbuk National University Hospital, Jeonju 54896, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Hee-Youl</ForeName>
+            <Initials>HY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Oral and Maxillofacial Surgery, School of Dentistry, Jeonbuk National University, Jeonju 54896, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kang</LastName>
+            <ForeName>Dong-Cheol</ForeName>
+            <Initials>DC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Oral and Maxillofacial Surgery, School of Dentistry, Jeonbuk National University, Jeonju 54896, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Park</LastName>
+            <ForeName>Jung-Ho</ForeName>
+            <Initials>JH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Oral and Maxillofacial Surgery, School of Dentistry, Jeonbuk National University, Jeonju 54896, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Park</LastName>
+            <ForeName>Jong Hoon</ForeName>
+            <Initials>JH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Oral and Maxillofacial Surgery, School of Dentistry, Jeonbuk National University, Jeonju 54896, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>15</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Int J Mol Sci</MedlineTA>
+        <NlmUniqueID>101092791</NlmUniqueID>
+        <ISSNLinking>1422-0067</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D055396">Bone Morphogenetic Protein 2</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D003470">Culture Media</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011994">Recombinant Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016212">Transforming Growth Factor beta</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C499469">recombinant human bone morphogenetic protein-2</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055396" MajorTopicYN="N">Bone Morphogenetic Protein 2</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001861" MajorTopicYN="N">Bone Regeneration</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001842" MajorTopicYN="N">Bone and Bones</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002417" MajorTopicYN="N">Cattle</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018929" MajorTopicYN="N">Cell Culture Techniques</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003470" MajorTopicYN="N">Culture Media</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010012" MajorTopicYN="N">Osteogenesis</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011994" MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012886" MajorTopicYN="N">Skull</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054457" MajorTopicYN="N">Tissue Scaffolds</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016212" MajorTopicYN="N">Transforming Growth Factor beta</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">adipose tissue</Keyword>
+        <Keyword MajorTopicYN="N">bone morphogenetic protein</Keyword>
+        <Keyword MajorTopicYN="N">bone regeneration</Keyword>
+        <Keyword MajorTopicYN="N">bovine bone</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>09</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>23</Day>
+          <Hour>1</Hour>
+          <Minute>8</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34681785</ArticleId>
+        <ArticleId IdType="pii">ijms222011121</ArticleId>
+        <ArticleId IdType="doi">10.3390/ijms222011121</ArticleId>
+        <ArticleId IdType="pmc">PMC8537640</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Int J Oral Maxillofac Surg. 2010 Sep;39(9):883-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20566269</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cold Spring Harb Perspect Biol. 2016 Jun 01;8(6):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27252362</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Oral Maxillofac Surg. 2005 Dec;63(12):1693-707</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16297689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Periodontol. 2016 Dec;43(12):1200-1207</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27440671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Oral Implants Res. 2019 Sep;30(9):872-881</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31172607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Materials (Basel). 2019 May 16;12(10):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31100907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Orthop Relat Res. 1998 Jan;(346):26-37</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9577407</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Mol Sci. 2021 Aug 23;22(16):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34445794</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stem Cells Dev. 2009 May;18(4):545-59</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18616389</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tissue Eng Part A. 2011 May;17(9-10):1389-99</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21247344</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bone. 2007 Sep;41(3):462-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17572166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Oral Maxillofac Implants. 2015 Jan-Feb;30(1):202-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25615925</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1988 Dec 16;242(4885):1528-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3201241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Implant Dent Relat Res. 2015 Jan;17 Suppl 1:e192-201</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24102703</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Mol Sci. 2021 Jul 28;22(15):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34360864</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maxillofac Plast Reconstr Surg. 2017 Dec 25;39(1):40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29302589</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Oral Implants Res. 2020 Mar;31(3):215-228</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31730250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Materials (Basel). 2017 Sep 07;10(9):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28880245</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Spine (Phila Pa 1976). 2002 Aug 15;27(16 Suppl 1):S2-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12205411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Orthop Trauma Surg. 2009 Dec;129(12):1651-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19280204</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Implant Dent. 2017 Dec;26(6):826-831</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29117045</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oral Maxillofac Surg Clin North Am. 2007 Nov;19(4):535-51, vi-vii</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18088904</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2008 Aug 21;454(7207):1000-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18719589</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2013 Aug 13;8(8):e71683</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23967235</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Dent Res. 1971 Nov-Dec;50(6):1392-406</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">4943222</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Cell Physiol. 2013 Jun;228(6):1149-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23139068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Growth Factors. 1993;9(1):57-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8347351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Periodontal Res. 2012 Oct;47(5):645-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22471302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Orthop Clin North Am. 2002 Apr;33(2):447-63, ix</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12389291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maxillofac Plast Reconstr Surg. 2019 Sep 5;41(1):33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31531306</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oral Maxillofac Surg Clin North Am. 2011 May;23(2):347-61, vii</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21492806</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Oral Implants Res. 2013 May;24(5):576-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22324456</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Orthop Res. 2000 Mar;18(2):289-302</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10815831</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maxillofac Plast Reconstr Surg. 2019 Sep 16;41(1):36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31572698</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tissue Eng Part B Rev. 2016 Aug;22(4):284-97</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26857241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Periodontics Restorative Dent. 2016;36 Suppl:s151-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27031629</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Dent Res. 2015 Sep;94(9 Suppl):158S-65S</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26185033</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plast Reconstr Surg Glob Open. 2019 Aug 19;7(8):e2347</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31592029</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Korean Assoc Oral Maxillofac Surg. 2016 Apr;42(2):90-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27162749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maxillofac Plast Reconstr Surg. 2017 Jul 25;39(1):21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28791277</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Craniomaxillofac Surg. 2019 Oct;47(10):1626-1632</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31395420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Growth Factors. 1992;7(2):139-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1419071</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Implant Dent. 2013 Apr;22(2):112-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23344366</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Exp Cell Res. 1996 Jan 10;222(1):38-47</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8549671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1965 Nov 12;150(3698):893-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">5319761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">34690208</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>12</Month>
+        <Day>22</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>12</Month>
+        <Day>22</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1881-2090</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>66</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Dec</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Kurume medical journal</Title>
+          <ISOAbbreviation>Kurume Med J</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of Structural Properties Between Postnatal and Adult Tendon Insertion with FIB/SEM Tomography in Rat.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>217-224</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.2739/kurumemedj.MS664007</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The repaired tendon-bone interface after rotator cuff (RC) repair has been identified as a mechanical weak point, which may contribute to re-tearing. Analyzing the postnatal development of a normal tendon insertion in detail may be useful in helping to promote the regeneration of a normal tendon insertion. We verified the morphological differences between postnatal and adult tendon insertions in terms of the cellular structural properties using FIB/SEM tomography.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHOD" NlmCategory="METHODS">SPostnatal and adult Sprague-Dawley rats were used as a model of tendon insertion. The morphological structure of the insertion was evaluated using hematoxylin and eosin (HE) staining, and the 3D ultrastructure of the cells in the insertion was evaluated using FIB/SEM tomography. Additionally, the volume of the cell bodies, nuclei, and cytoplasm were measured and compared in a quantitative analysis.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">On conventional histology, the boundary line between the fibrocartilage and mineralized cartilage was flat in the adult insertions; however, the boundary line between the mineralized cartilage and bone formed deep interdigitations. The morphology of the cells among the collagen bundles in the adult insertions was completely different from those in the postnatal insertions at the 3D ultrastructural level. The cellular structural properties were statistically different between the postnatal and adult insertions.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In the present study, the morphological differences between postnatal and adult tendon insertion in terms of the ultrastructural cellular properties were clarified. These findings may aid in determining how to regenerate a clinically stable tendon insertion at the tendon-bone interface after RC repair.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Yamada</LastName>
+            <ForeName>Taku</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Microscopic and Development Anatomy, Department of Anatomy, Kurume University School of Medicine.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kanazawa</LastName>
+            <ForeName>Tomonoshin</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Microscopic and Development Anatomy, Department of Anatomy, Kurume University School of Medicine.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic surgery, Kurume University School of Medicine.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ohta</LastName>
+            <ForeName>Keisuke</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Microscopic and Development Anatomy, Department of Anatomy, Kurume University School of Medicine.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nakamura</LastName>
+            <ForeName>Kei-Ichiro</ForeName>
+            <Initials>KI</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Microscopic and Development Anatomy, Department of Anatomy, Kurume University School of Medicine.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>25</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Japan</Country>
+        <MedlineTA>Kurume Med J</MedlineTA>
+        <NlmUniqueID>2985210R</NlmUniqueID>
+        <ISSNLinking>0023-5679</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055032" MajorTopicYN="N">Electron Microscope Tomography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008855" MajorTopicYN="Y">Microscopy, Electron, Scanning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017006" MajorTopicYN="N">Rotator Cuff</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000070636" MajorTopicYN="N">Rotator Cuff Injuries</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013710" MajorTopicYN="N">Tendons</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014054" MajorTopicYN="N">Tomography</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">FIB/SEM tomography</Keyword>
+        <Keyword MajorTopicYN="N">rotator cuff</Keyword>
+        <Keyword MajorTopicYN="N">tendon insertion</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>12</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34690208</ArticleId>
+        <ArticleId IdType="doi">10.2739/kurumemedj.MS664007</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">34694140</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>08</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1527-3792</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>207</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of urology</Title>
+          <ISOAbbreviation>J Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Findings in 1,123 Men with Preoperative <sup>68</sup>Ga-Prostate-Specific Membrane Antigen Positron Emission Tomography/Computerized Tomography and Multiparametric Magnetic Resonance Imaging Compared to Totally Embedded Radical Prostatectomy Histopathology: Implications for the Diagnosis and Management of Prostate Cancer.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>573-580</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/JU.0000000000002293</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Multiparametric magnetic resonance imaging (mpMRI) fails to identify some men with significant prostate cancer. Prostate-specific membrane antigen positron emission tomography/computerized tomography (PSMA PET/CT) is recommended for staging of prostate cancer, but its additional benefit above mpMRI alone in local evaluation for prostate cancer is unclear. The study aim was to evaluate the ability of mpMRI and PSMA PET/CT individually and in combination, to predict tumor location and Gleason score ≥3+4 on robot-assisted laparoscopic radical prostatectomy (RALP) histology.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">We retrospectively reviewed 1,123 men with a preoperative mpMRI and <sup>68</sup>Ga-PSMA PET/CT prior to a RALP. Tumor locations were collected from both imaging modalities and compared to totally embedded prostate histology. Lowest apparent diffusion coefficient value on mpMRI and the highest maximum standardized uptake value (SUVmax) on <sup>68</sup>Ga-PSMA PET/CT were collected on the index lesions to perform analysis on detection rates.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Median prostate specific antigen was 6. Median Gleason score on biopsy and RALP histology was 4+3. The index lesion and multifocal tumor detection were similar between mpMRI and <sup>68</sup>Ga-PSMA PET/CT (p=0.10; p=0.11). When combining mpMRI and <sup>68</sup>Ga-PSMA PET/CT, index Gleason score ≥3+4 cancer at RALP was identified in 92%. Only 10% of patients with Gleason score ≤3+4 on biopsy with an SUVmax &lt;5 were upgraded to ≥4+3 on RALP histology, compared to 90% if the SUVmax was &gt;11.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The addition of a diagnostic <sup>68</sup>Ga-PSMA PET/CT to mpMRI can improve the detection of significant prostate cancer and improve the ability to identify men suitable for active surveillance.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Raveenthiran</LastName>
+            <ForeName>S</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Redcliffe Hospital, Redcliffe, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The University of Queensland, Faculty of Medicine, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yaxley</LastName>
+            <ForeName>W J</ForeName>
+            <Initials>WJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>The University of Queensland, Faculty of Medicine, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Queen Elizabeth II Jubilee Hospital, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Franklin</LastName>
+            <ForeName>T</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Wesley Urology Clinic, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Coughlin</LastName>
+            <ForeName>G</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Wesley Urology Clinic, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Roberts</LastName>
+            <ForeName>M</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Redcliffe Hospital, Redcliffe, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The University of Queensland, Faculty of Medicine, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Royal Brisbane &amp; Women's Hospital, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>UQ Centre for Clinical Research, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gianduzzo</LastName>
+            <ForeName>T</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>The University of Queensland, Faculty of Medicine, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Brisbane Prostate Clinic, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kua</LastName>
+            <ForeName>B</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Wesley Urology Clinic, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Samaratunga</LastName>
+            <ForeName>H</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>The University of Queensland, Faculty of Medicine, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Aquesta Uropathology, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Delahunt</LastName>
+            <ForeName>B</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology and Molecular Medicine, Wellington School of Medicine and Health Sciences, Wellington, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Egevad</LastName>
+            <ForeName>L</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Oncological Pathology, Karolineska Institute, Stockholm, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wong</LastName>
+            <ForeName>D</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Royal Brisbane &amp; Women's Hospital, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Wesley Medical Imaging, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McEwan</LastName>
+            <ForeName>L</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Wesley Medical Imaging, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brown</LastName>
+            <ForeName>N</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Wesley Medical Imaging, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Parkinson</LastName>
+            <ForeName>R</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Wesley Medical Imaging, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Esler</LastName>
+            <ForeName>R</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>The University of Queensland, Faculty of Medicine, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Wesley Urology Clinic, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Royal Brisbane &amp; Women's Hospital, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yaxley</LastName>
+            <ForeName>J W</ForeName>
+            <Initials>JW</Initials>
+            <AffiliationInfo>
+              <Affiliation>The University of Queensland, Faculty of Medicine, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Wesley Urology Clinic, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Royal Brisbane &amp; Women's Hospital, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>25</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Urol</MedlineTA>
+        <NlmUniqueID>0376374</NlmUniqueID>
+        <ISSNLinking>0022-5347</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D005709">Gallium Isotopes</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D005710">Gallium Radioisotopes</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011868">Radioisotopes</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C000718244">gallium 68 PSMA-11</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+          <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Urol. 2022 Mar;207(3):580. doi: 10.1097/JU.0000000000002293.01</RefSource>
+          <PMID Version="1">34814736</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="ErratumIn">
+          <RefSource>J Urol. 2022 May;207(5):1166. doi: 10.1097/JU.0000000000002654</RefSource>
+          <PMID Version="1">35393898</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="ErratumIn">
+          <RefSource>J Urol. 2022 Aug;208(2):484-486. doi: 10.1097/JU.0000000000002782</RefSource>
+          <PMID Version="1">35830342</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="ErratumIn">
+          <RefSource>J Urol. 2022 Sep;208(3):745. doi: 10.1097/JU.0000000000002824</RefSource>
+          <PMID Version="1">35942797</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005709" MajorTopicYN="N">Gallium Isotopes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005710" MajorTopicYN="N">Gallium Radioisotopes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000081364" MajorTopicYN="Y">Multiparametric Magnetic Resonance Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D060787" MajorTopicYN="N">Neoplasm Grading</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000072078" MajorTopicYN="Y">Positron Emission Tomography Computed Tomography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017430" MajorTopicYN="N">Prostate-Specific Antigen</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="N">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011868" MajorTopicYN="N">Radioisotopes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">multiparametric magnetic resonance imaging</Keyword>
+        <Keyword MajorTopicYN="N">neoplasm staging</Keyword>
+        <Keyword MajorTopicYN="N">pathology, clinical</Keyword>
+        <Keyword MajorTopicYN="N">prostatectomy</Keyword>
+        <Keyword MajorTopicYN="N">prostatic neoplasms</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>25</Day>
+          <Hour>12</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34694140</ArticleId>
+        <ArticleId IdType="doi">10.1097/JU.0000000000002293</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">34702332</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>10</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>10</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1745-6215</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>22</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Oct</Month>
+              <Day>26</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Trials</Title>
+          <ISOAbbreviation>Trials</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The impact of deep versus standard neuromuscular block on intraoperative safety during laparoscopic surgery: an international multicenter randomized controlled double-blind strategy trial - EURO-RELAX TRIAL.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>744</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13063-021-05638-2</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Muscle relaxants are routinely used during anesthesia to facilitate endotracheal intubation and to optimize surgical conditions. However, controversy remains about the required depth of neuromuscular block (NMB) needed for optimal surgical working conditions and how this relates to other outcomes. For instance, a deep neuromuscular block yields superior surgical working conditions compared to a standard NMB in laparoscopic surgery, however, a robust association to other (safety) outcomes has not yet been established.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Trial design: an international multicenter randomized controlled double-blind strategy trial. Trial population: 922 patients planned for elective, laparoscopic or robotic, abdominal surgery.</AbstractText>
+          <AbstractText Label="INTERVENTION" NlmCategory="METHODS">Patients will be randomized to a deep NMB (post-tetanic count 1-2 twitches) or standard care (single-dose muscle relaxant administration at induction and repeated only if warranted by surgical team). Main trial endpoints: Primary endpoint is the difference in incidence of intraoperative adverse events during laparoscopic surgery graded according to ClassIntra® classification (i.e., ClassIntra® grade ≥ 2) between both groups. Secondary endpoints include the surgical working conditions, 30-day postoperative complications, and patients' quality of recovery.</AbstractText>
+          <AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">This trial was designed to analyze the effect of deep neuromuscular block compared to standard neuromuscular block on intra- and postoperative adverse events in patients undergoing laparoscopic surgery.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov NCT04124757 (EURO-RELAX); registration URL: https://clinicaltrials.gov/ct2/show/NCT04124757 , registered on October 11th, 2019.</AbstractText>
+          <CopyrightInformation>© 2021. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Honing</LastName>
+            <ForeName>Maarten</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-9747-6966</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Leiden University Medical Center, Leiden, The Netherlands. g.h.m.honing@lumc.nl.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Netherlands Cancer Institute, Amsterdam, The Netherlands. g.h.m.honing@lumc.nl.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Reijnders-Boerboom</LastName>
+            <ForeName>Gabby</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Radboud University Medical Center, Nijmegen, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Canisius Wilhelmina Ziekenhuis, Nijmegen, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dell-Kuster</LastName>
+            <ForeName>Salome</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>University and University Hospital Basel, Basel, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Velzen</LastName>
+            <ForeName>Monique</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Leiden University Medical Center, Leiden, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Martini</LastName>
+            <ForeName>Chris</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Leiden University Medical Center, Leiden, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Valenza</LastName>
+            <ForeName>Franco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Istituto Nazionale Dei Tumori, Milano, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Proto</LastName>
+            <ForeName>Paolo</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Istituto Nazionale Dei Tumori, Milano, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cambronero</LastName>
+            <ForeName>Oscar Díaz</ForeName>
+            <Initials>OD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hospital Universitari I Politecnic La Fe, Valencia, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Broens</LastName>
+            <ForeName>Suzanne</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Netherlands Cancer Institute, Amsterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Panhuizen</LastName>
+            <ForeName>Ivo</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Canisius Wilhelmina Ziekenhuis, Nijmegen, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Roozekrans</LastName>
+            <ForeName>Margot</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Noordwest Ziekenhuisgroep, Alkmaar, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fuchs-Buder</LastName>
+            <ForeName>Thomas</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Université De Lorraine, Nancy, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Boon</LastName>
+            <ForeName>Martijn</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Leiden University Medical Center, Leiden, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dahan</LastName>
+            <ForeName>Albert</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Leiden University Medical Center, Leiden, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Warlé</LastName>
+            <ForeName>Michiel</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Radboud University Medical Center, Nijmegen, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT04124757</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>58426</GrantID>
+            <Agency>Merck Sharp and Dohme</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>26</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Trials</MedlineTA>
+        <NlmUniqueID>101263253</NlmUniqueID>
+        <ISSNLinking>1745-6215</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019148" MajorTopicYN="Y">Neuromuscular Blockade</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">ClassIntra® grade</Keyword>
+        <Keyword MajorTopicYN="N">Deep neuromuscular block</Keyword>
+        <Keyword MajorTopicYN="N">Monitoring</Keyword>
+        <Keyword MajorTopicYN="N">Neuromuscular</Keyword>
+        <Keyword MajorTopicYN="N">Surgical working conditions</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>04</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>09</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>27</Day>
+          <Hour>5</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34702332</ArticleId>
+        <ArticleId IdType="doi">10.1186/s13063-021-05638-2</ArticleId>
+        <ArticleId IdType="pii">10.1186/s13063-021-05638-2</ArticleId>
+        <ArticleId IdType="pmc">PMC8546748</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Br J Anaesth. 2021 Feb;126(2):377-385</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33092803</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2017 Jun;265(6):1045-1050</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28486288</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2019 Jan;33(1):19-25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30218262</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Anaesthesiol Scand. 2015 Apr;59(4):441-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25789421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>SAAD Dig. 2013 Jan;29:88-99</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23544226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Transplant. 2013 Jul-Aug;27(4):E478-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23795745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2004 Aug;240(2):205-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15273542</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2018 Jan;32(1):245-251</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28643056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Behav Res Methods. 2007 May;39(2):175-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17695343</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anaesthesia. 2021 Sep;76(9):1212-1223</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34013531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2002 Apr;96(4):1004-17</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11964611</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2016 Jan;124(1):132-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26540149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2017 Nov;41(11):2950-2958</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28608013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2015 Mar;29(3):627-36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25125097</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2014 Nov;28(11):3168-78</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24879142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2013 Aug;111(2):161-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23471753</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Evid Based Healthc. 2013 Dec;11(4):275-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24298921</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2000 Jan;84(1):11-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10740540</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2016 Jul;117(1):59-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27154574</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2015 Aug 28;10(8):e0135412</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26317357</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Anaesthesiol Scand. 2007 Aug;51(7):789-808</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17635389</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2016 Dec 9;11(12):e0167907</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27936214</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2017 Sep 1;119(3):435-442</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28969327</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2017 Jun 1;118(6):834-842</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28575335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2018 May 23;13(5):e0197036</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29791482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Anaesthesiol. 2019 Jul;36(7):494-501</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30920983</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crit Care Med. 2006 Nov;34(11):2749-57</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16932229</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2020 Aug 25;370:m2917</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32843333</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2014 Mar;112(3):498-505</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24240315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">34705777</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1529-4242</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>148</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Nov</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Plastic and reconstructive surgery</Title>
+          <ISOAbbreviation>Plast Reconstr Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A Novel Alaska Pollock Gelatin Sealant Shows Higher Bonding Strength and Nerve Regeneration Comparable to That of Fibrin Sealant in a Cadaveric Model and a Rat Model.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>742e-752e</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/PRS.0000000000008489</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">A novel biocompatible sealant composed of Alaska pollock-derived gelatin (ApGltn) has recently shown good burst strength and biocompatibility in a porcine aorta. The purpose of this study was to investigate the bonding strength and biocompatibility of the ApGltn sealant in transected digital nerves of fresh frozen cadavers and in the sciatic nerves of a rat model.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Eighty human digital nerves of fresh frozen cadavers were transected for biomechanical traction testing. They were treated with four surgical interventions: (1) suture plus ApGltn sealant; (2) suture; (3) ApGltn sealant; and (4) fibrin sealant. Forty-three sciatic nerves of male Wistar rats were used for functional and histopathologic evaluation. They were treated with six surgical interventions: (1) suture plus ApGltn sealant; (2) suture; (3) ApGltn sealant; (4) fibrin sealant; (5) resection with a 5-mm gap (10 rats per group); and (6) sham operation (three rats). Macroscopic confirmation, muscle weight measurement, and histopathologic findings including G-ratio were examined 8 weeks after the procedure.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The maximum failure load of the ApGltn sealant was significantly higher than that of a fibrin sealant (0.22 ± 0.05 N versus 0.06 ± 0.04 N). The maximum failure load of the ApGltn sealant was significantly lower that of suture plus ApGltn sealant (1.37 N) and suture (1.27 N). Functional evaluation and histologic examination showed that sciatic nerves repaired with ApGltn sealant showed similar nerve recovery compared to repair with the suture and fibrin sealant.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The ApGltn sealant showed higher bonding strength and equal effect of nerve regeneration when compared with the fibrin sealant.</AbstractText>
+          <CopyrightInformation>Copyright © 2021 by the American Society of Plastic Surgeons.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Masuda</LastName>
+            <ForeName>Shusuke</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Suzuki</LastName>
+            <ForeName>Taku</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shibata</LastName>
+            <ForeName>Shinsuke</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moritoki</LastName>
+            <ForeName>Nobuko</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Abe</LastName>
+            <ForeName>Yoshifumi</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Xi</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mizuno</LastName>
+            <ForeName>Yosuke</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nishiguchi</LastName>
+            <ForeName>Akihiro</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kimura</LastName>
+            <ForeName>Hiroo</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Matsumura</LastName>
+            <ForeName>Noboru</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Iwamoto</LastName>
+            <ForeName>Takuji</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Taguchi</LastName>
+            <ForeName>Tetsushi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Matsumoto</LastName>
+            <ForeName>Morio</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nakamura</LastName>
+            <ForeName>Masaya</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>From the Department of Orthopedic Surgery, Electron Microscope Laboratory, and Department of Neuropsychiatry, Keio University School of Medicine; Graduate School of Pure and Applied Sciences, University of Tsukuba; and Polymers and Biomaterials Field, Research Center for Functional Materials, National Institute for Materials Science.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Plast Reconstr Surg</MedlineTA>
+        <NlmUniqueID>1306050</NlmUniqueID>
+        <ISSNLinking>0032-1052</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001672">Biocompatible Materials</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015718">Fibrin Tissue Adhesive</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D029941">Fish Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014014">Tissue Adhesives</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>9000-70-8</RegistryNumber>
+          <NameOfSubstance UI="D005780">Gelatin</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001672" MajorTopicYN="N">Biocompatible Materials</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002102" MajorTopicYN="N">Cadaver</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015718" MajorTopicYN="N">Fibrin Tissue Adhesive</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005383" MajorTopicYN="N">Finger Injuries</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005385" MajorTopicYN="N">Fingers</DescriptorName>
+          <QualifierName UI="Q000294" MajorTopicYN="N">innervation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D029941" MajorTopicYN="N">Fish Proteins</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005780" MajorTopicYN="N">Gelatin</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008422" MajorTopicYN="N">Materials Testing</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D023421" MajorTopicYN="N">Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012584" MajorTopicYN="N">Sciatic Nerve</DescriptorName>
+          <QualifierName UI="Q000293" MajorTopicYN="N">injuries</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014014" MajorTopicYN="N">Tissue Adhesives</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>27</Day>
+          <Hour>17</Hour>
+          <Minute>22</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34705777</ArticleId>
+        <ArticleId IdType="doi">10.1097/PRS.0000000000008489</ArticleId>
+        <ArticleId IdType="pii">00006534-202111000-00019</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Isaacs J. Treatment of acute peripheral nerve injuries: Current concepts. J Hand Surg Am. 2010;35:491–497quiz 498.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sameem M, Wood TJ, Bain JR. A systematic review on the use of fibrin glue for peripheral nerve repair. Plast Reconstr Surg. 2011;127:2381–2390.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Menovsky T, Beek JF. Laser, fibrin glue, or suture repair of peripheral nerves: A comparative functional, histological, and morphometric study in the rat sciatic nerve. J Neurosurg. 2001;95:694–699.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Félix SP, Pereira Lopes FR, Marques SA, Martinez AM. Comparison between suture and fibrin glue on repair by direct coaptation or tubulization of injured mouse sciatic nerve. Microsurgery2013;33:468–477.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rafijah G, Bowen AJ, Dolores C, Vitali R, Mozaffar T, Gupta R. The effects of adjuvant fibrin sealant on the surgical repair of segmental nerve defects in an animal model. J Hand Surg Am. 2013;38:847–855.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Riley DC, Bittner GD, Mikesh M, et al. Polyethylene glycol-fused allografts produce rapid behavioral recovery after ablation of sciatic nerve segments. J Neurosci Res. 2015;93:572–583.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bamba R, Riley DC, Kim JS, et al. Evaluation of a nerve fusion technique with polyethylene glycol in a delayed setting after nerve injury. J Hand Surg Am. 2018;43:82.e1–82.e7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Barton M, Morley JW, Stoodley MA, et al. Laser-activated adhesive films for sutureless median nerve anastomosis. J Biophotonics2013;6:938–949.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Turner NJ, Johnson SA, Foster LJR, Badylak SF. Sutureless nerve repair with ECM bioscaffolds and laser-activated chitosan adhesive. J Biomed Mater Res B Appl Biomater. 2018;106:1698–1711.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Barton MJ, Morley JW, Stoodley MA, Lauto A, Mahns DA. Nerve repair: Toward a sutureless approach. Neurosurg Rev. 2014;37:585–595.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tse R, Ko JH. Nerve glue for upper extremity reconstruction. Hand Clin. 2012;28:529–540.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Temple CL, Ross DC, Dunning CE, Johnson JA. Resistance to disruption and gapping of peripheral nerve repairs: An in vitro biomechanical assessment of techniques. J Reconstr Microsurg. 2004;20:645–650.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nishimura MT, Mazzer N, Barbieri CH, Moro CA. Mechanical resistance of peripheral nerve repair with biological glue and with conventional suture at different postoperative times. J Reconstr Microsurg. 2008;24:327–332.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Isaacs JE, McDaniel CO, Owen JR, Wayne JS. Comparative analysis of biomechanical performance of available “nerve glues”. J Hand Surg Am. 2008;33:893–899.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Childe JR, Regal S, Schimoler P, Kharlamov A, Miller MC, Tang P. Fibrin glue increases the tensile strength of conduit-assisted primary digital nerve repair. Hand (N Y)2018;13:45–49.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Singer AJ, Thode HC Jr. A review of the literature on octylcyanoacrylate tissue adhesive. Am J Surg. 2004;187:238–248.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Walgenbach KJ, Bannasch H, Kalthoff S, Rubin JP. Randomized, prospective study of TissuGlu surgical adhesive in the management of wound drainage following abdominoplasty. Aesthetic Plast Surg. 2012;36:491–496.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chao HH, Torchiana DF. BioGlue: Albumin/glutaraldehyde sealant in cardiac surgery. J Card Surg. 2003;18:500–503.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Evans CE, Lees GC, Trail IA. Cytotoxicity of cyanoacrylate adhesives to cultured tendon cells. J Hand Surg Br. 1999;24:658–661.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Taguchi T, Ryo M, Ito T, Yoshizawa K, Kajiyama M. Robust sealing of blood vessels with cholesteryl group-modified, Alaska pollock-derived gelatin-based biodegradable sealant under wet conditions. J Biomed Nanotechnol. 2016;12:128–134.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mizuno Y, Mizuta R, Hashizume M, Taguchi T. Enhanced sealing strength of a hydrophobically-modified Alaska pollock gelatin-based sealant. Biomater Sci. 2017;5:982–989.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yamaoka M, Maki N, Wijesinghe A, et al. Novel Alaska pollock gelatin sealant shows high adhesive quality and conformability. Ann Thorac Surg. 2019;107:1656–1662.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mizuta R, Taguchi T. Enhanced sealing by hydrophobic modification of Alaska pollock-derived gelatin-based surgical sealants for the treatment of pulmonary air leaks. Macromol Biosci. 2017;17:1600349.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bain JR, Mackinnon SE, Hunter DA. Functional evaluation of complete sciatic, peroneal, and posterior tibial nerve lesions in the rat. Plast Reconstr Surg. 1989;83:129–138.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shibata S, Murota Y, Nishimoto Y, et al. Immuno-electron microscopy and electron microscopic in situ hybridization for visualizing piRNA biogenesis bodies in Drosophila ovaries. Methods Mol Biol. 2015;1328:163–178.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kimura H, Ouchi T, Shibata S, et al. Stem cells purified from human induced pluripotent stem cell-derived neural crest-like cells promote peripheral nerve regeneration. Sci Rep. 2018;8:10071.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Takagi T, Nakamura M, Yamada M, et al. Visualization of peripheral nerve degeneration and regeneration: Monitoring with diffusion tensor tractography. Neuroimage2009;44:884–892.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Leite APS, Pinto CG, Tibúrcio FC, et al. Heterologous fibrin sealant potentiates axonal regeneration after peripheral nerve injury with reduction in the number of suture points. Injury2019;50:834–847.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mizuno Y, Taguchi T. Promotion of cell migration into a hydrophobically modified Alaska pollock gelatin-based hydrogel. Macromol Biosci. 2019;19:e1900083.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

@@ -1,0 +1,2762 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">34225299</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>02</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>07</Month>
+        <Day>12</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1528-1140</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>277</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Jan</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annals of surgery</Title>
+          <ISOAbbreviation>Ann Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic Gastrectomy Versus Laparoscopic Gastrectomy for Gastric Cancer: A Multicenter Cohort Study of 5402 Patients in China.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e87-e95</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/SLA.0000000000005046</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">A large-scale multicenter retrospective cohort study was conducted to compare the short- and long-term outcomes of robotic gastrectomy (RG) and laparoscopic gastrectomy (LG) for gastric cancer.</AbstractText>
+          <AbstractText Label="SUMMARY OF BACKGROUND DATA" NlmCategory="BACKGROUND">RG is being increasingly used worldwide, but data from large-scale multicenter studies on the short- and long-term oncologic outcomes of RG versus LG are limited. The potential benefits of RG compared with LG for gastric cancer remain controversial.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Data from eligible patients who underwent RG or LG for gastric cancer of 11 experienced surgeons from 7 centers in China between March 2010 and October 2019 were collected. The RG group was matched 1:1 with the LG group by using propensity score matching. The primary outcome was postoperative complications.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">After propensity score matching, a well-balanced cohort of 3552 patients was included for further analysis. The occurrence of overall complications (12.6% vs 15.2%, P = 0.023) was lower in the RG group than in the LG group. RG was associated with less blood loss (126.8 vs 142.5 mL, P &lt; 0.001) and more retrieved lymph nodes in total (32.5 vs 30.7, P &lt; 0.001) and in suprapancreatic areas (13.3 vs 11.6, P &lt; 0.001).The long-term oncological outcomes were comparable between the two groups.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The results of this multicenter study demonstrate that RG is a safe and effective treatment for gastric cancer when performed by experienced surgeons, although longer operation time and higher costs are still concerns about RG. This study provides evidence suggesting that RG may represent an alternative surgical treatment to LG.</AbstractText>
+          <CopyrightInformation>Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Zheng-Yan</ForeName>
+            <Initials>ZY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Center for Minimally Invasive Gastrointestinal Surgery, Southwest Hospital, Third Military Medical University, Chongqing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Yan-Bing</ForeName>
+            <Initials>YB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastrointestinal Surgery, Affiliated Hospital of Qingdao University, Qingdao, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Tai-Yuan</ForeName>
+            <Initials>TY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, The First Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Ji-Peng</ForeName>
+            <Initials>JP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive Surgery, Xijing Hospital, Fourth Military Medical University, Xi'an, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Zhi-Wei</ForeName>
+            <Initials>ZW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Sun Yat-sen University Cancer Center, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>She</LastName>
+            <ForeName>Jun-Jun</ForeName>
+            <Initials>JJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Jian-Kun</ForeName>
+            <Initials>JK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastrointestinal Surgery &amp; Laboratory of Gastric Cancer, State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Qian</LastName>
+            <ForeName>Feng</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Center for Minimally Invasive Gastrointestinal Surgery, Southwest Hospital, Third Military Medical University, Chongqing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shi</LastName>
+            <ForeName>Yan</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Center for Minimally Invasive Gastrointestinal Surgery, Southwest Hospital, Third Military Medical University, Chongqing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tian</LastName>
+            <ForeName>Yu-Long</ForeName>
+            <Initials>YL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastrointestinal Surgery, Affiliated Hospital of Qingdao University, Qingdao, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Geng-Mei</ForeName>
+            <Initials>GM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, The First Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Rui-Zi</ForeName>
+            <Initials>RZ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive Surgery, Xijing Hospital, Fourth Military Medical University, Xi'an, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Cheng-Cai</ForeName>
+            <Initials>CC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastric Surgery, Sun Yat-sen University Cancer Center, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shi</LastName>
+            <ForeName>Fei-Yu</ForeName>
+            <Initials>FY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Kun</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastrointestinal Surgery &amp; Laboratory of Gastric Cancer, State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wen</LastName>
+            <ForeName>Yan</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Center for Minimally Invasive Gastrointestinal Surgery, Southwest Hospital, Third Military Medical University, Chongqing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Yong-Liang</ForeName>
+            <Initials>YL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Center for Minimally Invasive Gastrointestinal Surgery, Southwest Hospital, Third Military Medical University, Chongqing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yu</LastName>
+            <ForeName>Pei-Wu</ForeName>
+            <Initials>PW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Center for Minimally Invasive Gastrointestinal Surgery, Southwest Hospital, Third Military Medical University, Chongqing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <CollectiveName>Robotic, Laparoscopic Surgery Committee of Chinese Research Hospital Association</CollectiveName>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>07</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Ann Surg</MedlineTA>
+        <NlmUniqueID>0372354</NlmUniqueID>
+        <ISSNLinking>0003-4932</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013274" MajorTopicYN="Y">Stomach Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005743" MajorTopicYN="N">Gastrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002681" MajorTopicYN="N" Type="Geographic">China</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>Conflict of interest Disclosures: The authors declare that they have no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>3</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>5</Day>
+          <Hour>20</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34225299</ArticleId>
+        <ArticleId IdType="doi">10.1097/SLA.0000000000005046</ArticleId>
+        <ArticleId IdType="pii">00000658-202301000-00040</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Bray F, Ferlay J, Soerjomataram I, et al. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2018;68:394–424.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Songun IPH, Kranenbarg EM, Sasako M, et al. CJ, Surgical treatment of gastric cancer: 15-year follow-up results of the randomised nationwide Dutch D1D2 trial. Lancet Oncol. 2010;11:439–449.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Katai H, Mizusawa J, Katayama H, et al. Survival outcomes after laparoscopy-assisted distal gastrectomy versus open distal gastrectomy with nodal dissection for clinical stage IA or IB gastric cancer (JCOG0912): a multicentre, non-inferiority, phase 3 randomised controlled trial. Lancet Gastroenterol Hepatol. 2020;5:142–151.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Katai H, Mizusawa J, Katayama H, et al. Short-term surgical outcomes from a phase III study of laparoscopy-assisted versus open distal gastrectomy with nodal dissection for clinical stage IA/IB gastric cancer: Japan Clinical Oncology Group Study JCOG0912. Gastric Cancer. 2017;20:699–708.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hu Y, Huang C, Sun Y, et al. Morbidity and mortality of laparoscopic versus open D2 distal gastrectomy for advanced gastric cancer: a randomized controlled trial. J Clin Oncol. 2016;34:1350–1357.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yu J, Huang C, Sun Y, et al. Effect of laparoscopic vs open distal gastrectomy on 3-Year disease-free survival in patients with locally advanced gastric cancer: the CLASS-01 randomized clinical trial. JAMA. 2019;321:1983–1992.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee HJ, Hyung WJ, Yang HK, et al. Short-term outcomes of a multicenter randomized controlled trial comparing laparoscopic distal gastrectomy with D2 lymphadenectomy to open distal gastrectomy for locally advanced gastric cancer (KLASS-02-RCT). Ann Surg. 2019;270:983–991.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hyung WJ, Yang HK, Park YK, et al. Long-term outcomes of laparoscopic distal gastrectomy for locally advanced gastric cancer: the KLASS-02-RCT randomized clinical trial. J Clin Oncol. 2020;38:3304–3313.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hashizume M, Shimada M, Tomikawa M, et al. Early experiences of endoscopic procedures in general surgery assisted by a computer-enhanced surgical system. Surg Endosc. 2002;16:1187–1191.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Eom BW, Yoon HM, Ryu KW, et al. Comparison of surgical performance and short-term clinical outcomes between laparoscopic and robotic surgery in distal gastric cancer. Eur J Surg Oncol. 2012;38:57–63.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim MC, Heo GU, Jung GJ. Robotic gastrectomy for gastric cancer: surgical techniques and clinical merits. Surg Endosc. 2010;24:610–615.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Terashima M, Tokunaga M, Tanizawa Y, et al. Robotic surgery for gastric cancer. Gastric Cancer. 2015;18:449–457.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>van Boxel GI, Ruurda JP, van Hillegersberg R. Robotic-assisted gastrectomy for gastric cancer: a European perspective. Gastric Cancer. 2019;22:909–919.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Song J, Oh SJ, Kang WH, et al. Robot-assisted gastrectomy with lymph node dissection for gastric cancer: lessons learned from an initial 100 consecutive procedures. Ann Surg. 2009;249:927–932.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim HI, Han SU, Yang HK, et al. Multicenter prospective comparative study of robotic versus laparoscopic gastrectomy for gastric adenocarcinoma. Ann Surg. 2016;263:103–109.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lu J, Zheng CH, Xu BB, et al. Assessment of robotic versus laparoscopic distal gastrectomy for gastric cancer: a randomized controlled trial. Ann Surg. 2020;273:858–867.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Obama K, Kim YM, Kang DR, et al. Long-term oncologic outcomes of robotic gastrectomy for gastric cancer compared with laparoscopic gastrectomy. Gastric Cancer. 2018;21:285–295.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shin HJ, Son SY, Wang B, et al. Long-term comparison of robotic and laparoscopic gastrectomy for gastric cancer: a propensity score-weighted analysis of 2084 consecutive patients. Ann Surg. 2020;274:128–137.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li ZY, Zhao YL, Qian F, et al. Long-term oncologic outcomes of robotic versus laparoscopic gastrectomy for locally advanced gastric cancer: a propensity score-matched analysis of 1170 patients. Surg Endosc. 2021;35:6903–6912.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nakauchi M, Suda K, Susumu S, et al. Comparison of the long-term outcomes of robotic radical gastrectomy for gastric cancer and conventional laparoscopic approach: a single institutional retrospective cohort study. Surg Endosc. 2016;30:5444–5452.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hikage M, Tokunaga M, Furukawa K, et al. Long-term outcomes of robotic gastrectomy for clinical stage I gastric cancer: a single-center prospective phase II study. Surg Endosc. 2021;35:4160–4166.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Amin MB, Edge SB, Greene FL, et al. AJCC Cancer Staging Manual. 8th ed. New York: Springer; 2017, 739–747.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2010 (ver. 3). Gastric Cancer. 2011;14:113–123.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Japanese Gastric Cancer A. Japanese gastric cancer treatment guidelines 2014 (ver. 4). Gastric Cancer. 2017;20:1–19.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dindo D, Demartines N, Clavien PA. Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey. Ann Surg. 2004;240:205–213.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Baiocchi GL, Giacopuzzi S, Marrelli D, et al. International consensus on a complications list after gastrectomy for cancer. Gastric Cancer. 2019;22:172–189.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bassi C, Marchegiani G, Dervenis C, et al. The 2016 update of the International Study Group (ISGPS) definition and grading of postoperative pancreatic fistula: 11 years after. Surgery. 2017;161:584–591.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bangalore S, Guo Y, Samadashvili Z, et al. Everolimus-eluting stents or bypass surgery for multivessel coronary disease. N Engl J Med. 2015;372:1213–1222.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hikage M, Tokunaga M, Makuuchi R, et al. Comparison of surgical outcomes between robotic and laparoscopic distal gastrectomy for cT1 gastric cancer. World J Surg. 2018;42:1803–1810.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li ZY, Zhao YL, Qian F, et al. Morbidity and short-term surgical outcomes of robotic versus laparoscopic distal gastrectomy for gastric cancer: a large cohort study. Surg Endosc. 2020;35:3572–3583.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kong Y, Cao S, Liu X, et al. Short-term clinical outcomes after laparoscopic and robotic gastrectomy for gastric cancer: a propensity score matching analysis. J Gastrointest Surg. 2020;24:531–539.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yang C, Shi Y, Xie S, et al. Short-term outcomes of robotic- versus laparoscopic-assisted total gastrectomy for advanced gastric cancer: a propensity score matching study. BMC Cancer. 2020;20:669.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bobo Z, Xin W, Jiang L, et al. Robotic gastrectomy versus laparoscopic gastrectomy for gastric cancer: meta-analysis and trial sequential analysis of prospective observational studies. Surg Endosc. 2019;33:1033–1048.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Uyama I, Suda K, Nakauchi M, et al. Clinical advantages of robotic gastrectomy for clinical stage I/II gastric cancer: a multi-institutional prospective single-arm study. Gastric Cancer. 2019;22:377–385.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Suda K, Man IM, Ishida Y, et al. Potential advantages of robotic radical gastrectomy for gastric adenocarcinoma in comparison with conventional laparoscopic approach: a single institutional retrospective comparative cohort study. Surg Endosc. 2015;29:673–685.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Seo HS, Shim JH, Jeon HM, et al. Postoperative pancreatic fistula after robot distal gastrectomy. J Surg Res. 2015;194:361–366.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim YW, Reim D, Park JY, et al. Role of robot-assisted distal gastrectomy compared to laparoscopy-assisted distal gastrectomy in suprapancreatic nodal dissection for gastric cancer. Surg Endosc. 2016;30:1547–1552.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim YM, Hyung WJ. Current status of robotic gastrectomy for gastric cancer: comparison with laparoscopic gastrectomy. Updates Surg. 2021;73:853–863.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Son T, Lee JH, Kim YM, et al. Robotic spleen-preserving total gastrectomy for gastric cancer: comparison with conventional laparoscopic procedure. Surg Endosc. 2014;28:2606–2615.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim TH, Ryu KW, Lee JH, et al. Operation time as a simple indicator to predict the overcoming of the learning curve in gastric cancer surgery: a multicenter cohort study. Gastric Cancer. 2019;22:1069–1080.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim MS, Kim WJ, Hyung WJ, et al. Comprehensive learning curve of robotic surgery: discovery from a multicenter prospective trial of robotic gastrectomy. Ann Surg. 2021;273:949–956.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li Z, Li J, Li B, et al. Robotic versus laparoscopic gastrectomy with D2 lymph node dissection for advanced gastric cancer: a propensity score-matched analysis. Cancer Manag Res. 2019;10:705–714.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gao Y, Xi H, Qiao Z, et al. Comparison of robotic- and laparoscopic-assisted gastrectomy in advanced gastric cancer: updated short- and long-term results. Surg Endosc. 2019;33:528–534.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pan JH, Zhou H, Zhao XX, et al. Long-term oncological outcomes in robotic gastrectomy versus laparoscopic gastrectomy for gastric cancer: a meta-analysis. Surg Endosc. 2017;31:4244–4251.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Solaini L, Avanzolini A, Pacilio CA, et al. Robotic surgery for gastric cancer in the west: a systematic review and meta-analyses of short-and long-term outcomes. Int J Surg. 2020;83:170–175.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liu H, Kinoshita T, Tonouchi A, et al. What are the reasons for a longer operation time in robotic gastrectomy than in laparoscopic gastrectomy for stomach cancer? Surg Endosc. 2019;33:192–198.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">34230145</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>07</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>07</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1791-7530</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>41</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Anticancer research</Title>
+          <ISOAbbreviation>Anticancer Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Minimally Invasive <i>Versus</i> Open Ivor-Lewis Esophagectomy for Esophageal Cancer or Cancer of the Gastroesophageal Junction: Comparison of Postoperative Outcomes and Long-term Survival Using Propensity Score Matching Analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>3499-3510</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.21873/anticanres.15137</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND/AIM" NlmCategory="OBJECTIVE">Esophagectomy is crucial for achieving long-term survival in patients with esophageal cancer, while being associated with a significant risk of complications. Aiming to reduce invasiveness and morbidity, total minimal-invasive esophagectomy (MIE) has been gradually implemented worldwide. The aim of the study was to compare MIE to open Ivor-Lewis esophagectomy (OE) for esophageal cancer or cancer of the gastroesophageal junction (GEJ), in terms of postoperative and oncological outcomes.</AbstractText>
+          <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Clinicopathological data of patients undergoing oncologic transthoracic esophagectomy (Ivor Lewis procedure) between 2010 and 2019 were assessed. Postoperative outcomes and long-term survival of patients undergoing OE were compared to those after MIE using 1:1 propensity score matching.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">After excluding hybrid and robotic procedures, 90 patients who underwent MIE were compared with a matched cohort of 90 patients who underwent OE. MIE was associated with lower major postoperative morbidity (31% vs. 46%, p=0.046) and lower 90-day mortality (2% vs. 12%, p=0.010) compared to OE. MIE showed non-inferior 3-year overall (65% vs. 52%, p=0.019) and comparable disease-free survival rates (49% vs. 51%, p=0.851) in comparison to OE.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our data suggest that MIE should be preferably performed in patients with esophageal cancer or cancer of the GEJ.</AbstractText>
+          <CopyrightInformation>Copyright © 2021 International Institute of Anticancer Research (Dr. George J. Delinasios), All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Knitter</LastName>
+            <ForeName>Sebastian</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte | Campus Virchow-Klinikum, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany; sebastian.knitter@charite.de.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Andreou</LastName>
+            <ForeName>Andreas</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Visceral Surgery und Medicine, lnselspital, Bern University Hospital, University of Bern, Bern, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hofmann</LastName>
+            <ForeName>Tobias</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte | Campus Virchow-Klinikum, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chopra</LastName>
+            <ForeName>Sascha</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte | Campus Virchow-Klinikum, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Denecke</LastName>
+            <ForeName>Christian</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte | Campus Virchow-Klinikum, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Thuss-Patience</LastName>
+            <ForeName>Peter C</ForeName>
+            <Initials>PC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Medical Department, Division of Hematology, Oncology and Tumor Immunology, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kröll</LastName>
+            <ForeName>Dino</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte | Campus Virchow-Klinikum, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bahra</LastName>
+            <ForeName>Marcus</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte | Campus Virchow-Klinikum, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schmelzle</LastName>
+            <ForeName>Moritz</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte | Campus Virchow-Klinikum, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pratschke</LastName>
+            <ForeName>Johann</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte | Campus Virchow-Klinikum, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Biebl</LastName>
+            <ForeName>Matthias</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte | Campus Virchow-Klinikum, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Greece</Country>
+        <MedlineTA>Anticancer Res</MedlineTA>
+        <NlmUniqueID>8102988</NlmUniqueID>
+        <ISSNLinking>0250-7005</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002294" MajorTopicYN="N">Carcinoma, Squamous Cell</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018572" MajorTopicYN="N">Disease-Free Survival</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004938" MajorTopicYN="N">Esophageal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016629" MajorTopicYN="N">Esophagectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004943" MajorTopicYN="N">Esophagogastric Junction</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019060" MajorTopicYN="N">Minimally Invasive Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="N">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013906" MajorTopicYN="N">Thoracoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Esophageal cancer</Keyword>
+        <Keyword MajorTopicYN="N">cancer of the gastroesophageal junction</Keyword>
+        <Keyword MajorTopicYN="N">minimal-invasive esophagectomy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>03</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>05</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>05</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>16</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34230145</ArticleId>
+        <ArticleId IdType="pii">41/7/3499</ArticleId>
+        <ArticleId IdType="doi">10.21873/anticanres.15137</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">34244109</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>11</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1878-3562</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>54</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Feb</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver</Title>
+          <ISOAbbreviation>Dig Liver Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Percutaneous microwave ablation versus robot-assisted hepatectomy for early hepatocellular carcinoma: A real-world single-center study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>243-250</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S1590-8658(21)00187-0</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.dld.2021.04.008</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Both microwave ablation and robot-assisted hepatectomy are representative minimally invasive treatments for early hepatocellular carcinoma. Our study compares the practicability and medium-term therapeutic efficacy between them.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Patients with early HCC treated by MWA or RH from 2013 to 2019 were included. Propensity score matching (PSM) and inverse probability of treatment weight (IPTW) were used to minimize baseline imbalance. Operation trauma, postoperative recovery, complications, cost and oncological efficacy were compared.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">401 patients with a median follow-up of 28 months were included (MWA n = 240; RH n = 161). After PSM, 3-year recurrence-free survival (RFS), overall survival (OS) and cancer-specific survival (CSS) of MWA group and RH group were 52.2% vs 65.8%, 91.5% vs 91.3% and 91.5% vs 91.3%, respectively. OS and CSS were comparable (p = 0.44 and 0.96), while RFS of MWA was slightly lower but not significant (p = 0.097). The above results after IPTW followed the same trend. After PSM, MWA showed advantages in operation time and blood loss, while RH performed better in postoperative liver function. There was no significant difference in incidence of severe complications between two groups.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">For early HCC parents, both treatments can achieve good, safe and comparable medium-term therapeutic effects. MWA is more minimally invasive, while RH has better accuracy and causes less damage to liver parenchyma.</AbstractText>
+          <CopyrightInformation>Copyright © 2021. Published by Elsevier Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ding</LastName>
+            <ForeName>Wenzhen</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Ultrasound, The First Center of Chinese PLA General Hospital, Address:28 Fuxing Road, Beijing, 100853 China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yu</LastName>
+            <ForeName>Jie</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Ultrasound, The First Center of Chinese PLA General Hospital, Address:28 Fuxing Road, Beijing, 100853 China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Fangyi</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Ultrasound, The First Center of Chinese PLA General Hospital, Address:28 Fuxing Road, Beijing, 100853 China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yu</LastName>
+            <ForeName>Xiaoling</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Ultrasound, The First Center of Chinese PLA General Hospital, Address:28 Fuxing Road, Beijing, 100853 China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cheng</LastName>
+            <ForeName>Zhigang</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Ultrasound, The First Center of Chinese PLA General Hospital, Address:28 Fuxing Road, Beijing, 100853 China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Zhiyu</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Ultrasound, The First Center of Chinese PLA General Hospital, Address:28 Fuxing Road, Beijing, 100853 China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Ping</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Interventional Ultrasound, The First Center of Chinese PLA General Hospital, Address:28 Fuxing Road, Beijing, 100853 China. Electronic address: liangping301@126.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>07</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>Dig Liver Dis</MedlineTA>
+        <NlmUniqueID>100958385</NlmUniqueID>
+        <ISSNLinking>1590-8658</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006528" MajorTopicYN="N">Carcinoma, Hepatocellular</DescriptorName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006498" MajorTopicYN="N">Hepatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008113" MajorTopicYN="N">Liver Neoplasms</DescriptorName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008872" MajorTopicYN="N">Microwaves</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="N">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000078703" MajorTopicYN="N">Radiofrequency Ablation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015996" MajorTopicYN="N">Survival Rate</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>Declaration of competing interest None.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>01</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>04</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>04</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>38</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34244109</ArticleId>
+        <ArticleId IdType="pii">S1590-8658(21)00187-0</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.dld.2021.04.008</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">34244118</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>12</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>12</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2405-4569</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>8</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>09</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>European urology focus</Title>
+          <ISOAbbreviation>Eur Urol Focus</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Prospective Longitudinal Health-related Quality of Life Analysis of the Finnish Arm of the PRIAS Active Surveillance Cohort: 11 Years of Follow-up.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1151-1156</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S2405-4569(21)00170-X</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.euf.2021.06.008</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Living with an untreated cancer may alter quality of life (QoL) in the long term.</AbstractText>
+          <AbstractText Label="OBJECTIVE">To prospectively study long-term changes in general, mental, and physical QoL in a contemporary active surveillance (AS) patient cohort with low-risk prostate cancer (PCa).</AbstractText>
+          <AbstractText Label="DESIGN, SETTING, AND PARTICIPANTS">The study population consisted of patients enrolled in the PRIAS trial in Helsinki University Hospital (n = 348). The RAND-36 questionnaire was used to assess general QoL at the start of AS and at 1, 3, 5, 7, 9, and 11 years during follow-up. Patients who had undergone robot-assisted laparoscopic prostatectomy (RALP; n = 88) also received the questionnaire after treatment.</AbstractText>
+          <AbstractText Label="OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS">Changes over time were analysed using multilevel mixed-effects regression models, and reported as the mean and95% confidence interval. A rule of 0.5 × standard deviation was used to estimate changes of clinical importance.</AbstractText>
+          <AbstractText Label="RESULTS AND LIMITATIONS">Median follow-up until the end of AS or last follow-up was 7.2 (range 0.3-12.7) yr. A decrease was observed in six of eight QoL subdomains at 7 yr. However, all scores were above age-stratified reference values. There was no difference between the group who continued AS throughout the study period and the group who discontinued AS and underwent RALP. More than half of the study cohort discontinued AS (n = 198; 57%), 135 men (68%) because of events specified in the protocol and only seven (3.5%) because of anxiety. Metastatic disease developed in six patients (1.7%), and two cases (0.6%) of PCa-related death were recorded among 348 patients in more than 12 yr of overall follow-up. The lack of a randomised control population is a limitation of the study.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Contemporary protocolised AS does not impair general QoL. Men undergoing a treatment change (RALP) did not experience a decrease in QoL before or after their treatment change.</AbstractText>
+          <AbstractText Label="PATIENT SUMMARY">Active surveillance is a safe treatment option for men with low-risk prostate cancer. We show that this follow-up strategy does not cause a decline in patients' general quality of life.</AbstractText>
+          <CopyrightInformation>Copyright © 2021 The Authors. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lokman</LastName>
+            <ForeName>Utku</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland; Research Program in Systems Oncology, Faculty of Medicine, University of Helsinki, Helsinki, Finland; Department of Urology, Queen Alexandra Hospital, Portsmouth Hospitals University NHS Trust, Portsmouth, UK. Electronic address: utku.lokman@nhs.net.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vasarainen</LastName>
+            <ForeName>Hanna</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland; Research Program in Systems Oncology, Faculty of Medicine, University of Helsinki, Helsinki, Finland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lahdensuo</LastName>
+            <ForeName>Kanerva</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland; Research Program in Systems Oncology, Faculty of Medicine, University of Helsinki, Helsinki, Finland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Erickson</LastName>
+            <ForeName>Andrew</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Program in Systems Oncology, Faculty of Medicine, University of Helsinki, Helsinki, Finland; Department of Pathology and Medicum, HUS Helsinki University Hospital and University of Helsinki, Helsinki, Finland; Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Muhonen</LastName>
+            <ForeName>Timo</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Oncology, Clinicum, University of Helsinki, Helsinki, Finland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mirtti</LastName>
+            <ForeName>Tuomas</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Program in Systems Oncology, Faculty of Medicine, University of Helsinki, Helsinki, Finland; Department of Pathology and Medicum, HUS Helsinki University Hospital and University of Helsinki, Helsinki, Finland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rannikko</LastName>
+            <ForeName>Antti</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland; Research Program in Systems Oncology, Faculty of Medicine, University of Helsinki, Helsinki, Finland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>07</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>Eur Urol Focus</MedlineTA>
+        <NlmUniqueID>101665661</NlmUniqueID>
+        <ISSNLinking>2405-4569</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005387" MajorTopicYN="N" Type="Geographic">Finland</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="Y">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="Y">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057832" MajorTopicYN="N">Watchful Waiting</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Active surveillance</Keyword>
+        <Keyword MajorTopicYN="N">Discontinuation</Keyword>
+        <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+        <Keyword MajorTopicYN="N">Quality-of-life</Keyword>
+        <Keyword MajorTopicYN="N">Treatment change</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>02</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>38</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34244118</ArticleId>
+        <ArticleId IdType="pii">S2405-4569(21)00170-X</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.euf.2021.06.008</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">34244856</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>08</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>08</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-1262</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>36</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of colorectal disease</Title>
+          <ISOAbbreviation>Int J Colorectal Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Defining benchmarks for robotic-assisted low anterior rectum resection in low-morbid patients: a multicenter analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1945-1953</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00384-021-03988-6</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To define the best possible outcomes for robotic-assisted low anterior rectum resection (RLAR) using total mesorectal excision (TME) in low-morbid patients, performed by expert robotic surgeons in German robotic centers. The benchmark values were derived from these results.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">The data was retrospectively collected from five German expert centers. After patient exclusion (prior surgery, extended surgery, no prior anastomosis, hand-sewn anastomosis), the benchmark cohort was defined (n = 226). The median with interquartile range was first calculated for the individual centers. The 75th percentile of the median results was defined as the benchmark cutoff and represents the "perfect" achievable outcome. This applied to all benchmark values apart from lymph node yield, where the cutoff was defined as the 25th percentile (more lymph nodes are better).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The benchmark values for conversion and intraoperative complication rates were ≤ 4.0% and ≤ 1.4%, respectively. For postoperative complications, the benchmark was ≤ 28% for "any" and ≤ 18.0% for major complications. The R0 and complete TME rate benchmarks were both 100%, with a lymph node yield of &gt; 18. The benchmark for rate of anastomotic insufficiency was &lt; 12.5% and 90-day mortality was 0%. Readmission rates should not exceed 4%.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This outcome analysis of patients with low comorbidity undergoing RLAR may serve as a reference to evaluate surgical performance in robotic rectum resection.</AbstractText>
+          <CopyrightInformation>© 2021. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Egberts</LastName>
+            <ForeName>Jan-Hendrik</ForeName>
+            <Initials>JH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinic for Visceral Surgery, Israelitisches Krankenhaus Hamburg, Hamburg, Germany. J.Egberts@ik-h.de.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Clinic for General, Visceral, Thoracic, Transplantation, and Pediatric Surgery, University Hospital Schleswig-Holstein, Campus Kie, Kiel, Germany. J.Egberts@ik-h.de.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Kersebaum</LastName>
+            <ForeName>Jan-Niclas</ForeName>
+            <Initials>JN</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-0418-9168</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinic for General, Visceral, Thoracic, Transplantation, and Pediatric Surgery, University Hospital Schleswig-Holstein, Campus Kie, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mann</LastName>
+            <ForeName>Benno</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinic for Visceral Surgery, Augusta-Kranken-Anstalten Bochum, Bochum, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aselmann</LastName>
+            <ForeName>Heiko</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinic for General, Visceral, and Vascular Surgery, KRH Klinikum Robert Koch Gehrden, Gehrden, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hirschburger</LastName>
+            <ForeName>Markus</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinic for General, Visceral, and Thoracic Surgery, Clinic Worms, Worms, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Graß</LastName>
+            <ForeName>Julia</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinic for General, Visceral, and Thoracic Surgery, University Hospital Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Becker</LastName>
+            <ForeName>Thomas</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinic for General, Visceral, Thoracic, Transplantation, and Pediatric Surgery, University Hospital Schleswig-Holstein, Campus Kie, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Izbicki</LastName>
+            <ForeName>Jakob</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinic for General, Visceral, and Thoracic Surgery, University Hospital Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Perez</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinic for General, Visceral, and Thoracic Surgery, University Hospital Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>07</Month>
+          <Day>09</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Int J Colorectal Dis</MedlineTA>
+        <NlmUniqueID>8607899</NlmUniqueID>
+        <ISSNLinking>0179-1958</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D019985" MajorTopicYN="N">Benchmarking</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000078542" MajorTopicYN="Y">Proctectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012004" MajorTopicYN="Y">Rectal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012007" MajorTopicYN="N">Rectum</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Benchmarking</Keyword>
+        <Keyword MajorTopicYN="N">RLAR</Keyword>
+        <Keyword MajorTopicYN="N">Rectal cancer</Keyword>
+        <Keyword MajorTopicYN="N">Rectum resection</Keyword>
+        <Keyword MajorTopicYN="N">Robotic low anterior rectum resection</Keyword>
+        <Keyword MajorTopicYN="N">Robotic surgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>23</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34244856</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00384-021-03988-6</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00384-021-03988-6</ArticleId>
+        <ArticleId IdType="pmc">PMC8346389</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Colorectal Dis. 2015 Jun;17(6):482-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25524157</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Asian J Surg. 2020 Sep;43(9):880-890</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31964585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA Netw Open. 2020 Dec 1;3(12):e2030097</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33326026</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2016 Sep;264(3):492-500</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27433909</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Colorectal Dis. 2016 Oct;18(10):O380-O384</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27440280</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2008 Dec;22(12):2625-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18297346</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Colorectal Dis. 2008 Apr;23(4):409-17</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18185938</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int Anesthesiol Clin. 2013 Fall;51(4):10-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24088885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Colorectal Dis. 2018 Nov;33(11):1575-1581</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29971488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJS Open. 2020 Apr;4(2):310-319</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32207577</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">34246197</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>07</Month>
+        <Day>26</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>10</Month>
+        <Day>22</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1530-6860</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>35</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>08</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>FASEB journal : official publication of the Federation of American Societies for Experimental Biology</Title>
+          <ISOAbbreviation>FASEB J</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The connexin 43 carboxyl terminal mimetic peptide αCT1 prompts differentiation of a collagen scar matrix in humans resembling unwounded skin.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e21762</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1096/fj.202001881R</ELocationID>
+        <Abstract>
+          <AbstractText>Phase II clinical trials have reported that acute treatment of surgical skin wounds with the therapeutic peptide alpha Connexin Carboxy-Terminus 1 (αCT1) improves cutaneous scar appearance by 47% 9-month postsurgery. While Cx43 and ZO-1 have been identified as molecular targets of αCT1, the mode-of-action of the peptide in scar mitigation at cellular and tissue levels remains to be further characterized. Scar histoarchitecture in αCT1 and vehicle-control treated skin wounds within the same patient were compared using biopsies from a Phase I clinical trial at 29-day postwounding. The sole effect on scar structure of a range of epidermal and dermal variables examined was that αCT1-treated scars had less alignment of collagen fibers relative to control wounds-a characteristic that resembles unwounded skin. The with-in subject effect of αCT1 on scar collagen order observed in Phase I testing in humans was recapitulated in Sprague-Dawley rats and the IAF hairless guinea pig. Transient increase in histologic collagen density in response to αCT1 was also observed in both animal models. Mouse NIH 3T3 fibroblasts and primary human dermal fibroblasts treated with αCT1 in vitro showed more rapid closure in scratch wound assays, with individual cells showing decreased directionality in movement. An agent-based computational model parameterized with fibroblast motility data predicted collagen alignments in simulated scars consistent with that observed experimentally in human and the animal models. In conclusion, αCT1 prompts decreased directionality of fibroblast movement and the generation of a 3D collagen matrix postwounding that is similar to unwounded skin-changes that correlate with long-term improvement in scar appearance.</AbstractText>
+          <CopyrightInformation>© 2021 Federation of American Societies for Experimental Biology.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Montgomery</LastName>
+            <ForeName>Jade</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Fralin Biomedical Research Institute, Center for Vascular and Heart Research, Virginia Tech Carilion, Roanoke, VA, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering and Mechanics, Virginia Tech, Blacksburg, VA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Richardson</LastName>
+            <ForeName>William J</ForeName>
+            <Initials>WJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioengineering, Clemson University, Clemson, SC, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Marsh</LastName>
+            <ForeName>Spencer</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Fralin Biomedical Research Institute, Center for Vascular and Heart Research, Virginia Tech Carilion, Roanoke, VA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rhett</LastName>
+            <ForeName>J Matthew</ForeName>
+            <Initials>JM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell and Molecular Pharmacology and Experimental Therapeutics, Hollings Cancer Center, Medical University of South Carolina, Charleston, SC, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bustos</LastName>
+            <ForeName>Francis</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Fralin Biomedical Research Institute, Center for Vascular and Heart Research, Virginia Tech Carilion, Roanoke, VA, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Virginia Tech Carilion School of Medicine, Roanoke, VA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Degen</LastName>
+            <ForeName>Katherine</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Fralin Biomedical Research Institute, Center for Vascular and Heart Research, Virginia Tech Carilion, Roanoke, VA, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering and Mechanics, Virginia Tech, Blacksburg, VA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ghatnekar</LastName>
+            <ForeName>Gautam S</ForeName>
+            <Initials>GS</Initials>
+            <AffiliationInfo>
+              <Affiliation>FirstString Research, Inc., Mount Pleasant, SC, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Grek</LastName>
+            <ForeName>Christina L</ForeName>
+            <Initials>CL</Initials>
+            <AffiliationInfo>
+              <Affiliation>FirstString Research, Inc., Mount Pleasant, SC, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jourdan</LastName>
+            <ForeName>L Jane</ForeName>
+            <Initials>LJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Fralin Biomedical Research Institute, Center for Vascular and Heart Research, Virginia Tech Carilion, Roanoke, VA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Holmes</LastName>
+            <ForeName>Jeffrey W</ForeName>
+            <Initials>JW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, University of Virginia, Charlottesville, VA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gourdie</LastName>
+            <ForeName>Robert G</ForeName>
+            <Initials>RG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Fralin Biomedical Research Institute, Center for Vascular and Heart Research, Virginia Tech Carilion, Roanoke, VA, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering and Mechanics, Virginia Tech, Blacksburg, VA, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Virginia Tech Carilion School of Medicine, Roanoke, VA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>P20 GM121342</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 HL075639</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 HL141855</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R35 HL161237</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 HL056728</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D017426">Clinical Trial, Phase I</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>FASEB J</MedlineTA>
+        <NlmUniqueID>8804484</NlmUniqueID>
+        <ISSNLinking>0892-6638</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018031">Connexin 43</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C500216">GJA1 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D010455">Peptides</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002454" MajorTopicYN="N">Cell Differentiation</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002921" MajorTopicYN="N">Cicatrix</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018031" MajorTopicYN="N">Connexin 43</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020405" MajorTopicYN="N">Dermis</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005109" MajorTopicYN="N">Extracellular Matrix</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005347" MajorTopicYN="N">Fibroblasts</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006168" MajorTopicYN="N">Guinea Pigs</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010455" MajorTopicYN="N">Peptides</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cx43</Keyword>
+        <Keyword MajorTopicYN="N">clinical trial</Keyword>
+        <Keyword MajorTopicYN="N">computational model</Keyword>
+        <Keyword MajorTopicYN="N">peptide therapeutic</Keyword>
+        <Keyword MajorTopicYN="N">scar mitigation</Keyword>
+        <Keyword MajorTopicYN="N">skin</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>08</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>10</Day>
+          <Hour>20</Hour>
+          <Minute>28</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34246197</ArticleId>
+        <ArticleId IdType="doi">10.1096/fj.202001881R</ArticleId>
+        <ArticleId IdType="pmc">PMC8667734</ArticleId>
+        <ArticleId IdType="mid">NIHMS1757849</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Biophys J. 2016 May 24;110(10):2266-77</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27224491</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>F1000Res. 2019 Jun 5;8:</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31231509</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wound Repair Regen. 2011 Sep;19 Suppl 1:s32-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21793964</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trends Biotechnol. 2008 Apr;26(4):173-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18295916</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Mol Sci. 2018 Jun 15;19(6):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29914066</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Heart Assoc. 2019 Aug 20;8(16):e012385</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31422747</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Dermatol Sci. 2015 Jul;79(1):50-56</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25900674</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Biol Cell. 1995 Nov;6(11):1491-501</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8589451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adv Wound Care (New Rochelle). 2013 Mar;2(2):55-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24527326</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2009 Jan 30;323(5914):642-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19179533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wound Repair Regen. 2012 Sep-Oct;20(5):658-66</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22882499</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Invest Dermatol. 2017 Mar;137(3):620-630</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27856288</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circ Res. 2006 Jun 23;98(12):1498-505</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16709897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Glob Health. 2015 Apr 27;3 Suppl 2:S13-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25926315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Theor Biol. 1999 Aug 21;199(4):449-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10441462</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Philos Trans A Math Phys Eng Sci. 2006 Jun 15;364(1843):1385-405</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16766351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2011 Aug;254(2):217-25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21606834</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Cell Biol. 2007 Dec 17;179(6):1301-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18086922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Dermatol. 2015 Nov;173(5):1205-15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26264563</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Biol. 2003 Sep 30;13(19):1697-703</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14521835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Physiol. 2012 Sep 15;590(18):4585-602</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22495588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Invest Dermatol. 1974 May;62(5):514-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">4823592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cardiovasc Res. 2016 Mar 1;109(3):385-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26762268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Bone Miner Res. 2018 Jun;33(6):1166-1182</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29461659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Exp Dermatol. 2012 Aug;21(8):612-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22775996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wound Repair Regen. 1996 Apr-Jun;4(2):203-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17177814</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Pharm Des. 2017;23(15):2268-2275</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27784253</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Physiol Heart Circ Physiol. 2010 Jan;298(1):H221-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19897714</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Invest Dermatol. 2008 Apr;128(4):1039-49</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17960178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Cell Biol. 2004 Nov 8;167(3):555-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15534005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adv Wound Care (New Rochelle). 2015 Mar 1;4(3):119-136</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25785236</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Surg. 2018 Jan;105(1):59-67</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29143961</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Motil Cytoskeleton. 2005 Jul;61(3):161-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15909298</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plast Reconstr Surg. 2014 Feb;133(2):398-405</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24105084</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Physiol Cell Physiol. 2015 Nov 1;309(9):C600-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26289751</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pigment Cell Res. 1990 Sep;3(3):150-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2290786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Cutan Aesthet Surg. 2013 Jan;6(1):12-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23723598</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2019 Dec;576(7786):287-292</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31776510</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Microsc. 2012 Jan;245(1):82-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21919907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wound Repair Regen. 2009 Mar-Apr;17(2):250-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19320894</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Ophthalmol. 1995 Aug;79(8):760-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7547789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2009 Apr 11;373(9671):1264-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19362676</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int Wound J. 2009 Apr;6(2):149-58</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19432665</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circ Res. 2011 Mar 18;108(6):704-15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21273554</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biomech Model Mechanobiol. 2018 Dec;17(6):1569-1580</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30003433</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Regen Med. 2009 Mar;4(2):205-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19317641</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Exp Pathol. 1974 Jun;55(3):233-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">4422597</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Drug Discov. 2018 Dec;17(12):905-921</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30310236</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Cell Biol. 2013 Oct;25(5):619-26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23830911</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2012 Dec 21;151(7):1513-27</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23260139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biochem Soc Trans. 2015 Jun;43(3):482-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26009195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Biol Cell. 2011 May;22(9):1516-28</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21411628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Philos Trans R Soc Lond B Biol Sci. 2004 May 29;359(1445):839-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15293811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Facial Plast Surg Clin North Am. 2019 Nov;27(4):513-517</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31587770</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Biol Cell. 2005 Dec;16(12):5686-98</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16195341</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Biol Cell. 2017 Dec 1;28(25):3595-3608</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29021339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Cell Sci. 2012 Feb 1;125(Pt 3):695-702</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22389404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2015 Jan 13;10(1):e0115524</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25584940</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Acad Dermatol. 2012 Jan;66(1):13-24; quiz 25-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22177632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">34247169</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>02</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1423-0399</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>105</Volume>
+            <Issue>9-10</Issue>
+            <PubDate>
+              <Year>2021</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Urologia internationalis</Title>
+          <ISOAbbreviation>Urol Int</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The Comparison of Imaging and Clinical Methods to Estimate Prostate Volume: A Single-Centre Retrospective Study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>804-810</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1159/000516681</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Prostate volume (PV) is a useful tool in risk stratification, diagnosis, and follow-up of numerous prostatic diseases including prostate cancer and benign prostatic hypertrophy. There is currently no accepted ideal PV measurement method.</AbstractText>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study compares multiple means of PV estimation, including digital rectal examination (DRE), transrectal ultrasound (TRUS), and magnetic resonance imaging (MRI), and radical prostatectomy specimens to determine the best volume measurement style.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A retrospective, observational, single-site study with patients identified using an institutional database was performed. A total of 197 patients who underwent robot-assisted radical prostatectomy were considered. Data collected included age, serum PSA at the time of the prostate biopsy, clinical T stage, Gleason score, and PVs for each of the following methods: DRE, TRUS, MRI, and surgical specimen weight (SPW) and volume.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">A paired t test was performed, which reported a statistically significant difference between PV measures (DRE, TRUS, MRI ellipsoid, MRI bullet, SP ellipsoid, and SP bullet) and the actual prostate weight. Lowest differences were reported for SP ellipsoid volume (M = -2.37; standard deviation [SD] = 10.227; t[167] = -3.011; and p = 0.003), MRI ellipsoid volume (M = -4.318; SD = 9.53; t[167] = -5.87; and p = 0.000), and MRI bullet volume (M = 5.31; SD = 10.77; t[167] = 6.387; and p = 0.000).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The PV obtained by MRI has proven to correlate with the PV obtained via auto-segmentation software as well as actual SPW, while also being more cost-effective and time-efficient. Therefore, demonstrating that MRI estimated the PV is an adequate method for use in clinical practice for therapeutic planning and patient follow-up.</AbstractText>
+          <CopyrightInformation>© 2021 S. Karger AG, Basel.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Massanova</LastName>
+            <ForeName>Matteo</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Queen Elizabeth University Hospital, Glasgow, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Robertson</LastName>
+            <ForeName>Sophie</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Queen Elizabeth University Hospital, Glasgow, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Barone</LastName>
+            <ForeName>Biagio</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroscience, Reproductive Sciences and Dentistry, School of Medicine, University of Naples "Federico II,", Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dutto</LastName>
+            <ForeName>Lorenzo</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Queen Elizabeth University Hospital, Glasgow, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Caputo</LastName>
+            <ForeName>Vincenzo Francesco</ForeName>
+            <Initials>VF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroscience, Reproductive Sciences and Dentistry, School of Medicine, University of Naples "Federico II,", Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bhatt</LastName>
+            <ForeName>Jaimin R</ForeName>
+            <Initials>JR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Queen Elizabeth University Hospital, Glasgow, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ahmad</LastName>
+            <ForeName>Imran</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Queen Elizabeth University Hospital, Glasgow, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bada</LastName>
+            <ForeName>Maida</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Ospedale San Bassiano, Bassano del Grappa, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Obeidallah</LastName>
+            <ForeName>Alison</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Queen Elizabeth University Hospital, Glasgow, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Crocetto</LastName>
+            <ForeName>Felice</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroscience, Reproductive Sciences and Dentistry, School of Medicine, University of Naples "Federico II,", Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>19661</GrantID>
+            <Acronym>CRUK_</Acronym>
+            <Agency>Cancer Research UK</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D064888">Observational Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>07</Month>
+          <Day>09</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Urol Int</MedlineTA>
+        <NlmUniqueID>0417373</NlmUniqueID>
+        <ISSNLinking>0042-1138</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051517" MajorTopicYN="Y">Digital Rectal Examination</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007090" MajorTopicYN="N">Image Interpretation, Computer-Assisted</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009929" MajorTopicYN="N">Organ Size</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011237" MajorTopicYN="N">Predictive Value of Tests</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011467" MajorTopicYN="N">Prostate</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="N">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014463" MajorTopicYN="Y">Ultrasonography</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Benign prostatic hyperplasia</Keyword>
+        <Keyword MajorTopicYN="N">Digital rectal examination</Keyword>
+        <Keyword MajorTopicYN="N">Magnetic resonance imaging</Keyword>
+        <Keyword MajorTopicYN="N">Prostate volume</Keyword>
+        <Keyword MajorTopicYN="N">Prostate-specific antigen</Keyword>
+        <Keyword MajorTopicYN="N">Transrectal ultrasound</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>03</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>11</Day>
+          <Hour>20</Hour>
+          <Minute>55</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34247169</ArticleId>
+        <ArticleId IdType="pii">000516681</ArticleId>
+        <ArticleId IdType="doi">10.1159/000516681</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">34247295</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>27</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>03</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1590-3478</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>43</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Feb</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology</Title>
+          <ISOAbbreviation>Neurol Sci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Evaluation of an upper limb robotic rehabilitation program on motor functions, quality of life, cognition, and emotional status in patients with stroke: a randomized controlled study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1177-1188</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10072-021-05431-8</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study aims to find out whether including robotic therapy in addition to a conventional rehabilitation program affects the quality of life, motor function, cognition, and emotional status of hemiplegic patients.</AbstractText>
+          <AbstractText Label="DESIGN" NlmCategory="METHODS">Thirty-seven stroke patients recruited between April 2016 and April 2019 were included in the study. The patients were randomized into 2 groups (Robotic rehabilitation group-RR n:17, Control group n:20), RR was arranged to be 30-45 min, 5 days per week for 4 weeks. All patients were assessed at the beginning of therapy and the end of 4th week with Brunnstrom stages of motor recovery, Fugl-Meyer Assessment (FMA), handgrip strength, Purdue peg test, Minnesota manual dexterity test, Modified Ashworth Scale (MAS), Functional Independence Measure (FIM), Stroke Specific Quality of Life Scale (SS-QOL), Nottingham Extended Activities of Daily Living (NEADL) Scale, Montreal Cognitive Assessment (MoCA) and Center for Epidemiological Studies Depression Scale (CES- D).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Improvements in motor function scores, spasticity, general functioning, activities of daily living, cognitive assessment were better in the robotic group when compared to the control group but this difference was not statistically significant (p &gt; 0.05). Improvement in the CES-D in the RR-group was better in comparison to the control group (p = 0.018).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Improvements in motor functions were observed after the treatment in both groups. Although RR group improved better in numbers, none of the outcomes except the CES-D scale were significant. Robotic rehabilitation provides a favorable alternative bringing slight benefits, and also is advantageous in terms of work power and psychological recovery, making its addition to conventional neurological rehabilitation effective and useful in patient management after stroke.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov Identifier: NCT04393480.</AbstractText>
+          <CopyrightInformation>© 2021. Fondazione Società Italiana di Neurologia.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Taravati</LastName>
+            <ForeName>Sahel</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physical Medicine and Rehabilitation, Ege University Faculty of Medicine, Bornova, İzmir, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Capaci</LastName>
+            <ForeName>Kazim</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physical Medicine and Rehabilitation, Ege University Faculty of Medicine, Bornova, İzmir, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Uzumcugil</LastName>
+            <ForeName>Hale</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physical Medicine and Rehabilitation, Ege University Faculty of Medicine, Bornova, İzmir, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tanigor</LastName>
+            <ForeName>Goksel</ForeName>
+            <Initials>G</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-6456-7012</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Physical Medicine and Rehabilitation, Ege University Faculty of Medicine, Bornova, İzmir, Turkey. gtanigor@windowslive.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT04393480</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>07</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Italy</Country>
+        <MedlineTA>Neurol Sci</MedlineTA>
+        <NlmUniqueID>100959175</NlmUniqueID>
+        <ISSNLinking>1590-1874</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="ErratumIn">
+          <RefSource>Neurol Sci. 2023 Jun;44(6):2229. doi: 10.1007/s10072-023-06723-x</RefSource>
+          <PMID Version="1">36872387</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000203" MajorTopicYN="N">Activities of Daily Living</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003071" MajorTopicYN="N">Cognition</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018737" MajorTopicYN="N">Hand Strength</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020127" MajorTopicYN="N">Recovery of Function</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020521" MajorTopicYN="Y">Stroke</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071939" MajorTopicYN="Y">Stroke Rehabilitation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D034941" MajorTopicYN="N">Upper Extremity</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cognition</Keyword>
+        <Keyword MajorTopicYN="N">Depression</Keyword>
+        <Keyword MajorTopicYN="N">Rehabilitation</Keyword>
+        <Keyword MajorTopicYN="N">Robotic therapy</Keyword>
+        <Keyword MajorTopicYN="N">Stroke</Keyword>
+        <Keyword MajorTopicYN="N">Upper extremity</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>03</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>11</Day>
+          <Hour>20</Hour>
+          <Minute>59</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34247295</ArticleId>
+        <ArticleId IdType="doi">10.1007/s10072-021-05431-8</ArticleId>
+        <ArticleId IdType="pii">10.1007/s10072-021-05431-8</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Teasell R, Foley N et al (2009) Evidence-based review of stroke rehabilitation: executive summary. Top Stroke Rehabil 16(6):463–488</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1310/tsr1606-463</ArticleId>
+            <ArticleId IdType="pubmed">20139049</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schönberger M, Humle F et al (2006) Patient compliance in brain injury rehabilitation in relation to awareness and cognitive and physical improvement. Neuropsychol Rehabil 16(5):561–578</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/09602010500263084</ArticleId>
+            <ArticleId IdType="pubmed">16952893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tu W-J, Qiu H-C et al (2018) Decreased concentration of irisin is associated with poor functional outcome in ischemic stroke. Neurotherapeutics 15(4):1158–1167</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13311-018-0651-2</ArticleId>
+            <ArticleId IdType="pubmed">30030698</ArticleId>
+            <ArticleId IdType="pmcid">6277286</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Norouzi-Gheidari N, Archambault PS et al (2012) Effects of robot-assisted therapy on stroke rehabilitation in upper limbs: systematic review and meta-analysis of the literature. J Rehabil Res Dev 49(4):479</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1682/JRRD.2010.10.0210</ArticleId>
+            <ArticleId IdType="pubmed">22773253</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rosati G, Oscari F, et al (eds) (2011) Improving robotics for neurorehabilitation: enhancing engagement, performance, and learning with auditory feedback. Rehabilitation Robotics (ICORR), 2011 IEEE International Conference on: IEEE</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aisen ML, Krebs HI et al (1997) The effect of robot-assisted therapy and rehabilitative training on motor recovery following stroke. Arch Neurol 54(4):443–446</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/archneur.1997.00550160075019</ArticleId>
+            <ArticleId IdType="pubmed">9109746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lo AC, Guarino PD et al (2010) Robot-assisted therapy for long-term upper-limb impairment after stroke. N Engl J Med 362(19):1772–1783</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa0911341</ArticleId>
+            <ArticleId IdType="pubmed">20400552</ArticleId>
+            <ArticleId IdType="pmcid">5592692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Paolucci T, Agostini F, Mangone M, Bernetti A, Pezzi L, Liotti V, Recubini E, Cantarella C, Bellomo RG, D’Aurizio C, Saggini R (2021) Robotic rehabilitation for end-effector device and botulinum toxin in upper limb rehabilitation in chronic post-stroke patients: an integrated rehabilitative approach. Neurol Sci. https://doi.org/10.1007/s10072-021-05185-3</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nef T, Klamroth-Marganska V, Keller U, Riener R (2016) Three-dimensional multi-degree-of-freedom arm therapy robot (ARMin). In: Neurorehabilitation technology. Springer, Cham, pp 351–374</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chang WH, Kim Y-H (2013) Robot-assisted therapy in stroke rehabilitation. Journal of stroke 15(3):174</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5853/jos.2013.15.3.174</ArticleId>
+            <ArticleId IdType="pubmed">24396811</ArticleId>
+            <ArticleId IdType="pmcid">3859002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lum PS, Burgar CG et al (2002) Robot-assisted movement training compared with conventional therapy techniques for the rehabilitation of upper-limb motor function after stroke. Arch Phys Med Rehabil 83(7):952–959</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1053/apmr.2001.33101</ArticleId>
+            <ArticleId IdType="pubmed">12098155</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Teasell R, Bayona N, Bitensky J (2016) Background concepts in stroke rehabilitation. Evidence-based review of stroke rehabilitation. Heart and Stroke Foundation Canadian Partnership for Stroke Recovery</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Stefan K, Kunesch E et al (2000) Induction of plasticity in the human motor cortex by paired associative stimulation. Brain 123(3):572–584</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/brain/123.3.572</ArticleId>
+            <ArticleId IdType="pubmed">10686179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Calabrò RS, Naro A et al (2018) Shaping neuroplasticity by using powered exoskeletons in patients with stroke: a randomized clinical trial. J Neuroeng Rehabil 15(1):1–16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12984-018-0377-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aprile I, Guardati G et al (2020) Robotic rehabilitation: an opportunity to improve cognitive functions in subjects with stroke. An explorative study. Front Neurol 11:1498</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fneur.2020.588285</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Charalambous CP (2014) Interrater reliability of a modified Ashworth scale of muscle spasticity. In: Classic papers in orthopaedics. Springer, London, pp 415–417</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Linacre JM, Heinemann AW et al (1994) The structure and stability of the Functional Independence Measure. Arch Phys Med Rehabil 75(2):127–132</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0003-9993(94)90384-0</ArticleId>
+            <ArticleId IdType="pubmed">8311667</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Küçükdeveci AA, Yavuzer G et al (2001) Adaptation of the Functional Independence Measure for use in Turkey. Clin Rehabil 15(3):311–319</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1191/026921501676877265</ArticleId>
+            <ArticleId IdType="pubmed">11386402</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Green J, Young J (2001) A test-retest reliability study of the Barthel Index, the Rivermead Mobility Index, the Nottingham Extended Activities of Daily Living Scale and the Frenchay Activities Index in stroke patients. Disabil Rehabil 23(15):670–676</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/09638280110045382</ArticleId>
+            <ArticleId IdType="pubmed">11720117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sahin F, Yilmaz F et al (2008) Reliability and validity of the Turkish version of the Nottingham Extended Activities of Daily Living Scale. Aging Clin Exp Res 20(5):400–405</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/BF03325144</ArticleId>
+            <ArticleId IdType="pubmed">19039280</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gladstone DJ, Danells CJ et al (2002) The Fugl-Meyer assessment of motor recovery after stroke: a critical review of its measurement properties. Neurorehabil Neural Repair 16(3):232–240</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/154596802401105171</ArticleId>
+            <ArticleId IdType="pubmed">12234086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tiffin J, Asher EJ (1948) The Purdue Pegboard: norms and studies of reliability and validity. J Appl Psychol 32(3):234–247</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1037/h0061266</ArticleId>
+            <ArticleId IdType="pubmed">18867059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Desrosiers J, Rochette A et al (1997) The Minnesota Manual Dexterity Test: reliability, validity and reference values studies with healthy elderly people. Can J Occup Ther 64(5):270–276</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/000841749706400504</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Williams LS, Weinberger M et al (1999) Development of a stroke-specific quality of life scale. Stroke 30(7):1362–1369</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.STR.30.7.1362</ArticleId>
+            <ArticleId IdType="pubmed">10390308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nasreddine ZS, Phillips NA et al (2005) The Montreal Cognitive Assessment, MoCA: a brief screening tool for mild cognitive impairment. J Am Geriatr Soc 53(4):695–699</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1532-5415.2005.53221.x</ArticleId>
+            <ArticleId IdType="pubmed">15817019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hann D, Winter K et al (1999) Measurement of depressive symptoms in cancer patients: evaluation of the Center for Epidemiological Studies Depression Scale (CES-D). J Psychosom Res 46(5):437–443</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0022-3999(99)00004-5</ArticleId>
+            <ArticleId IdType="pubmed">10404478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tatar A, Saltukoglu G (2010) The adaptation of the CES-depression scale into Turkish through the use of confirmatory factor analysis and item response theory and the examination of psychometric characteristics. Klinik Psikofarmakoloji Bülteni-Bulletin of Clinical Psychopharmacology 20(3):213–227</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/10177833.2010.11790662</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Masiero S, Armani M et al (2013) Randomized trial of a robotic assistive device for the upper extremity during early ınpatient stroke rehabilitation. Neurorehabil Neural Repair 28(4):377–386</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1545968313513073</ArticleId>
+            <ArticleId IdType="pubmed">24316679</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klamroth-Marganska V, Blanco J et al (2014) Three-dimensional, task-specific robot therapy of the arm after stroke: a multicentre, parallel-group randomised trial. The Lancet Neurology 13(2):159–166</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1474-4422(13)70305-3</ArticleId>
+            <ArticleId IdType="pubmed">24382580</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takahashi K, Domen K et al (2016) Efficacy of upper extremity robotic therapy in subacute poststroke hemiplegia. Stroke 47(5):1385–1388</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/STROKEAHA.115.012520</ArticleId>
+            <ArticleId IdType="pubmed">27006452</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tomić TJD, Savić AM et al (2017) ArmAssist robotic system versus matched conventional therapy for poststroke upper limb rehabilitation: a randomized clinical trial. Biomed Res Int 2017:1–7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2017/7659893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bertani R, Melegari C et al (2017) Effects of robot-assisted upper limb rehabilitation in stroke patients: a systematic review with meta-analysis. Neurol Sci 38(9):1561–1569</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10072-017-2995-5</ArticleId>
+            <ArticleId IdType="pubmed">28540536</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Veerbeek JM, Langbroek-Amersfoort AC et al (2016) Effects of robot-assisted therapy for the upper limb after stroke. Neurorehabil Neural Repair 31(2):107–121</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1545968316666957</ArticleId>
+            <ArticleId IdType="pubmed">27597165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prange GB, Jannink MJA et al (2006) Systematic review of the effect of robot-aided therapy on recovery of the hemiparetic arm after stroke. The Journal of Rehabilitation Research and Development 43(2):171</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1682/JRRD.2005.04.0076</ArticleId>
+            <ArticleId IdType="pubmed">16847784</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang C, Li-Tsang CWP et al (2017) Robotic approaches for the rehabilitation of upper limb recovery after stroke: a systematic review and meta-analysis. Int J Rehabil Res 40(1):19–28</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MRR.0000000000000204</ArticleId>
+            <ArticleId IdType="pubmed">27926617</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zengin-Metli D, Özbudak-Demir S et al (2018) Effects of robot assistive upper extremity rehabilitation on motor and cognitive recovery, the quality of life, and activities of daily living in stroke patients. J Back Musculoskelet Rehabil 31(6):1059–1064</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3233/BMR-171015</ArticleId>
+            <ArticleId IdType="pubmed">29966188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adomavičienė A, Daunoravičienė K et al (2019) Influence of new technologies on post-stroke rehabilitation: a comparison of armeo spring to the kinect system. Medicina 55(4):98</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/medicina55040098</ArticleId>
+            <ArticleId IdType="pubmed">30970655</ArticleId>
+            <ArticleId IdType="pmcid">6524064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

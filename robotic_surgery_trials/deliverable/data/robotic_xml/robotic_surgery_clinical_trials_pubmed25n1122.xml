@@ -1,0 +1,1780 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">35137466</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>09</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>10</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1442-2042</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>29</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>09</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of urology : official journal of the Japanese Urological Association</Title>
+          <ISOAbbreviation>Int J Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Predicting factor analysis of postoperative complications after robot-assisted radical cystectomy: Multicenter KORARC database study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>939-946</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/iju.14815</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES">To evaluate postoperative complications following robot-assisted radical cystectomy in patients diagnosed with bladder cancer and reveal if there are predictors for postoperative complications.</AbstractText>
+          <AbstractText Label="METHODS">Prospectively collected medical records of 730 robot-assisted radical cystectomy patients between 2007/04 and 2019/05 in 13 tertiary referral centers were reviewed. Perioperative outcomes were compared between two groups by postoperative complications (complication vs non-complication). We assessed recurrence-free survival, cancer-specific survival, and overall survival between groups. Regression analyses were implemented to identify factors associated with postoperative complications.</AbstractText>
+          <AbstractText Label="RESULTS">Any total and high-grade complication (Clavien-Dindo grade ≥3) rates were 57.8% and 21.1%, respectively. Patients in complication group had significantly higher proportion of diabetes mellitus (P = 0.048), chronic kidney disease (P = 0.011), dyslipidemia (P &lt; 0.001), longer operation time (P = 0.001), more estimated blood loss (P = 0.001), and larger intraoperative fluid volume (P &lt; 0.001). There was a significant difference in cancer-specific survival (log-rank P = 0.038, median cancer-specific survival: both groups not reached). Dyslipidemia (odds ratio 2.59, P = 0.002) and intraoperative fluid volume (odds ratio 1.0002, P = 0.040) were significantly associated with high-grade postoperative complications. Diabetes mellitus (odds ratio 1.97, P = 0.028), chronic kidney disease (odds ratio 1.89, P = 0.046), dyslipidemia (odds ratio 5.94, P = 0.007), and intraoperative fluid volume (odds ratio 1.0002, P = 0.009) were significantly associated with any postoperative complications.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Patients with diabetes mellitus, chronic kidney disease, dyslipidemia, or a relatively large intraoperatively infused fluid volume are more likely to develop postoperative complications. Patients with postoperative complications might have a possibility of lower cancer-specific survival rate.</AbstractText>
+          <CopyrightInformation>© 2022 The Japanese Urological Association.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Hwanik</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">0000-0001-5201-2490</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University Bundang Hospital, Seongnam, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jeong</LastName>
+            <ForeName>Byong Chang</ForeName>
+            <Initials>BC</Initials>
+            <Identifier Source="ORCID">0000-0002-5399-2184</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Sangchul</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0003-0844-6843</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University Bundang Hospital, Seongnam, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ku</LastName>
+            <ForeName>Ja Hyeon</ForeName>
+            <Initials>JH</Initials>
+            <Identifier Source="ORCID">0000-0002-0391-2342</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kwon</LastName>
+            <ForeName>Tae Gyun</ForeName>
+            <Initials>TG</Initials>
+            <Identifier Source="ORCID">0000-0002-4390-0952</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Kyungpook National University School of Medicine, Daegu, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Tae-Hwan</ForeName>
+            <Initials>TH</Initials>
+            <Identifier Source="ORCID">0000-0003-4924-4826</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Kyungpook National University School of Medicine, Daegu, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jeon</LastName>
+            <ForeName>Seung Hyun</ForeName>
+            <Initials>SH</Initials>
+            <Identifier Source="ORCID">0000-0003-0915-8106</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Kyung Hee University School of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Sang Hyub</ForeName>
+            <Initials>SH</Initials>
+            <Identifier Source="ORCID">0000-0002-4509-5846</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Kyung Hee University School of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nam</LastName>
+            <ForeName>Jong Kil</ForeName>
+            <Initials>JK</Initials>
+            <Identifier Source="ORCID">0000-0002-3424-2417</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Pusan National University Yangsan Hospital, Yangsan, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Wansuk</ForeName>
+            <Initials>W</Initials>
+            <Identifier Source="ORCID">0000-0001-8566-3353</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Busan Paik Hospital, Inje University College of Medicine, Busan, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Ji Youl</ForeName>
+            <Initials>JY</Initials>
+            <Identifier Source="ORCID">0000-0001-6775-1157</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul St. Mary's Hospital, The Catholic University of Korea College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hong</LastName>
+            <ForeName>Sung Hoo</ForeName>
+            <Initials>SH</Initials>
+            <Identifier Source="ORCID">0000-0002-1952-4010</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul St. Mary's Hospital, The Catholic University of Korea College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rha</LastName>
+            <ForeName>Koon Ho</ForeName>
+            <Initials>KH</Initials>
+            <Identifier Source="ORCID">0000-0001-8588-7584</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Woong Kyu</ForeName>
+            <Initials>WK</Initials>
+            <Identifier Source="ORCID">0000-0002-2527-4046</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ham</LastName>
+            <ForeName>Won Sik</ForeName>
+            <Initials>WS</Initials>
+            <Identifier Source="ORCID">0000-0003-2246-8838</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Young Goo</ForeName>
+            <Initials>YG</Initials>
+            <Identifier Source="ORCID">0000-0003-0339-7763</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Hallym University Kangnam Sacred Heart Hospital, Hallym University School of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Yong Seong</ForeName>
+            <Initials>YS</Initials>
+            <Identifier Source="ORCID">0000-0003-0611-4554</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Hallym University Sacred Heart Hospital, Hallym University College of Medicine, Anyang, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Park</LastName>
+            <ForeName>Sung Yul</ForeName>
+            <Initials>SY</Initials>
+            <Identifier Source="ORCID">0000-0002-9777-9238</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Hanyang University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yoon</LastName>
+            <ForeName>Young Eun</ForeName>
+            <Initials>YE</Initials>
+            <Identifier Source="ORCID">0000-0001-8059-6649</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Hanyang University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kang</LastName>
+            <ForeName>Sung Gu</ForeName>
+            <Initials>SG</Initials>
+            <Identifier Source="ORCID">0000-0001-5791-5410</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Korea University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kang</LastName>
+            <ForeName>Seok Ho</ForeName>
+            <Initials>SH</Initials>
+            <Identifier Source="ORCID">0000-0002-1524-5233</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Korea University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oh</LastName>
+            <ForeName>Jong Jin</ForeName>
+            <Initials>JJ</Initials>
+            <Identifier Source="ORCID">0000-0003-0448-5992</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University Bundang Hospital, Seongnam, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <CollectiveName>Korean Robot Assisted Radical Cystectomy (KORARC) Study Group</CollectiveName>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>02-2021-0031</GrantID>
+            <Agency>Seoul National University Bundang Hospital (SNUBH) Research Fund</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2020R1A2C1100011</GrantID>
+            <Agency>Ministry of Education</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Australia</Country>
+        <MedlineTA>Int J Urol</MedlineTA>
+        <NlmUniqueID>9440237</NlmUniqueID>
+        <ISSNLinking>0919-8172</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Int J Urol. 2022 Sep;29(9):946. doi: 10.1111/iju.14832</RefSource>
+          <PMID Version="1">35187738</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D015653" MajorTopicYN="N">Cystectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005163" MajorTopicYN="N">Factor Analysis, Statistical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051436" MajorTopicYN="Y">Renal Insufficiency, Chronic</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001749" MajorTopicYN="Y">Urinary Bladder Neoplasms</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">bladder cancer</Keyword>
+        <Keyword MajorTopicYN="N">minimally invasive surgical procedures</Keyword>
+        <Keyword MajorTopicYN="N">postoperative complications</Keyword>
+        <Keyword MajorTopicYN="N">radical cystectomy</Keyword>
+        <Keyword MajorTopicYN="N">robotic surgical procedures</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>01</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>9</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>3</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35137466</ArticleId>
+        <ArticleId IdType="doi">10.1111/iju.14815</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>References</Title>
+        <Reference>
+          <Citation>Parekh DJ, Reis IM, Castle EP et al. Robot-assisted radical cystectomy versus open radical cystectomy in patients with bladder cancer (RAZOR): an open-label, randomised, phase 3, non-inferiority trial. Lancet 2018; 391: 2525-36.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rai BP, Bondad J, Vasdev N et al. Robotic versus open radical cystectomy for bladder cancer in adults. Cochrane Database Syst. Rev. 2019; 4: CD011903.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bochner BH, Dalbagni G, Sjoberg DD et al. Comparing open radical cystectomy and robot-assisted laparoscopic radical cystectomy: a randomized clinical trial. Eur. Urol. 2015; 67: 1042-50.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ham WS, Rha KH, Han WK et al. Oncologic outcomes of intracorporeal vs extracorporeal urinary diversion after robot-assisted radical cystectomy: a multi-institutional Korean study. J. Endourol. 2021; https://doi.org/10.1089/end.2021.0067.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Maibom SL, Joensen UN, Poulsen AM, Kehlet H, Brasso K, Røder MA. Short-term morbidity and mortality following radical cystectomy: a systematic review. BMJ Open 2021; 11: e043266.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cerantola Y, Valerio M, Persson B et al. Guidelines for perioperative care after radical cystectomy for bladder cancer: Enhanced Recovery After Surgery (ERAS®) society recommendations. Clin. Nutr. 2013; 32: 879-87.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Azhar RA, Bochner B, Catto J et al. Enhanced recovery after urological surgery: a contemporary systematic review of outcomes, key elements, and research needs. Eur. Urol. 2016; 70: 176-87.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shim JS, Noh TI, Ku JH et al. Effect of intraoperative fluid volume on postoperative ileus after robot-assisted radical cystectomy. Sci. Rep. 2021; 11: 10522.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dindo D, Demartines N, Clavien PA. Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey. Ann. Surg. 2004; 240: 205-13.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hosmer DW Jr, Lemeshow S, Sturdivant RX. Applied Logistic Regression, 3rd edn. Wiley, Hoboken, NJ, 2013.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Taylor J, Meng X, Renson A et al. Different models for prediction of radical cystectomy postoperative complications and care pathways. Ther. Adv. Urol. 2019; 11: 1756287219875587.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mannas MP, Lee T, Forbes CM et al. Predicting complications following radical cystectomy with the ACS NSQIP universal surgical risk calculator. World J. Urol. 2020; 38: 1215-20.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Soria F, Moschini M, D’andrea D et al. Comparative effectiveness in perioperative outcomes of robotic versus open radical cystectomy: results from a multicenter contemporary retrospective cohort study. Eur. Urol. Focus 2020; 6: 1233-9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Deuker M, Stolzenbach LF, Collà Ruvolo C et al. Obesity is associated with adverse short-term perioperative outcomes in patients treated with open and robot-assisted radical cystectomy for bladder cancer. Urol. Oncol. 2021; 39: 75.e17-25.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang JH, Ericson KJ, Thomas LJ et al. Large single institution comparison of perioperative outcomes and complications of open radical cystectomy, intracorporeal robot-assisted radical cystectomy and robotic extracorporeal approach. J. Urol. 2020; 203: 512-21.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Knorr JM, Ericson KJ, Zhang JH et al. Comparison of major complications at 30 and 90 days following radical cystectomy. Urology 2021; 148: 192-7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Faiena I, Dombrovskiy VY, Sultan RC, Salmasi AH, Singer EA, Weiss RE. Effect of uncontrolled diabetes on outcomes after cystectomy in patients with bladder cancer: a population-based study. Clin. Genitourin. Cancer 2016; 14: e509-14.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oh JJ, Kang MY, Jo JK et al. Association between diabetes mellitus and oncological outcomes in bladder cancer patients undergoing radical cystectomy. Int. J. Urol. 2015; 22: 1112-7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kauffman EC, Ng CK, Lee MM et al. Critical analysis of complications after robotic-assisted radical cystectomy with identification of preoperative and operative risk factors. BJU Int. 2010; 105: 520-7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cantiello F, Cicione A, Autorino R et al. Metabolic syndrome, obesity, and radical cystectomy complications: a clavien classification system-based analysis. Clin. Genitourin. Cancer 2014; 12: 384-93.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Niu S, Graw S, Jensen D et al. Preoperative risk factors predicting postoperative complications in radical cystectomy for bladder cancer. Bladder Cancer 2020; 6: 151-9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Scott FI, Vajravelu RK, Mamtani R et al. Association between statin use at the time of intra-abdominal surgery and postoperative adhesion-related complications and small-bowel obstruction. JAMA Netw. Open 2021; 4: e2036315.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oh JJ, Lee S, Ku JH et al. Oncological outcome according to attainment of pentafecta after robot-assisted radical cystectomy in patients with bladder cancer included in the multicentre KORARC database. BJU Int. 2021; 127: 182-9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Donat SM, Shabsigh A, Savage C et al. Potential impact of postoperative early complications on the timing of adjuvant chemotherapy in patients undergoing radical cystectomy: a high-volume tertiary cancer center experience. Eur. Urol. 2009; 55: 177-85.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Psutka SP, Carrasco A, Schmit GD et al. Sarcopenia in patients with bladder cancer undergoing radical cystectomy: impact on cancer-specific and all-cause mortality. Cancer 2014; 120: 2910-8.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">35139157</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>07</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>11</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1365-2168</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>109</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>03</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The British journal of surgery</Title>
+          <ISOAbbreviation>Br J Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic and laparoscopic right anterior sectionectomy and central hepatectomy: multicentre propensity score-matched analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>311-314</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1093/bjs/znab463</ELocationID>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Hye Yeon</ForeName>
+            <Initials>HY</Initials>
+            <Identifier Source="ORCID">0000-0002-7831-2341</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Hepatopancreatobiliary Surgery, Department of Surgery, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Choi</LastName>
+            <ForeName>Gi Hong</ForeName>
+            <Initials>GH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Hepatopancreatobiliary Surgery, Department of Surgery, Severance Hospital, Yonsei University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chin</LastName>
+            <ForeName>Ken-Min</ForeName>
+            <Initials>KM</Initials>
+            <Identifier Source="ORCID">0000-0002-7954-5489</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatopancreatobiliary and Transplant Surgery, Singapore General Hospital, Singapore.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Choi</LastName>
+            <ForeName>Sung Hoon</ForeName>
+            <Initials>SH</Initials>
+            <Identifier Source="ORCID">0000-0002-1664-3727</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, CHA Bundang Medical Centre, CHA University School of Medicine, Seongnam, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Syn</LastName>
+            <ForeName>Nicholas L</ForeName>
+            <Initials>NL</Initials>
+            <Identifier Source="ORCID">0000-0002-6343-176X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatopancreatobiliary and Transplant Surgery, Singapore General Hospital and Yong Loo Lin School of Medicine, National University of Singapore, Singapore.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cheung</LastName>
+            <ForeName>Tan-To</ForeName>
+            <Initials>TT</Initials>
+            <Identifier Source="ORCID">0000-0002-2633-5883</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Queen Mary Hospital, University of Hong Kong, Hong Kong, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chiow</LastName>
+            <ForeName>Adrian K H</ForeName>
+            <Initials>AKH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepatopancreatobiliary Unit, Department of Surgery, Changi General Hospital, Singapore.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sucandy</LastName>
+            <ForeName>Iswanto</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>AdventHealth Tampa, Digestive Health Institute, Tampa, Florida, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Marino</LastName>
+            <ForeName>Marco V</ForeName>
+            <Initials>MV</Initials>
+            <Identifier Source="ORCID">0000-0002-0466-4467</Identifier>
+            <AffiliationInfo>
+              <Affiliation>General Surgery Department, Azienda Ospedaliera Ospedali Riuniti Villa Sofia-Cervello, Palermo, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Oncologic Surgery Department, P. Giaccone University Hospital, Palermo, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Prieto</LastName>
+            <ForeName>Mikel</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepatobiliary Surgery and Liver Transplantation Unit, Biocruces Bizkaia Health Research Institute, Cruces University Hospital, University of the Basque Country, Bilbao, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chong</LastName>
+            <ForeName>Charing C</ForeName>
+            <Initials>CC</Initials>
+            <Identifier Source="ORCID">0000-0002-8425-8767</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, Prince of Wales Hospital, Chinese University of Hong Kong, New Territories, Hong Kong, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Jae Hoon</ForeName>
+            <Initials>JH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Division of Hepato-Biliary and Pancreatic Surgery, Asan Medical Centre, University of Ulsan College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Efanov</LastName>
+            <ForeName>Mikhail</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0003-0738-7642</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepato-Pancreato-Biliary Surgery, Moscow Clinical Scientific Centre, Moscow, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kingham</LastName>
+            <ForeName>T Peter</ForeName>
+            <Initials>TP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, New York, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sutcliffe</LastName>
+            <ForeName>Robert P</ForeName>
+            <Initials>RP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatopancreatobiliary and Liver Transplant Surgery, University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Troisi</LastName>
+            <ForeName>Roberto I</ForeName>
+            <Initials>RI</Initials>
+            <Identifier Source="ORCID">0000-0001-6280-810X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Medicine and Surgery, Division of Hepato-Pancreato-Biliary, Minimally Invasive and Robotic Surgery, Federico II University Hospital Naples, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pratschke</LastName>
+            <ForeName>Johann</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Campus Charité Mitte and Campus Virchow-Klinikum, Charité-Universitätsmedizin, Corporate Member of Freie Universität Berlin, and Berlin Institute of Health, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Xiaoying</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Liver Surgery and Transplantation, Liver Cancer Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>D'Hondt</LastName>
+            <ForeName>Mathieu</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive and Hepatobiliary/Pancreatic Surgery, Groeninge Hospital, Kortrijk, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tang</LastName>
+            <ForeName>Chung Ngai</ForeName>
+            <Initials>CN</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Pamela Youde Nethersole Eastern Hospital, Hong Kong, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Rong</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Hepatopancreatobiliary Surgery, First Medical Centre of Chinese People's Liberation Army General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Park</LastName>
+            <ForeName>James O</ForeName>
+            <Initials>JO</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepatobiliary Surgical Oncology, Department of Surgery, University of Washington Medical Center, Seattle, Washington, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rotellar</LastName>
+            <ForeName>Fernando</ForeName>
+            <Initials>F</Initials>
+            <Identifier Source="ORCID">0000-0002-6557-0712</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Hepatopancreatobiliary and Liver Transplant Unit, Department of General Surgery, Clinica Universidad de Navarra, Universidad de Navarra, Pamplona, Spain.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute of Health Research of Navarra (IdisNA), Pamplona, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Scatton</LastName>
+            <ForeName>Olivier</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive, Hepato-biliary-pancreatic and Liver Transplantation, Hôpital Pitie-Salpetriere, AP-HP, Sorbonne Université, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sugioka</LastName>
+            <ForeName>Atsushi</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Fujita Health University School of Medicine, Aichi, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Long</LastName>
+            <ForeName>Tran Cong Duy</ForeName>
+            <Initials>TCD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatopancreatobiliary Surgery, University Medical Center, University of Medicine and Pharmacy, Ho Chi Minh City, Vietnam.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chan</LastName>
+            <ForeName>Chung-Yip</ForeName>
+            <Initials>CY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatopancreatobiliary and Transplant Surgery, Singapore General Hospital and Duke National University of Singapore Medical School, Singapore.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fuks</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive, Oncologic and Metabolic Surgery, Institute Mutualiste Montsouris, Université Paris Descartes, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Ho-Seong</ForeName>
+            <Initials>HS</Initials>
+            <Identifier Source="ORCID">0000-0001-9659-1260</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goh</LastName>
+            <ForeName>Brian K P</ForeName>
+            <Initials>BKP</Initials>
+            <Identifier Source="ORCID">0000-0001-8218-4576</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatopancreatobiliary and Transplant Surgery, Singapore General Hospital and Duke National University of Singapore Medical School, Singapore.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <CollectiveName>the International Robotic and Laparoscopic Liver Resection Study Group Investigators</CollectiveName>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>P30 CA008748</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Br J Surg</MedlineTA>
+        <NlmUniqueID>0372553</NlmUniqueID>
+        <ISSNLinking>0007-1323</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006498" MajorTopicYN="N">Hepatectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008113" MajorTopicYN="Y">Liver Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="N">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <InvestigatorList>
+        <Investigator ValidYN="Y">
+          <LastName>D’Silva</LastName>
+          <ForeName>M</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Schotte</LastName>
+          <ForeName>H</ForeName>
+          <Initials>H</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>De Meyere</LastName>
+          <ForeName>C</ForeName>
+          <Initials>C</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Lai</LastName>
+          <ForeName>E C</ForeName>
+          <Initials>EC</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Krenzien</LastName>
+          <ForeName>F</ForeName>
+          <Initials>F</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Schmelzle</LastName>
+          <ForeName>M</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Kadam</LastName>
+          <ForeName>P</ForeName>
+          <Initials>P</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Montalti</LastName>
+          <ForeName>R</ForeName>
+          <Initials>R</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Giglio</LastName>
+          <ForeName>M</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Liu</LastName>
+          <ForeName>Q</ForeName>
+          <Initials>Q</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Lee</LastName>
+          <ForeName>K F</ForeName>
+          <Initials>KF</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Salimgereeva</LastName>
+          <ForeName>D</ForeName>
+          <Initials>D</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Alikhanov</LastName>
+          <ForeName>R</ForeName>
+          <Initials>R</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Lee</LastName>
+          <ForeName>L S</ForeName>
+          <Initials>LS</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Gastaca</LastName>
+          <ForeName>M</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Jang</LastName>
+          <ForeName>J Y</ForeName>
+          <Initials>JY</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Lim</LastName>
+          <ForeName>C</ForeName>
+          <Initials>C</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Labadie</LastName>
+          <ForeName>K P</ForeName>
+          <Initials>KP</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Nghia</LastName>
+          <ForeName>P P</ForeName>
+          <Initials>PP</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Kojima</LastName>
+          <ForeName>M</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Kato</LastName>
+          <ForeName>Y</ForeName>
+          <Initials>Y</Initials>
+        </Investigator>
+      </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>9</Day>
+          <Hour>17</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35139157</ArticleId>
+        <ArticleId IdType="pii">6525345</ArticleId>
+        <ArticleId IdType="doi">10.1093/bjs/znab463</ArticleId>
+        <ArticleId IdType="pmc">PMC8981979</ArticleId>
+        <ArticleId IdType="mid">NIHMS1791144</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Br J Surg. 2021 Dec 1;108(12):1513-1520</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34750608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Surg. 2021 Apr 30;108(4):351-358</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33779690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hepatobiliary Surg Nutr. 2016 Aug;5(4):281-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27500140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2012 Aug;26(8):2247-58</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22311301</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2019 Dec;43(12):3120-3127</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31493192</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Gastrointest Surg. 2021 Jan;25(1):85-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32583323</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Hepatobiliary Pancreat Sci. 2022 Oct;29(10):1108-1123</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34291591</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Hepatobiliary Pancreat Sci. 2022 Feb;29(2):181-197</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33200536</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ANZ J Surg. 2020 Apr;90(4):553-557</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31721400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA Surg. 2016 Oct 1;151(10):923-928</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27383568</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Clin North Am. 2010 Aug;90(4):749-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20637945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2015 Apr;261(4):619-29</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25742461</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2017 Nov;41(11):2838-2846</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28752429</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2009 Aug;250(2):187-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19638912</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ANZ J Surg. 2021 Apr;91(4):E174-E182</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33719128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2014 Mar;259(3):549-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24045442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Hepatobiliary Pancreat Surg. 2021 Feb 28;25(1):8-17</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33649249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Acad Med Singap. 2020 Oct;49(10):742-748</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33283837</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2014 Oct;28(10):2973-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24853851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">35143883</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>12</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1879-3169</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>359</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Toxicology letters</Title>
+          <ISOAbbreviation>Toxicol Lett</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Inducible factors and interaction of pulmonary fibrosis induced by prenatal dexamethasone exposure in offspring rats.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>65-72</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0378-4274(22)00039-X</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.toxlet.2022.02.001</ELocationID>
+        <Abstract>
+          <AbstractText>This study aimed to investigate the correlation between prenatal dexamethasone exposure (PDE) and susceptibility to pulmonary fibrosis in offspring. Healthy female Wistar rats were given dexamethasone (0.2 mg/kg.d) or an equal volume of normal saline subcutaneously from 9 to 20 days after conception. Some of their female offspring underwent ovariectomy (OV) at 22 weeks after birth. All animals were euthanized at 28 weeks after birth. The morphological changes related to pulmonary fibrosis and extracellular matrix-related gene expression were detected, and Two-way ANOVA analyzed the interaction between PDE and OV. The results showed that adult offspring rats in FD group (female rats with PDE treatment) had early pulmonary fibrosis changes, such as pulmonary interstitial thickening, and increased expression of type IV collagen (COL4), α -smooth muscle actin (α-SMA) and fibronectin (FN) in lung tissues compared with those in FC group (female rats with saline treatment). In addition, adult offspring rats in FDO group (female rats with PDE and OV treatment) showed signs of pulmonary fibrosis, including apparent extracellular matrix deposition, increased lung injury scores (P＜0.01, P＜0.05), and extracellular matrix related gene expression (P＜0.01, P＜0.05), compared with rats in FDS (female rats with PDE treatment alone) or rats in FCO group (female rats with OV treatment alone). Moreover, PDE and OV had an interactive effect on the development of pulmonary fibrosis in female adult offspring. This study first reported the correlation between PDE and susceptibility to pulmonary fibrosis in female offspring rats, as well as the synergistic effect of PDE and OV in this pathological event, which provided a basis for further understanding of the pathogenesis of fetal originated pulmonary fibrosis.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Elsevier B.V. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Ziyao</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Renmin Hospital of Wuhan University, No.238 Jiefang Rd, Wuhan, 430060, Hubei, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Huijun</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynaecology, Zhongnan Hospital of Wuhan University, 169 Donghu Road, Wuchang District, Wuhan, 430071, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yu</LastName>
+            <ForeName>Pengxia</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pharmacology, Basic Medical School of Wuhan University, 185 Donghu Road, Wuchang District, Wuhan, 430071, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ge</LastName>
+            <ForeName>Caiyun</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynaecology, Zhongnan Hospital of Wuhan University, 169 Donghu Road, Wuchang District, Wuhan, 430071, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fang</LastName>
+            <ForeName>Man</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynaecology, Zhongnan Hospital of Wuhan University, 169 Donghu Road, Wuchang District, Wuhan, 430071, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Xiaoqi</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pharmacology, Basic Medical School of Wuhan University, 185 Donghu Road, Wuchang District, Wuhan, 430071, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Geng</LastName>
+            <ForeName>Qing</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Renmin Hospital of Wuhan University, No.238 Jiefang Rd, Wuhan, 430060, Hubei, China. Electronic address: gengqingwhu@whu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Hui</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pharmacology, Basic Medical School of Wuhan University, 185 Donghu Road, Wuchang District, Wuhan, 430071, China; Hubei Provincial Key Laboratory of Developmentally Originated Diseases, 185 Donghu Road, Wuchang District, Wuhan, 430071, China. Electronic address: wanghui19@whu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>Toxicol Lett</MedlineTA>
+        <NlmUniqueID>7709027</NlmUniqueID>
+        <ISSNLinking>0378-4274</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>7S5I7G3JQL</RegistryNumber>
+          <NameOfSubstance UI="D003907">Dexamethasone</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="ErratumIn">
+          <RefSource>Toxicol Lett. 2023 Jan 15;373:194-195. doi: 10.1016/j.toxlet.2022.11.016</RefSource>
+          <PMID Version="1">36495624</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003907" MajorTopicYN="N">Dexamethasone</DescriptorName>
+          <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004198" MajorTopicYN="N">Disease Susceptibility</DescriptorName>
+          <QualifierName UI="Q000139" MajorTopicYN="Y">chemically induced</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D047109" MajorTopicYN="N">Fetal Development</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011247" MajorTopicYN="N">Pregnancy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011297" MajorTopicYN="N">Prenatal Exposure Delayed Effects</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011658" MajorTopicYN="N">Pulmonary Fibrosis</DescriptorName>
+          <QualifierName UI="Q000139" MajorTopicYN="Y">chemically induced</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012737" MajorTopicYN="N">Sex Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Dexamethasone exposure</Keyword>
+        <Keyword MajorTopicYN="N">Fetal originated</Keyword>
+        <Keyword MajorTopicYN="N">Interaction</Keyword>
+        <Keyword MajorTopicYN="N">Ovariectomy</Keyword>
+        <Keyword MajorTopicYN="N">Pulmonary fibrosis</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>01</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>20</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35143883</ArticleId>
+        <ArticleId IdType="pii">S0378-4274(22)00039-X</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.toxlet.2022.02.001</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">35150407</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>09</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1861-6429</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>17</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of computer assisted radiology and surgery</Title>
+          <ISOAbbreviation>Int J Comput Assist Radiol Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Frame-wise detection of surgeon stress levels during laparoscopic training using kinematic data.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>785-794</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11548-022-02568-5</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Excessive stress experienced by the surgeon can have a negative effect on the surgeon's technical skills. The goal of this study is to evaluate and validate a deep learning framework for real-time detection of stressed surgical movements using kinematic data.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">30 medical students were recruited as the subjects to perform a modified peg transfer task and were randomized into two groups, a control group (n=15) and a stressed group (n=15) that completed the task under deteriorating, simulated stressful conditions. To classify stressed movements, we first developed an attention-based Long-Short-Term-Memory recurrent neural network (LSTM) trained to classify normal/stressed trials and obtain the contribution of each data frame to the stress level classification. Next, we extracted the important frames from each trial and used another LSTM network to implement the frame-wise classification of normal and stressed movements.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The classification between normal and stressed trials using attention-based LSTM model reached an overall accuracy of 75.86% under Leave-One-User-Out (LOUO) cross-validation. The second LSTM classifier was able to distinguish between the typical normal and stressed movement with an accuracy of 74.96% with an 8-second observation under LOUO. Finally, the normal and stressed movements in stressed trials could be classified with the accuracy of 68.18% with a 16-second observation under LOUO.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In this study, we extracted the movements which are more likely to be affected by stress and validated the feasibility of using LSTM and kinematic data for frame-wise detection of stress level during laparoscopic training. The proposed classifier could be potentially be integrated with robot-assisted surgery platforms for stress management purposes.</AbstractText>
+          <CopyrightInformation>© 2022. CARS.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Yi</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-1830-0680</Identifier>
+            <AffiliationInfo>
+              <Affiliation>The Department of Mechanical Engineering, The University of Texas at Austin, Austin, TX, 78712, USA. yi.zheng@austin.utexas.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Leonard</LastName>
+            <ForeName>Grey</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>The Department of Surgery, UT Southwestern Medical Center, Dallas, TX, 75390, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zeh</LastName>
+            <ForeName>Herbert</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>The Department of Surgery, UT Southwestern Medical Center, Dallas, TX, 75390, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fey</LastName>
+            <ForeName>Ann Majewicz</ForeName>
+            <Initials>AM</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-1802-6730</Identifier>
+            <AffiliationInfo>
+              <Affiliation>The Department of Mechanical Engineering, The University of Texas at Austin, Austin, TX, 78712, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Department of Surgery, UT Southwestern Medical Center, Dallas, TX, 75390, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 EB030125</GrantID>
+            <Acronym>EB</Acronym>
+            <Agency>NIBIB NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>1R01EB030125-01</GrantID>
+            <Acronym>NH</Acronym>
+            <Agency>NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>12</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Int J Comput Assist Radiol Surg</MedlineTA>
+        <NlmUniqueID>101499225</NlmUniqueID>
+        <ISSNLinking>1861-6410</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001696" MajorTopicYN="N">Biomechanical Phenomena</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016571" MajorTopicYN="N">Neural Networks, Computer</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066231" MajorTopicYN="Y">Surgeons</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Deep learning</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopic surgery</Keyword>
+        <Keyword MajorTopicYN="N">Motion analysis</Keyword>
+        <Keyword MajorTopicYN="N">Surgical stress</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>01</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>12</Day>
+          <Hour>12</Hour>
+          <Minute>8</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35150407</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11548-022-02568-5</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11548-022-02568-5</ArticleId>
+        <ArticleId IdType="pmc">PMC10321330</ArticleId>
+        <ArticleId IdType="mid">NIHMS1901282</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Am J Surg. 2009 Apr;197(4):537-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19246024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Educ. 2016 May-Jun;73(3):482-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26896147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Surg. 1997 Feb;84(2):273-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9052454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 2018 Aug;216(2):361-368</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28615137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Surg. 2001 Mar;136(3):305-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11231850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2001 Oct;15(10):1204-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11727101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 2015 Nov;210(5):846-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26105802</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Appl Physiol Occup Physiol. 1983;51(3):441-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6685042</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2003 Sep;17(9):1481-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12820061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int Symp Med Robot. 2021 Nov;2021:</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37408580</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Med Imaging. 2020 Mar;39(3):556-566</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31352339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2010 Oct;24(10):2588-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20354878</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Pattern Anal Mach Intell. 2020 Jan;42(1):154-163</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30334781</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Surg. 2005 Oct;201(4):560-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16183494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neural Comput. 1997 Nov 15;9(8):1735-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9377276</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Comput Assist Radiol Surg. 2018 Dec;13(12):1959-1970</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30255463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2018 Feb;14(1):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28660725</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Laparoendosc Adv Surg Tech A. 2006 Apr;16(2):94-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16646695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">35156838</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>08</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1557-900X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>36</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>08</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of endourology</Title>
+          <ISOAbbreviation>J Endourol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Evaluation of Hugo RAS System in Major Urologic Surgery: Our Initial Experience.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1029-1035</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1089/end.2022.0015</ELocationID>
+        <Abstract>
+          <AbstractText><b><i>Background:</i></b> The Hugo RAS is a newly launched robotic system for clinical use. This article provides the initial experience of the authors using Hugo RAS in urologic procedures. <b><i>Methodology:</i></b> Patients undergoing major urologic procedures, including nephrectomy and prostatectomy, were included in this prospective clinical trial. Institutional ethical approval was obtained, and patients were counseled preoperatively with informed consent. Both intraoperative and postoperative data were carefully recorded. <b><i>Results:</i></b> A total of seven patients were included in this initial study. This includes radical prostatectomy (<i>n</i> = 3), simple prostatectomy (<i>n</i> = 1), radical nephrectomy (<i>n</i> = 1), and simple nephrectomy (<i>n</i> = 2). The total operative time, port placement time, time to dock the ports, blood loss and length of hospital stay, and 30-day morbidity and mortality were recorded. There were no intraoperative or postoperative complications up to 1 month follow-up. <b><i>Conclusion:</i></b> From the early experience with the Hugo RAS™ platform, it appears to be a safe robotic platform for major urologic procedures and is a good addition to the existing arsenal of surgical robots.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ragavan</LastName>
+            <ForeName>Narasimhan</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, The Tamil Nadu Dr MGR Medical University, Apollo Hospitals, Chennai, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bharathkumar</LastName>
+            <ForeName>Shivaraj</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0001-8618-4266</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology and Apollo Hospitals, Chennai, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chirravur</LastName>
+            <ForeName>Pradeep</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anaesthesiology, Apollo Hospitals, Chennai, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sankaran</LastName>
+            <ForeName>Sindhu</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0001-8294-4037</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology and Apollo Hospitals, Chennai, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mottrie</LastName>
+            <ForeName>Alex</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Orsi Academy, Ghent, Belgium.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>OLV Hospital, Aalst, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Endourol</MedlineTA>
+        <NlmUniqueID>8807503</NlmUniqueID>
+        <ISSNLinking>0892-7790</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Urol. 2023 Jun;209(6):1216. doi: 10.1097/JU.0000000000003410</RefSource>
+          <PMID Version="1">36950934</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Pediatr Urol. 2023 Apr;19(2):222-224. doi: 10.1016/j.jpurol.2023.03.004</RefSource>
+          <PMID Version="1">36967206</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="N">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013520" MajorTopicYN="N">Urologic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">robotic surgery</Keyword>
+        <Keyword MajorTopicYN="N">urologic procedures</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>8</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>14</Day>
+          <Hour>12</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35156838</ArticleId>
+        <ArticleId IdType="doi">10.1089/end.2022.0015</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

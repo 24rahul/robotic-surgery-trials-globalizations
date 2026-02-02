@@ -1,0 +1,1165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">32385598</PMID>
+      <DateCompleted>
+        <Year>2020</Year>
+        <Month>11</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>07</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1861-6429</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>15</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of computer assisted radiology and surgery</Title>
+          <ISOAbbreviation>Int J Comput Assist Radiol Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effect of real-time virtual reality-based teaching cues on learning needle passing for robot-assisted minimally invasive surgery: a randomized controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1187-1194</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11548-020-02156-5</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Current virtual reality-based (VR) simulators for robot-assisted minimally invasive surgery (RAMIS) training lack effective teaching and coaching. Our objective was to develop an automated teaching framework for VR training in RAMIS. Second, we wanted to study the effect of such real-time teaching cues on surgical technical skill acquisition. Third, we wanted to assess skill in terms of surgical technique in addition to traditional time and motion efficiency metrics.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We implemented six teaching cues within a needle passing task on the da Vinci Skills Simulator platform (noncommercial research version). These teaching cues are graphical overlays designed to demonstrate ideal surgical technique, e.g., what path to follow while passing needle through tissue. We created three coaching modes: TEACH (continuous demonstration), METRICS (demonstration triggered by performance metrics), and USER (demonstration upon user request). We conducted a randomized controlled trial where the experimental group practiced using automated teaching and the control group practiced in a self-learning manner without automated teaching.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">We analyzed data from 30 participants (14 in experimental and 16 in control group). After three practice repetitions, control group showed higher improvement in time and motion efficiency, while experimental group showed higher improvement in surgical technique compared to their baseline measurements. The experimental group showed more improvement than the control group on a surgical technique metric (at what angle is needle grasped by an instrument), and the difference between groups was statistically significant.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In a pilot randomized controlled trial, we observed that automated teaching cues can improve the performance of surgical technique in a VR simulator for RAMIS needle passing. Our study was limited by its recruitment of nonsurgeons and evaluation of a single configuration of coaching modes.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Malpani</LastName>
+            <ForeName>Anand</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-9477-9403</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Johns Hopkins University, 3400 N Charles St., Baltimore, MD, 21218, USA. anandmalpani@jhu.edu.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Intuitive Surgical Inc., 1020 Kifer Road, Sunnyvale, CA, 94086, USA. anandmalpani@jhu.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vedula</LastName>
+            <ForeName>S Swaroop</ForeName>
+            <Initials>SS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Johns Hopkins University, 3400 N Charles St., Baltimore, MD, 21218, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Henry C</ForeName>
+            <Initials>HC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Intuitive Surgical Inc., 1020 Kifer Road, Sunnyvale, CA, 94086, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hager</LastName>
+            <ForeName>Gregory D</ForeName>
+            <Initials>GD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Johns Hopkins University, 3400 N Charles St., Baltimore, MD, 21218, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Taylor</LastName>
+            <ForeName>Russell H</ForeName>
+            <Initials>RH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Johns Hopkins University, 3400 N Charles St., Baltimore, MD, 21218, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>05</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Int J Comput Assist Radiol Surg</MedlineTA>
+        <NlmUniqueID>101499225</NlmUniqueID>
+        <ISSNLinking>1861-6410</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="Y">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003198" MajorTopicYN="Y">Computer Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003463" MajorTopicYN="N">Cues</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019060" MajorTopicYN="N">Minimally Invasive Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009339" MajorTopicYN="N">Needles</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000066908" MajorTopicYN="Y">Simulation Training</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014584" MajorTopicYN="N">User-Computer Interface</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000076142" MajorTopicYN="Y">Virtual Reality</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Evaluation and validation</Keyword>
+        <Keyword MajorTopicYN="N">Randomized controlled trial</Keyword>
+        <Keyword MajorTopicYN="N">Surgical robots</Keyword>
+        <Keyword MajorTopicYN="N">Surgical training and assessment</Keyword>
+        <Keyword MajorTopicYN="N">Virtual reality</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2019</Year>
+          <Month>11</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>04</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32385598</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11548-020-02156-5</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11548-020-02156-5</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Becker AJ (2009) It’s not what they do, it’s how they do it: athlete experiences of great coaching. Int J Sports Sci Coach 4(1):93–119. https://doi.org/10.1260/1747-9541.4.1.93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1260/1747-9541.4.1.93</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Birkmeyer JD, Finks JF, O’Reilly A, Oerline M, Carlin AM, Nunn AR, Dimick J, Banerjee M, Birkmeyer NJ (2013) Surgical skill and complication rates after bariatric surgery. New Engl J Med 369(15):1434–1442. https://doi.org/10.1056/NEJMsa1300625</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMsa1300625</ArticleId>
+            <ArticleId IdType="pubmed">24106936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boyle E, Al-Akash M, Gallagher AG, Traynor O, Hill ADK, Neary PC (2011) Optimising surgical training: use of feedback to reduce errors during a simulated surgical procedure. Postgrad Med J. https://doi.org/10.1136/pgmj.2010.109363</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/pgmj.2010.109363</ArticleId>
+            <ArticleId IdType="pubmed">21642446</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Z, Malpani A, Chalasani P, Deguet A, Vedula SS, Kazhanzides P, Taylor RH (2016) Virtual fixture assistance for needle passing and knot tying. In: 2016 IEEE/RSJ international conference on intelligent robots and systems (IROS), pp 2343–2350. https://doi.org/10.1109/IROS.2016.7759365</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cohen J (1977) CHAPTER 2—the t test for means. In: Statistical power analysis for the behavioral sciences, Revised edition. Academic Press, London, pp 19–74. https://doi.org/10.1016/B978-0-12-179060-8.50007-4</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cole SJ, Mackenzie H, Ha J, Hanna GB, Miskovic D (2013) Randomized controlled trial on the effect of coaching in simulated laparoscopic training. Surg Endosc 28(3):979–986. https://doi.org/10.1007/s00464-013-3265-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-013-3265-0</ArticleId>
+            <ArticleId IdType="pubmed">24196554</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crochet P, Aggarwal R, Dubb SS, Ziprin P, Rajaretnam N, Grantcharov T, Ericsson KA, Darzi A (2011) Deliberate practice on a virtual reality laparoscopic simulator enhances the quality of surgical technical skills. Ann Surg 253(6):1216–1222</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0b013e3182197016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dosis A, Aggarwal A, Bello F, Moorthy K, Munz Y, Gillies D, Darzi A (2005) Synchronized video and motion analysis for the assessment of procedures in the operating theater. Arch Surg 140(3):293–299. https://doi.org/10.1001/archsurg.140.3.293</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/archsurg.140.3.293</ArticleId>
+            <ArticleId IdType="pubmed">15781796</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fecso AB, Szasz P, Kerezov G, Grantcharov TP (2017) The effect of technical performance on patient outcomes in surgery: a systematic review. Ann Surg 265(3):492–501. https://doi.org/10.1097/SLA.0000000000001959</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000001959</ArticleId>
+            <ArticleId IdType="pubmed">27537534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gardner AK, Abdelfattah K, Wiersch J, Ahmed RA, Willis RE (2015) Embracing errors in simulation-based training: the effect of error training on retention and transfer of central venous catheter skills. J Surg Educ 72(6):e158–e162. https://doi.org/10.1016/j.jsurg.2015.08.002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jsurg.2015.08.002</ArticleId>
+            <ArticleId IdType="pubmed">26362712</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gardner AK, Nepomnayshy D, Reickert C, Gee DW, Brydges R, Korndorffer JR, Scott DJ, Sachdeva AK (2016) The value proposition of simulation. Surgery 160(3):546–551. https://doi.org/10.1016/j.surg.2016.03.028</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2016.03.028</ArticleId>
+            <ArticleId IdType="pubmed">27206331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Greenberg CC, Ghousseini HN, Pavuluri Quamme SR, Beasley HL, Wiegmann DA (2015) Surgical coaching for individual performance improvement. Ann Surg 261(1):32–34. https://doi.org/10.1097/SLA.0000000000000776</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000000776</ArticleId>
+            <ArticleId IdType="pubmed">24887977</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gross ND, Holsinger FC, Magnuson JS, Duvvuri U, Genden EM, Ghanem TA, Yaremchuk KL, Goldenberg D, Miller MC, Moore EJ, Morris LG, Netterville J, Weinstein GS, Richmon J (2016) Robotics in otolaryngology and head and neck surgery: recommendations for training and credentialing: a report of the 2015 AHNS education committee, AAO-HNS robotic task force and AAO-HNS sleep disorders committee. Head Neck 38(S1):E151–E158. https://doi.org/10.1002/hed.24207</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hed.24207</ArticleId>
+            <ArticleId IdType="pubmed">26950771</ArticleId>
+            <ArticleId IdType="pmcid">4927077</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jog A, Itkowitz B, Liu M, DiMaio S, Hager G, Curet M, Kumar R (2011) Towards integrating task information in skills assessment for dexterous tasks in surgery and simulation. In: 2011 IEEE international conference on robotics and automation (ICRA), pp 5273–5278. https://doi.org/10.1109/ICRA.2011.5979967</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lenihan JP (2011) Navigating credentialing, privileging, and learning curves in robotics with an evidence and experienced-based approach. Clin Obstet Gynecol 54(3):382–390. https://doi.org/10.1097/GRF.0b013e31822b47e2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/GRF.0b013e31822b47e2</ArticleId>
+            <ArticleId IdType="pubmed">21857169</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Malpani A (2017) Automated virtual coach for surgical training. Ph.D., Johns Hopkins University, Baltimore, MD</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mazzon G, Sridhar A, Busuttil G, Thompson J, Nathan S, Briggs T, Kelly J, Shaw G (2017) Learning curves for robotic surgery: a review of the recent literature. Curr Urol Rep., p 89. https://doi.org/10.1007/s11934-017-0738-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11934-017-0738-z</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moglia A, Ferrari V, Morelli L, Ferrari M, Mosca F, Cuschieri A (2016) A systematic review of virtual reality simulators for robot-assisted surgery. Eur Urol 69(6):1065–1080. https://doi.org/10.1016/j.eururo.2015.09.021</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eururo.2015.09.021</ArticleId>
+            <ArticleId IdType="pubmed">26433570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pradarelli JC, Campbell DA, Dimick JB (2015) Hospital credentialing and privileging of surgeons: a potential safety blind spot. JAMA 313(13):1313–1314. https://doi.org/10.1001/jama.2015.1943</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jama.2015.1943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pradarelli JC, Thornton JP, Dimick JB (2017) Who is responsible for the safe introduction of new surgical technology? An important legal precedent from the da Vinci surgical system trials. JAMA Surg 152(8):717–718. https://doi.org/10.1001/jamasurg.2017.0841</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jamasurg.2017.0841</ArticleId>
+            <ArticleId IdType="pubmed">28467538</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Satava RM (2019) The future of surgical simulation. In: Stefanidis D, Korndorffer Jr JR, Sweet R (eds) Comprehensive healthcare simulation: surgery and surgical subspecialties, comprehensive healthcare simulation. Springer, Cham, pp 379–387. https://doi.org/10.1007/978-3-319-98276-2_31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-319-98276-2_31</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scott DJ, Dunnington GL (2008) The new ACS/APDS skills curriculum: moving the learning curve out of the operating room. J Gastrointest Surg 12(2):213–221. https://doi.org/10.1007/s11605-007-0357-y</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11605-007-0357-y</ArticleId>
+            <ArticleId IdType="pubmed">17926105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Singh P, Aggarwal R, Tahir M, Pucher PH, Darzi A (2015) A randomized controlled study to evaluate the role of video-based coaching in training laparoscopic skills. Ann Surg 261(5):862–869. https://doi.org/10.1097/SLA.0000000000000857</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000000857</ArticleId>
+            <ArticleId IdType="pubmed">25185469</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stefanidis D, Anderson-Montoya B, Higgins RV, Pimentel ME, Rowland P, Scarborough MO, Higgins D (2016) Developing a coaching mechanism for practicing surgeons. Surgery 160(3):536–545. https://doi.org/10.1016/j.surg.2016.03.036</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2016.03.036</ArticleId>
+            <ArticleId IdType="pubmed">27302107</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stefanidis D, Korndorffer JR, Sweet R (eds) (2019) Comprehensive healthcare simulation: surgery and surgical subspecialties. Comprehensive healthcare simulation. Springer, Cham. https://doi.org/10.1007/978-3-319-98276-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-319-98276-2</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tam V, Borrebach J, Dunn SA, Bellon J, Zeh HJ, Hogg ME (2019) Proficiency-based training and credentialing can improve patient outcomes and decrease cost to a hospital system. Am J Surg 217(4):591–596. https://doi.org/10.1016/j.amjsurg.2018.07.053</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.amjsurg.2018.07.053</ArticleId>
+            <ArticleId IdType="pubmed">30098709</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van Dongen KW, van der Wal WA, Rinkes IHMB, Schijven MP, Broeders IAMJ (2008) Virtual reality training for endoscopic surgery: voluntary or obligatory? Surg Endosc 22(3):664–667. https://doi.org/10.1007/s00464-007-9456-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-007-9456-9</ArticleId>
+            <ArticleId IdType="pubmed">17704889</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woelk JL, Casiano ER, Weaver AL, Gostout BS, Trabuco EC, Gebhart JB (2013) The learning curve of robotic hysterectomy. Obstet Gynecol 121(1):87–95. https://doi.org/10.1097/AOG.0b013e31827a029e</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/AOG.0b013e31827a029e</ArticleId>
+            <ArticleId IdType="pubmed">23262932</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zapf MAC, Ujiki MB (2015) Surgical resident evaluations of portable laparoscopic box trainers incorporated into a simulation-based minimally invasive surgery curriculum. Surg Innov 22(1):83–87. https://doi.org/10.1177/1553350614535858</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1553350614535858</ArticleId>
+            <ArticleId IdType="pubmed">24925895</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">32406783</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>10</Month>
+        <Day>15</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>31</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1553-3514</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>27</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Oct</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Surgical innovation</Title>
+          <ISOAbbreviation>Surg Innov</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A Robotic Camera Holder Controlled by Head Movements: Exploring This New Robot-Surgeon Interface.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>499-506</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1177/1553350620916573</ELocationID>
+        <Abstract>
+          <AbstractText><i>Background.</i> Most robotic camera steering devices (RCSDs) require active steering by the surgeon and necessarily increase workload. Clinical experience shows that standard laparoscopic procedures can be performed safely as solo surgery aided by RCSDs. No evidence exists concerning exploratory or emergency procedures. We compared the performance during unexpected laparoscopic tasks on surgical simulators aided either by an RCSD controllable by head movements of the surgeon or by a human camera assistant. <i>Methods.</i> Forty-five medical students without previous experience with minimal invasive surgery were randomized in 2 groups, and they performed standard and unexpected laparoscopic tasks requiring complex camera movements on box trainers either using an RCSD or assisted by a human camera assistant. Efficiency and performance parameters were recorded. <i>Results.</i> Performance in simulated standard procedures was equivalent. In simulated exploratory procedures, we saw significantly better performance scores in the conventional group versus the RCSD group. The strongest factor for these differences was the longer camera-adjusting time in the RCSD group versus the conventional group (PEG task = 208 ± 51 seconds vs 170 ± 36 seconds, <i>P</i> = .005; suture task = 563 ± 126 seconds vs 454 ± 201 seconds, <i>P</i> = .041). <i>Conclusion.</i> These results, obtained on surgical simulators, indicate that the solo approach to standard surgical tasks, facilitated by an RCSD controllable by head movements, can most likely be viewed as safe. Exploratory procedures with a relevant chance for complications or procedures that require rapid, often, or complex camera movements should rather be performed with a human camera assistant.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bucher</LastName>
+            <ForeName>Julian Nikolaus</ForeName>
+            <Initials>JN</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-8390-2143</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral and Transplantation Surgery, Ludwig-Maximilians-University, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bruewer</LastName>
+            <ForeName>Katharina</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral and Transplantation Surgery, Ludwig-Maximilians-University, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dietz</LastName>
+            <ForeName>Louisa Jutta</ForeName>
+            <Initials>LJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral and Transplantation Surgery, Ludwig-Maximilians-University, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Trebesius</LastName>
+            <ForeName>Nicole</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral and Transplantation Surgery, Ludwig-Maximilians-University, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hidding</LastName>
+            <ForeName>Johanna</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral and Transplantation Surgery, Ludwig-Maximilians-University, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wysocki</LastName>
+            <ForeName>Michal</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Jagiellonian University, Kraków, Poland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schoenberg</LastName>
+            <ForeName>Markus Bo</ForeName>
+            <Initials>MB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral and Transplantation Surgery, Ludwig-Maximilians-University, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Werner</LastName>
+            <ForeName>Jens</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral and Transplantation Surgery, Ludwig-Maximilians-University, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Karcz</LastName>
+            <ForeName>Konrad</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral and Transplantation Surgery, Ludwig-Maximilians-University, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>05</Month>
+          <Day>14</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Surg Innov</MedlineTA>
+        <NlmUniqueID>101233809</NlmUniqueID>
+        <ISSNLinking>1553-3506</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D019416" MajorTopicYN="N">Head Movements</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066231" MajorTopicYN="Y">Surgeons</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">biomedical engineering</Keyword>
+        <Keyword MajorTopicYN="N">ergonomics</Keyword>
+        <Keyword MajorTopicYN="N">human factors study</Keyword>
+        <Keyword MajorTopicYN="N">robotic camera holder</Keyword>
+        <Keyword MajorTopicYN="N">robotic surgery</Keyword>
+        <Keyword MajorTopicYN="N">simulation</Keyword>
+        <Keyword MajorTopicYN="N">solo surgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32406783</ArticleId>
+        <ArticleId IdType="doi">10.1177/1553350620916573</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">32407973</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>05</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>05</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1873-7544</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>438</Volume>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>07</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Neuroscience</Title>
+          <ISOAbbreviation>Neuroscience</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Early Exercise after Intracerebral Hemorrhage Inhibits Inflammation and Promotes Neuroprotection in the Sensorimotor Cortex in Rats.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>86-99</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0306-4522(20)30298-0</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuroscience.2020.05.003</ELocationID>
+        <Abstract>
+          <AbstractText>The present study examined the effect of early exercise on brain damage and recovery of motor function following intracerebral hemorrhage (ICH) in rats. Subjects were randomly assigned to no training after ICH (ICH), no training after sham surgery (SHAM), early treadmill exercise after ICH (ICH + ET), and late treadmill exercise after ICH (ICH + LT) groups. The ICH + ET and ICH + LT groups were trained for seven consecutive days starting on day 2 and day 9 after surgery, respectively. At post surgery day 16, the brain was surgically excised, and lesion volume, cortical thickness, neuronal number, dendritic length, and dendritic complexity were analyzed. Expression levels of IL-1b, TGF-b1, and IGF-1 mRNAs in ipsilateral sensorimotor cortex were measured by RT-PCR. The recovery of motor function in the ICH + ET group was the most accelerated. Cortical thickness and neuronal number were significantly higher in the ICH + ET group than the ICH and ICH + LT groups. The length and complexity of dendrites were also significantly greater in the ICH + ET group compared with the ICH and ICH + LT groups. Expression of IL-1b mRNA was significantly lower in the ICH + ET group than that in the ICH group. Collectively, these results suggest that early treadmill exercise after ICH promotes recovery of sensorimotor function by preventing neuronal death and ensuing cortical atrophy and by preserving dendritic structure compared with late treadmill exercise and no exercise. Early exercise may prevent neurodegeneration and functional loss by inhibiting neuroinflammation.</AbstractText>
+          <CopyrightInformation>Copyright © 2020 IBRO. Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Tamakoshi</LastName>
+            <ForeName>Keigo</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physical Therapy, Niigata University of Health and Welfare, Japan; Institute for Human Movement and Medical Sciences, Niigata University of Health and Welfare, Japan. Electronic address: tamakoshi@nuhw.ac.jp.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hayao</LastName>
+            <ForeName>Keishi</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physical Therapy, Niigata University of Health and Welfare, Japan; Institute for Human Movement and Medical Sciences, Niigata University of Health and Welfare, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Takahashi</LastName>
+            <ForeName>Hideaki</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physical Therapy, Niigata University of Health and Welfare, Japan; Institute for Human Movement and Medical Sciences, Niigata University of Health and Welfare, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>05</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Neuroscience</MedlineTA>
+        <NlmUniqueID>7605074</NlmUniqueID>
+        <ISSNLinking>0306-4522</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>EC 3.4.24.-</RegistryNumber>
+          <NameOfSubstance UI="D017364">Collagenases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002543" MajorTopicYN="N">Cerebral Hemorrhage</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017364" MajorTopicYN="N">Collagenases</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005081" MajorTopicYN="N">Exercise Therapy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007249" MajorTopicYN="N">Inflammation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000066829" MajorTopicYN="Y">Neuroprotection</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020127" MajorTopicYN="N">Recovery of Function</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066191" MajorTopicYN="Y">Sensorimotor Cortex</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">early exercise</Keyword>
+        <Keyword MajorTopicYN="N">intracerebral hemorrhage</Keyword>
+        <Keyword MajorTopicYN="N">motor functional recovery</Keyword>
+        <Keyword MajorTopicYN="N">neurodegeneration</Keyword>
+        <Keyword MajorTopicYN="N">neuroinflammation</Keyword>
+        <Keyword MajorTopicYN="N">sensorimotor cortex</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2019</Year>
+          <Month>08</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2020</Year>
+          <Month>05</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>05</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32407973</ArticleId>
+        <ArticleId IdType="pii">S0306-4522(20)30298-0</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.neuroscience.2020.05.003</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">32410919</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>06</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>06</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">1555-4317</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>2020</Volume>
+            <PubDate>
+              <Year>2020</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Contrast media &amp; molecular imaging</Title>
+          <ISOAbbreviation>Contrast Media Mol Imaging</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic Partial Nephrectomy with Indocyanine Green Fluorescence Navigation.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1287530</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1155/2020/1287530</ELocationID>
+        <Abstract>
+          <AbstractText>Partial nephrectomy (PN) is a recommended type of treatment of localised renal tumors. Real-time intraoperative imaging technique, such as fluorescence imaging with indocyanine green (ICG) administration helps to improve intraoperative and postoperative outcomes in patients who underwent PN. Our work presents results of patients who underwent robotic PN with ICG navigation. A total of 37 patients underwent robotic PN with application of ICG between April 2015 and May 2019. A total amount of 5 mg of ICG was applied intravenously, and then robotic PN was performed with fluorescent imaging. ICG was used by the surgeon's decision according to unfavourable anatomical properties of tumor or to high R.E.N.A.L. nephrometry score. An exact border between perfused and nonperfused tissue was detected, and exact tumor's branch of the renal artery was clamped. Robotic PN with ICG-fluorescence imaging navigation was performed in 37 cases with a preoperative average diameter of tumor of 31 mm. The mean surgery time was 133 minutes, and the mean estimated blood loss was 190 mL. Arterial clamping was performed in 35 cases. The mean duration of warm ischemia was 14 minutes. Application of ICG enabled specific tumor-supplying vessel clamping in 25 cases. Two complications of grade II according to the Clavien-Dindo classification occurred intraoperatively, and one complication of grade III was observed. Renal function changes showed favourable results for the cases with superselective clamping. Finally, an administration of ICG eases superselective clamping of tumor-specific branch of renal artery and helps to preserve normal renal function with acceptable oncological results.</AbstractText>
+          <CopyrightInformation>Copyright © 2020 Lukas Gadus et al.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Gadus</LastName>
+            <ForeName>Lukas</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">0000-0002-3789-1930</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Military University Hospital, Prague 16902, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>First Faculty of Medicine, Charles University, Prague 12108, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kocarek</LastName>
+            <ForeName>Jiri</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0002-4951-1982</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, First Faculty of Medicine, Charles University, Prague 12800, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chmelik</LastName>
+            <ForeName>Frantisek</ForeName>
+            <Initials>F</Initials>
+            <Identifier Source="ORCID">0000-0001-5633-2758</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Military University Hospital, Prague 16902, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Matejkova</LastName>
+            <ForeName>Marketa</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Military University Hospital, Prague 16902, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Heracek</LastName>
+            <ForeName>Jiri</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0002-7466-7532</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, First Faculty of Medicine, Charles University, Prague 12800, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>04</Month>
+          <Day>27</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Contrast Media Mol Imaging</MedlineTA>
+        <NlmUniqueID>101286760</NlmUniqueID>
+        <ISSNLinking>1555-4309</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>IX6J1063HV</RegistryNumber>
+          <NameOfSubstance UI="D007208">Indocyanine Green</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007208" MajorTopicYN="N">Indocyanine Green</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007680" MajorTopicYN="N">Kidney Neoplasms</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="Y">Nephrectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061848" MajorTopicYN="Y">Optical Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare that they have no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>02</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>03</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>5</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>5</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32410919</ArticleId>
+        <ArticleId IdType="doi">10.1155/2020/1287530</ArticleId>
+        <ArticleId IdType="pmc">PMC7204372</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Eur Urol. 2009 Nov;56(5):786-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19665284</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2012 Jul;26(7):797-802</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22250958</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2013 Apr;111(4):604-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23253629</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2016 Dec;10(4):357-359</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27664142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Int Med Res. 2018 Dec;46(12):4885-4897</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30360672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2013 Jun;63(6):1101-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23453421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncotarget. 2016 Aug 30;7(35):56471-56479</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27437764</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2018 Aug;200(2):258-274</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29580709</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Invest Ophthalmol Vis Sci. 2008 May;49(5):1777-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18436812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2009 Jan;181(1):55-61; discussion 61-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19012918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Ophthalmol. 1994 Dec 15;118(6):749-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7977601</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol Focus. 2018 Dec;4(6):960-968</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28753888</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol Focus. 2018 Sep;4(5):648-651</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30131283</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Biomed Imaging. 2012;2012:940585</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22577366</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>A A Case Rep. 2013 Oct;1(1):26-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25611609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Cancer Res. 2016 Sep 15;22(18):4634-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27103404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2012 Apr;79(4):958-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22336035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2014 Jul;28(7):2221-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24566744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Urol. 2019 Oct;26(10):985-991</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31342589</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Appl Physiol. 1976 Apr;40(4):575-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">776922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2009 Sep;182(3):844-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19616235</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urol Case Rep. 2017 Mar 10;12:37-38</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28316935</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2013 Aug;112(4):E322-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23480733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2012 Jul;80(1):110-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22607949</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Urol. 2012 Mar;22(2):109-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22262249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2015 Oct;68(4):632-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25922273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Minerva Urol Nefrol. 2020 Feb;72(1):82-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31833720</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2012 Jun;79(6):1296-301</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22503763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2014 May;28(5):567-76</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24228695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2012 May;109(9):1376-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21992566</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2017 May;35(5):789-794</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27578234</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Med. 2011 Sep 18;17(10):1315-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21926976</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosurg. 1948 Jul;5(4):392-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18872412</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2015 Jul;29(7):2046-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25303914</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urol Int. 2014;93(2):125-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24992994</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1947 Aug 8;106(2745):130-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17750790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2019 Jun;75(6):1008-1014</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30262342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

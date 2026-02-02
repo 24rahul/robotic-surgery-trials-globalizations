@@ -1,0 +1,2288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">34962110</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>04</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1598-6357</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>36</Volume>
+            <Issue>50</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Dec</Month>
+              <Day>27</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of Korean medical science</Title>
+          <ISOAbbreviation>J Korean Med Sci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Assessment of Perioperative Atelectasis Using Lung Ultrasonography in Patients Undergoing Pneumoperitoneum Surgery in the Trendelenburg Position: Aspects of Differences according to Ventilatory Mode.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e334</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3346/jkms.2021.36.e334</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">During robotic gynecologic pneumoperitoneum surgery in the Trendelenburg position, aeration loss leads to perioperative atelectasis. Recently developed ventilator mode pressure-controlled ventilation volume-guaranteed (PCV-VG) mode could provide adequate ventilation with lower inspiratory pressure compared to volume-controlled ventilation (VCV); we hypothesized that PCV-VG mode may be beneficial in reducing perioperative atelectasis via low tidal volume (V<sub>T</sub>) of 6 mL/kg ventilation during robotic gynecologic pneumoperitoneum surgery in the Trendelenburg position. We applied lung ultrasound score (LUS) for detecting perioperative atelectasis. We aimed to compare perioperative atelectasis between VCV and PCV-VG with a low V<sub>T</sub> of 6 mL/kg during pneumoperitoneum surgery in the Trendelenburg position using LUS.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Patients scheduled for robotic gynecologic surgery were randomly allocated to the VCV (n = 41) or PCV-VG group (n = 41). LUS, ventilatory, and hemodynamic parameters were evaluated at T1 (before induction), T2 (10 minutes after induction in the supine position), T3 (10 minutes after desufflation of CO<sub>2</sub> in the supine position), and T4 (30 minutes after emergence from anesthesia in the recovery room).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Eighty patients (40 with PCV-VG and 40 with VCV) were included. Demographic data showed no significant differences between the groups. The total LUS has changed from baseline to T4, 0.63 (95% confidence interval [CI], 0.32, 0.94) to 1.77 (95% CI, 1.42, 2.21) in the VCV group and 0.86 (95% CI, 0.56, 1.16) to 1.43 (95% CI, 1.08, 1.78) in the PCV-VG group (<i>P</i> = 0.170). In both groups, total LUS increased significantly compared to the baseline values.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Using a low V<sub>T</sub> of 6 mL/kg during pneumoperitoneum surgery in the Trendelenburg position, our study showed no evidence that PCV-VG ventilation was superior to VCV in terms of perioperative atelectasis.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">Clinical Research Information Service Identifier: KCT0006404.</AbstractText>
+          <CopyrightInformation>© 2021 The Korean Academy of Medical Sciences.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Youn Young</ForeName>
+            <Initials>YY</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0001-6414-2436</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Ewha Womans University Mokdong Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Jong In</ForeName>
+            <Initials>JI</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-8231-7161</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Ewha Womans University Mokdong Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, College of Medicine, Ewha Womans University, Seoul, Korea. hanji@ewha.ac.kr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kang</LastName>
+            <ForeName>Bo Kyung</ForeName>
+            <Initials>BK</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0003-2744-1044</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Ewha Womans University Mokdong Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jeong</LastName>
+            <ForeName>Kyungah</ForeName>
+            <Initials>K</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-9673-1152</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, College of Medicine, Ewha Womans University, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Jong Wha</ForeName>
+            <Initials>JW</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0003-3574-191X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Ewha Womans University Mokdong Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, College of Medicine, Ewha Womans University, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Dong Yeon</ForeName>
+            <Initials>DY</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-4414-5653</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Ewha Womans University Mokdong Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, College of Medicine, Ewha Womans University, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>27</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Korea (South)</Country>
+        <MedlineTA>J Korean Med Sci</MedlineTA>
+        <NlmUniqueID>8703518</NlmUniqueID>
+        <ISSNLinking>1011-8934</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018475" MajorTopicYN="N">Head-Down Tilt</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008168" MajorTopicYN="N">Lung</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011027" MajorTopicYN="Y">Pneumoperitoneum</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001261" MajorTopicYN="Y">Pulmonary Atelectasis</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012121" MajorTopicYN="N">Respiration, Artificial</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014463" MajorTopicYN="N">Ultrasonography</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Atelectasis</Keyword>
+        <Keyword MajorTopicYN="N">Gynecologic Anesthesia</Keyword>
+        <Keyword MajorTopicYN="N">Lung Ultrasonography</Keyword>
+        <Keyword MajorTopicYN="N">Mechanical Ventilation</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors have no potential conflicts of interest to disclose.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>58</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34962110</ArticleId>
+        <ArticleId IdType="pii">36.e334</ArticleId>
+        <ArticleId IdType="doi">10.3346/jkms.2021.36.e334</ArticleId>
+        <ArticleId IdType="pmc">PMC8728588</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Minerva Anestesiol. 2012 May;78(5):596-604</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22415437</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Intensive Care Med. 2012 Apr;38(4):577-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22392031</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2005 Feb;102(2):293-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15681942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Expert Rev Respir Med. 2015 Feb;9(1):97-107</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25541220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2010 Sep;105(3):377-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20554634</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2014 Jun;120(6):1370-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24662376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ultraschall Med. 2017 Oct;38(5):530-537</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28291991</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Cardiothorac Vasc Anesth. 2016 Apr;30(2):501-14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26395394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Med. 2019 Nov 21;8(12):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31766358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Anesth. 2011 May;23(3):183-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21377341</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2019 Dec;123(6):898-913</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31587835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Sci. 2020 Sep 23;17(17):2728-2734</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33162800</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2015 Sep;123(3):692-713</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26120769</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ultrasound Med Biol. 2016 Dec;42(12):2775-2784</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27639431</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Best Pract Res Clin Anaesthesiol. 2010 Jun;24(2):227-41</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20608559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Anesth. 2016 Nov;34:55-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27687346</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2007 Sep;99(3):429-35</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17626027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Interv Aging. 2019 Jul 18;14:1319-1329</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31409981</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crit Care Med. 1992 Nov;20(11):1604-16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1424706</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2015 Feb;122(2):437-47</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25501898</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2005 Apr;102(4):838-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15791115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 1998 Feb 5;338(6):355-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9449728</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesth Analg. 2017 Feb;124(2):494-504</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27669555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Med. 2021 Mar 19;10(6):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33808607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Braz J Anesthesiol. 2019 Nov - Dec;69(6):553-560</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31836201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cardiovasc Ultrasound. 2014 Jul 04;12:25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24993976</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Korean Med Sci. 2020 Oct 12;35(39):e327</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33045769</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2015 Jul 14;351:h3646</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26174419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Can J Anaesth. 2015 Sep;62(9):979-87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25869025</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Korean J Anesthesiol. 2020 Jun;73(3):194-204</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32098009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2008 May;100(5):709-16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18407943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Anesth. 2007 Mar;19(2):125-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17379125</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 2004 Feb;125(2):592-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14769743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2013 Jan;118(1):114-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23196259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2017 Sep;31(9):3605-3613</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28039643</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">34967863</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>12</Month>
+        <Day>31</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2168-619X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>148</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>02</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA otolaryngology-- head &amp; neck surgery</Title>
+          <ISOAbbreviation>JAMA Otolaryngol Head Neck Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effect of Perioperative Patient Education via Animated Videos in Patients Undergoing Head and Neck Surgery: A Randomized Clinical Trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>173-179</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamaoto.2021.3765</ELocationID>
+        <Abstract>
+          <AbstractText Label="Importance">Patient education and engagement is a pivotal component of surgical recovery. Ensuring proper patient education involves a thorough understanding of one's diagnosis and recovery plan, while reducing language and learning barriers to help patients make informed decisions and improve their hospital experience.</AbstractText>
+          <AbstractText Label="Objective">To assess whether using an animated surgical guide will help patients who are undergoing head and neck surgery feel more satisfied with their surgery and recovery process.</AbstractText>
+          <AbstractText Label="Design, Setting, and Participants">A randomized clinical trial was conducted between January and August 2020 at a single tertiary care academic center in Montreal, Canada. A consecutive sample of individuals who were undergoing any of the following surgical procedures was recruited: head and neck cancer resection with or without reconstruction, parotidectomy, thyroidectomy, parathyroidectomy, laryngectomy, or transoral robotic resection. The treating team was masked to group allocation, while study participants in the nonintervention group were unaware of the multimedia platform to avoid introducing bias in their survey responses.</AbstractText>
+          <AbstractText Label="Interventions">Patients were randomly allocated to either the treatment arm, in which they obtained access to a multimedia patient education platform, or the control arm, in which they received traditional patient education methods via clinical visits.</AbstractText>
+          <AbstractText Label="Main Outcomes and Measures">Primary analysis compared patient satisfaction scores on the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire INFO 25, a validated questionnaire on the perceived quality of information received by patients with cancer (possible scores ranging from 20 to 80).</AbstractText>
+          <AbstractText Label="Results">A total of 100 patients (50 in each arm; 63 women [63%]; 6 African American [6%, 12 Hispanic/Latino [12%], 11 Middle Eastern [11%], and 78 White [78%] individuals) completed the preintervention and postintervention questionnaires. In those who received access to the patient education platform, there was an 11.3-point (Cohen d = 1.02; control group score, 61.1 of 80; treatment group score, 72.4 of 80) difference of greater postoperative satisfaction scores at 1 month. While both groups felt that they received an adequate amount of information concerning their disease process, patients in the treatment arm had significantly better satisfaction with information concerning their medical tests, treatments, and other services.</AbstractText>
+          <AbstractText Label="Conclusions and Relevance">This randomized clinical trial of patients undergoing head and neck cancer treatment demonstrates that multimedia patient education platforms may enhance current traditional methods, providing complementary information on patients' treatment plans and recovery process, mental health, family life, and supplementary services. Further research is currently underway to confirm whether this platform will lead to decreased hospital stay, shorter complication rates, and long-term effects.</AbstractText>
+          <AbstractText Label="Trial Registration">ClinicalTrials.gov Identifier: NCT04048538.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Turkdogan</LastName>
+            <ForeName>Sena</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, McGill University Health Centre, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Roy</LastName>
+            <ForeName>Catherine F</ForeName>
+            <Initials>CF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, McGill University Health Centre, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chartier</LastName>
+            <ForeName>Gabrielle</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, McGill University Health Centre, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Nursing, Jewish General Hospital, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Payne</LastName>
+            <ForeName>Richard</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, McGill University Health Centre, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, Jewish General Hospital, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mlynarek</LastName>
+            <ForeName>Alex</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, Jewish General Hospital, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Forest</LastName>
+            <ForeName>Veronique-Isabelle</ForeName>
+            <Initials>VI</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, Jewish General Hospital, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hier</LastName>
+            <ForeName>Michael</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, Jewish General Hospital, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT04048538</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JAMA Otolaryngol Head Neck Surg</MedlineTA>
+        <NlmUniqueID>101589542</NlmUniqueID>
+        <ISSNLinking>2168-6181</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006258" MajorTopicYN="N">Head and Neck Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010353" MajorTopicYN="N">Patient Education as Topic</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017060" MajorTopicYN="Y">Patient Satisfaction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057234" MajorTopicYN="N">Preoperative Period</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011795" MajorTopicYN="N">Surveys and Questionnaires</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>31</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>30</Day>
+          <Hour>12</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34967863</ArticleId>
+        <ArticleId IdType="pii">2787761</ArticleId>
+        <ArticleId IdType="doi">10.1001/jamaoto.2021.3765</ArticleId>
+        <ArticleId IdType="pmc">PMC8719273</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">34968145</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>09</Month>
+        <Day>12</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1527-3792</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>207</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>05</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of urology</Title>
+          <ISOAbbreviation>J Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of Cosmetic Results in Children &gt;10 Years Old Undergoing Open, Laparoscopic or Robotic-Assisted Pyeloplasty: A Multicentric Study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1118-1126</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/JU.0000000000002385</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE">Our goal was to compare surgical scars assessed by a validated patient reported outcome questionnaire in children undergoing open (OP), laparoscopic (LP), or robotic-assisted (RALP) pyeloplasty. Our secondary aim was to assess the influence on the outcomes of variables such as gender or body mass index (BMI).</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS">We conducted an observational, cross-sectional, multicentric study of patients undergoing primary pyeloplasty between age 10 and 18 years at 5 tertiary Italian institutions during the period January 2010 to December 2019. Of 227 eligible patients 114 (50%) participated. OP was performed in 37 (32%), LP in 30 (26%) and RALP in 47 (41%), After a median (IQR) followup of 5.2 (2.3-7.8) years, scars were measured and assessed by a validated Patient Scar Assessment Questionnaire. Scores were compared among techniques and in accordance with several variables.</AbstractText>
+          <AbstractText Label="RESULTS">The median length of the surgical scar at followup was significantly larger (p &lt;0.0001) after OP (8.1 cm vs 1.8 cm for LP and 2.0 cm for RALP), where scar length correlated with BMI (p=0.04). Ninety patients (79%) had a Patient Scar Assessment Questionnaire score within the first quartile, the most favorable. During followup, 43 (38%) participants reported scar-related symptom. Symptoms were generally more common after OP (54% vs 30% for LP and 30% for RALP, p=0.06) and scar hyperesthesia was significantly more frequent after OP (p=0.01).</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Perception of the cosmetic outcomes in pre-adolescents and adolescents after pyeloplasty was generally good. LP achieved the best cosmetic results. OP was more commonly associated with scar-related symptoms and the size of the incision paralleled BMI.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ghidini</LastName>
+            <ForeName>Filippo</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Urology Unit, Department of Women's and Children's Health, University Hospital of Padova, Padua, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bortot</LastName>
+            <ForeName>Giulia</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Urology Unit, Meyer Hospital, University of Firenze, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gnech</LastName>
+            <ForeName>Michele</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Urology Unit, Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Contini</LastName>
+            <ForeName>Giorgia</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Urology Unit, Department of Surgery, Bambino Gesù Children's Hospital, Research Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Escolino</LastName>
+            <ForeName>Maria</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Surgery Unit, Department of Paediatrics, Federico II University, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Esposito</LastName>
+            <ForeName>Ciro</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Surgery Unit, Department of Paediatrics, Federico II University, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Capozza</LastName>
+            <ForeName>Nicola</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Urology Unit, Department of Surgery, Bambino Gesù Children's Hospital, Research Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Berrettini</LastName>
+            <ForeName>Alfredo</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Urology Unit, Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Masieri</LastName>
+            <ForeName>Lorenzo</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Urology Unit, Meyer Hospital, University of Firenze, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Castagnetti</LastName>
+            <ForeName>Marco</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0003-1282-1351</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Urology Unit, Department of Women's and Children's Health, University Hospital of Padova, Padua, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Urology Unit, Department of Surgery, Bambino Gesù Children's Hospital, Research Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgical, Oncological and Gastrointestinal Sciences, University of Padova, Padua, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D064888">Observational Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>30</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Urol</MedlineTA>
+        <NlmUniqueID>0376374</NlmUniqueID>
+        <ISSNLinking>0022-5347</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Urol. 2022 May;207(5):1125. doi: 10.1097/JU.0000000000002385.01</RefSource>
+          <PMID Version="1">35073725</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Urol. 2022 May;207(5):1125-1126. doi: 10.1097/JU.0000000000002385.02</RefSource>
+          <PMID Version="1">35073726</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Aktuelle Urol. 2022 Sep;53(5):388-390. doi: 10.1055/a-1831-0314</RefSource>
+          <PMID Version="1">36055347</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002921" MajorTopicYN="N">Cicatrix</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007682" MajorTopicYN="N">Kidney Pelvis</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014517" MajorTopicYN="Y">Ureteral Obstruction</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013520" MajorTopicYN="N">Urologic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">hydronephrosis</Keyword>
+        <Keyword MajorTopicYN="N">laparoscopy</Keyword>
+        <Keyword MajorTopicYN="N">patient reported outcome measures</Keyword>
+        <Keyword MajorTopicYN="N">robotic surgical procedures</Keyword>
+        <Keyword MajorTopicYN="N">validated questionnaire</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>31</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>30</Day>
+          <Hour>17</Hour>
+          <Minute>11</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34968145</ArticleId>
+        <ArticleId IdType="doi">10.1097/JU.0000000000002385</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">34970758</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>23</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1097-0045</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>82</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>03</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Prostate</Title>
+          <ISOAbbreviation>Prostate</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Impact of mpMRI targeted biopsy on intraoperative nerve-sparing (NeuroSAFE) during robot-assisted laparoscopic radical prostatectomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>493-501</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/pros.24295</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">The aim of our study was to evaluate the impact of prostate biopsy technique (transrectal ultrasound (US)-prostate biopsy (PBx) versus multiparametric magnetic resonance imaging (mpMRI) targeted prostate biopsy (MRI-PBx) on intraoperative nerve-sparing and the rate of secondary neurovascular-bundle resection (SNR) in patients undergoing robot-assisted laparoscopic radical prostatectomy (RARP). A real-time investigation with a frozen-section examination (NeuroSAFE) microscopically excluded or confirmed prostate cancer invasion of the nerve structures resulting in preservation of the neurovascular bundle or SNR. Additionally, we analyzed risk factors related to SNR, such as longer operation time and postoperative complications.</AbstractText>
+          <AbstractText Label="METHODS">The total study cohort was stratified according to non-nerve-sparing versus nerve-sparing RARP. Patients with nerve-sparing approach were then stratified according to biopsy technique (PBx vs. MRI-PBx). Further, we compared PBx versus MRI-PBx according to SNR rate.</AbstractText>
+          <AbstractText Label="RESULTS">We included a total of 470 consecutive patients, who underwent RARP for PCa at our institution between January 2016 and December 2019. Patients with a preoperative MRI-PBx had a 2.12-fold higher chance of successful nerve-sparing (without SNR) compared to patients with PBx (p &lt; 0.01). Patients with preoperative MRI-PBx required 73% less intraoperative SNR compared to patients with PBx (p &lt; 0.0001). Prior MRI-PBx is thus a predictor for successful nerve-sparing RARP approach.</AbstractText>
+          <AbstractText Label="CONCLUSION">Preoperative MRI-PBx led to better oncological outcomes and less SNR. Young patients with good erectile function could benefit from a preoperative MRI-PBx before nerve-sparing RARP.</AbstractText>
+          <CopyrightInformation>© 2021 The Authors. The Prostate published by Wiley Periodicals LLC.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Leitsmann</LastName>
+            <ForeName>Conrad</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0001-5158-9706</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University Medical Center Goettingen, Goettingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Uhlig</LastName>
+            <ForeName>Annemarie</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University Medical Center Goettingen, Goettingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bremmer</LastName>
+            <ForeName>Felix</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, University Medical Center Goettingen, Goettingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mut</LastName>
+            <ForeName>Tuna Till</ForeName>
+            <Initials>TT</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University Medical Center Goettingen, Goettingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ahyai</LastName>
+            <ForeName>Sascha</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University Medical Center Goettingen, Goettingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Reichert</LastName>
+            <ForeName>Mathias</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University Medical Center Goettingen, Goettingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Leitsmann</LastName>
+            <ForeName>Marianne</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University Medical Center Goettingen, Goettingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Trojan</LastName>
+            <ForeName>Lutz</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University Medical Center Goettingen, Goettingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Popeneciu</LastName>
+            <ForeName>Ionel-Valentin</ForeName>
+            <Initials>IV</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University Medical Center Goettingen, Goettingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>30</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Prostate</MedlineTA>
+        <NlmUniqueID>8101368</NlmUniqueID>
+        <ISSNLinking>0270-4137</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001706" MajorTopicYN="N">Biopsy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000081364" MajorTopicYN="Y">Multiparametric Magnetic Resonance Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059348" MajorTopicYN="N">Peripheral Nerve Injuries</DescriptorName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011467" MajorTopicYN="N">Prostate</DescriptorName>
+          <QualifierName UI="Q000294" MajorTopicYN="Y">innervation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="N">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018084" MajorTopicYN="N">Ultrasonography, Interventional</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">frozen section</Keyword>
+        <Keyword MajorTopicYN="N">localized</Keyword>
+        <Keyword MajorTopicYN="N">nerve-sparing (NeurSAFE)</Keyword>
+        <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+        <Keyword MajorTopicYN="N">robot-assisted laparoscopic radical prostatectomy (RARP)</Keyword>
+        <Keyword MajorTopicYN="N">secondary resection</Keyword>
+        <Keyword MajorTopicYN="N">ultrasound and MRI-guided prostate biopsy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>09</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>31</Day>
+          <Hour>6</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34970758</ArticleId>
+        <ArticleId IdType="doi">10.1002/pros.24295</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Ferlay J, Soerjomataram I, Dikshit R, et al. Cancer incidence and mortality worldwide: sources, methods and major patterns in GLOBOCAN 2012. Int J Cancer. 2015;136(5):E359-E386. doi:10.1002/ijc.29210</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mottet NBJ, Briers E, Bolla M, et al, members of the EAU - ESTRO - ESUR -SIOG Prostate Cancer Guidelines Panel.EAU-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer. Ed. presented at the EAU Annual Congress Milan 2021. EAU Guidelines Office; 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hara R, Jo Y, Fujii T, et al. Optimal approach for prostate cancer detection as initial biopsy: prospective randomized study comparing transperineal versus transrectal systematic 12-core biopsy. Urology. 2008;71(2):191-195. doi:10.1016/j.urology.2007.09.029</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dale W, Bilir P, Han M, Meltzer D. The role of anxiety in prostate carcinoma: a structured review of the literature. Cancer. 2005;104(3):467-478. doi:10.1002/cncr.21198</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Roobol MJ, Steyerberg EW, Kranse R, et al. A risk-based strategy improves prostate-specific antigen-driven detection of prostate cancer. Eur Urol. 2010;57(1):79-85. doi:10.1016/j.eururo.2009.08.025</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bratan F, Niaf E, Melodelima C, et al. Influence of imaging and histological factors on prostate cancer detection and localisation on multiparametric MRI: a prospective study. Eur Radiol. 2013;23(7):2019-2029. doi:10.1007/s00330-013-2795-0</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Weinreb JC, Barentsz JO, Choyke PL, et al. PI-RADS prostate imaging-reporting and data system: 2015, Version 2. Eur Urol. 2016;69(1):16-40. doi:10.1016/j.eururo.2015.08.052</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Drost FJH, Osses DF, Nieboer D, et al. Prostate MRI, with or without MRI-targeted biopsy, and systematic biopsy for detecting prostate cancer. Cochrane Database Syst Rev. 2019;4:CD012663. doi:10.1002/14651858.CD012663.pub2</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kasivisvanathan V, Rannikko AS, Borghi M, et al. MRI-targeted or standard biopsy for prostate-cancer diagnosis. N Engl J Med. 2018;378(19):1767-1777. doi:10.1056/NEJMoa1801993</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Radtke JP, Schwab C, Wolf MB, et al. Multiparametric magnetic resonance imaging (MRI) and MRI-transrectal ultrasound fusion biopsy for index tumor detection: correlation with radical prostatectomy specimen. Eur Urol. 2016;70(5):846-853. doi:10.1016/j.eururo.2015.12.052</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Leitlinienprogramm Onkologie (Deutsche Krebsgesellschaft DK, AWMF). S3-Leitlinie Prostatakarzinom, Langversion 6.01, 2021, AWMF Registernummer: 043/022OL; 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cornford P, Bellmunt J, Bolla M, et al. EAU-ESTRO-SIOG Guidelines on Prostate Cancer. Part II: treatment of relapsing, metastatic, and castration-resistant prostate cancer. Eur Urol. 2017;71(4):630-642. doi:10.1016/j.eururo.2016.08.002</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cazzaniga W, Garmo H, Robinson D, Holmberg L, Bill-Axelson A, Stattin P. Mortality after radical prostatectomy in a matched contemporary cohort in Sweden compared to the Scandinavian Prostate Cancer Group 4 (SPCG-4) study. BJU Int. 2019;123(3):421-428. doi:10.1111/bju.14563</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dalela D, Karabon P, Sammon J, et al. Generalizability of the prostate cancer intervention versus observation trial (PIVOT) results to contemporary north american men with prostate cancer. Eur Urol. 2017;71(4):511-514. doi:10.1016/j.eururo.2016.08.048</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yaxley JW, Coughlin GD, Chambers SK, et al. Robot-assisted laparoscopic prostatectomy versus open radical retropubic prostatectomy: early outcomes from a randomised controlled phase 3 study. Lancet. 2016;388(10049):1057-1066. doi:10.1016/S0140-6736(16)30592-X</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Walsh PC, Donker PJ. Impotence following radical prostatectomy: insight into etiology and prevention. J Urol. 1982;128(3):492-497. doi:10.1016/s0022-5347(17)53012-8</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hanks GE. External-beam radiation therapy for clinically localized prostate cancer: patterns of care studies in the United States. NCI Monogr. 1988;(7):75-84.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schlomm T, Tennstedt P, Huxhold C, et al. Neurovascular structure-adjacent frozen-section examination (NeuroSAFE) increases nerve-sparing frequency and reduces positive surgical margins in open and robot-assisted laparoscopic radical prostatectomy: experience after 11,069 consecutive patients. Eur Urol. 2012;62(2):333-340. doi:10.1016/j.eururo.2012.04.057</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Heinrich E, Schon G, Schiefelbein F, Michel MS, Trojan L. Clinical impact of intraoperative frozen sections during nerve-sparing radical prostatectomy. World J Urol. 2010;28(6):709-713. doi:10.1007/s00345-010-0529-3</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dinneen E, Haider A, Grierson J, et al. NeuroSAFE frozen section during robot-assisted radical prostatectomy (RARP): peri-operative and histopathological outcomes from the NeuroSAFE PROOF feasibility randomised controlled trial. BJU Int. 2020;127:676-686. doi:10.1111/bju.15256</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hadaschik BA, Kuru TH, Tulea C, et al. A novel stereotactic prostate biopsy system integrating pre-interventional magnetic resonance imaging and live ultrasound fusion. J Urol. 2011;186(6):2214-2220. doi:10.1016/j.juro.2011.07.102</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Coughlin GD, Yaxley JW, Chambers SK, et al. Robot-assisted laparoscopic prostatectomy versus open radical retropubic prostatectomy: 24-month outcomes from a randomised controlled study. Lancet Oncol. 2018;19(8):1051-1060. doi:10.1016/S1470-2045(18)30357-7</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Silke Neusser BB, Sandra D., Laura K., Jürgen W. Prostatakrebs: Führt die Anwendung der Fusionsbiopsie im Vergleich zur Anwendung üblicher diagnostischer Verfahren zu besseren Behandlungsergebnissen?. Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG); 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Haas GP, Delongchamps NB, Jones RF, et al. Needle biopsies on autopsy prostates: sensitivity of cancer detection based on true prevalence. J Natl Cancer Inst. 2007;99(19):1484-1489. doi:10.1093/jnci/djm153</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mirmilstein G, Rai BP, Gbolahan O, et al. The neurovascular structure-adjacent frozen-section examination (NeuroSAFE) approach to nerve sparing in robot-assisted laparoscopic radical prostatectomy in a British setting-a prospective observational comparative study. BJU Int. 2018;121(6):854-862. doi:10.1111/bju.14078</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sighinolfi MC, Eissa A, Spandri V, et al. Positive surgical margin during radical prostatectomy: overview of sampling methods for frozen sections and techniques for the secondary resection of the neurovascular bundles. BJU Int. 2020;125(5):656-663. doi:10.1111/bju.15024</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Avulova S, Zhao Z, Lee D, et al. The effect of nerve sparing status on sexual and urinary function: 3-year results from the CEASAR study. J Urol. 2018;199(5):1202-1209. doi:10.1016/j.juro.2017.12.037</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Michl U, Tennstedt P, Feldmeier L, et al. Nerve-sparing surgery technique, not the preservation of the neurovascular bundles, leads to improved long-term continence rates after radical prostatectomy. Eur Urol. 2016;69(4):584-589. doi:10.1016/j.eururo.2015.07.037</Citation>
+        </Reference>
+        <Reference>
+          <Citation>van der Leest M, Cornel E, Israël B, et al. Head-to-head comparison of transrectal ultrasound-guided prostate biopsy versus multiparametric prostate resonance imaging with subsequent magnetic resonance-guided biopsy in biopsy-naive men with elevated prostate-specific antigen: a large prospective multicenter clinical study. Eur Urol. 2019;75(4):570-578. doi:10.1016/j.eururo.2018.11.023</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Faria R, Soares MO, Spackman E, et al. Optimising the diagnosis of prostate cancer in the era of multiparametric magnetic resonance imaging: a cost-effectiveness analysis based on the prostate MR imaging study (PROMIS). Eur Urol. 2018;73(1):23-30. doi:10.1016/j.eururo.2017.08.018</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">34972499</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>07</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1478-7083</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>104</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annals of the Royal College of Surgeons of England</Title>
+          <ISOAbbreviation>Ann R Coll Surg Engl</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The impact of a fellow on a regional robotic-assisted partial nephrectomy service.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>28-34</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1308/rcsann.2020.7103</ELocationID>
+        <Abstract>
+          <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Training a fellow has a cost in time and effort for the surgeon and their team. Their relative inexperience may also negatively affect the patient. The aim of this study was to determine and quantify the impact of a fellow on a regional robotic-assisted partial nephrectomy service and on perioperative outcomes.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">We reviewed the prospectively collected data for 522 patients who had undergone robotic-assisted partial nephrectomy since 2015 during the tenure of six fellows. Perioperative outcomes for three groups were compared: group A (no fellow participation), group B (some participation) and group C (fellow completed entire operation). We also reviewed progression over 12 months.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Demographics were similar in all groups apart from the percentage of men, which was lower in group C (<i>p </i>&lt; 0.05). Operative time was 27 minutes longer for group B (<i>p </i>&lt; 0.001). Warm ischaemia time was significantly shorter for group A but the difference was only four minutes (<i>p </i>&lt; 0.001). Length of stay was slightly shorter for group C compared with the other groups (<i>p </i>&lt; 0.01). Trifecta achievement was greatest for group A (<i>p </i>&lt; 0.001). There were no perioperative deaths in any group and positive margins, complications and readmissions were low and similar in all groups. Towards the end of their fellowship, fellows performed more operations independently.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">There is a measurable, but small, negative impact of a fellow on a robotic-assisted partial nephrectomy service, which reduces with experience. With appropriate supervision and patient selection, a fellow can be taught robotic-assisted partial nephrectomy without affecting patient safety or treatment outcome.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Crockett</LastName>
+            <ForeName>M G</ForeName>
+            <Initials>MG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Frimley Renal Cancer Centre, Frimley Health NHS Foundation Trust, Frimley, Camberley, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Malki</LastName>
+            <ForeName>M</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Frimley Renal Cancer Centre, Frimley Health NHS Foundation Trust, Frimley, Camberley, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hussain</LastName>
+            <ForeName>M</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Frimley Renal Cancer Centre, Frimley Health NHS Foundation Trust, Frimley, Camberley, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mueller</LastName>
+            <ForeName>G</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>altauro AG, Basel, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Segaran</LastName>
+            <ForeName>S</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Urology, King's College Hospital, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tadtayev</LastName>
+            <ForeName>S</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Ashford and St Peters Hospitals NHS Foundation Trust, Chertsey, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Barber</LastName>
+            <ForeName>N J</ForeName>
+            <Initials>NJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Frimley Renal Cancer Centre, Frimley Health NHS Foundation Trust, Frimley, Camberley, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Ann R Coll Surg Engl</MedlineTA>
+        <NlmUniqueID>7506860</NlmUniqueID>
+        <ISSNLinking>0035-8843</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005257" MajorTopicYN="Y">Fellowships and Scholarships</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="Y">Nephrectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066231" MajorTopicYN="Y">Surgeons</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D052096" MajorTopicYN="N">Warm Ischemia</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Fellowship</Keyword>
+        <Keyword MajorTopicYN="N">Nephrectomy</Keyword>
+        <Keyword MajorTopicYN="N">Urology</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>1</Day>
+          <Hour>5</Hour>
+          <Minute>9</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34972499</ArticleId>
+        <ArticleId IdType="doi">10.1308/rcsann.2020.7103</ArticleId>
+        <ArticleId IdType="pmc">PMC10335017</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Can Urol Assoc J. 2008 Feb;2(1):33-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18542725</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2010 Jan;24(1):57-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19958156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2018 Oct;122(4):618-626</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29645344</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cochrane Database Syst Rev. 2017 May 09;5:CD012045</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28485814</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Surg. 2016 Jun;30:109-15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27107660</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2013 Jul;27(7):869-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23461381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Indian J Urol. 2018 Jan-Mar;34(1):62-67</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29343915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2015 Oct;29(10):1137-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25816694</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2013 Apr;189(4):1236-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23079376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2010 May;57(5):815-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20116163</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2016 Mar;89:45-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26743388</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2019 Feb;75(2):253-256</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30243798</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2017 Sep;11(3):333-339</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28000016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2004 Feb;14(2):197-200</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15199943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JSLS. 2011 Jul-Sep;15(3):291-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21985712</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2014 Dec;66(6):1165-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25192968</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2020 May;38(5):1093-1099</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31420695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Urol. 2014 Oct 23;14:82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25339410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2015 May;67(5):891-901</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25572825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer. 2006 Jul 1;107(1):54-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16708356</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2014 Dec;32(6):1523-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24817141</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2017 Oct;120(4):591-599</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28464554</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2016 Dec;23(13):4277-4283</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27411552</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2019 May;75(5):799-810</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30803729</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2017 Feb;31(2):158-162</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27927035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2014 Feb;32(1):265-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23783881</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World Neurosurg. 2013 Dec;80(6):738-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24055571</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2004 Nov;64(5):914-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15533477</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2010 Sep;58(3):340-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20825756</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2010 Jul;58(1):127-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20399002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">34978202</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1527-3792</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>207</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>05</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of urology</Title>
+          <ISOAbbreviation>J Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>How Does Age Affect Urinary Continence following Robot-Assisted Radical Prostatectomy? A Prospective Multi-Institutional Study Using Independently Collected, Validated Questionnaires.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1048-1056</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/JU.0000000000002391</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE">Robot-assisted radical prostatectomy (RARP) is associated with poorer postoperative urinary continence in older men. However, published studies reporting conflicting results have design limitations with insufficient data at the extremes of age. The purpose of this study was to assess the effect of age on post-RARP urinary continence.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS">This study included 5,648 patients from 2 prospective Australian databases who underwent a primary RARP for prostate cancer between 2008 and 2019. Significant urinary bother and pad-usage were evaluated 12 months post-RARP by EPIC-26 (Expanded Prostate Cancer Index Composite) questionnaires, independently collected by third parties. Multivariable logistic regression was used to investigate the relationship between continence and age.</AbstractText>
+          <AbstractText Label="RESULTS">Percentages of significant bother increased with age: 4.2%, 6.8% 9.1% and 12.9% at age groups &lt;55, 55-64, 65-74 and ≥75 years, respectively. Compared with men aged 65-69 years, the odds of significant bother in patients &lt;55 years was significantly lower (odds ratio [OR] 0.49, 95% confidence interval [CI] 0.32-0.75, p=0.001). Corresponding OR found no significant difference in bother in patients ≥70 (OR 1.24, 95% CI 0.94-1.63, p=0.13) or ≥75 years (OR 1.41, 95% CI 0.88-2.25, p=0.16). Pad-free rates markedly decreased with age: 86%, 79%, 68% and 50% at ages, &lt;55, 55-64, 65-74 and ≥75 years, respectively. Corresponding social continence (0-1 pads/day) rates also decreased with age: 98%, 96%, 92% and 85%.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Urinary bother and pad-usage post-RARP are excellent in young men but worsen with age. Older patients were only slightly more likely to be "significantly bothered" by incontinence despite higher pad-usage.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Gondoputro</LastName>
+            <ForeName>William</ForeName>
+            <Initials>W</Initials>
+            <Identifier Source="ORCID">0000-0002-7076-4781</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Garvan Institute of Medical Research and Kinghorn Cancer Centre, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>St. Vincent's Prostate Cancer Centre, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>St. Vincent's Clinical School, University of New South Wales, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Thompson</LastName>
+            <ForeName>James</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0002-5115-9930</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Garvan Institute of Medical Research and Kinghorn Cancer Centre, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>St. Vincent's Prostate Cancer Centre, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Medicine, University of New South Wales, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Evans</LastName>
+            <ForeName>Melanie</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Public Health and Preventive Medicine, Monash University, Melbourne, Victoria, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bolton</LastName>
+            <ForeName>Damien</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">0000-0002-5145-6783</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Austin Health, University of Melbourne, Melbourne, Victoria, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Olivia Newton-John Cancer and Wellness Centre, Austin Health, Melbourne, Victoria, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Frydenberg</LastName>
+            <ForeName>Mark</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0003-4445-3573</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Monash University, Clayton, Victoria, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Australian Urology Associates, Melbourne, Victoria, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Murphy</LastName>
+            <ForeName>Declan G</ForeName>
+            <Initials>DG</Initials>
+            <Identifier Source="ORCID">0000-0002-7500-5899</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Cancer Surgery, Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Sir Peter MacCallum Department of Oncology, University of Melbourne, Melbourne, Victoria, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Haynes</LastName>
+            <ForeName>Anne-Maree</ForeName>
+            <Initials>AM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Garvan Institute of Medical Research and Kinghorn Cancer Centre, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Agrawal</LastName>
+            <ForeName>Shikha</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Garvan Institute of Medical Research and Kinghorn Cancer Centre, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stricker</LastName>
+            <ForeName>Phillip</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">0000-0002-0934-0656</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Garvan Institute of Medical Research and Kinghorn Cancer Centre, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>St. Vincent's Prostate Cancer Centre, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>St. Vincent's Clinical School, University of New South Wales, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Papa</LastName>
+            <ForeName>Nathan</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Public Health and Preventive Medicine, Monash University, Melbourne, Victoria, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>01</Month>
+          <Day>03</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Urol</MedlineTA>
+        <NlmUniqueID>0376374</NlmUniqueID>
+        <ISSNLinking>0022-5347</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001315" MajorTopicYN="N" Type="Geographic">Australia</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002675" MajorTopicYN="N">Child, Preschool</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="Y">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011795" MajorTopicYN="N">Surveys and Questionnaires</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">aged</Keyword>
+        <Keyword MajorTopicYN="N">prostatectomy</Keyword>
+        <Keyword MajorTopicYN="N">prostatic neoplasms</Keyword>
+        <Keyword MajorTopicYN="N">quality of life</Keyword>
+        <Keyword MajorTopicYN="N">urinary incontinence</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>3</Day>
+          <Hour>8</Hour>
+          <Minute>48</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34978202</ArticleId>
+        <ArticleId IdType="doi">10.1097/JU.0000000000002391</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">34979303</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>06</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>06</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2468-7189</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>50</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>05</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Gynecologie, obstetrique, fertilite &amp; senologie</Title>
+          <ISOAbbreviation>Gynecol Obstet Fertil Senol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>[Feasibility and security of laparoscopic (± robotic) total hysterectomy in outpatient surgery: A French multicenter retrospective study].</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>374-381</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S2468-7189(21)00349-4</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.gofs.2021.12.011</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE">To assess the feasibility and safety of total hysterectomy by laparoscopic approach (± robot assisted) in ambulatory.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS">French three-center retrospective study including 165 patients who had laparoscopic (± robot assisted) total hysterectomy scheduled as outpatients from January 2016 to December 2020. Clinical and perioperative data were collected. Factors associated with outpatient failure and rehospitalization were evaluated.</AbstractText>
+          <AbstractText Label="RESULTS">The outpatient success rate was 92.7%. Factors associated with outpatient failure were incision time&gt;13:00, large volume of blood loss, intraoperative complications with Oslo score≥2, uterine weight≥250g, indication for benign pathology, and robot-assisted approach. Among patients managed as outpatients, 7.2% were rehospitalized at a mean of 10 days from surgery. The factors associated with rehospitalization were the use of an effective antiaggregant or anticoagulant treatment and the use of intraoperative adhesiolysis. Four patients (2.6%) underwent revision surgery.</AbstractText>
+          <AbstractText Label="CONCLUSION">Minimally invasive hysterectomy can be performed as an outpatient procedure even in cases of malignant pathology. Age and body mass index are not associated with an increased risk of failure or re-hospitalization within one month.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Elsevier Masson SAS. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Benoit</LastName>
+            <ForeName>L</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Service de chirurgie et cancérologie gynécologique et mammaire, Hôpital Pitié-Salpêtrière, AP-HP, 75013 Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Delangle</LastName>
+            <ForeName>R</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Service de chirurgie et cancérologie gynécologique et mammaire, Hôpital Pitié-Salpêtrière, AP-HP, 75013 Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Van</LastName>
+            <ForeName>N T</ForeName>
+            <Initials>NT</Initials>
+            <AffiliationInfo>
+              <Affiliation>Service de chirurgie et cancérologie gynécologique et mammaire, Hôpital Pitié-Salpêtrière, AP-HP, 75013 Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Villefranque</LastName>
+            <ForeName>V</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Service de gynécologie obstétrique, Hôpital Simone-Veil, 95600 Eaubonne, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Koskas</LastName>
+            <ForeName>M</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Service de gynécologie obstétrique, Bichat, université de Paris, AP-HP, 75018 Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Belghiti</LastName>
+            <ForeName>J</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Service de chirurgie et cancérologie gynécologique et mammaire, Hôpital Pitié-Salpêtrière, AP-HP, 75013 Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Uzan</LastName>
+            <ForeName>C</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Service de chirurgie et cancérologie gynécologique et mammaire, Hôpital Pitié-Salpêtrière, AP-HP, 75013 Paris, France; Inserm UMR_S_938, Cancer Biology and Therapeutics, centre de recherche Saint-Antoine (CRSA), Sorbonne Université, 75012 Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Canlorbe</LastName>
+            <ForeName>G</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Service de chirurgie et cancérologie gynécologique et mammaire, Hôpital Pitié-Salpêtrière, AP-HP, 75013 Paris, France; Inserm UMR_S_938, Cancer Biology and Therapeutics, centre de recherche Saint-Antoine (CRSA), Sorbonne Université, 75012 Paris, France. Electronic address: geoffroy.canlorbe@aphp.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>fre</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+        </PublicationTypeList>
+        <VernacularTitle>Faisabilité et sécurité de l’hystérectomie totale par voie cœlioscopique (± robot assisté) en chirurgie ambulatoire : une étude rétrospective multicentrique française.</VernacularTitle>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>31</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>France</Country>
+        <MedlineTA>Gynecol Obstet Fertil Senol</MedlineTA>
+        <NlmUniqueID>101693805</NlmUniqueID>
+        <ISSNLinking>2468-7189</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000556" MajorTopicYN="N">Ambulatory Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005240" MajorTopicYN="N">Feasibility Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007044" MajorTopicYN="N">Hysterectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Ambulatoire</Keyword>
+        <Keyword MajorTopicYN="N">Ambulatory</Keyword>
+        <Keyword MajorTopicYN="N">Chirurgie robotique</Keyword>
+        <Keyword MajorTopicYN="N">Cœlioscopie</Keyword>
+        <Keyword MajorTopicYN="N">Hysterectomy</Keyword>
+        <Keyword MajorTopicYN="N">Hystérectomie</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopy</Keyword>
+        <Keyword MajorTopicYN="N">Robotic surgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>6</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>3</Day>
+          <Hour>20</Hour>
+          <Minute>15</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34979303</ArticleId>
+        <ArticleId IdType="pii">S2468-7189(21)00349-4</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.gofs.2021.12.011</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">34980514</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>26</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>10</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1095-6859</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>164</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>03</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Gynecologic oncology</Title>
+          <ISOAbbreviation>Gynecol Oncol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Long term oncologic and reproductive outcomes after robot-assisted radical trachelectomy for early-stage cervical cancer. An international multicenter study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>529-534</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0090-8258(21)01697-8</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ygyno.2021.12.029</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES">Long term outcomes following fertility sparing robot-assisted radical trachelectomy (RRT).</AbstractText>
+          <AbstractText Label="METHODS">A retrospective study of consecutive women selected for RRT between 2007 and 2019 at five referral centres. Generally used selection criteria for fertility-sparing surgery were applied. Oncologic, reproductive and long-term clinical data were analysed.</AbstractText>
+          <AbstractText Label="RESULTS">Of the 166 included women, 149 completed a RRT. Median tumor size was 9 mm (range 3-20 mm), 111 women (75%) had FIGO 2009 stage IB1 cancer and 4.8% were node positive. At a median follow up of 58 months, 12 of all women (7.2%) and 9 of 149 women (6%) who underwent completed RRT with fertility preservation had recurred and two had died. 70 of 88 women (80%) who attempted to conceive succeeded, resulting in 81 pregnancies that progressed beyond the first trimester and 76 live births of which 54 (70%) were delivered at term and 65 (86%) delivered after gestational week 32. A short postoperative cervical length was associated with impaired fertility. A late secondary hysterectomy was necessary in four women due to persistent bleeding (n = 2), hematometra due to a cervical stenosis (n = 1) and recurrent dysplasia (n = 1).</AbstractText>
+          <AbstractText Label="CONCLUSION">In this long-term follow-up of RRT the recurrence rate is comparable to larger individual studies of minimally invasive or vaginal radical trachelectomy with similar risk profile and follow up. The high pregnancy rate and low rate of premature delivery before 32 weeks GA may promote the use of robot-assisted approach.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ekdahl</LastName>
+            <ForeName>Linnea</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, Division of Gynecologic Oncology, Skåne University Hospital, Lund, Sweden; Lund University Faculty of Medicine, Clinical Sciences, Obstetrics and Gynecology, 22185 Lund, Sweden. Electronic address: Linnea.Ekdahl@med.lu.se.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Paraghamian</LastName>
+            <ForeName>Sarah</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, University of North Carolina at Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Eoh</LastName>
+            <ForeName>Kyung Jin</ForeName>
+            <Initials>KJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, Yonsei University College of Medicine, Yonsei University College of Medicine, CPO Box 8044, Seoul 120-752, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Thumuluru</LastName>
+            <ForeName>Kavitha Madhuri</ForeName>
+            <Initials>KM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gynaecological Oncology, Royal Surrey NHS Foundation Trust, Great Britain, GU2 7XX United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Butler-Manuel</LastName>
+            <ForeName>Simon A</ForeName>
+            <Initials>SA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gynaecological Oncology, Royal Surrey NHS Foundation Trust, Great Britain, GU2 7XX United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Young Tae</ForeName>
+            <Initials>YT</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, Yonsei University College of Medicine, Yonsei University College of Medicine, CPO Box 8044, Seoul 120-752, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Boggess</LastName>
+            <ForeName>John F</ForeName>
+            <Initials>JF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, University of North Carolina at Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Persson</LastName>
+            <ForeName>Jan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, Division of Gynecologic Oncology, Skåne University Hospital, Lund, Sweden; Lund University Faculty of Medicine, Clinical Sciences, Obstetrics and Gynecology, 22185 Lund, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Falconer</LastName>
+            <ForeName>Henrik</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Women's and Children's Health, Karolinska Institutet, Department of Pelvic Cancer, Theme Cancer, Karolinska University Hospital, Stockholm, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>31</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Gynecol Oncol</MedlineTA>
+        <NlmUniqueID>0365304</NlmUniqueID>
+        <ISSNLinking>0090-8258</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059247" MajorTopicYN="Y">Fertility Preservation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011247" MajorTopicYN="N">Pregnancy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000069339" MajorTopicYN="Y">Trachelectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002583" MajorTopicYN="Y">Uterine Cervical Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cervical cancer</Keyword>
+        <Keyword MajorTopicYN="N">Long-term follow-up</Keyword>
+        <Keyword MajorTopicYN="N">Recurrence</Keyword>
+        <Keyword MajorTopicYN="N">Reproductive outcome</Keyword>
+        <Keyword MajorTopicYN="N">Robotic radical trachelectomy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>4</Day>
+          <Hour>5</Hour>
+          <Minute>55</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34980514</ArticleId>
+        <ArticleId IdType="pii">S0090-8258(21)01697-8</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.ygyno.2021.12.029</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

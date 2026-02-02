@@ -1,0 +1,611 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39953278</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>25</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-2218</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>39</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Surgical endoscopy</Title>
+          <ISOAbbreviation>Surg Endosc</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Standardizing surgical training with objective performance indicators: a prospective cohort study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>2316-2323</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00464-025-11599-3</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Multiple surgical virtual reality (VR) simulators are currently available; however, there is lack of comparison between performance after practice on these simulators compared to bench top models. Utilizing the Intuitive Data recorder (IDR) and Objective performance indicators (OPI), we aim to objectively assess robotic surgical skills using a dry lab model. We hypothesize that practicing surgical skills will improve OPIs and that those who practice on the dry lab model will have a greater improvement in their OPIs compared to those who practice with Fundamentals of Robotic Surgery (FRS) SimNow VR.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">The IDR was used to record kinematics as each participant went through five basic surgery tasks on a dry lab benchtop model to record baseline performance. Participants were then randomized to practice on the dry lab model or the corresponding SimNow Virtual reality (VR) tasks. The participants repeated the tasks again on the benchtop model. Statistical analysis was performed using paired samples t tests, independent samples t tests, and ANOVA tests.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Twenty-seven surgeons participated in our study ranging from interns to attendings. Randomization to VR vs benchtop practice resulted in 11 and 13 participants in each group. For the rollercoaster, backhand suturing, railroad, and knot tying tasks, a significant improvement in kinematic profiles was observed. Bimanual dexterity, angular motion, and smoothness metrics improved most consistently across the tasks after practice. Kinematic profiles between those practicing on VR versus benchtop had no significant differences.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study shows that OPIs can be used to benchmark surgical trainees. VR appears to be non-inferior to dry lab model for practice for trainees. We identified patterns in OPI improvement that can be tailored to specific skills depending on the trainees needs. Our study is the first step in developing a standardized training and assessment tool to assess competency in robotic surgery training.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Choksi</LastName>
+            <ForeName>Sarah</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0009-0004-2549-7647</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Intraoperative Performance Analytics Laboratory, Department of Surgery, Lenox Hill Hospital, New York, NY, USA. sarah.choksi@outlook.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Northwell, 2000 Marcus Ave Suite 300, New Hyde Park, NY, 11042, USA. sarah.choksi@outlook.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ballo</LastName>
+            <ForeName>Mattia</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Northwell, New Hyde Park, NY, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Intraoperative Performance Analytics Laboratory, Department of Surgery, Lenox Hill Hospital, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Profant</LastName>
+            <ForeName>Craig</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Northwell, New Hyde Park, NY, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Intraoperative Performance Analytics Laboratory, Department of Surgery, Lenox Hill Hospital, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Portelli</LastName>
+            <ForeName>Katherine</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Northwell, New Hyde Park, NY, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Intraoperative Performance Analytics Laboratory, Department of Surgery, Lenox Hill Hospital, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dhar</LastName>
+            <ForeName>Vikrom</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Northwell, New Hyde Park, NY, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Intraoperative Performance Analytics Laboratory, Department of Surgery, Lenox Hill Hospital, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schmidt</LastName>
+            <ForeName>Ryan</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Data and Analytics, Intuitive Surgical, Inc., Peachtree Corners, GA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yee</LastName>
+            <ForeName>Andrew</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Data and Analytics, Intuitive Surgical, Inc., Peachtree Corners, GA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Olasky</LastName>
+            <ForeName>Jaisa</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Northwell, New Hyde Park, NY, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Intraoperative Performance Analytics Laboratory, Department of Surgery, Lenox Hill Hospital, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Filicori</LastName>
+            <ForeName>Filippo</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Northwell, New Hyde Park, NY, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Intraoperative Performance Analytics Laboratory, Department of Surgery, Lenox Hill Hospital, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>14</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Surg Endosc</MedlineTA>
+        <NlmUniqueID>8806653</NlmUniqueID>
+        <ISSNLinking>0930-2794</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="Y">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+          <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000066908" MajorTopicYN="N">Simulation Training</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000076142" MajorTopicYN="N">Virtual Reality</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007396" MajorTopicYN="N">Internship and Residency</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Robotic surgery</Keyword>
+        <Keyword MajorTopicYN="N">Surgical education</Keyword>
+        <Keyword MajorTopicYN="N">Surgical simulation</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Disclosures: Andrew Yee and Ryan Schmidt are employees of Intuitive Surgical, Inc. Filippo Filicori receives consultant fees from Boston Scientific. Sarah Choksi, Mattia Ballo, Craig Profant, Katherine Portelli, Jaisa Olasky, and Vikrom Dhar have no conflicts of interest or financial ties to disclose.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>06</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>01</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>25</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>15</Day>
+          <Hour>15</Hour>
+          <Minute>10</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>14</Day>
+          <Hour>23</Hour>
+          <Minute>27</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39953278</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00464-025-11599-3</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00464-025-11599-3</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Aghazadeh MA, Jayaratna IS, Hung AJ, Pan MM, Desai MM, Gill IS, Goh AC (2015) External validation of Global Evaluative Assessment of Robotic Skills (GEARS). Surg Endosc 29:3261–3266. https://doi.org/10.1007/S00464-015-4070-8/TABLES/2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/S00464-015-4070-8/TABLES/2</ArticleId>
+            <ArticleId IdType="pubmed">25609318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goh AC, Goldfarb DW, Sander JC, Miles BJ, Dunkin BJ (2012) Global evaluative assessment of robotic skills: validation of a clinical assessment tool to measure robotic surgical skills. J Urol 187:247–252. https://doi.org/10.1016/J.JURO.2011.09.032</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/J.JURO.2011.09.032</ArticleId>
+            <ArticleId IdType="pubmed">22099993</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu M, Purohit S, Mazanetz J, Allen W, Kreaden US, Curet M (2018) Assessment of Robotic Console Skills (ARCS): construct validity of a novel global rating scale for technical skills in robotically assisted surgery. Surg Endosc 32:526–535. https://doi.org/10.1007/S00464-017-5694-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/S00464-017-5694-7</ArticleId>
+            <ArticleId IdType="pubmed">28667546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hung AJ, Chen J, Jarc A, Hatcher D, Djaladat H, Gill IS (2018) Development and validation of objective performance metrics for robot-assisted radical prostatectomy: a pilot study. J Urol 199:296–304. https://doi.org/10.1016/J.JURO.2017.07.081</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/J.JURO.2017.07.081</ArticleId>
+            <ArticleId IdType="pubmed">28765067</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brown KC, Bhattacharyya KD, Kulason S, Zia A, Jarc A (2020) How to bring surgery to the next level: interpretable skills assessment in robotic-assisted surgery. Visc Med 36:463–470. https://doi.org/10.1159/000512437</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1159/000512437</ArticleId>
+            <ArticleId IdType="pubmed">33447602</ArticleId>
+            <ArticleId IdType="pmcid">7768128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hung AJ, Oh PJ, Chen J, Ghodoussipour S, Lane C, Jarc A, Gill IS (2019) Experts vs super-experts: differences in automated performance metrics and clinical outcomes for robot-assisted radical prostatectomy. BJU Int 123:861–868. https://doi.org/10.1111/BJU.14599</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/BJU.14599</ArticleId>
+            <ArticleId IdType="pubmed">30358042</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen A, Ghodoussipour S, Titus MB, Nguyen JH, Chen J, Ma R, Hung AJ (2020) Comparison of clinical outcomes and automated performance metrics in robot-assisted radical prostatectomy with and without trainee involvement. World J Urol 38:1615. https://doi.org/10.1007/S00345-019-03010-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/S00345-019-03010-3</ArticleId>
+            <ArticleId IdType="pubmed">31728671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xie B, Liu H, Alghofaili R, Zhang Y, Jiang Y, Lobo FD, Li C, Li W, Huang H, Akdere M, Mousas C, Yu LF (2021) A review on virtual reality skill training applications. Front Virtual Real 2:645153. https://doi.org/10.3389/FRVIR.2021.645153/BIBTEX</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/FRVIR.2021.645153/BIBTEX</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nassar AK, Al-Manaseer F, Knowlton LM, Tuma F (2021) Virtual reality (VR) as a simulation modality for technical skills acquisition. Ann Med Surg 71:102945. https://doi.org/10.1016/J.AMSU.2021.102945</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/J.AMSU.2021.102945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chahal B, Aydin A, Ahmed K (2024) Virtual reality vs. physical models in surgical skills training. An update of the evidence. Curr Opin Urol 34:32. https://doi.org/10.1097/MOU.0000000000001145</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MOU.0000000000001145</ArticleId>
+            <ArticleId IdType="pubmed">37962178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fundamentals of Laparoscopic Surgery (n.d.) Welcome to FLS - Fundamentals of Laparoscopic Surgery. https://www.flsprogram.org/about-fls/ . Accessed 17 Apr 2023</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Smith R, Patel V, Satava R (2014) Fundamentals of robotic surgery: a course of basic robotic surgery skills based upon a 14-society consensus template of outcomes measures and curriculum development. Int J Med Robot Comput Assist Surg 10:379–384. https://doi.org/10.1002/RCS.1559</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/RCS.1559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Satava RM, Stefanidis D, Levy JS, Smith R, Martin JR, Monfared S, Timsina LR, Darzi AW, Moglia A, Brand TC, Dorin RP, Dumon KR, Francone TD, Georgiou E, Goh AC, Marcet JE, Martino MA, Sudan R, Vale J, Gallagher AG (2020) Proving the effectiveness of the fundamentals of robotic surgery (FRS) skills curriculum: a single-blinded, multispecialty, multi-institutional randomized control trial. Ann Surg 272:384–392. https://doi.org/10.1097/SLA.0000000000003220</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000003220</ArticleId>
+            <ArticleId IdType="pubmed">32675553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kutana S, Bitner DP, Addison P, Chung PJ, Talamini MA, Filicori F (2022) Objective assessment of robotic surgical skills: review of literature and future directions. Surg Endosc 36:3698–3707. https://doi.org/10.1007/S00464-022-09134-9/FIGURES/1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/S00464-022-09134-9/FIGURES/1</ArticleId>
+            <ArticleId IdType="pubmed">35229215</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Intuitive (n.d.) SimNow. Learn and maintain da Vinci system skills at every stage of your career. https://www.intuitive.com/en-us/products-and-services/da-vinci/learning/simnow . Accessed 29 June 2024</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Balasubramanian S, Melendez-Calderon A, Burdet E (2012) A robust and sensitive metric for quantifying movement smoothness. IEEE Trans Biomed Eng 59:2126–2136. https://doi.org/10.1109/TBME.2011.2179545</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TBME.2011.2179545</ArticleId>
+            <ArticleId IdType="pubmed">22180502</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gulde P, Hermsdörfer J (2018) Smoothness metrics in complex movement tasks. Front Neurol 9:615. https://doi.org/10.3389/FNEUR.2018.00615</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/FNEUR.2018.00615</ArticleId>
+            <ArticleId IdType="pubmed">30258393</ArticleId>
+            <ArticleId IdType="pmcid">6143727</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martin JR, Stefanidis D, Dorin RP, Goh AC, Satava RM, Levy JS (2021) Demonstrating the effectiveness of the fundamentals of robotic surgery (FRS) curriculum on the RobotiX Mentor Virtual Reality Simulation Platform. J Robot Surg 15:187–193. https://doi.org/10.1007/S11701-020-01085-4/FIGURES/4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/S11701-020-01085-4/FIGURES/4</ArticleId>
+            <ArticleId IdType="pubmed">32409995</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moulton CAE, Dubrowski A, MacRae H, Graham B, Grober E, Reznick R (2006) Teaching surgical skills: what kind of practice makes perfect? A randomized, controlled trial. Ann Surg 244:400–407. https://doi.org/10.1097/01.SLA.0000234808.85789.6A</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/01.SLA.0000234808.85789.6A</ArticleId>
+            <ArticleId IdType="pubmed">16926566</ArticleId>
+            <ArticleId IdType="pmcid">1856544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Choksi S, Bitner DP, Carsky K, Addison P, Webman R, Andrews R, Kowalski R, Dawson M, Dronsky V, Yee A, Jarc A, Filicori F (2023) Kinematic data profile and clinical outcomes in robotic inguinal hernia repairs: a pilot study. Surg Endosc 37:8035–8042. https://doi.org/10.1007/S00464-023-10285-6/FIGURES/3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/S00464-023-10285-6/FIGURES/3</ArticleId>
+            <ArticleId IdType="pubmed">37474824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bitner DP, Choksi S, Carsky K, Addison P, Andrews R, Kowalski R, Reisner A, Farrell A, Jain K, Dronsky V, Jarc A, Yee A, Filicori F (2023) Kinematic metrics and surgeon experience in robotic cholecystectomies: a pilot study on breaking down technical performance. Surg Endosc 1:1–9. https://doi.org/10.1007/S00464-023-10481-4/TABLES/7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/S00464-023-10481-4/TABLES/7</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lazar JF, Brown K, Yousaf S, Jarc A, Metchik A, Henderson H, Feins RH, Sancheti MS, Lin J, Yang S, Nesbitt J, D’Souza D, Oh DS (2023) Objective performance indicators of cardiothoracic residents are associated with vascular injury during robotic-assisted lobectomy on porcine models. J Robot Surg 17:669–676. https://doi.org/10.1007/S11701-022-01476-9/FIGURES/5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/S11701-022-01476-9/FIGURES/5</ArticleId>
+            <ArticleId IdType="pubmed">36306102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaoukabani G, Gokcal F, Fanta A, Liu X, Shields M, Stricklin C, Friedman A, Kudsi OY (2023) A multifactorial evaluation of objective performance indicators and video analysis in the context of case complexity and clinical outcomes in robotic-assisted cholecystectomy. Surg Endosc 37:8540–8551. https://doi.org/10.1007/S00464-023-10432-Z/FIGURES/6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/S00464-023-10432-Z/FIGURES/6</ArticleId>
+            <ArticleId IdType="pubmed">37789179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40025714</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1945-8932</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>39</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>May</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>American journal of rhinology &amp; allergy</Title>
+          <ISOAbbreviation>Am J Rhinol Allergy</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Efficacy and Safety of a Medical Robot for Non-Face-to-Face Nasopharyngeal Swab Specimen Collection: Nonclinical and Clinical Trial Findings for COVID-19 Testing.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>220-228</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1177/19458924251323363</ELocationID>
+        <Abstract>
+          <AbstractText>ObjectivesTo meet the high demand for polymerase chain reaction (PCR) tests to diagnose COVID-19 and rapidly control the outbreak, an efficient and safe molecular diagnostic protocol is necessary. In this study, we evaluated the efficacy and safety of the medical robot developed for non-face-to-face nasopharyngeal swab specimen collection.MethodsIn a nonclinical study, an otorhinolaryngologist collected swab specimens manually and using a medical robot. In a single-institution, randomized, open-label, prospective, exploratory clinical trial, nasopharyngeal swab specimens were collected from the enrolled participants both manually and by using the medical robot.ResultsEvaluation of the efficacy and safety of nasopharyngeal swab collection using a medical robot was assessed. After the operation of the robot, subjective discomfort experienced by the participants and any side effects or abnormalities in the nose were also monitored. Preliminary nonclinical data revealed comparable results between robotic and manual methods in terms of RNA metrics and cytokeratin-8 expression. Minor initial damage to A549 cells by the robot improved with subsequent use. In the clinical setting, the robot-assisted technique yielded a 92.31% detection rate for human RNase P, while the manual method achieved 100%. Post-swabbing discomfort reported by participants was similar for both methods and resolved within 48 h.ConclusionsThe medical robot system could efficiently, safely, and accurately collect nasopharyngeal swab samples in a non-face-to-face manner. Its installation in respiratory clinics, airports, or ports could minimize the infection risk between individuals and healthcare workers, thereby contributing to an efficient distribution of medical resources.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Shin</LastName>
+            <ForeName>Jae-Min</ForeName>
+            <Initials>JM</Initials>
+            <Identifier Source="ORCID">0000-0002-2090-9612</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otorhinolaryngology - Head and Neck Surgery, College of Medicine, Korea University, Seoul, South Korea.</Affiliation>
+              <Identifier Source="RINGGOLD">36899</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Mucosal Immunology Institute, College of Medicine, Korea University, Seoul, South Korea.</Affiliation>
+              <Identifier Source="RINGGOLD">36899</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Munsoo</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0003-1359-6248</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otorhinolaryngology - Head and Neck Surgery, College of Medicine, Korea University, Seoul, South Korea.</Affiliation>
+              <Identifier Source="RINGGOLD">36899</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Mucosal Immunology Institute, College of Medicine, Korea University, Seoul, South Korea.</Affiliation>
+              <Identifier Source="RINGGOLD">36899</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Dabin</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otorhinolaryngology - Head and Neck Surgery, College of Medicine, Korea University, Seoul, South Korea.</Affiliation>
+              <Identifier Source="RINGGOLD">36899</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Seo</LastName>
+            <ForeName>Joonho</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Assistant Robot, Korea Institute of Machinery and Materials, Daegu, South Korea.</Affiliation>
+              <Identifier Source="RINGGOLD">65793</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Jeoung-Min</ForeName>
+            <Initials>JM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biot Korea Inc., Gwangju, South Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chang</LastName>
+            <ForeName>Yeongjun</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biot Korea Inc., Gwangju, South Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Tae Hoon</ForeName>
+            <Initials>TH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otorhinolaryngology - Head and Neck Surgery, College of Medicine, Korea University, Seoul, South Korea.</Affiliation>
+              <Identifier Source="RINGGOLD">36899</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Mucosal Immunology Institute, College of Medicine, Korea University, Seoul, South Korea.</Affiliation>
+              <Identifier Source="RINGGOLD">36899</Identifier>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Am J Rhinol Allergy</MedlineTA>
+        <NlmUniqueID>101490775</NlmUniqueID>
+        <ISSNLinking>1945-8932</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086382" MajorTopicYN="Y">COVID-19</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013048" MajorTopicYN="Y">Specimen Handling</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009305" MajorTopicYN="Y">Nasopharynx</DescriptorName>
+          <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086402" MajorTopicYN="Y">SARS-CoV-2</DescriptorName>
+          <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086742" MajorTopicYN="Y">COVID-19 Testing</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">clinical trial</Keyword>
+        <Keyword MajorTopicYN="N">medical robot</Keyword>
+        <Keyword MajorTopicYN="N">nasopharyngeal swab</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of Conflicting InterestsThe author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>22</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>22</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>3</Day>
+          <Hour>1</Hour>
+          <Minute>22</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40025714</ArticleId>
+        <ArticleId IdType="doi">10.1177/19458924251323363</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

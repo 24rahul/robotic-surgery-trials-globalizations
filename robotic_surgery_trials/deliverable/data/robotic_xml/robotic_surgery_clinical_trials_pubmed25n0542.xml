@@ -1,0 +1,3085 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">16672673</PMID>
+      <DateCompleted>
+        <Year>2006</Year>
+        <Month>05</Month>
+        <Day>31</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>10</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1529-2401</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>26</Volume>
+            <Issue>18</Issue>
+            <PubDate>
+              <Year>2006</Year>
+              <Month>May</Month>
+              <Day>03</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of neuroscience : the official journal of the Society for Neuroscience</Title>
+          <ISOAbbreviation>J Neurosci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Perceptual learning directs auditory cortical map reorganization through top-down influences.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>4970-82</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>The primary sensory cortex is positioned at a confluence of bottom-up dedicated sensory inputs and top-down inputs related to higher-order sensory features, attentional state, and behavioral reinforcement. We tested whether topographic map plasticity in the adult primary auditory cortex and a secondary auditory area, the suprarhinal auditory field, was controlled by the statistics of bottom-up sensory inputs or by top-down task-dependent influences. Rats were trained to attend to independent parameters, either frequency or intensity, within an identical set of auditory stimuli, allowing us to vary task demands while holding the bottom-up sensory inputs constant. We observed a clear double-dissociation in map plasticity in both cortical fields. Rats trained to attend to frequency cues exhibited an expanded representation of the target frequency range within the tonotopic map but no change in sound intensity encoding compared with controls. Rats trained to attend to intensity cues expressed an increased proportion of nonmonotonic intensity response profiles preferentially tuned to the target intensity range but no change in tonotopic map organization relative to controls. The degree of topographic map plasticity within the task-relevant stimulus dimension was correlated with the degree of perceptual learning for rats in both tasks. These data suggest that enduring receptive field plasticity in the adult auditory cortex may be shaped by task-specific top-down inputs that interact with bottom-up sensory inputs and reinforcement-based neuromodulator release. Top-down inputs might confer the selectivity necessary to modify a single feature representation without affecting other spatially organized feature representations embedded within the same neural circuitry.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Polley</LastName>
+            <ForeName>Daniel B</ForeName>
+            <Initials>DB</Initials>
+            <AffiliationInfo>
+              <Affiliation>W. M. Keck Foundation Center for Integrative Neuroscience, Department of Otolaryngology, University of California, San Francisco, California 94143-0732, USA. daniel.polley@vanderbilt.edu</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Steinberg</LastName>
+            <ForeName>Elizabeth E</ForeName>
+            <Initials>EE</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Merzenich</LastName>
+            <ForeName>Michael M</ForeName>
+            <Initials>MM</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>F32 DC005711</GrantID>
+            <Acronym>DC</Acronym>
+            <Agency>NIDCD NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>NS-10414</GrantID>
+            <Acronym>NS</Acronym>
+            <Agency>NINDS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>NS-38416</GrantID>
+            <Acronym>NS</Acronym>
+            <Agency>NINDS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Neurosci</MedlineTA>
+        <NlmUniqueID>8102140</NlmUniqueID>
+        <ISSNLinking>0270-6474</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000161" MajorTopicYN="N">Acoustic Stimulation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001303" MajorTopicYN="N">Auditory Cortex</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001307" MajorTopicYN="N">Auditory Perception</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001309" MajorTopicYN="N">Auditory Threshold</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001522" MajorTopicYN="N">Behavior, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001931" MajorTopicYN="Y">Brain Mapping</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004307" MajorTopicYN="N">Dose-Response Relationship, Radiation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005072" MajorTopicYN="N">Evoked Potentials, Auditory</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+          <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="N">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009473" MajorTopicYN="N">Neuronal Plasticity</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009483" MajorTopicYN="N">Neuropsychological Tests</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011930" MajorTopicYN="N">Reaction Time</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D021641" MajorTopicYN="N">Recognition, Psychology</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>5</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2006</Year>
+          <Month>6</Month>
+          <Day>1</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>5</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">16672673</ArticleId>
+        <ArticleId IdType="pii">26/18/4970</ArticleId>
+        <ArticleId IdType="doi">10.1523/JNEUROSCI.3771-05.2006</ArticleId>
+        <ArticleId IdType="pmc">PMC6674159</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 1991 Jun 1;88(11):4966-70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2052578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 2004 Sep;7(9):974-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15286790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurophysiol. 2001 Jul;86(1):211-25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11431503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2005 Sep 13;102(37):13325-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16141342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2001 Aug 2;412(6846):549-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11484056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Neurosci. 2000 Dec;1(3):199-207</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11257908</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 1993 Jan;13(1):87-103</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8423485</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Res Cogn Brain Res. 2005 May;23(2-3):171-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15820626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 2003 Nov;6(11):1216-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14583754</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Acoust Soc Am. 2005 Dec;118(6):3794-803</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16419824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 2004 Oct;7(10):1055-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15361880</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hear Res. 1989 Feb;37(3):269-79</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2708149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Audiol Neurootol. 1998 Mar-Jun;3(2-3):104-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9575380</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2001 Oct 25;413(6858):844-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11677607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 2004 Jun;7(6):651-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15156149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 1994 May;14(5 Pt 1):2606-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8182430</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Neurobiol. 2005 Aug;15(4):470-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16009546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Neurosci. 2005 Jan;21(2):563-76</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15673456</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2003 Mar 6;422(6927):36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12621425</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 1993 Jun 15;90(12):5718-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8516322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Res Cogn Brain Res. 2000 Jun;9(3):313-25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10808142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 2001 Nov;4(11):1123-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11687817</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 1996 Oct 1;93(20):11219-24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8855336</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurophysiol. 1963 Nov;26:1003-17</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14084161</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2005 Nov 4;310(5749):810-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16272113</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 2005 Aug 17;25(33):7623-35</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16107649</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trends Cogn Sci. 2005 Jul;9(7):329-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15955722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 2001 Jul 1;21(13):4908-14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11425918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2003 Sep 16;100(19):11070-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12941865</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2004 Nov 16;101(46):16351-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15534214</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biol Cybern. 2002 Dec;87(5-6):333-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12461624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 2001 May;4(5):519-25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11319561</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Neurosci. 2004 Apr;5(4):279-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15034553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1992 Sep 4;257(5075):1412-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1529342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 1997 May 22;387(6631):401-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9163425</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Behav Neurosci. 1993 Aug;107(4):539-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8397859</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Res. 1986 May 7;372(2):357-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3708366</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2001 Aug 16;412(6848):733-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11507640</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 1987 Apr 16-22;326(6114):694-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3561512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Comp Neurol. 2002 Nov 25;453(4):345-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12389207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Neurosci. 2003 Oct;4(10):783-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14523378</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1999 Jan 22;283(5401):549-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9915705</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 2002 Oct;5(10):1003-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12219093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Comp Physiol A. 1997 Dec;181(6):685-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9449827</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 2004 Jun;7(6):658-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15156150</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Acoust Soc Am. 2000 Dec;108(6):2964-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11144588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurophysiol. 2001 Jul;86(1):326-38</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11431514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Behav Processes. 2003 Apr 28;62(1-3):89-101</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12729971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Exp Brain Res. 1992;92(1):105-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1486946</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2002 Jul 23;99(15):10114-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12119383</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2005 Sep 20;102(38):13664-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16174754</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">16672892</PMID>
+      <DateCompleted>
+        <Year>2006</Year>
+        <Month>06</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2006</Year>
+        <Month>11</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0009-921X</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>446</Volume>
+            <PubDate>
+              <Year>2006</Year>
+              <Month>May</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Clinical orthopaedics and related research</Title>
+          <ISOAbbreviation>Clin Orthop Relat Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Early internal fracture fixation prevents bacterial translocation.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>253-8</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>The aim of our study was to determine whether early internal fixation of major bone fractures helps prevent bacterial translocation in patients with multitrauma. Thirty-seven Sprague-Dawley rats were divided into three groups: (1) anesthesia only (n = 12); (2) the trauma group: tibia and femur fractures and moderate head trauma under anesthesia (n = 14); and (3) the fixation group: fixation of tibia and femur fractures and moderate head trauma under anesthesia (n = 11). After 24 hours, mesenteric lymph nodes, liver, spleen, and systemic blood samples were quantitatively cultured. The terminal ileum was assessed histopathologically. The incidence of bacterial translocation was less in the anesthesia group (two of 12 rats) and the fixation group (two of 11 rats) than in the trauma group (10 of 14 rats). The number of organs containing viable bacteria was significantly lower in the fixation group than in the trauma group. Histopathologically, villous architecture was preserved mostly in the fixation group; however, marked mucosal damage was detected in the trauma group. Our data suggest early internal fixation of long bone fractures in polytraumatized experimental animals with head injury results in preservation of the intestinal mucosal barrier and decreased bacterial translocation from the gut.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Oztuna</LastName>
+            <ForeName>Volkan</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedics, Mersin University, School of Medicine, Mersin, Turkey. oztuna67@mersin.edu.tr</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ersoz</LastName>
+            <ForeName>Gülden</ForeName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ayan</LastName>
+            <ForeName>Irfan</ForeName>
+            <Initials>I</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Eskandari</LastName>
+            <ForeName>Metin M</ForeName>
+            <Initials>MM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Colak</LastName>
+            <ForeName>Mehmet</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Polat</LastName>
+            <ForeName>Ayse</ForeName>
+            <Initials>A</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Clin Orthop Relat Res</MedlineTA>
+        <NlmUniqueID>0075674</NlmUniqueID>
+        <ISSNLinking>0009-921X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018988" MajorTopicYN="Y">Bacterial Translocation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005264" MajorTopicYN="N">Femoral Fractures</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005593" MajorTopicYN="N">Fracture Fixation, Internal</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006090" MajorTopicYN="N">Gram-Negative Bacteria</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006094" MajorTopicYN="N">Gram-Positive Bacteria</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013530" MajorTopicYN="N">Surgical Wound Infection</DescriptorName>
+          <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013978" MajorTopicYN="N">Tibial Fractures</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>5</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2006</Year>
+          <Month>6</Month>
+          <Day>7</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>5</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">16672892</ArticleId>
+        <ArticleId IdType="doi">10.1097/01.blo.0000203468.66055.23</ArticleId>
+        <ArticleId IdType="pii">00003086-200605000-00039</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">16675112</PMID>
+      <DateCompleted>
+        <Year>2006</Year>
+        <Month>07</Month>
+        <Day>31</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2006</Year>
+        <Month>11</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">0304-3940</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>402</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2006</Year>
+              <Month>Jul</Month>
+              <Day>24</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Neuroscience letters</Title>
+          <ISOAbbreviation>Neurosci Lett</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Exaggeration of tissue trauma induces signs and symptoms of acute CRPS I, however displays distinct differences to experimental CRPS II.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>267-72</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>As CRPS I frequently develops after tissue trauma, we proposed that an exaggerated inflammatory response to tissue trauma may underlie CRPS I. Therefore, we studied the vascular inflammatory, nociceptive and apoptotic sequelae of (i) soft tissue trauma and (ii) exaggerated soft tissue trauma in comparison to those of (iii) sciatic nerve chronic constriction injury, modeling CRPS II. Standardized soft tissue trauma (TR) was induced by means of a controlled impact injury technique in the hind limb of pentobarbital-anesthetized rats. Additional animals received soft tissue trauma and femoral arterial infusion of mediator-enriched supernatant achieved by homogenization and centrifugation of traumatized muscle tissue in order to provoke an exaggerated trauma response (ETR). Infusion of supernatant of non-traumatized muscle served as control intervention (STR, sham trauma response). Neuropathy was induced by chronic constriction injury of the sciatic nerve (CCI). Untreated animals served as controls (CO). Detailed nociceptive testing showed temporarily decreased mechanical pain thresholds in ETR animals that resolved within 14 days, while TR and STR animals, i.e. those with singular limb trauma, and controls remained free of pain. Neither cold- nor heat-evoked allodynia developed in post-traumatic animals, whereas CCI animals presented the well-known pattern of ongoing neuropathic pain. Using high-resolution in vivo multifluorescence microscopy, muscle tissue of traumatized animals revealed an enhanced inflammatory response that was found most pronounced in ETR animals. CCI of the sciatic nerve was not accompanied by tissue inflammation; however, induced myocyte apoptosis. Collectively, these data indicate that exaggeration of trauma response induces signs and symptoms of acute CRPS I. Pain perception displays differences to that in CRPS II. Apoptosis turns out to be a distinctive marker for CRPS, warranting further evaluation in clinical studies.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Gradl</LastName>
+            <ForeName>Georg</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Trauma and Reconstructive Surgery, University of Rostock, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gaida</LastName>
+            <ForeName>Susanne</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Finke</LastName>
+            <ForeName>Burkhard</ForeName>
+            <Initials>B</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gierer</LastName>
+            <ForeName>Philip</ForeName>
+            <Initials>P</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mittlmeier</LastName>
+            <ForeName>Thomas</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vollmar</LastName>
+            <ForeName>Brigitte</ForeName>
+            <Initials>B</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2006</Year>
+          <Month>05</Month>
+          <Day>03</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Ireland</Country>
+        <MedlineTA>Neurosci Lett</MedlineTA>
+        <NlmUniqueID>7600130</NlmUniqueID>
+        <ISSNLinking>0304-3940</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014020">Tissue Extracts</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000208" MajorTopicYN="N">Acute Disease</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002422" MajorTopicYN="N">Causalgia</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003251" MajorTopicYN="N">Constriction, Pathologic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006614" MajorTopicYN="N">Hindlimb</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D032342" MajorTopicYN="N">Muscle Cells</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018482" MajorTopicYN="N">Muscle, Skeletal</DescriptorName>
+          <QualifierName UI="Q000293" MajorTopicYN="Y">injuries</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009220" MajorTopicYN="N">Myositis</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010147" MajorTopicYN="N">Pain Measurement</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017288" MajorTopicYN="N">Pain Threshold</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010812" MajorTopicYN="N">Physical Stimulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012019" MajorTopicYN="N">Reflex Sympathetic Dystrophy</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012584" MajorTopicYN="N">Sciatic Nerve</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017695" MajorTopicYN="N">Soft Tissue Injuries</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014020" MajorTopicYN="N">Tissue Extracts</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2006</Year>
+          <Month>02</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2006</Year>
+          <Month>04</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2006</Year>
+          <Month>04</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>6</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2006</Year>
+          <Month>8</Month>
+          <Day>1</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>6</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">16675112</ArticleId>
+        <ArticleId IdType="pii">S0304-3940(06)00383-1</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.neulet.2006.04.007</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">16680762</PMID>
+      <DateCompleted>
+        <Year>2006</Year>
+        <Month>07</Month>
+        <Day>26</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>10</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0021-9967</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>497</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2006</Year>
+              <Month>Jul</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of comparative neurology</Title>
+          <ISOAbbreviation>J Comp Neurol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Time course of substance P expression in dorsal root ganglia following complete spinal nerve transection.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>78-87</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Recent evidence suggests that substance P (SP) is up-regulated in primary sensory neurons following axotomy and that this change occurs in larger neurons that do not usually produce SP. If this is so, then the up-regulation may allow normally neighboring, uninjured, and nonnociceptive dorsal root ganglion (DRG) neurons to become effective in activating pain pathways. By using immunohistochemistry, we performed a unilateral L5 spinal nerve transection on male Wistar rats and measured SP expression in ipsilateral L4 and L5 DRGs and contralateral L5 DRGs at 1-14 days postoperatively (dpo) and in control and sham-operated rats. In normal and sham-operated DRGs, SP was detectable almost exclusively in small neurons (&lt; or =800 microm2). After surgery, the mean size of SP-positive neurons from the axotomized L5 ganglia was greater at 2, 4, 7, and 14 dpo. Among large neurons (&gt;800 microm2) from the axotomized L5, the percentage of SP-positive neurons increased at 2, 4, 7, and 14 dpo. Among small neurons from the axotomized L5, the percentage of SP-positive neurons was increased at 1 and 3 dpo but was decreased at 7 and 14 dpo. Thus, SP expression is affected by axonal damage, and the time course of the expression is different between large and small DRG neurons. These data support a role for SP-producing, large DRG neurons in persistent sensory changes resulting from nerve injury.</AbstractText>
+          <CopyrightInformation>Copyright 2006 Wiley-Liss, Inc.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Weissner</LastName>
+            <ForeName>Wendy</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesia and Critical Care, Beth Israel Deaconess Medical Center and Harvard Medical School, Boston, Massachusetts 02215, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Winterson</LastName>
+            <ForeName>Barbara J</ForeName>
+            <Initials>BJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stuart-Tilley</LastName>
+            <ForeName>Alan</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Devor</LastName>
+            <ForeName>Marshall</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bove</LastName>
+            <ForeName>Geoffrey M</ForeName>
+            <Initials>GM</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 AR048925</GrantID>
+            <Acronym>AR</Acronym>
+            <Agency>NIAMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 AR048925-04</GrantID>
+            <Acronym>AR</Acronym>
+            <Agency>NIAMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>AR048925</GrantID>
+            <Acronym>AR</Acronym>
+            <Agency>NIAMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Comp Neurol</MedlineTA>
+        <NlmUniqueID>0406041</NlmUniqueID>
+        <ISSNLinking>0021-9967</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>33507-63-0</RegistryNumber>
+          <NameOfSubstance UI="D013373">Substance P</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002452" MajorTopicYN="N">Cell Count</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007839" MajorTopicYN="N">Functional Laterality</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005727" MajorTopicYN="N">Ganglia, Spinal</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007150" MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+          <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013119" MajorTopicYN="N">Spinal Cord Injuries</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013373" MajorTopicYN="N">Substance P</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>9</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2006</Year>
+          <Month>7</Month>
+          <Day>27</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>9</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">16680762</ArticleId>
+        <ArticleId IdType="doi">10.1002/cne.20981</ArticleId>
+        <ArticleId IdType="pmc">PMC2571959</ArticleId>
+        <ArticleId IdType="mid">NIHMS70197</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Pain. 1992 Sep;50(3):355-363</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1333581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Res Mol Brain Res. 1994 Apr;23(1-2):93-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7518033</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain. 2002 Feb;95(3):277-285</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11839427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroscience. 1995 Apr;65(3):849-58</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7541904</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 2002 Oct 15;22(20):9086-98</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12388616</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroscience. 1996 Jan;70(1):201-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8848125</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroscience. 1985 Aug;15(4):1227-37</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2413390</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Exp Neurol. 2002 Oct;177(2):385-95</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12429185</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroreport. 1995 Jun 19;6(9):1309-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7545454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Neurosci. 1995 Oct 1;7(10):2021-35</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8542060</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Comp Neurol. 1991 Oct 8;312(2):279-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1748733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Res. 2005 Mar 28;1039(1-2):108-15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15781052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Anat. 1998 Aug;193 ( Pt 2):273-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9827642</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 1999 Jun 5;353(9168):1959-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10371588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2001 Jun;94(6):1105-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11465604</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2000 Oct 6;290(5489):124-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11021795</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 1996 Nov 28;384(6607):360-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8934522</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroreport. 2001 Jul 3;12(9):1899-902</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11435919</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Neurosci. 2001 Feb;13(3):545-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11168562</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Comp Neurol. 1997 Nov 17;388(2):307-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9368843</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurophysiol. 1999 May;81(5):2226-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10322061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2002 Jun 11;99(12):8360-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12060780</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Res. 1999 Nov 6;846(2):219-28</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10556639</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Peripher Nerv Syst. 2000 Jun;5(2):96-100</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10905468</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurobiol. 2004 Feb 5;58(2):217-29</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14704954</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 2003 Jan 15;23(2):601-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12533620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Physiol. 1976 Feb;255(2):321-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1255522</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Comp Neurol. 2003 Jun 23;461(2):140-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12724833</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Neurosci. 2004 Apr;19(7):1789-99</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15078552</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Comp Neurol. 1999 Sep 13;412(1):186-92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10440719</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroreport. 2001 Jan 22;12(1):21-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11201084</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Comp Neurol. 2002 Jul 22;449(2):158-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12115686</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Anaesthesiol Scand. 1999 Oct;43(9):897-908</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10522737</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 2000 Apr 1;20(7):2742-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10729355</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Comp Neurol. 2004 Aug 2;475(4):575-89</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15236238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1999 Nov 19;286(5444):1558-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10567262</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroscience. 1998 Oct;86(4):1217-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9697128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci Res. 1994 Apr 1;37(5):596-603</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7518007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Braz J Med Biol Res. 2003 Apr;36(4):515-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12700831</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Can J Physiol Pharmacol. 2003 Jul;81(7):663-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12897814</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Res Mol Brain Res. 2001 May 20;90(1):48-56</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11376855</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Res. 1999 Apr 10;824(2):218-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10196451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain. 1999 Feb;79(2-3):135-41</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10068159</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 1995 Mar;15(3 Pt 1):2081-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7534343</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurophysiol. 1999 Mar;81(3):1379-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10085363</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Neurosci. 2003 Nov;18(9):2487-97</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14622149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Neurosci. 2000 Jan;12(1):397-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10651897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroscience. 1999;91(1):265-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10336076</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Regul Pept. 1996 Oct 22;66(3):179-89</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8916273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yonsei Med J. 2001 Feb;42(1):30-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11293499</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain. 1994 Aug;58(2):219-231</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7816489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Comp Neurol. 1995 Feb 20;352(4):481-500</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7536758</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Comp Neurol. 1997 Mar 17;379(3):428-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9067834</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurocytol. 1979 Jun;8(3):275-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">490184</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Res. 1996 Jan 29;707(2):180-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8919294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroscience. 1998 Apr;83(4):1251-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9502263</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Pharmacol. 2003 May 30;470(1-2):17-25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12787826</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pharmacotherapy. 2001 Sep;21(9):1061-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11560196</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain. 2001 Dec;94(3):231-244</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11731060</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Physiol Rev. 1993 Apr;73(2):229-308</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7682720</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Neurosci. 1998 Jul;10(7):2388-99</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9749767</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Exp Neurol. 2004 Aug;188(2):444-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15246843</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Orthop Res. 2004 Jan;22(1):180-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14656678</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Res. 1986 Feb 12;365(1):85-95</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2418920</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Res. 1990 Oct 8;529(1-2):214-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1704282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurochem. 2003 Nov;87(3):560-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14535940</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pain. 2003 May;4(4):222-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14622707</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuropeptides. 2000 Oct;34(5):281-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11049732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroscience. 2000;98(3):585-98</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10869852</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Peripher Nerv Syst. 1999;4(3-4):270-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10642095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Exp Neurol. 2005 Jan;191(1):128-36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15589519</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Physiol Lung Cell Mol Physiol. 2002 Apr;282(4):L775-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11880304</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroscience. 1999 Mar;89(3):891-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10199622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann N Y Acad Sci. 1991;632:263-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1719871</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Orthop Relat Res. 2002 Oct;(403):248-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12360034</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurochem. 1999 Feb;72(2):858-67</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9930763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Neurosci. 1999 Jul;11(7):2243-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10383613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Anat. 2003 Jul;185(4):303-14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12924468</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroscience. 2002;114(3):529-46</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12220557</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trends Neurosci. 1994 Jan;17(1):22-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7511846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurophysiol. 2004 May;91(5):1945-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14711972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peptides. 1995;16(4):569-79</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7479286</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Res. 1974 Mar 15;68(1):103-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">4143411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Spine (Phila Pa 1976). 1994 Aug 15;19(16):1795-802</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7973977</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 1995 Nov;15(11):7633-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7472514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Allergy Clin Immunol. 2005 Aug;116(2):325-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16083787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">16684512</PMID>
+      <DateCompleted>
+        <Year>2006</Year>
+        <Month>08</Month>
+        <Day>25</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2006</Year>
+        <Month>11</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">0006-8993</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>1087</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2006</Year>
+              <Month>May</Month>
+              <Day>04</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Brain research</Title>
+          <ISOAbbreviation>Brain Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Prolonged bihemispheric alterations in unfolded protein response related gene expression after experimental stroke.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>60-6</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>After ischemia, endoplasmic reticulum (ER) stress pathways are activated that include unfolded protein response (UPR) and protein synthesis inhibition (PSI). Both of these mechanisms aim to restore ER functioning mainly by inhibition of translation and increased processing of excess proteins in ER. We were interested in the role of these pathways during spontaneous recovery after transient middle cerebral artery occlusion (MCAO) in rats. The spontaneous recovery of rats was assessed with a limb-placing test. The expression of ER-stress-related genes (IRE1, ATF6, GRP78, eif2alpha, ATF4, PERK) was studied by using in situ hybridization in different brain areas on post-operative days 2, 7, 14 and 28. Elevated signals were detected in striatum contralateral to the lesion on days 2 (PERK and IRE1) and 14 post-ischemia (IRE1). Gene expression was elevated on day 7 in the striatum ipsilateral to the lesion (ATF6 and GRP78) and on day 14 (GRP78) post-ischemia. Furthermore, elevated levels of GRP78 were detected on day 14 after ischemia in the ipsilateral sensorimotor cortex. These results suggest that altered gene expression related to unfolded protein response may be more long lasting than expected following focal cerebral ischemia. In addition, these results show that the response to ER stress differs ipsi- and contralaterally after MCAO in rats. Since these differences are detected in both hemispheres only in areas adjacent to the lesion, UPR may contribute to spontaneous recovery after MCAO in rats.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Rissanen</LastName>
+            <ForeName>Anna</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurology and Neuroscience, University of Kuopio, Kuopio, Finland. rissanen@mun.ca</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sivenius</LastName>
+            <ForeName>Juhani</ForeName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jolkkonen</LastName>
+            <ForeName>Jukka</ForeName>
+            <Initials>J</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2006</Year>
+          <Month>05</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>Brain Res</MedlineTA>
+        <NlmUniqueID>0045503</NlmUniqueID>
+        <ISSNLinking>0006-8993</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004268" MajorTopicYN="N">DNA-Binding Proteins</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007839" MajorTopicYN="N">Functional Laterality</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017403" MajorTopicYN="N">In Situ Hybridization</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020244" MajorTopicYN="N">Infarction, Middle Cerebral Artery</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2005</Year>
+          <Month>08</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2006</Year>
+          <Month>02</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2006</Year>
+          <Month>02</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>11</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2006</Year>
+          <Month>8</Month>
+          <Day>26</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>11</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">16684512</ArticleId>
+        <ArticleId IdType="pii">S0006-8993(06)00539-7</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.brainres.2006.02.095</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">16685417</PMID>
+      <DateCompleted>
+        <Year>2006</Year>
+        <Month>07</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>12</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1107-3756</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>17</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2006</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of molecular medicine</Title>
+          <ISOAbbreviation>Int J Mol Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Hepatocyte 'priming' and increase in transforming growth factor-beta1 mRNA expression are delayed in hypothyroid versus euthyroid rats during liver regeneration.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1063-8</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Hypothyroidism decreases liver weight and delays the compensatory liver growth after partial hepatectomy (PH) as compared with the euthyroid condition. The aim of this study was to investigate, in hypothyroid rats, the mRNA expression of genes modulating these effects, focusing on c-fos and c-myc, hallmarks of hepatocyte 'priming', and on transforming growth factor-beta1 (TGF-beta1) and its receptor, the transforming growth factor-beta1 receptor-type II (TbetaR-II), negative regulators of liver growth. Euthyroid and hypothyroid male Wistar rats underwent 70% PH and total RNA was isolated from frozen liver samples removed at basal state and during regeneration, 0-144 h after surgery. In this study, we show for the first time that, in the basal liver state, hypothyroidism increased TGF-beta1 and TbetaR-II mRNA levels by 45% and 30%, respectively, as compared with the euthyroid condition and, after PH, resulted in a approximately 12-h delay in the activation of c-fos and c-myc mRNA expression. Moreover, the increase in TGF-beta1 mRNA levels, detected 24-48 h after PH in euthyroid rats, was delayed by 72 h in hypothyroid rats, occurring when a concomitant reduction in TbetaR-II was measured. These results suggest that, in hypothyroid rats, at the basal liver level, the increase in mRNA expression of genes that negatively regulate liver growth might be involved in the decrease in liver weight and that, after PH, the delay of hepatocyte 'priming' and coordinated changes in mRNA expression of negative regulators of liver regeneration might be involved in delaying the regenerative process.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Moro</LastName>
+            <ForeName>Loredana</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Biomembranes and Bioenergetics (IBBE), National Research Council (CNR), Bari, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Perlino</LastName>
+            <ForeName>Elda</ForeName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Marra</LastName>
+            <ForeName>Ersilia</ForeName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Greco</LastName>
+            <ForeName>Margherita</ForeName>
+            <Initials>M</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Greece</Country>
+        <MedlineTA>Int J Mol Med</MedlineTA>
+        <NlmUniqueID>9810955</NlmUniqueID>
+        <ISSNLinking>1107-3756</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018125">Receptors, Transforming Growth Factor beta</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C508962">Tgfb1 protein, rat</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016212">Transforming Growth Factor beta</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D053773">Transforming Growth Factor beta1</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D017346">Protein Serine-Threonine Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.30</RegistryNumber>
+          <NameOfSubstance UI="D000077294">Receptor, Transforming Growth Factor-beta Type II</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005067" MajorTopicYN="N">Euthyroid Sick Syndromes</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005786" MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016762" MajorTopicYN="N">Genes, fos</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016259" MajorTopicYN="N">Genes, myc</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D022781" MajorTopicYN="N">Hepatocytes</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007037" MajorTopicYN="N">Hypothyroidism</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008099" MajorTopicYN="N">Liver</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008115" MajorTopicYN="Y">Liver Regeneration</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017346" MajorTopicYN="N">Protein Serine-Threonine Kinases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000077294" MajorTopicYN="N">Receptor, Transforming Growth Factor-beta Type II</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018125" MajorTopicYN="N">Receptors, Transforming Growth Factor beta</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016212" MajorTopicYN="N">Transforming Growth Factor beta</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053773" MajorTopicYN="N">Transforming Growth Factor beta1</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015854" MajorTopicYN="N">Up-Regulation</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>11</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2006</Year>
+          <Month>7</Month>
+          <Day>13</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>11</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">16685417</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">16685953</PMID>
+      <DateCompleted>
+        <Year>2006</Year>
+        <Month>06</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>12</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>8</Volume>
+            <Issue>Pt 2</Issue>
+            <PubDate>
+              <Year>2005</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention</Title>
+          <ISOAbbreviation>Med Image Comput Comput Assist Interv</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Soft-tissue motion tracking and structure estimation for robotic assisted MIS procedures.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>139-46</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>In robotically assisted laparoscopic surgery, soft-tissue motion tracking and structure recovery are important for intraoperative surgical guidance, motion compensation and delivering active constraints. In this paper, we present a novel method for feature based motion tracking of deformable soft-tissue surfaces in totally endoscopic coronary artery bypass graft (TECAB) surgery. We combine two feature detectors to recover distinct regions on the epicardial surface for which the sparse 3D surface geometry may be computed using a pre-calibrated stereo laparoscope. The movement of the 3D points is then tracked in the stereo images with stereo-temporal constrains by using an iterative registration algorithm. The practical value of the technique is demonstrated on both a deformable phantom model with tomographically derived surface geometry and in vivo robotic assisted minimally invasive surgery (MIS) image sequences.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Stoyanov</LastName>
+            <ForeName>Danail</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Royal Society/Wolfson Foundation Medical Image Computing Laboratory, Imperial College of Science, Technology and Medicine, London SW7 2BZ, UK. danail.stoyanov@imperial.ac.uk</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mylonas</LastName>
+            <ForeName>George P</ForeName>
+            <Initials>GP</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Deligianni</LastName>
+            <ForeName>Fani</ForeName>
+            <Initials>F</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Darzi</LastName>
+            <ForeName>Ara</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Guang Zhong</ForeName>
+            <Initials>GZ</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D023362">Evaluation Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Med Image Comput Comput Assist Interv</MedlineTA>
+        <NlmUniqueID>101249582</NlmUniqueID>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001185" MajorTopicYN="N">Artificial Intelligence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017023" MajorTopicYN="N">Coronary Angiography</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003331" MajorTopicYN="N">Coronary Vessels</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D021621" MajorTopicYN="N">Imaging, Three-Dimensional</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019060" MajorTopicYN="N">Minimally Invasive Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015233" MajorTopicYN="N">Models, Statistical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009038" MajorTopicYN="N">Motion</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010363" MajorTopicYN="N">Pattern Recognition, Automated</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011856" MajorTopicYN="N">Radiographic Image Enhancement</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011857" MajorTopicYN="N">Radiographic Image Interpretation, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="N">Surgery, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2006</Year>
+          <Month>6</Month>
+          <Day>7</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">16685953</ArticleId>
+        <ArticleId IdType="doi">10.1007/11566489_18</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">16686000</PMID>
+      <DateCompleted>
+        <Year>2006</Year>
+        <Month>06</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>10</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>8</Volume>
+            <Issue>Pt 2</Issue>
+            <PubDate>
+              <Year>2005</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention</Title>
+          <ISOAbbreviation>Med Image Comput Comput Assist Interv</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic assisted radio-frequency ablation of liver tumors--randomized patient study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>526-33</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>The minimally invasive treatment of liver tumors represents an alternative to the open surgery approach. Radio-frequency ablation destroys a tumor by delivering radio-frequency energy through a needle probe. Traditionally, the probe is placed manually using imaging feedback. New approaches use robotic devices to accurately place the instrument at the target. The authors developed an image-guided robotic system for percutaneous interventions using computed tomography. The paper presents a randomized patient study comparing the manual versus robotic needle placement for radio-frequency ablation procedures of liver tumors. The results of this study show that in our case robotic interventions were a very viable solution. Several treatment parameters such as radiation exposures and procedure-times were found to be significantly improved in the robotic case.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Patriciu</LastName>
+            <ForeName>A</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>The Johns Hopkins University, Baltimore, MD 21224, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Awad</LastName>
+            <ForeName>M</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Solomon</LastName>
+            <ForeName>S B</ForeName>
+            <Initials>SB</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Choti</LastName>
+            <ForeName>M</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mazilu</LastName>
+            <ForeName>D</ForeName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kavoussi</LastName>
+            <ForeName>L</ForeName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stoianovici</LastName>
+            <ForeName>D</ForeName>
+            <Initials>D</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R21 CA088232-01A1</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R33 CA088232-02</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R33 CA088232-03</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>CA88232</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R21 CA088232</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R33 CA088232-04</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R33 CA088232</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Med Image Comput Comput Assist Interv</MedlineTA>
+        <NlmUniqueID>101249582</NlmUniqueID>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001185" MajorTopicYN="N">Artificial Intelligence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017115" MajorTopicYN="N">Catheter Ablation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016000" MajorTopicYN="N">Cluster Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007089" MajorTopicYN="N">Image Enhancement</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D021621" MajorTopicYN="N">Imaging, Three-Dimensional</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008113" MajorTopicYN="N">Liver Neoplasms</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010363" MajorTopicYN="N">Pattern Recognition, Automated</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011677" MajorTopicYN="N">Punctures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011857" MajorTopicYN="N">Radiographic Image Interpretation, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="N">Surgery, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2006</Year>
+          <Month>6</Month>
+          <Day>7</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">16686000</ArticleId>
+        <ArticleId IdType="doi">10.1007/11566489_65</ArticleId>
+        <ArticleId IdType="pmc">PMC3099449</ArticleId>
+        <ArticleId IdType="mid">NIHMS284664</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Invest Radiol. 2000 Aug;35(8):513-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10946979</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Radiology. 2002 Oct;225(1):277-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12355016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Biomed Eng. 2005 Feb;52(2):306-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15709668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Image Guid Surg. 1995;1(4):242-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9079451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">16687243</PMID>
+      <DateCompleted>
+        <Year>2006</Year>
+        <Month>08</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">0952-3278</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>74</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2006</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Prostaglandins, leukotrienes, and essential fatty acids</Title>
+          <ISOAbbreviation>Prostaglandins Leukot Essent Fatty Acids</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effects of iloprost on visual evoked potentials and brain tissue oxidative stress after bilateral common carotid artery occlusion.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>373-8</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Effects of iloprost on visual evoked potentials and oxidant/antioxidant status were evaluated after bilateral carotid artery occlusion. There were three experimental groups; Sham (S) group (n=10), bilateral common carotid artery occluded (BCCAO) group (n=10) and after bilateral common carotid artery occlusion, iloprost-treated (BCCAOI) group (n=10). Iloprost was administered (0.5ng/kg/day) for 10 days by intraperitoneal injection. N(2) and P(2) latencies (millisecond) and N(2)-P(2) (microV) amplitudes were recorded 10 days after operation for evaluating VEPs. The rats were sacrificed by decapitation immediately after recording of VEPs. Malondialdehyte (MDA), glutathione (GSH), Cu-Zn superoxide dysmutase (SOD) were studied spectrophotometricly. After BCCAO, MDA levels were increased, GSH and Cu-Zn SOD levels were decreased significantly, and abnormal VEPs parameters were observed. Iloprost treatment after BCCAO decreased MDA and increased GSH levels significantly. Low Cu-Zn SOD levels and impaired VEPs remained after iloprost treatment. Iloprost treatment may protect the brain tissue from oxidative damage during cerebral hypoperfusion.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Aytac</LastName>
+            <ForeName>Erman</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Istanbul University, Cerrahpasa Medical Faculty, Department of Physiology, Cerrahpasa, Istanbul, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Seymen</LastName>
+            <ForeName>Hakki Oktay</ForeName>
+            <Initials>HO</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Uzun</LastName>
+            <ForeName>Hafize</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dikmen</LastName>
+            <ForeName>Goksel</ForeName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Altug</LastName>
+            <ForeName>Tuncay</ForeName>
+            <Initials>T</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D023362">Evaluation Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2006</Year>
+          <Month>05</Month>
+          <Day>09</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Scotland</Country>
+        <MedlineTA>Prostaglandins Leukot Essent Fatty Acids</MedlineTA>
+        <NlmUniqueID>8802730</NlmUniqueID>
+        <ISSNLinking>0952-3278</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>4Y8F71G49Q</RegistryNumber>
+          <NameOfSubstance UI="D008315">Malondialdehyde</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 1.15.1.1</RegistryNumber>
+          <NameOfSubstance UI="D013482">Superoxide Dismutase</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>GAN16C9B8O</RegistryNumber>
+          <NameOfSubstance UI="D005978">Glutathione</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>JED5K35YGL</RegistryNumber>
+          <NameOfSubstance UI="D016285">Iloprost</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+          <QualifierName UI="Q000098" MajorTopicYN="Y">blood supply</QualifierName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017536" MajorTopicYN="N">Carotid Artery, Common</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002561" MajorTopicYN="N">Cerebrovascular Disorders</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004353" MajorTopicYN="N">Drug Evaluation, Preclinical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005074" MajorTopicYN="N">Evoked Potentials, Visual</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005978" MajorTopicYN="N">Glutathione</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002534" MajorTopicYN="N">Hypoxia, Brain</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016285" MajorTopicYN="N">Iloprost</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008315" MajorTopicYN="N">Malondialdehyde</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018384" MajorTopicYN="N">Oxidative Stress</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012107" MajorTopicYN="N">Research Design</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013482" MajorTopicYN="N">Superoxide Dismutase</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2005</Year>
+          <Month>09</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2006</Year>
+          <Month>03</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2006</Year>
+          <Month>8</Month>
+          <Day>15</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">16687243</ArticleId>
+        <ArticleId IdType="pii">S0952-3278(06)00046-9</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.plefa.2006.03.006</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">16688031</PMID>
+      <DateCompleted>
+        <Year>2006</Year>
+        <Month>09</Month>
+        <Day>22</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2016</Year>
+        <Month>11</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1528-1159</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>31</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2006</Year>
+              <Month>May</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Spine</Title>
+          <ISOAbbreviation>Spine (Phila Pa 1976)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A novel hydroxyapatite fiber mesh as a carrier for recombinant human bone morphogenetic protein-2 enhances bone union in rat posterolateral fusion model.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1194-200</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">An experimental study, in which spinal fusion in rats was conducted using a hydroxyapatite fiber mesh (HAM) as a carrier for recombinant human bone morphogenetic protein (rhBMP)-2.</AbstractText>
+          <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To study the usefulness of the HAM as a carrier and seek the possibility of clinical application in spinal fusion.</AbstractText>
+          <AbstractText Label="SUMMARY OF BACKGROUND DATA" NlmCategory="BACKGROUND">Several biomaterials have been used as a carrier for BMP to achieve spine fusion, however, to our knowledge, the most effective carrier has not been established.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">In experiment No. 1, HAMs and the controls (commercially available hydroxyapatite ceramic body), loaded with rhBMP-2, were immersed in phosphate-buffered saline to evaluate the time course of the release of rhBMP-2. In experiment No. 2, posterolateral fusion was conducted in rats using HAM and the control loaded with rhBMP-2. The fusion status was evaluated radiologically and histologically after surgery.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">In experiment No. 1, HAMs released a larger amount of rhBMP-2 for up to 28 days than the controls (49.5% vs 7.8%). In experiment No. 2, the fusion rate was significantly higher in the HAM group (&gt;80%) than in the control group (20%). Dense new bone formed close to the spine, and the HAMs were markedly absorbed compared with the controls.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">HAM provided more solid fusion mass than the control, suggesting that HAM is an efficient carrier for BMP.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Morisue</LastName>
+            <ForeName>Hikaru</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, School of Medicine, Keio University, Tokyo, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Matsumoto</LastName>
+            <ForeName>Morio</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chiba</LastName>
+            <ForeName>Kazuhiro</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Matsumoto</LastName>
+            <ForeName>Hideo</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Toyama</LastName>
+            <ForeName>Yoshiaki</ForeName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aizawa</LastName>
+            <ForeName>Mamoru</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kanzawa</LastName>
+            <ForeName>Nobuyuki</ForeName>
+            <Initials>N</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fujimi</LastName>
+            <ForeName>Takahiro J</ForeName>
+            <Initials>TJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Uchida</LastName>
+            <ForeName>Hiroshi</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Okada</LastName>
+            <ForeName>Isao</ForeName>
+            <Initials>I</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Spine (Phila Pa 1976)</MedlineTA>
+        <NlmUniqueID>7610646</NlmUniqueID>
+        <ISSNLinking>0362-2436</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001672">Biocompatible Materials</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D055396">Bone Morphogenetic Protein 2</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D019485">Bone Morphogenetic Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D004337">Drug Carriers</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011994">Recombinant Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016212">Transforming Growth Factor beta</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C499469">recombinant human bone morphogenetic protein-2</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>91D9GV0Z28</RegistryNumber>
+          <NameOfSubstance UI="D017886">Durapatite</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001672" MajorTopicYN="N">Biocompatible Materials</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055396" MajorTopicYN="N">Bone Morphogenetic Protein 2</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019485" MajorTopicYN="N">Bone Morphogenetic Proteins</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004337" MajorTopicYN="N">Drug Carriers</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017886" MajorTopicYN="N">Durapatite</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008159" MajorTopicYN="N">Lumbar Vertebrae</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011859" MajorTopicYN="N">Radiography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011994" MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013123" MajorTopicYN="N">Spinal Fusion</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016212" MajorTopicYN="N">Transforming Growth Factor beta</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2006</Year>
+          <Month>9</Month>
+          <Day>23</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">16688031</ArticleId>
+        <ArticleId IdType="doi">10.1097/01.brs.0000217679.46489.1b</ArticleId>
+        <ArticleId IdType="pii">00007632-200605150-00004</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">16688032</PMID>
+      <DateCompleted>
+        <Year>2006</Year>
+        <Month>09</Month>
+        <Day>22</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>11</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1528-1159</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>31</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2006</Year>
+              <Month>May</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Spine</Title>
+          <ISOAbbreviation>Spine (Phila Pa 1976)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Controlling bone morphogenetic protein diffusion and bone morphogenetic protein-stimulated bone growth using fibrin glue.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1201-6</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">An in vitro and in vivo study.</AbstractText>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To evaluate the ability of fibrin glue to limit diffusion of recombinant human bone morphogenetic protein (rhBMP)-2 and its ability to protect spinal nerves from rhBMP-2 stimulated bone growth.</AbstractText>
+          <AbstractText Label="SUMMARY OF BACKGROUND DATA" NlmCategory="BACKGROUND">Studies have shown bone morphogenetic protein (rhBMP-2) stimulated bone growth can encroach on the spinal canal and nerves, causing neural compression. More recently, rhBMP-2 use in the cervical spine has been associated with life-threatening swelling. Fibrin glue has been used as a biologic carrier but has not been evaluated for its ability to limit rhBMP-2.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">In phase 1 of the study, rhBMP-2 soaked absorbable collagen sponges (ACS) were encapsulated in fibrin glue and immediately incubated in physiologic lactated ringers solution at 38 degrees C. Samples of solution were tested for rhBMP-2 concentration. In phase 2 of the study, rats were surgically treated with laminectomy and placement of rhBMP-2/ACS versus laminectomy and placement of fibrin glue before placement of rhBMP-2/ACS. After 8 weeks, animals were euthanized and imaged using micro-computerized tomography.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The diffusion study showed a significant limitation in rhBMP-2 diffusion when encapsulated in fibrin glue. The laminectomy study revealed blockage of bone formation by fibrin glue and protection of the spinal canal.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Fibrin glue can limit the diffusion of rhBMP-2, and, thus, it can be used to help protect the spinal canal and nerve roots from rhBMP-2 stimulated bone growth.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Patel</LastName>
+            <ForeName>Vikas V</ForeName>
+            <Initials>VV</Initials>
+            <AffiliationInfo>
+              <Affiliation>The Spine Institute at St. John's Hospital, Santa Monica, CA, USA. vikas.patel@uchsc.edu</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Li</ForeName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wong</LastName>
+            <ForeName>Pamela</ForeName>
+            <Initials>P</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kanim</LastName>
+            <ForeName>Linda</ForeName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bae</LastName>
+            <ForeName>Hyun W</ForeName>
+            <Initials>HW</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pradhan</LastName>
+            <ForeName>Ben B</ForeName>
+            <Initials>BB</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Delamarter</LastName>
+            <ForeName>Rick B</ForeName>
+            <Initials>RB</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Spine (Phila Pa 1976)</MedlineTA>
+        <NlmUniqueID>7610646</NlmUniqueID>
+        <ISSNLinking>0362-2436</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D055396">Bone Morphogenetic Protein 2</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D019485">Bone Morphogenetic Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015718">Fibrin Tissue Adhesive</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011994">Recombinant Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016212">Transforming Growth Factor beta</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C499469">recombinant human bone morphogenetic protein-2</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055396" MajorTopicYN="N">Bone Morphogenetic Protein 2</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019485" MajorTopicYN="N">Bone Morphogenetic Proteins</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000493" MajorTopicYN="Y">pharmacokinetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004058" MajorTopicYN="N">Diffusion</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015718" MajorTopicYN="N">Fibrin Tissue Adhesive</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005781" MajorTopicYN="N">Gelatin Sponge, Absorbable</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007796" MajorTopicYN="N">Laminectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008159" MajorTopicYN="N">Lumbar Vertebrae</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011917" MajorTopicYN="N">Rats, Inbred Lew</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011994" MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000493" MajorTopicYN="Y">pharmacokinetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013115" MajorTopicYN="N">Spinal Canal</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000254" MajorTopicYN="Y">growth &amp; development</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016212" MajorTopicYN="N">Transforming Growth Factor beta</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000493" MajorTopicYN="Y">pharmacokinetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2006</Year>
+          <Month>9</Month>
+          <Day>23</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2006</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">16688032</ArticleId>
+        <ArticleId IdType="doi">10.1097/01.brs.0000217650.90861.99</ArticleId>
+        <ArticleId IdType="pii">00007632-200605150-00005</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

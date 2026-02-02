@@ -1,0 +1,946 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36602754</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>05</Month>
+        <Day>26</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>05</Month>
+        <Day>26</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1863-2491</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>17</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of robotic surgery</Title>
+          <ISOAbbreviation>J Robot Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Technical evaluation of robotic tele-cholecystectomy: a randomized single-blind controlled pilot study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1105-1111</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11701-023-01522-0</ELocationID>
+        <Abstract>
+          <AbstractText>Although robotic telesurgery is growing in popularity, the benefits of telesurgery compared to local surgery are unclear. This study aimed to evaluate the performance of robotic tele-cholecystectomy with a commercial line using the Saroa<sup>™</sup> (Riverfield, Inc., Tokyo, Japan) system. The operation rooms of the Hokkaido University Hospital and Kushiro City General Hospital were connected using a best effort-type line (1 Gbps), with a distance of 250 km between the two hospitals. In this experimental single-blind randomized crossover trial, eight expert robotic surgeons performed robotic cholecystectomy in an artificial organ model using the Saroa<sup>™</sup> system and were randomized to begin with either local surgery or telesurgery. All surgeons were assessed on task completion time, total path length of the right- and left- hand forceps and camera, Global Evaluative Assessment of Robotic Skills (GEARS), Global Operative Assessment of Laparoscopic Skills (GOALS), and System and Piper Fatigue Scale-12 (PFS-12). In all experiments, the communication environment was stable and the mean communication delay was 8 ms (3-31 ms). All tele-cholecystectomies were performed safely. There was no significant difference in completion time (P = 0.495), score of GEARS (P = 0.258), GOALS (P = 0.180), or PFS-12 (P = 0.528) between local surgery and telesurgery. The total path of the forceps tended to be longer in tele-cholecystectomy, particularly with significantly longer left-hand forceps total path length (P = 0.041). Robotic tele-cholecystectomy using a commercial line can be performed safely as same as local robotic surgery, but the total path of the left-hand forceps was prolonged in robotic tele-cholecystectomy due to overshoot. Therefore, a solution for overshooting will be required in the future.</AbstractText>
+          <CopyrightInformation>© 2023. The Author(s), under exclusive licence to Springer-Verlag London Ltd., part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Ebihara</LastName>
+            <ForeName>Yuma</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Committee for Promotion of Remote Surgery Implementation, Japan Surgical Society, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastroenterological Surgery II, Hokkaido University Faculty of Medicine, North 15 West 7, Kita-Ku, Sapporo, Hokkaido, 0608638, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Hirano</LastName>
+            <ForeName>Satoshi</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Committee for Promotion of Remote Surgery Implementation, Japan Surgical Society, Tokyo, Japan. satto@med.hokudai.ac.jp.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastroenterological Surgery II, Hokkaido University Faculty of Medicine, North 15 West 7, Kita-Ku, Sapporo, Hokkaido, 0608638, Japan. satto@med.hokudai.ac.jp.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Takano</LastName>
+            <ForeName>Hironobu</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastroenterological Surgery II, Hokkaido University Faculty of Medicine, North 15 West 7, Kita-Ku, Sapporo, Hokkaido, 0608638, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kanno</LastName>
+            <ForeName>Takahiro</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>RIVERFIELD Inc., Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kawashima</LastName>
+            <ForeName>Kenji</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Information Physics and Computing School of Information Science and Technology, The University of Tokyo, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Morohashi</LastName>
+            <ForeName>Hajime</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Committee for Promotion of Remote Surgery Implementation, Japan Surgical Society, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastroenterological Surgery, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oki</LastName>
+            <ForeName>Eiji</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Committee for Promotion of Remote Surgery Implementation, Japan Surgical Society, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery and Science, Kyushu University, Fukuoka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hakamada</LastName>
+            <ForeName>Kenichi</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Committee for Promotion of Remote Surgery Implementation, Japan Surgical Society, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastroenterological Surgery, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Urushidani</LastName>
+            <ForeName>Shigeo</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>The National Institute of Informatics, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mori</LastName>
+            <ForeName>Masaki</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Committee for Promotion of Remote Surgery Implementation, Japan Surgical Society, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Tokai University School of Medicine, Isehara, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>01</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Robot Surg</MedlineTA>
+        <NlmUniqueID>101300401</NlmUniqueID>
+        <ISSNLinking>1863-2483</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016037" MajorTopicYN="N">Single-Blind Method</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002763" MajorTopicYN="N">Cholecystectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017081" MajorTopicYN="Y">Cholecystectomy, Laparoscopic</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">A randomized single-blind controlled pilot study</Keyword>
+        <Keyword MajorTopicYN="N">Cholecystectomy</Keyword>
+        <Keyword MajorTopicYN="N">Robotic surgeons</Keyword>
+        <Keyword MajorTopicYN="N">Robotic tele-cholecystectomy</Keyword>
+        <Keyword MajorTopicYN="N">Robotic tele-surgery</Keyword>
+        <Keyword MajorTopicYN="N">Single blind</Keyword>
+        <Keyword MajorTopicYN="N">Surgical robots</Keyword>
+        <Keyword MajorTopicYN="N">Tele-laparoscopic cholecystectomy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>01</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>5</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>1</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>1</Month>
+          <Day>5</Day>
+          <Hour>11</Hour>
+          <Minute>20</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36602754</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11701-023-01522-0</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11701-023-01522-0</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Zheng J, Wang Y, Zhang J, Guo W, Yang X, Luo L et al (2020) 5G ultra-remote robot-assisted laparoscopic surgery in China. Surg Endosc 34:5172–5180. https://doi.org/10.1007/s00464-020-07823-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-020-07823-x</ArticleId>
+            <ArticleId IdType="pubmed">32700149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marescaux J, Leroy J, Gagner M, Rubino F, Mutter D, Vix M et al (2001) Transatlantic robot-assisted telesurgery. Nature 414:379–380. https://doi.org/10.1038/35096636 . Erratum in: Nature (2001) 414:710. https://doi.org/10.1038/414710a</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Anvari M, McKinley C, Stein H (2005) Establishment of the world’s first telerobotic remote surgical service: for provision of advanced laparoscopic surgery in a rural community. Ann Surg 241:460–464. https://doi.org/10.1097/01.sla.0000154456.69815.ee</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/01.sla.0000154456.69815.ee</ArticleId>
+            <ArticleId IdType="pubmed">15729068</ArticleId>
+            <ArticleId IdType="pmcid">1356984</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morohashi H, Hakamada K, Kanno T, Kawashima K, Akasaka H, Ebihara Y et al (2022) Social implementation of a remote surgery system in Japan: a field experiment using a newly developed surgical robot via a commercial network. Surg Today 52:705–714. https://doi.org/10.1007/s00595-021-02384-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00595-021-02384-5</ArticleId>
+            <ArticleId IdType="pubmed">34668052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Japanese Society for Endoscopic Surgery (2014) Guidelines for the management of endoscopic surgery. Japanese Society for Endoscopic Surgery, Tokyo</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shibasaki S, Suda K, Kadoya S, Ishida Y, Nakauchi M, Nakamura K et al (2022) The safe performance of robotic gastrectomy by second-generation surgeons meeting the operating surgeon’s criteria in the Japan Society for Endoscopic Surgery guidelines. Asian J Endosc Surg 15:70–81. https://doi.org/10.1111/ases.12967</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/ases.12967</ArticleId>
+            <ArticleId IdType="pubmed">34263539</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tadano K, Kawashima K, Kojima K, Tanaka N (2010) Development of a pneumatic surgical manipulator ibis IV. J Robot Mechatron 22:179–188. https://doi.org/10.20965/jrm.2010.p0179</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.20965/jrm.2010.p0179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aghazadeh MA, Jayaratna IS, Hung AJ, Pan MM, Desai MM, Gill IS, Goh AC (2015) External validation of global evaluative assessment of robotic skills (GEARS). Surg Endosc 29:3261–3266. https://doi.org/10.1007/s00464-015-4070-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-015-4070-8</ArticleId>
+            <ArticleId IdType="pubmed">25609318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vassiliou MC, Feldman LS, Andrew CG, Bergman S, Leffondré K, Stanbridge D, Fried GM (2005) A global assessment tool for evaluation of intraoperative laparoscopic skills. Am J Surg 190:107–113. https://doi.org/10.1016/j.amjsurg.2005.04.004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.amjsurg.2005.04.004</ArticleId>
+            <ArticleId IdType="pubmed">15972181</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reeve BB, Stover AM, Alfano CM, Smith AW, Ballard-Barbash R, Bernstein L et al (2012) The piper fatigue scale-12 (PFS-12): psychometric findings and item reduction in a cohort of breast cancer survivors. Breast Cancer Res Treat 136:9–20. https://doi.org/10.1007/s10549-012-2212-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10549-012-2212-4</ArticleId>
+            <ArticleId IdType="pubmed">22933027</ArticleId>
+            <ArticleId IdType="pmcid">3739964</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marescaux J, Leroy J, Rubino F, Smith M, Vix M, Simone M et al (2002) Transcontinental robot-assisted remote telesurgery: feasibility and potential applications. Ann Surg 235:487–492. https://doi.org/10.1097/00000658-200204000-00005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/00000658-200204000-00005</ArticleId>
+            <ArticleId IdType="pubmed">11923603</ArticleId>
+            <ArticleId IdType="pmcid">1422462</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sterbis JR, Hanly EJ, Herman BC, Marohn MR, Broderick TJ, Shih SP et al (2008) Transcontinental telesurgical nephrectomy using the da Vinci robot in a porcine model. Urology 71:971–973. https://doi.org/10.1016/j.urology.2007.11.027</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.urology.2007.11.027</ArticleId>
+            <ArticleId IdType="pubmed">18295861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suzuki S, Suzuki N, Hayashibe M, Hattori A, Konishi K, Kakeji Y, Hashizume M (2005) Tele-surgical simulation system for training in the use of da Vinci surgery. Stud Health Technol Inform 111:543–548</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15718794</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Choi PJ, Oskouian RJ, Tubbs RS (2018) Telesurgery: past, present, and future. Cureus 10:e2716. https://doi.org/10.7759/cureus.2716</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7759/cureus.2716</ArticleId>
+            <ArticleId IdType="pubmed">30079282</ArticleId>
+            <ArticleId IdType="pmcid">6067812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hakamada K, Mori M (2021) The changing surgical scene: from the days of Billroth to the upcoming future of artificial intelligence and telerobotic surgery. Ann Gastroenterol Surg 5:268–269. https://doi.org/10.1002/ags3.12466</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ags3.12466</ArticleId>
+            <ArticleId IdType="pubmed">34095715</ArticleId>
+            <ArticleId IdType="pmcid">8164454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim T, Zimmerman PM, Wade MJ, Weiss CA 3rd (2005) The effect of delayed visual feedback on telerobotic surgery. Surg Endosc 19(5):683–686. https://doi.org/10.1007/s00464-004-8926-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-004-8926-6</ArticleId>
+            <ArticleId IdType="pubmed">15776211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu S, Perez M, Yang K, Perrenot C, Felblinger J, Hubert J (2015) Effect of latency training on surgical performance in simulated robotic telesurgery procedures. Int J Med Robot 11:290–295. https://doi.org/10.1002/rcs.1623</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/rcs.1623</ArticleId>
+            <ArticleId IdType="pubmed">25328078</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Perez M, Xu S, Chauhan S, Tanaka A, Simpson K, Abdul-Muhsin H, Smith R (2016) Impact of delay on telesurgical performance: study on the robotic simulator dV-Trainer. Int J Comput Assist Radiol Surg 11:581–587. https://doi.org/10.1007/s11548-015-1306-y</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11548-015-1306-y</ArticleId>
+            <ArticleId IdType="pubmed">26450105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wirz R, Torres LG, Swaney PJ, Gilbert H, Alterovitz R, Webster RJ 3rd et al (2015) An experimental feasibility study on robotic endonasal telesurgery. Neurosurgery 76:479–484. https://doi.org/10.1227/NEU.0000000000000623 . (discussion 484)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1227/NEU.0000000000000623</ArticleId>
+            <ArticleId IdType="pubmed">25599203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu S, Perez M, Yang K, Perrenot C, Felblinger J, Hubert J (2014) Determination of the latency effects on surgical performance and the acceptable latency levels in telesurgery using the dV-Trainer(®) simulator. Surg Endosc 28:2569–2576. https://doi.org/10.1007/s00464-014-3504-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-014-3504-z</ArticleId>
+            <ArticleId IdType="pubmed">24671353</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Orosco RK, Lurie B, Matsuzaki T, Funk EK, Divi V, Holsinger FC et al (2021) Compensatory motion scaling for time-delayed robotic surgery. Surg Endosc 35:2613–2618. https://doi.org/10.1007/s00464-020-07681-7.Erratum.In:SurgEndosc(2020)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-020-07681-7.Erratum.In:SurgEndosc(2020)</ArticleId>
+            <ArticleId IdType="pubmed">32514831</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ang WT, Pradeep PK, Riviere CN (2004) Active tremor compensation in microsurgery. Conf Proc IEEE Eng Med Biol Soc 2004:2738–2741. https://doi.org/10.1109/IEMBS.2004.1403784</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/IEMBS.2004.1403784</ArticleId>
+            <ArticleId IdType="pubmed">17270843</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Riviere CN, Gangloff J, De Mathelin M (2006) Robotic compensation of biological motion to enhance surgical accuracy. Proc IEEE 94:1705–1716. https://doi.org/10.1109/JPROC.2006.880722</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/JPROC.2006.880722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Becker BC, MacLachlan RA, Lobes LA, Hager GD, Riviere CN (2013) Vision-based control of a handheld surgical micromanipulator with virtual fixtures. IEEE Trans Robot 29:674–683. https://doi.org/10.1109/TRO.2013.2239552</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TRO.2013.2239552</ArticleId>
+            <ArticleId IdType="pubmed">24639624</ArticleId>
+            <ArticleId IdType="pmcid">3955368</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Park S, Howe RD, Torchiana DF (2001) Virtual fixtures for robotic cardiac surgery. In: Niessen WJ, Viergever MA (eds) Lecture Notes in Computer Science International conference on medical image computing and computer-assisted intervention. Springer, New York, pp 1419–1420</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Society of American Gastrointestinal and Endoscopic Surgeons (2000) Guidelines for the surgical practice of telemedicine. Surg Endosc 14:975–979. https://doi.org/10.1007/s004640000290</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s004640000290</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36621757</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>06</Month>
+        <Day>12</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>02</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1931-3543</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>163</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>06</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Chest</Title>
+          <ISOAbbreviation>Chest</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Health-Related Quality of Life Following Robotic-Assisted or Video-Assisted Lobectomy in Patients With Non-Small Cell Lung Cancer: Results From the RVlob Randomized Clinical Trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1576-1588</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0012-3692(23)00015-6</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.chest.2022.12.037</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Robot-assisted lobectomy (RAL) is increasingly used as an alternative to video-assisted lobectomy (VAL) for resectable non-small cell lung cancer (NSCLC). However, there is little evidence of any difference in postoperative health-related quality of life (HRQoL) between these two approaches.</AbstractText>
+          <AbstractText Label="RESEARCH QUESTION">Is RAL superior to VAL in improving quality of life in patients with resectable NSCLC?</AbstractText>
+          <AbstractText Label="STUDY DESIGN AND METHODS">We performed a single-center, open-label randomized clinical trial from May 2017 to May 2020 with 320 enrolled patients undergoing RAL or VAL for resectable NSCLC (RVlob trial; NCT03134534). Postoperative pain was evaluated by visual analog score or numeric rating score on postoperative day 1 and at weeks 4, 24, and 48. The European Organization for Research and Treatment of Cancer (EORTC) Core Quality of Life Questionnaire (QLQ-C30), EORTC Quality of Life Questionnaire in Lung Cancer (QLQ-LC13), and the European Quality of Life 5 Dimensions (EQ-5D) questionnaire were also administered at weeks 4, 24, and 48 after surgery.</AbstractText>
+          <AbstractText Label="RESULTS">One hundred and fifty-seven patients underwent RAL and 163 underwent VAL. The mean pain score of patients after RAL was significantly lower at week 4 (2.097 ± 0.111 vs 2.431 ± 0.108; P = .032). QLQ-C30 and QLQ-LC13 summary scores (P &gt; .05) were similar for both RAL and VAL during the first 48 weeks of follow-up. HRQoL scores assessed with the EQ-5D questionnaire were also comparable between the two groups (P &gt; .05) during the whole study period.</AbstractText>
+          <AbstractText Label="INTERPRETATION">Both RAL and VAL showed satisfactory and comparable HRQoL and postoperative pain up to 48 weeks after surgery, despite some minor statistical differences at week 4.</AbstractText>
+          <AbstractText Label="CLINICAL TRIAL REGISTRATION">ClinicalTrials.gov; No.: NCT03134534; URL: www.</AbstractText>
+          <AbstractText Label="CLINICALTRIALS">gov.</AbstractText>
+          <CopyrightInformation>Copyright © 2023 American College of Chest Physicians. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Jin</LastName>
+            <ForeName>Runsen</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Zhengyuan</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Yuyan</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Niu</LastName>
+            <ForeName>Zhenyi</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sun</LastName>
+            <ForeName>Siying</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cao</LastName>
+            <ForeName>Yuqin</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Yajie</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Abbas</LastName>
+            <ForeName>Abbas E</ForeName>
+            <Initials>AE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Brown Surgical Associates and Lifespan Hospitals, Warren Alpert Medical School of Brown University, Providence, RI.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lerut</LastName>
+            <ForeName>Toni</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, University Hospital Leuven, Leuven, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Jules</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Section of Thoracic Surgery, University of Michigan Medical Center, Ann Arbor, MI.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Hecheng</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China. Electronic address: lihecheng2000@hotmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT03134534</AccessionNumber>
+              <AccessionNumber>NCT03134534</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>01</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Chest</MedlineTA>
+        <NlmUniqueID>0231335</NlmUniqueID>
+        <ISSNLinking>0012-3692</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002289" MajorTopicYN="Y">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008175" MajorTopicYN="Y">Lung Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010149" MajorTopicYN="N">Pain, Postoperative</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">non-small cell lung cancer</Keyword>
+        <Keyword MajorTopicYN="N">postoperative pain</Keyword>
+        <Keyword MajorTopicYN="N">quality of life</Keyword>
+        <Keyword MajorTopicYN="N">randomized controlled trial</Keyword>
+        <Keyword MajorTopicYN="N">robot-assisted lobectomy</Keyword>
+        <Keyword MajorTopicYN="N">video-assisted lobectomy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>08</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>6</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>1</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>1</Month>
+          <Day>9</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36621757</ArticleId>
+        <ArticleId IdType="pii">S0012-3692(23)00015-6</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.chest.2022.12.037</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36626117</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>02</Month>
+        <Day>22</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>04</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2724-6442</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>75</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Feb</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Minerva urology and nephrology</Title>
+          <ISOAbbreviation>Minerva Urol Nephrol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A prospective randomized controlled trial comparing target prostate biopsy alone approach vs. target plus standard in naïve patients with positive mpMRI.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>31-41</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.23736/S2724-6051.22.05189-8</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In the era of mpMRI guided target fusion biopsy (FB), the role of concomitant standard biopsy (SB) in naïve patients still remains under scrutiny. The aim of this study was to compare the detection rate (DR) of clinically significant prostate cancer (csPCa) in biopsy naïve patients with positive mpMRI who underwent FB alone (Arm A) vs FB+SB (Arm B). Secondary objectives were to compare the incidence of complications, the overall PCa DR and the biopsy results with final pathological findings after robotic prostatectomy (RARP).</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This is a single center prospective non-inferiority parallel two arms (1:1) randomized control trial (ISRCTN registry number ISRCTN60263108) which took place at San Luigi Gonzaga University Hospital, Orbassano (Turin, Italy) from 4/2019 to 10/2021. Eligible participants were all adults aged&lt;75 years old, biopsy naïve, with serum PSA&lt;15 ng/mL and positive mpMRI (Pi-Rads V.2&gt;3). FB was performed under ultrasound guidance using the BioJet fusion system; four to six target samples were obtained for each index lesion. SB was performed in accordance with the protocol by Rodríguez-Covarrubias. RARP with total anatomical reconstruction was carried out when indicated. DR of PCa and csPCA (Gleason Score &gt;7) were evaluated. Post-biopsy complications according to Clavien-Dindo were recorded. Concordance between biopsy and RARP pathological findings was evaluated. Fisher's Exact test and Mann-Whitney test were applied; furthermore, Logistic Principal Component Analysis (LogPCA) and Pearson's correlation method, in terms of correlation funnel plots, were performed to explore data in a multivariate way.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">201 and 193 patients were enrolled in Arm A and B, respectively. csPCa DR was 60.2% vs. 60.6% in Arm A and B respectively (Δ 0.4%; P=0.93); whilst overall PCa DR was 63.7% vs. 71.0% (Δ 7.3%; P=0.12). However, in a target only setting, the addition of SB homolaterally to the index lesion reaching a non-inferior performance compared to the combined sampling (Δ PCa DR 3%). Although the differences of 7.3% in PCa DR, during RARP were registered similar nerve sparing rate (P=0.89), positive surgical margins (P=0.67) and rate of significant upgrading (P=0.12). LogPCA model showed no distinction between the two cohorts; and Pearson's correlation values turned to be between -0.5 and +0.5. In Arm B, the lesion diameter &lt;10 mm is the only predictive variable of positive SB only for PCa (P=0.04), with an additional value +3% for PCa DR.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In biopsy naïve patients, FB alone is not inferior to FB+SB in detecting csPCa (Δ csPCa DR 0.4%). Δ 7.3% in overall PCa DR was registered between the two Arms, however the addition of further standard samples homolaterally to mp-MRI index lesion improved the overall PCa DR of FB only sampling (Δ PCa DR 3%). The omission of SB did not influence the post-surgical outcomes in terms of NS approach, PSMr and upgrading/downgrading.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Porpiglia</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Checcucci</LastName>
+            <ForeName>Enrico</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy - checcu.e@hotmail.it.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Candiolo Cancer Institute, FPO-IRCCS, Candiolo, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>DE Cillis</LastName>
+            <ForeName>Sabrina</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Piramide</LastName>
+            <ForeName>Federico</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Amparore</LastName>
+            <ForeName>Daniele</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Piana</LastName>
+            <ForeName>Alberto</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Volpi</LastName>
+            <ForeName>Gabriele</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Granato</LastName>
+            <ForeName>Stefano</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zamengo</LastName>
+            <ForeName>Davide</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stura</LastName>
+            <ForeName>Ilaria</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Public Health and Pediatric Sciences, School of Medicine, University of Turin, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alladio</LastName>
+            <ForeName>Eugenio</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Chemistry, University of Turin, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Migliaretti</LastName>
+            <ForeName>Giuseppe</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Chemistry, University of Turin, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>DE Luca</LastName>
+            <ForeName>Stefano</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bollito</LastName>
+            <ForeName>Enrico</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gned</LastName>
+            <ForeName>Dario</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, San Luigi Gonzaga Hospital, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>DI Dio</LastName>
+            <ForeName>Michele</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Surgery, SS Annunziata Hospital, Cosenza, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Autorino</LastName>
+            <ForeName>Riccardo</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, VCU Health, Richmond, VA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Manfredi</LastName>
+            <ForeName>Matteo</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fiori</LastName>
+            <ForeName>Cristian</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>01</Month>
+          <Day>10</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Italy</Country>
+        <MedlineTA>Minerva Urol Nephrol</MedlineTA>
+        <NlmUniqueID>101777299</NlmUniqueID>
+        <ISSNLinking>2724-6051</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Minerva Urol Nephrol. 2023 Apr;75(2):240-241. doi: 10.23736/S2724-6051.23.05308-9</RefSource>
+          <PMID Version="1">36867097</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011467" MajorTopicYN="N">Prostate</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="Y">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000081364" MajorTopicYN="Y">Multiparametric Magnetic Resonance Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061705" MajorTopicYN="N">Image-Guided Biopsy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>1</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>2</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>1</Month>
+          <Day>10</Day>
+          <Hour>11</Hour>
+          <Minute>26</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36626117</ArticleId>
+        <ArticleId IdType="pii">S2724-6051.22.05189-8</ArticleId>
+        <ArticleId IdType="doi">10.23736/S2724-6051.22.05189-8</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

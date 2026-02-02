@@ -1,0 +1,1922 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39692257</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>12</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>12</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1478-596X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>20</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The international journal of medical robotics + computer assisted surgery : MRCAS</Title>
+          <ISOAbbreviation>Int J Med Robot</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic Versus Open Distal Pancreatectomy: A Propensity Score Matching Analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e70025</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/rcs.70025</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Minimally invasive distal pancreatectomy offers recognised benefits over open surgery. Robotic surgery, with its shorter learning curve and technical advancements, presents a promising alternative to laparoscopy in managing pancreatic diseases.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This study enrolled consecutive patients undergoing distal pancreatectomy between January 2013 and May 2022. After propensity score matching, perioperative and medium-term outcomes were compared between robotic and open procedures.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Among 79 patients analysed, 50 were eligible after matching. Both groups showed similar demographics, with 11% experiencing grade III-IV complications, and one patient died within 90 days after surgery. Robotic surgery exhibited longer operating times but allowed for earlier refeeding, drain removal, canalisation, and shorter hospital stays compared with open surgery. Spleen preservation rates, postoperative pancreatic fistula occurrences and survival were comparable between the groups.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Overall, robotic and open distal pancreatectomy demonstrated similar outcomes, with robotic surgery offering advantages in certain postoperative parameters despite longer operation times.</AbstractText>
+          <CopyrightInformation>© 2024 John Wiley &amp; Sons Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bencini</LastName>
+            <ForeName>Lapo</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>General Surgery Division, Department of Surgical Oncology and Robotics, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moraldi</LastName>
+            <ForeName>Luca</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepato-Biliary-Pancreatic Surgery Division, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Miceli</LastName>
+            <ForeName>Elisangela</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>General Surgery Division, Department of Surgical Oncology and Robotics, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Risaliti</LastName>
+            <ForeName>Matteo</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0001-8476-2536</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Hepato-Biliary-Pancreatic Surgery Division, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tofani</LastName>
+            <ForeName>Lorenzo</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Statistic, Informatics, Application, University of Florence, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Buccianti</LastName>
+            <ForeName>Simone</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepato-Biliary-Pancreatic Surgery Division, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tirloni</LastName>
+            <ForeName>Luca</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-6060-2172</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Hepato-Biliary-Pancreatic Surgery Division, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gatto</LastName>
+            <ForeName>Chiara</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepato-Biliary-Pancreatic Surgery Division, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Minuzzo</LastName>
+            <ForeName>Alessio</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>General Surgery Division, Department of Surgical Oncology and Robotics, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bianchi</LastName>
+            <ForeName>William Tyler</ForeName>
+            <Initials>WT</Initials>
+            <AffiliationInfo>
+              <Affiliation>General Surgery Division, Department of Surgical Oncology and Robotics, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Coratti</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>General Surgery Division, Misericordia Hospital, Grosseto, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Taddei</LastName>
+            <ForeName>Antonio</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepato-Biliary-Pancreatic Surgery Division, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bartolini</LastName>
+            <ForeName>Ilenia</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hepato-Biliary-Pancreatic Surgery Division, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Int J Med Robot</MedlineTA>
+        <NlmUniqueID>101250764</NlmUniqueID>
+        <ISSNLinking>1478-5951</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010180" MajorTopicYN="Y">Pancreatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="Y">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="Y">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="Y">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010185" MajorTopicYN="N">Pancreatic Fistula</DescriptorName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010190" MajorTopicYN="N">Pancreatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">distal pancreatectomy</Keyword>
+        <Keyword MajorTopicYN="N">open technique</Keyword>
+        <Keyword MajorTopicYN="N">propensity score matching</Keyword>
+        <Keyword MajorTopicYN="N">robot technique</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>05</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>12</Hour>
+          <Minute>25</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>12</Hour>
+          <Minute>24</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>7</Hour>
+          <Minute>23</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39692257</ArticleId>
+        <ArticleId IdType="doi">10.1002/rcs.70025</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>References</Title>
+        <Reference>
+          <Citation>P.‐D. Chen, C.‐Y. Wu, R.‐H. Hu, et al., “Robotic Versus Open Hepatectomy for Hepatocellular Carcinoma: A Matched Comparison,” Annals of Surgical Oncology 24, no. 4 (2017): 1021–1028, https://doi.org/10.1245/s10434‐016‐5638‐9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>S. Chen, Q. Zhan, J. Chen, et al., “Robotic Approach Improves Spleen‐Preserving Rate and Shortens Postoperative Hospital Stay of Laparoscopic Distal Pancreatectomy: A Matched Cohort Study,” Surgical Endoscopy 29, no. 12 (2015): 3507–3518, https://doi.org/10.1007/s00464‐015‐4101‐5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Y. Shi, W. Wang, W. Qiu, et al., “Learning Curve From 450 Cases of Robot‐Assisted Pancreaticoduocectomy in a High‐Volume Pancreatic Center: Optimization of Operative Procedure and a Retrospective Study,” Annals of Surgery 274, no. 6 (2021): e1277–e1283, https://doi.org/10.1097/SLA.0000000000003664.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>D. Joyce, G. Morris‐Stiff, G. A. Falk, K. El‐Hayek, S. Chalikonda, and R. M. Walsh, “Robotic Surgery of the Pancreas,” World Journal of Gastroenterology 20 (2014): 14726–14732, https://doi.org/10.3748/wjg.v20.i40.14726.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>S. I. Felder, R. Ramanathan, A. E. Russo, et al., “Robotic Gastrointestinal Surgery,” Current Problems in Surgery 55, no. 6 (2018): 198–246, https://doi.org/10.1067/j.cpsurg.2018.07.001.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>C.‐K. Ho, J. Kleeff, H. Friess, and M. W. Büchler, “Complications of Pancreatic Surgery,” HPB 7, no. 2 (2005): 99–108, https://doi.org/10.1080/13651820510028936.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>J. T. McPhee, J. S. Hill, G. F. Whalen, et al., “Perioperative Mortality for Pancreatectomy: A National Perspective,” Annals of Surgery 246, no. 2 (2007): 246–253, https://doi.org/10.1097/01.sla.0000259993.17350.3a.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>J. van Hilst, T. de Rooij, M. Abu Hilal, et al., “Worldwide Survey on Opinions and Use of Minimally Invasive Pancreatic Resection,” HPB 19, no. 3 (2017): 190–204, https://doi.org/10.1016/j.hpb.2017.01.011.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>J. van Hilst, T. de Rooij, S. Klompmaker, et al., “Minimally Invasive Versus Open Distal Pancreatectomy for Ductal Adenocarcinoma (DIPLOMA): A Pan‐European Propensity Score Matched Study,” Annals of Surgery 269, no. 1 (2019): 10–17, https://doi.org/10.1097/SLA.0000000000002561.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>R. Venkat, B. H. Edil, R. D. Schulick, A. O. Lidor, M. A. Makary, and C. L. Wolfgang, “Laparoscopic Distal Pancreatectomy Is Associated With Significantly Less Overall Morbidity Compared to the Open Technique: A Systematic Review and Meta‐Analysis,” Annals of Surgery 255, no. 6 (2012): 1048–1059, https://doi.org/10.1097/SLA.0b013e318251ee09.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>A. Mehrabi, M. Hafezi, J. Arvin, et al., “A Systematic Review and Meta‐Analysis of Laparoscopic versus Open Distal Pancreatectomy for Benign and Malignant Lesions of the Pancreas: It’s Time to Randomize,” Surgery 157, no. 1 (2015): 45–55, https://doi.org/10.1016/j.surg.2014.06.081.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>T. de Rooij, J. van Hilst, H. van Santvoort, et al., “Minimally Invasive Versus Open Distal Pancreatectomy (LEOPARD): A Multicenter Patient‐Blinded Randomized Controlled Trial,” Annals of Surgery 269, no. 1 (2019): 2–9, https://doi.org/10.1097/SLA.0000000000002979.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>G. Fung, M. Sha, B. Kunduzi, F. Froghi, S. Rehman, and S. Froghi, “Learning Curves in Minimally Invasive Pancreatic Surgery: A Systematic Review,” Langenbeck's Archives of Surgery 407, no. 6 (2022): 2217–2232, https://doi.org/10.1007/s00423‐022‐02470‐3.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>H. S. Kim, J. S. Park, and D. S. Yoon, “True Learning Curve of Laparoscopic Spleen‐Preserving Distal Pancreatectomy With Splenic Vessel Preservation,” Surgical Endoscopy 33, no. 1 (2019): 88–93, https://doi.org/10.1007/s00464‐018‐6277‐y.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>D. Magge, W. Gooding, H. Choudry, et al., “Comparative Effectiveness of Minimally Invasive and Open Distal Pancreatectomy for Ductal Adenocarcinoma,” JAMA Surg 148, no. 6 (2013): 525–531, https://doi.org/10.1001/jamasurg.2013.1673.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>J.‐Y. Zhou, C. Xin, Y.‐P. Mou, et al., “Robotic Versus Laparoscopic Distal Pancreatectomy: A Meta‐Analysis of Short‐Term Outcomes,” PLoS One 11, no. 3 (2016): e0151189, https://doi.org/10.1371/journal.pone.0151189.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>J. Zhou, Z. Lv, H. Zou, et al., “Up‐To‐Date Comparison of Robotic‐Assisted Versus Open Distal Pancreatectomy: A PRISMA‐Compliant Meta‐Analysis,” Medicine 99, no. 23 (2020): e20435, https://doi.org/10.1097/MD.0000000000020435.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>P. Gavriilidis, C. Lim, B. Menahem, E. Lahat, C. Salloum, and D. Azoulay, “Robotic Versus Laparoscopic Distal Pancreatectomy ‐ The First Meta‐Analysis,” HPB 18, no. 7 (2016): 567–574, https://doi.org/10.1016/j.hpb.2016.04.008.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>S. Lof, N. van der Heijde, M. Abuawwad, et al., “Robotic Versus Laparoscopic Distal Pancreatectomy: Multicentre Analysis,” British Journal of Surgery 108, no. 2 (2021): 188–195, https://doi.org/10.1093/bjs/znaa039.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>W. S. Melvin, B. J. Needleman, K. R. Krause, and E. C. Ellison, “Robotic Resection of Pancreatic Neuroendocrine Tumor,” Journal of Laparoendoscopic &amp; Advanced Surgical Techniques 13, no. 1 (2003): 33–36, https://doi.org/10.1089/109264203321235449.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>P. C. Giulianotti, A. Coratti, M. Angelini, et al., “Robotics in General Surgery: Personal Experience in a Large Community Hospital,” Archives of surgery 138, no. 7 (2003 Jul): 777–784, https://doi.org/10.1001/archsurg.138.7.777.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>R. S. Hoehn, I. Nassour, M. A. Adam, S. Winters, A. Paniccia, and A. H. Zureikat, “National Trends in Robotic Pancreas Surgery,” Journal of Gastrointestinal Surgery 25, no. 4 (2021): 983–990, https://doi.org/10.1007/s11605‐020‐04591‐w.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>R. Liu, G. Wakabayashi, C. Palanivelu, et al., “International Consensus Statement on Robotic Pancreatic Surgery,” Hepatobiliary Surgery and Nutrition 8, no. 4 (2019): 345–360, https://doi.org/10.21037/hbsn.2019.07.08.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>D. Dindo, N. Demartines, and P.‐A. Clavien, “Classification of Surgical Complications: A New Proposal with Evaluation in a Cohort of 6336 Patients and Results of a Survey,” Annals of Surgery 240, no. 2 (2004): 205–213, https://doi.org/10.1097/01.sla.0000133083.54934.ae.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>C. Bassi, G. Marchegiani, C. Dervenis, et al., “The 2016 Update of the International Study Group (ISGPS) Definition and Grading of Postoperative Pancreatic Fistula: 11 Years After,” Surgery 161, no. 3 (2017): 584–591, https://doi.org/10.1016/j.surg.2016.11.014.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>M. N. Wente, J. A. Veit, C. Bassi, et al., “Postpancreatectomy Hemorrhage (PPH): An International Study Group of Pancreatic Surgery (ISGPS) Definition,” Surgery 142, no. 1 (2007): 20–25, https://doi.org/10.1016/j.surg.2007.02.001.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>M. N. Wente, C. Bassi, C. Dervenis, et al., “Delayed Gastric Emptying (DGE) After Pancreatic Surgery: A Suggested Definition by the International Study Group of Pancreatic Surgery (ISGPS),” Surgery 142, no. 5 (2007): 761–768, https://doi.org/10.1016/j.surg.2007.05.005.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>A. Parisi, F. Coratti, R. Cirocchi, et al., “Robotic Distal Pancreatectomy With or ithout Preservation of Spleen: A Technical Note,” World Journal of Surgical Oncology 12, no. 1 (2014): 295, https://doi.org/10.1186/1477‐7819‐12‐295.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>H. J. Asbun, A. L. Moekotte, F. L. Vissers, et al., “The Miami International Evidence‐Based Guidelines on Minimally Invasive Pancreas Resection,” Annals of Surgery 271 (2020): 1–14, https://doi.org/10.1097/SLA.0000000000003590.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>A. Rosales‐Velderrain, S. P. Bowers, R. F. Goldberg, et al., “National Trends in Resection of the Distal Pancreas,” World Journal of Gastroenterology 18 (2012): 4342–4349, https://doi.org/10.3748/wjg.v18.i32.4342.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>M. A. Adam, K. Choudhury, M. A. Dinan, et al., “Minimally Invasive Versus Open Pancreaticoduodenectomy for Cancer: Practice Patterns and Short‐Term Outcomes Among 7061 Patients,” Annals of Surgery 262, no. 2 (2015): 372–377, https://doi.org/10.1097/SLA.0000000000001055.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>H. S. Tran Cao, N. Lopez, D. C. Chang, et al., “Improved Perioperative Outcomes With Minimally Invasive Distal Pancreatectomy: Results From a Population‐Based Analysis,” JAMA Surgery 149, no. 3 (2014): 237–243, https://doi.org/10.1001/jamasurg.2013.3202.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>K. Nakata, S. Shikata, T. Ohtsuka, et al., “Minimally Invasive Preservation Versus Splenectomy During Distal Pancreatectomy: A Systematic Review and Meta‐Analysis,” Journal of Hepato‐Biliary‐Pancreatic Sciences 25, no. 11 (2018): 476–488, https://doi.org/10.1002/jhbp.569.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>K. L. J. Anderson, M. A. Adam, S. Thomas, S. A. Roman, and J. A. Sosa, “Impact of Minimally Invasive vs. Open Distal Pancreatectomy on Use of Adjuvant Chemoradiation for Pancreatic Adenocarcinoma,” American Journal of Surgery 213, no. 4 (2017): 601–605, https://doi.org/10.1016/j.amjsurg.2017.01.005.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>E. I. Benizri, A. Germain, A. Ayav, et al., “Short‐term Perioperative Outcomes After Robot‐Assisted and Laparoscopic Distal Pancreatectomy,” Journal of Robotic Surgery 8, no. 2 (2014): 125–132, https://doi.org/10.1007/s11701‐013‐0438‐8.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>K. C. Conlon, T. de Rooij, J. van Hilst, et al., “Minimally Invasive Pancreatic Resections: Cost and Value Perspectives,” HPB 19, no. 3 (2017): 225–233, https://doi.org/10.1016/j.hpb.2017.01.019.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>M. Daouadi, A. H. Zureikat, M. S. Zenati, et al., “Robot‐Assisted Minimally Invasive Distal Pancreatectomy Is Superior to the Laparoscopic Technique,” Annals of Surgery 257, no. 1 (2013): 128–132, https://doi.org/10.1097/SLA.0b013e31825fff08.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>R. Liu, G. Wakabayashi, H. J. Kim, et al., “International Consensus Statement on Robotic Hepatectomy Surgery in 2018,” World Journal of Gastroenterology 25, no. 12 (2019): 1432–1444, https://doi.org/10.3748/wjg.v25.i12.1432.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>D. Xourafas, S. W. Ashley, and T. E. Clancy, “Comparison of Perioperative Outcomes Between Open, Laparoscopic, and Robotic Distal Pancreatectomy: An Analysis of 1815 Patients From the ACS‐NSQIP Procedure‐Targeted Pancreatectomy Database,” Journal of Gastrointestinal Surgery 21, no. 9 (2017): 1442–1452, https://doi.org/10.1007/s11605‐017‐3463‐5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>I. T. Konstantinidis, A. Lewis, B. Lee, et al., “Minimally Invasive Distal Pancreatectomy: Greatest Benefit for the Frail,” Surgical Endoscopy 31, no. 12 (2017): 5234–5240, https://doi.org/10.1007/s00464‐017‐5593‐y.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>C. M. Kang, D. H. Kim, W. J. Lee, and H. S. Chi, “Conventional Laparoscopic and Robot‐Assisted Spleen‐Preserving Pancreatectomy: Does da Vinci Have Clinical Advantages?,” Surgical Endoscopy 25, no. 6 (2011): 2004–2009, https://doi.org/10.1007/s00464‐010‐1504‐1.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>G. Rompianesi, R. Montalti, L. Ambrosio, and R. I. Troisi, “Robotic Versus Laparoscopic Surgery for Spleen‐Preserving Distal Pancreatectomies: Systematic Review and Meta‐Analysis,” Journal of personalized medicine 11, no. 6 (2021): 552, https://doi.org/10.3390/jpm11060552.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>D. Riviere, K. S. Gurusamy, D. A. Kooby, et al., “Laparoscopic Versus Open Distal Pancreatectomy for Pancreatic Cancer,” Cochrane Database of Systematic Reviews 4 (2016): CD011391, https://doi.org/10.1002/14651858.CD011391.pub2.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>E. J. Patterson, M. Gagner, B. Salky, et al., “Laparoscopic Pancreatic Resection: Single‐Institution Experience of 19 Patients,” Journal of the American College of Surgeons 193, no. 3 (2001): 281–287, https://doi.org/10.1016/s1072‐7515(01)01018‐3.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">39692276</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>12</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>12</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2168-1813</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>59</Volume>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Dec</Month>
+              <Day>18</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Scandinavian journal of urology</Title>
+          <ISOAbbreviation>Scand J Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Exercise in primary care after robot-assisted radical cystectomy for urinary bladder cancer - effects on postoperative complications: a secondary analysis of a randomised controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>193-199</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.2340/sju.v59.42589</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">An exercise programme in primary care soon after radical cystectomy for urinary bladder cancer was previously evaluated regarding its effects on physical function. A secondary aim, presented herein, was to evaluate the programme in terms of its effect on postoperative complications.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Patients who were planned for robot-assisted radical cystectomy for urinary bladder cancer at Karolinska University Hospital between September 2019 and October 2022 were invited to participate. At discharge from hospital, they were randomised to intervention group including aerobic and resistance exercises with physiotherapist in primary care twice a week for 12 weeks and daily walks, or to unsupervised home-based exercise including daily walks. Readmission rates between 30 and 90 days after discharge, and complications according to Clavien Dindo were collected from the medical records and analysed.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Ninety patients were randomised, with a mean (SD) age of 72 (9) years. Readmission rates between 30 and 90 days showed no difference between the groups. For readmitted patients, the intervention group had significantly fewer complications reported as Clavien Dindo grade 2 compared to the control group.  Conclusion: An exercise programme in primary care soon after robot-assisted radical cystectomy appears to be safe for patients, as measured by hospital readmission rates.  Trial registration: Clinical Trials (NCT03998579).</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Porserud</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0001-9144-7905</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Physiotherapy, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden; Women's Health and Allied Health Professionals Theme, Medical Unit Occupational Therapy &amp; Physiotherapy, Karolinska University Hospital, Stockholm, Sweden. andrea.porserud@ki.se.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aly</LastName>
+            <ForeName>Markus</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0002-7602-9198</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm, Sweden; Theme Cancer, Patient Area Pelvic Cancer, Karolinska University Hospital, Stockholm, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Steinertz</LastName>
+            <ForeName>Hanna</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiotherapy, Danderyd Hospital, Danderyd, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rydwik</LastName>
+            <ForeName>Elisabeth</ForeName>
+            <Initials>E</Initials>
+            <Identifier Source="ORCID">0000-0003-0550-1675</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Physiotherapy, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden; Women's Health and Allied Health Professionals Theme, Medical Unit Occupational Therapy &amp; Physiotherapy, Karolinska University Hospital, Stockholm, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hagströmer</LastName>
+            <ForeName>Maria</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0002-4607-8677</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Physiotherapy, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden; Academic Primary Health Care Centre, Region Stockholm, Stockholm, Sweden; Department of Health Promoting Science, Sophiahemmet University, Stockholm, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT03998579</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Sweden</Country>
+        <MedlineTA>Scand J Urol</MedlineTA>
+        <NlmUniqueID>101587186</NlmUniqueID>
+        <ISSNLinking>2168-1805</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015653" MajorTopicYN="Y">Cystectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001749" MajorTopicYN="Y">Urinary Bladder Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="Y">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011320" MajorTopicYN="Y">Primary Health Care</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005081" MajorTopicYN="Y">Exercise Therapy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010359" MajorTopicYN="N">Patient Readmission</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>06</Month>
+          <Day>01</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>12</Hour>
+          <Minute>25</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>12</Hour>
+          <Minute>24</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>7</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39692276</ArticleId>
+        <ArticleId IdType="doi">10.2340/sju.v59.42589</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39692716</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>12</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>12</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1535-1386</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>106</Volume>
+            <Issue>24</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Dec</Month>
+              <Day>18</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of bone and joint surgery. American volume</Title>
+          <ISOAbbreviation>J Bone Joint Surg Am</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Evidence Versus Frenzy in Robotic Total Knee Arthroplasty: A Systematic Review Comparing News Media Claims to Randomized Controlled Trial Evidence.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>2384-2392</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.2106/JBJS.24.00264</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Robotic total knee arthroplasty (rTKA) has garnered increasing attention in recent years, both clinically and in the media. The purpose of this study was to compare the volume of and messaging in published randomized controlled trials (RCTs) versus media reports on the topic of rTKA.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This was a systematic review of RCTs and media articles on rTKA. PubMed, Embase, and MEDLINE were searched for RCTs; Factiva was searched for media articles. The number of publications of each type per year was recorded. Media articles were classified on the basis of their primary information source, their general tone toward rTKA, and the benefits and drawbacks of rTKA discussed. The volume, tone, and specific messaging around rTKA were compared between media articles and RCTs.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Fifteen RCTs and 460 media articles, published between 1991 and 2023, were included. The rates of both publication types increased over time, with more rapid increases in recent years. Ninety-five percent of media publications highlighted at least 1 benefit of rTKA. The most commonly cited benefits were more precise implant positioning (82.6%) and faster recovery (28.7%). Fewer than 7% of media publications (n = 30) mentioned downsides to rTKA. Overall, 89.3% of media articles presented a favorable view of rTKA. Ninety percent of RCTs reported that rTKA significantly outperformed manual TKA in terms of component positioning. Four of 6 RCTs reported significantly longer operative times with rTKA. Most RCTs found no significant differences in functional outcomes, opioid use, or complication rates.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The rate of publications on rTKA has increased substantially in media sources and peer-reviewed journals, with the volume of media articles far outpacing RCTs on the topic. More precise component positioning was the most consistently reported benefit of rTKA in RCTs. However, media sources also reported a range of other, less well-supported benefits, and employed overwhelmingly positive tones regarding rTKA, more so than is supported by mixed clinical results. Efforts to ensure that patients and health-care providers receive accurate and evidence-based information about new health technologies are critical.</AbstractText>
+          <AbstractText Label="CLINICAL RELEVANCE" NlmCategory="CONCLUSIONS">This study demonstrates a clear disparity between news media coverage of rTKA and the best clinical evidence available. This information can help to guide discussions between patients and surgeons regarding the use of rTKA.</AbstractText>
+          <CopyrightInformation>Copyright © 2024 by The Journal of Bone and Joint Surgery, Incorporated.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ekhtiari</LastName>
+            <ForeName>Seper</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0002-4571-9655</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Orthopaedic Surgery, McMaster University, Hamilton, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Orthopaedic Surgery, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Granovsky Gluskin Division of Orthopaedics, Sinai Health, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sun</LastName>
+            <ForeName>Bryan</ForeName>
+            <Initials>B</Initials>
+            <Identifier Source="ORCID">0009-0000-4513-2574</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Michael G. DeGroote School of Medicine, McMaster University, Hamilton, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sidhu</LastName>
+            <ForeName>Rabbea</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0009-0004-3383-7779</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Health Sciences, McMaster University, Hamilton, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ade-Conde</LastName>
+            <ForeName>Ayomide Michael</ForeName>
+            <Initials>AM</Initials>
+            <Identifier Source="ORCID">0000-0003-2424-9655</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chaudhry</LastName>
+            <ForeName>Harman</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">0000-0003-3584-8418</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Orthopaedic Surgery, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tomescu</LastName>
+            <ForeName>Sebastian</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0009-0009-0600-6626</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Orthopaedic Surgery, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ravi</LastName>
+            <ForeName>Bheeshma</ForeName>
+            <Initials>B</Initials>
+            <Identifier Source="ORCID">0000-0003-1829-6885</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Orthopaedic Surgery, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mundi</LastName>
+            <ForeName>Raman</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0002-5115-5227</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Orthopaedic Surgery, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D000078182">Systematic Review</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>09</Month>
+          <Day>19</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Bone Joint Surg Am</MedlineTA>
+        <NlmUniqueID>0014030</NlmUniqueID>
+        <ISSNLinking>0021-9355</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019645" MajorTopicYN="Y">Arthroplasty, Replacement, Knee</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016032" MajorTopicYN="Y">Randomized Controlled Trials as Topic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008402" MajorTopicYN="Y">Mass Media</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019317" MajorTopicYN="N">Evidence-Based Medicine</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>Disclosure: The Disclosure of Potential Conflicts of Interest forms are provided with the online version of the article (http://links.lww.com/JBJS/I199).</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>12</Hour>
+          <Minute>25</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>12</Hour>
+          <Minute>24</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>10</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39692716</ArticleId>
+        <ArticleId IdType="doi">10.2106/JBJS.24.00264</ArticleId>
+        <ArticleId IdType="pii">00004623-202412180-00013</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Kurtz S, Ong K, Lau E, Mowat F, Halpern M. Projections of primary and revision hip and knee arthroplasty in the United States from 2005 to 2030. J Bone Joint Surg Am. 2007 Apr;89(4):780-5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Choi YJ, Ra HJ. Patient Satisfaction after Total Knee Arthroplasty. Knee Surg Relat Res. 2016 Mar;28(1):1-15.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Argenson JN, Boisgard S, Parratte S, Descamps S, Bercovy M, Bonnevialle P, Briard JL, Brilhault J, Chouteau J, Nizard R, Saragaglia D, Servien E; French Society of Orthopedic and Traumatologic Surgery (SOFCOT). Survival analysis of total knee arthroplasty at a minimum 10 years’ follow-up: a multicenter French nationwide study including 846 cases. Orthop Traumatol Surg Res. 2013 Jun;99(4):385-90.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bourne RB, Chesworth BM, Davis AM, Mahomed NN, Charron KDJ. Patient satisfaction after total knee arthroplasty: who is satisfied and who is not? Clin Orthop Relat Res. 2010 Jan;468(1):57-63.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jakopec M, Harris SJ, Rodriguez y Baena F, Gomes P, Cobb J, Davies BL. The first clinical application of a “hands-on” robotic knee surgery system. Comput Aided Surg. 2001;6(6):329-39.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hampp EL, Chughtai M, Scholl LY, Sodhi N, Bhowmik-Stoker M, Jacofsky DJ, Mont MA. Robotic-Arm Assisted Total Knee Arthroplasty Demonstrated Greater Accuracy and Precision to Plan Compared with Manual Techniques. J Knee Surg. 2019 Mar;32(3):239-50.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kayani B, Konan S, Pietrzak JRT, Haddad FS. Iatrogenic Bone and Soft Tissue Trauma in Robotic-Arm Assisted Total Knee Arthroplasty Compared With Conventional Jig-Based Total Knee Arthroplasty: A Prospective Cohort Study and Validation of a New Classification System. J Arthroplasty. 2018 Aug;33(8):2496-501.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Haffar A, Krueger CA, Goh GS, Lonner JH. Total Knee Arthroplasty With Robotic Surgical Assistance Results in Less Physician Stress and Strain Than Conventional Methods. J Arthroplasty. 2022 Jun;37(6S):S193-200.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Clark G, Steer R, Tippett B, Wood D. Short-Term Benefits of Robotic Assisted Total Knee Arthroplasty Over Computer Navigated Total Knee Arthroplasty Are Not Sustained With No Difference in Postoperative Patient-Reported Outcome Measures. Arthroplast Today. 2022 Jan 12;14:210-215.e0.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mancino F, Cacciola G, Malahias MA, De Filippis R, De Marco D, Di Matteo V, A G, Sculco PK, Maccauro G, De Martino I. What are the benefits of robotic-assisted total knee arthroplasty over conventional manual total knee arthroplasty? A systematic review of comparative studies. Orthop Rev (Pavia). 2020 Jun 25;12(1S)(Suppl 1):8657.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen Z, Bhowmik-Stoker M, Palmer M, Coppolecchia A, Harder B, Mont MA, Marchand RC. Time-Based Learning Curve for Robotic-Assisted Total Knee Arthroplasty: A Multicenter Study. J Knee Surg. 2023 Jul;36(8):873-7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Edge R, Farrah K. Robotic-Assisted Surgical Systems for Knee Arthroplasty: CADTH Health Technology Review. CADTH Health Technology Review. 2022 Mar;2(3).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ruangsomboon P, Ruangsomboon O, Pornrattanamaneewong C, Narkbunnam R, Chareancholvanich K. Clinical and radiological outcomes of robotic-assisted versus conventional total knee arthroplasty: a systematic review and meta-analysis of randomized controlled trials. Acta Orthop. 2023 Feb 20;94:60-79.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Riantho A, Butarbutar JCP, Fidiasrianto K, Elson E, Irvan I, Haryono H, Prasetio JN. Radiographic Outcomes of Robot-Assisted Versus Conventional Total Knee Arthroplasty: A Systematic Review and Meta-Analysis of Randomized Clinical Trials. JB JS Open Access. 2023 May 15;8(2):e23.00010.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bensa A, Sangiorgio A, Deabate L, Illuminati A, Pompa B, Filardo G. Robotic-assisted mechanically aligned total knee arthroplasty does not lead to better clinical and radiological outcomes when compared to conventional TKA: a systematic review and meta-analysis of randomized controlled trials. Knee Surg Sports Traumatol Arthrosc. 2023 Nov;31(11):4680-91.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brodie M, Hamel EC, Altman DE, Blendon RJ, Benson JM. Health news and the American public, 1996-2002. J Health Polit Policy Law. 2003 Oct;28(5):927-50.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Higgins J, Thomas J, Chandler J, et al. Cochrane Handbook for Systematic Reviews of Interventions Version 6.0. 2019. Accessed 2024 Jul 26. https://training.cochrane.org/handbook/archive/v6</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, Shamseer L, Tetzlaff JM, Akl EA, Brennan SE, Chou R, Glanville J, Grimshaw JM, Hróbjartsson A, Lalu MM, Li T, Loder EW, Mayo-Wilson E, McDonald S, McGuinness LA, Stewart LA, Thomas J, Tricco AC, Welch VA, Whiting P, Moher D. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021 Mar 29;372:n71.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Leroux J, McCullogh E. Systematic news media scanning and synthesis: creating a dataset of emergent initiatives and localized responses to public washroom provision in Canada during the COVID-19 pandemic. Health Promot Chronic Dis Prev Can. 2023 Aug;43(8):385-91.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Higgins JPT, Savović J, Page MJ, Sterne JAC. RoB 2: A Revised Cochrane risk of bias tool for randomized trials. Accessed 2024 Jul 30. https://methods.cochrane.org/bias/resources/rob-2-revised-cochrane-risk-bias-tool-randomized-trials</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li Z, Chen X, Wang X, Zhang B, Wang W, Fan Y, Yan J, Zhang X, Zhao Y, Lin Y, Liu J, Lin J. HURWA robotic-assisted total knee arthroplasty improves component positioning and alignment – A prospective randomized and multicenter study. J Orthop Translat. 2022 Feb 16;33:31-40.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kayani B, Tahmassebi J, Ayuob A, Konan S, Oussedik S, Haddad FS. A prospective randomized controlled trial comparing the systemic inflammatory response in conventional jig-based total knee arthroplasty versus robotic-arm assisted total knee arthroplasty. Bone Joint J. 2021 Jan;103-B(1):113-22.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park SE, Lee CT. Comparison of robotic-assisted and conventional manual implantation of a primary total knee arthroplasty. J Arthroplasty. 2007 Oct;22(7):1054-9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu J, Li L, Fu J, Xu C, Ni M, Chai W, Hao L, Zhang G, Chen J. Early Clinical and Radiographic Outcomes of Robot-Assisted Versus Conventional Manual Total Knee Arthroplasty: A Randomized Controlled Study. Orthop Surg. 2022 Sep;14(9):1972-80.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Thiengwittayaporn S, Uthaitas P, Senwiruch C, Hongku N, Tunyasuwanakul R. Imageless robotic-assisted total knee arthroplasty accurately restores the radiological alignment with a short learning curve: a randomized controlled trial. Int Orthop. 2021 Nov;45(11):2851-8.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu Z, Li H, Liu Z, Li J, Zhang J, Wang M, Zhang Y. Robot-assisted surgery in total knee arthroplasty: trauma maker or trauma savior? A prospective, randomized cohort study. Burns Trauma. 2022 Sep 16;10:tkac034.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Song EK, Seon JK, Yim JH, Netravali NA, Bargar WL. Robotic-assisted TKA reduces postoperative alignment outliers and improves gap balance compared to conventional TKA. Clin Orthop Relat Res. 2013 Jan;471(1):118-26.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Vaidya NV, Deshpande AN, Panjwani T, Patil R, Jaysingani T, Patil P. Robotic-assisted TKA leads to a better prosthesis alignment and a better joint line restoration as compared to conventional TKA: a prospective randomized controlled trial. Knee Surg Sports Traumatol Arthrosc. 2022 Feb;30(2):621-6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cho KJ, Seon JK, Jang WY, Park CG, Song EK. Robotic versus conventional primary total knee arthroplasty: clinical and radiological long-term results with a minimum follow-up of ten years. Int Orthop. 2019 Jun;43(6):1345-54.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sun M, Yang L, Guo L, He R. [Effect of robotic-arm assisted total knee arthroplasty on femoral rotation alignment and its short-term effectiveness]. Zhongguo Xiu Fu Chong Jian Wai Ke Za Zhi. 2021 Jul 15;35(7):807-12. Chinese.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Song EK, Seon JK, Park SJ, Jung WB, Park HW, Lee GW. Simultaneous bilateral total knee arthroplasty with robotic and conventional techniques: a prospective, randomized study. Knee Surg Sports Traumatol Arthrosc. 2011 Jul;19(7):1069-76.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liow MHL, Goh GSH, Wong MK, Chin PL, Tay DKJ, Yeo SJ. Robotic-assisted total knee arthroplasty may lead to improvement in quality-of-life measures: a 2-year follow-up of a prospective randomized trial. Knee Surg Sports Traumatol Arthrosc. 2017 Sep;25(9):2942-51.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim YH, Yoon SH, Park JW. Does Robotic-assisted TKA Result in Better Outcome Scores or Long-Term Survivorship Than Conventional TKA? A Randomized, Controlled Trial. Clin Orthop Relat Res. 2020 Feb;478(2):266-75.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lychagin A, Elizarov M, Gritsyuk A, et al. Robot-assisted Knee Arthroplasty: Randomized Clinical Trial. Open Access Maced J Med Sci. 2022;10(B).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fontalis A, Kayani B, Asokan A, Haddad IC, Tahmassebi J, Konan S, Oussedik S, Haddad FS. Inflammatory Response in Robotic-Arm-Assisted Versus Conventional Jig-Based TKA and the Correlation with Early Functional Outcomes: Results of a Prospective Randomized Controlled Trial. J Bone Joint Surg Am. 2022;104(21).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gazendam A, Ekhtiari S, Wong E, et al. The “infodemic” of Journal Publication Associated with the Novel Coronavirus Disease. J Bone Joint Surg Am. 2020;102(13).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hua Y, Salcedo J. Cost-effectiveness analysis of robotic-arm assisted total knee arthroplasty. PLoS One. 2022 Nov 28;17(11):e0277980.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang JJY, Chen JY, Tay DKJ, Pang HN, Yeo SJ, Liow MHL. Cost-Effectiveness of Robot-Assisted Total Knee Arthroplasty: A Markov Decision Analysis. J Arthroplasty. 2023 Aug;38(8):1434-7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ficko Z, Koo K, Hyams ES. High tech or high risk? An analysis of media reports about robotic surgery. J Robot Surg. 2017 Jun;11(2):211-6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Clarke MA, Moore JL, Steege LM, Koopman RJ, Belden JL, Canfield SM, Meadows SE, Elliott SG, Kim MS. Health information needs, sources, and barriers of primary care patients to achieve patient-centered care: A literature review. Health Informatics J. 2016 Dec;22(4):992-1016.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Borges do Nascimento IJ, Pizarro AB, Almeida JM, Azzopardi-Muscat N, Gonçalves MA, Björklund M, Novillo-Ortiz D. Infodemics and health misinformation: a systematic review of reviews. Bull World Health Organ. 2022 Sep 1;100(9):544-61.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Suarez-Lledo V, Alvarez-Galvez J. Prevalence of health misinformation on social media: Systematic review. J Med Internet Res. 2021 Jan 20;23(1):e17187.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39699618</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>12</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>12</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1128-045X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>29</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Dec</Month>
+              <Day>19</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Techniques in coloproctology</Title>
+          <ISOAbbreviation>Tech Coloproctol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Risk factors for rectal perforation during presacral cyst removal: a comparison between transabdominal, perineal, and combined surgical approaches.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>23</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10151-024-03071-6</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">This study aimed to evaluate the risk factors associated with rectal perforation during various surgical interventions for presacral cysts.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This retrospective study included 73 participants from 2013 to 2023 who met the inclusion criteria. Participants underwent surgical treatments through transabdominal, perineal, or combined approaches. Preoperative assessments of presacral cysts were performed using computed tomography (CT) and magnetic resonance imaging (MRI). Biannual postoperative follow-ups involved ultrasound, CT, or MRI scans. Data analysis was conducted using RStudio software.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The incidence of rectal perforation did not differ significantly across surgical approaches [combined 2 (18%) vs. perineal 3 (8.8%) vs. transabdominal 4 (14%), P = 0.7]. Cyst capsule rupture was more frequent in the transabdominal and combined approaches [17 (61%) and 5 (45%), respectively] versus perineal approach [8 (24%), P = 0.011]. The laparoscopic subgroup experienced a higher rate of cyst rupture compared to the robotic subgroup, with rectum perforation cases only correlating with ruptures in the robotic subgroup. Intraoperative complications prompted conversions to open surgery in the laparoscopic group, unlike in the robotic group. Postoperative follow-up revealed no mortalities, with malignant transformation observed in two cases and local recurrences in three. While univariate analysis did not identify significant predictors of rectal wall perforation, multivariate analysis suggested that the risk of perforation increased with cyst rupture and decreased when the cyst was located further from the anal verge.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The study identifies two primary risk factors for rectal wall perforation: the cyst capsule integrity and the cyst-rectum shortest distance, with the latter being accurately determined by MRI. These findings may inform further surgical planning and risk assessment.</AbstractText>
+          <CopyrightInformation>© 2024. Springer Nature Switzerland AG.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Tsarkov</LastName>
+            <ForeName>P</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-7134-6821</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinic of Colorectal and Minimally Invasive Surgery, Sechenov University, Moscow, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Barkhatov</LastName>
+            <ForeName>S</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-4702-5558</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinic of Colorectal and Minimally Invasive Surgery, Sechenov University, Moscow, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shlyk</LastName>
+            <ForeName>D</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-4260-895X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinic of Colorectal and Minimally Invasive Surgery, Sechenov University, Moscow, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Safyanov</LastName>
+            <ForeName>L</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0009-0008-6273-230X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinic of Colorectal and Minimally Invasive Surgery, Sechenov University, Moscow, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Balaban</LastName>
+            <ForeName>V</ForeName>
+            <Initials>V</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-7226-4641</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinic of Colorectal and Minimally Invasive Surgery, Sechenov University, Moscow, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>M</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-0601-4713</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Institute for Urology and Reproductive Health, Sechenov University, Moscow, Russia. hemingze97@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>19</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Italy</Country>
+        <MedlineTA>Tech Coloproctol</MedlineTA>
+        <NlmUniqueID>9613614</NlmUniqueID>
+        <ISSNLinking>1123-6337</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007416" MajorTopicYN="Y">Intestinal Perforation</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010502" MajorTopicYN="Y">Perineum</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000293" MajorTopicYN="N">injuries</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003560" MajorTopicYN="Y">Cysts</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007431" MajorTopicYN="Y">Intraoperative Complications</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012007" MajorTopicYN="Y">Rectum</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000293" MajorTopicYN="N">injuries</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000005" MajorTopicYN="N">Abdomen</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012002" MajorTopicYN="N">Rectal Diseases</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015994" MajorTopicYN="N">Incidence</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cyst capsule rupture</Keyword>
+        <Keyword MajorTopicYN="N">Presacral cysts</Keyword>
+        <Keyword MajorTopicYN="N">Rectal wall perforation</Keyword>
+        <Keyword MajorTopicYN="N">Tailgut cyst</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Conflict of interest: The authors declare that they have no conflict of interest. Ethical approval: The study was conducted in accordance with the Declaration of Helsinki, and approved by the Local Ethics Committee of SECHENOV UNIVERSITY (#24-23 on 7 February 2023). Informed consent: Informed consent was obtained from all subjects involved in the study.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>05</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>19</Day>
+          <Hour>12</Hour>
+          <Minute>22</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>19</Day>
+          <Hour>12</Hour>
+          <Minute>21</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>19</Day>
+          <Hour>11</Hour>
+          <Minute>4</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39699618</ArticleId>
+        <ArticleId IdType="doi">10.1007/s10151-024-03071-6</ArticleId>
+        <ArticleId IdType="pii">10.1007/s10151-024-03071-6</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Glasgow SC, Birnbaum EH, Lowney JK et al (2005) Retrorectal tumors: a diagnostic and therapeutic challenge. Dis Colon Rectum 48(8):1581–1587. https://doi.org/10.1007/s10350-005-0048-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10350-005-0048-2</ArticleId>
+            <ArticleId IdType="pubmed">15937630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jao SW, Beart RW Jr, Spencer RJ, Reiman HM, Ilstrup DM (1985) Retrorectal tumors. Mayo Clinic experience, 1960–1979. Dis Colon Rectum 28(9):644–652. https://doi.org/10.1007/bf02553440</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/bf02553440</ArticleId>
+            <ArticleId IdType="pubmed">2996861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hassan I, Wietfeldt ED (2009) Presacral tumors: diagnosis and management. Clin Colon Rectal Surg 22(2):84–93. https://doi.org/10.1055/s-0029-1223839</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1055/s-0029-1223839</ArticleId>
+            <ArticleId IdType="pubmed">20436832</ArticleId>
+            <ArticleId IdType="pmcid">2780241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neale JA (2015) Retrorectal tumors. Semin Colon Rectal Surg 26(2):73–83. https://doi.org/10.1053/j.scrs.2015.01.005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1053/j.scrs.2015.01.005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hobson KG, Ghaemmaghami V, Roe JP, Goodnight JE, Khatri VP (2005) Tumors of the retrorectal space. Dis Colon Rectum 48(10):1964–1974. https://doi.org/10.1007/s10350-005-0122-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10350-005-0122-9</ArticleId>
+            <ArticleId IdType="pubmed">15981068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Singer MA, Cintron JR, Martz JE, Schoetz DJ, Abcarian H (2003) Retrorectal cyst: a rare tumor frequently misdiagnosed. J Am Coll Surg 196(6):880–886. https://doi.org/10.1016/s1072-7515(03)00133-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s1072-7515(03)00133-9</ArticleId>
+            <ArticleId IdType="pubmed">12788424</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang DM, Park CH, Jin W et al (2005) Tailgut cyst: MRI evaluation. AJR Am J Roentgenol 184(5):1519–1523. https://doi.org/10.2214/ajr.184.5.01841519</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2214/ajr.184.5.01841519</ArticleId>
+            <ArticleId IdType="pubmed">15855109</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim MJ, Kim WH, Kim NK et al (1997) Tailgut cyst: multilocular cystic appearance on MRI. J Comput Assist Tomogr 21(5):731–732. https://doi.org/10.1097/00004728-199709000-00011</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/00004728-199709000-00011</ArticleId>
+            <ArticleId IdType="pubmed">9294562</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mastoraki A, Giannakodimos I, Panagiotou K et al (2021) Epidemiology, diagnostic approach and therapeutic management of tailgut cysts: a systematic review. Int J Clin Pract 75(11):e14546. https://doi.org/10.1111/ijcp.14546</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/ijcp.14546</ArticleId>
+            <ArticleId IdType="pubmed">34137134</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woodfield JC, Chalmers AG, Phillips N, Sagar PM (2008) Algorithms for the surgical management of retrorectal tumours. Br J Surg 95(2):214–221. https://doi.org/10.1002/bjs.5931</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/bjs.5931</ArticleId>
+            <ArticleId IdType="pubmed">17933000</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang G, Miao C (2023) Chinese expert consensus on standardized treatment for presacral cysts. Gastroenterol Rep 11:goac079. https://doi.org/10.1093/gastro/goac079</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/gastro/goac079</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Niu B (2020) Clinical characteristics and surgical treatment of presacral cysts. Acad J Gastroenterol Hepatol. https://doi.org/10.33552/AJGH.2020.02.000534</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.33552/AJGH.2020.02.000534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sakr A, Kim HS, Han YD et al (2019) Single-center experience of 24 cases of tailgut cyst. Ann Coloproctol 35(5):268–274. https://doi.org/10.3393/ac.2018.12.18</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3393/ac.2018.12.18</ArticleId>
+            <ArticleId IdType="pubmed">31726003</ArticleId>
+            <ArticleId IdType="pmcid">6863012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Z, Lu M (2021) Presacral tumor: insights from a decade’s experience of this rare and diverse disease. Front Oncol 11:639028. https://doi.org/10.3389/fonc.2021.639028</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fonc.2021.639028</ArticleId>
+            <ArticleId IdType="pubmed">33796466</ArticleId>
+            <ArticleId IdType="pmcid">8008122</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sjoberg DD, Whiting KA, Curry M, Lavery JA, Larmarange JJRJ. Reproducible summary tables with the gtsummary package. R Journal. 2021;13:570</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liang F, Li J, Yu K, Zhang K, Liu T, Li J (2020) Tailgut cysts with malignant transformation: features, diagnosis, and treatment. Med Sci Monit Int Med J Exp Clin Res 26:e919803. https://doi.org/10.12659/msm.919803</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12659/msm.919803</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shetty AS, Loch R, Yoo N, Mellnick V, Fowler K, Narra V (2015) Imaging of tailgut cysts. Abdom Imaging 40(7):2783–2795. https://doi.org/10.1007/s00261-015-0463-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00261-015-0463-3</ArticleId>
+            <ArticleId IdType="pubmed">26017036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pappalardo G, Frattaroli FM, Casciani E et al (2009) Retrorectal tumors: the choice of surgical approach based on a new classification. Am Surg 75(3):240–248</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/000313480907500311</ArticleId>
+            <ArticleId IdType="pubmed">19350861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Perry EG, Hinrichs B (1989) A new translation of professor Dr P. Kraske’s zur exstirpation hochsitzender mastdarmkrebse. Aust N Z J Surg 59(5):421–424. https://doi.org/10.1111/j.1445-2197.1989.tb01599.x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1445-2197.1989.tb01599.x</ArticleId>
+            <ArticleId IdType="pubmed">2658941</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stegnii KV, Rakhmonov ZA, Goncharuk RA et al (2023) Surgery of presacral cysts: case series analysis and literature review. Pac Med J. 14:7828</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rompen IF, Scheiwiller A, Winiger A, Metzger J, Gass JM (2021) Robotic-assisted laparoscopic resection of tailgut cysts. JSLS J Soc Laparoendosc Surg. https://doi.org/10.4293/jsls.2021.00035</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4293/jsls.2021.00035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou J, Zhao B, Qiu H et al (2020) Laparoscopic resection of large retrorectal developmental cysts in adults: single-centre experiences of 20 cases. J Minim Access Surg 16(2):152–159. https://doi.org/10.4103/jmas.JMAS_214_18</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4103/jmas.JMAS_214_18</ArticleId>
+            <ArticleId IdType="pubmed">30416141</ArticleId>
+            <ArticleId IdType="pmcid">7176010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chéreau N, Lefevre JH, Meurette G et al (2013) Surgical resection of retrorectal tumours in adults: long-term results in 47 patients. Colorectal Dis(8):e476–e482. https://doi.org/10.1111/codi.12255</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/codi.12255</ArticleId>
+            <ArticleId IdType="pubmed">23601092</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mullaney TG, Lightner AL, Johnston M, Kelley SR, Larson DW, Dozois EJ (2018) A systematic review of minimally invasive surgery for retrorectal tumors. Tech Coloproctol 22(4):255–263. https://doi.org/10.1007/s10151-018-1781-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10151-018-1781-6</ArticleId>
+            <ArticleId IdType="pubmed">29679245</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">39699804</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>12</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>12</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1863-2491</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>19</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Dec</Month>
+              <Day>19</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of robotic surgery</Title>
+          <ISOAbbreviation>J Robot Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic vs laparoscopic distal gastrectomy with Billroth I and II reconstruction: a systematic review and meta-analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>30</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11701-024-02193-1</ELocationID>
+        <Abstract>
+          <AbstractText>Robotic distal gastrectomy (RDG) has been increasingly used for the treatment of gastric cancer, however, its comparative safety and efficacy against the laparoscopic approach (LDG), remains unclear, especially when accounting the reconstruction method as a confounder. This systematic review and meta-analysis aims to evaluate the short-term outcomes of RDG vs LDG In patIents with gastric cancer, undergoing Billroth I and II reconstruction. A systematic review was conducted in accordance with PRISMA guidelines. We searched Pubmed, Scopus and the Cochrane Library, up to October 22nd, 2024. The primary outcomes analyzed were the blood loss, operative duration, and the number of harvested lymph nodes and the secondary outcomes included overall complications, time to oral intake, duration of hospitalization and time to first flatus. Random-effects models were used to calculate weighted mean differences (WMD) and Odds ratios (OR) with 95% confidence intervals (CI), and heterogeneity was assessed using the I<sup>2</sup> statistic. P values were also calculated. Sensitivity analysis was performed for outcomes with moderate to high heterogeneity. Five studies were included, involving 811 patients (RDG: n = 289, LDG: n = 522). RDG was associated with a significantly longer operative duration compared to LDG (WMD = 34.14 min, 95%CI 10.92 to 57.35, P = 0.004, I<sup>2</sup> = 91%). RDG patients initiated oral intake earlier (WMD = -0.20 days, 95%CI -0.39 to -0.01, P = 0.03, I<sup>2</sup> = 45%). RDG resulted in shorter hospital stays (WMD = -1.48 days, 95%CI -2.91 to -0.04, P = 0.04, I<sup>2</sup> = 86%). RDG patients had a faster return to bowel function (time to first flatus) (WMD = -0.33 days, 95%CI -0.50 to -0.15, P = 0.00003, I<sup>2</sup> = 57%). No statistically significant differences were observed regarding blood loss between RDG and LDG (WMD = -3.88 mL, 95%CI -21.63 to 13.87, P = 0.67, I<sup>2</sup> = 78%). There was no statistically significant difference in complication rates (OR = 0.61, 95%CI 0.36 to 1.03, P = 0.06, I<sup>2</sup> = 0%). No significant differences were observed regarding the number of lymph nodes harvested (WMD = -0.49, 95%CI -3.02 to 2.04, P = 0.70, I<sup>2</sup> = 24%). Sensitivity analysis confirmed the robustness of the findings of operative duration and time to first flatus. RDG with BI/ BII requires longer operative duration, but it associated with faster recovery compared to LDG. No differences were observed between RDG and LDG with regards to overall complications, number of harvested lymph nodes and blood loss, showing that RDG is as safe and oncological equivalent to LDG. Future studies particularly, multi-center randomized clinical trials, should have a longer follow up period and examine the type of reconstruction separately. PROSPERO registration: CRD42024605895.</AbstractText>
+          <CopyrightInformation>© 2024. The Author(s), under exclusive licence to Springer-Verlag London Ltd., part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kossenas</LastName>
+            <ForeName>Konstantinos</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Basic and Clinical Sciences, University of Nicosia Medical School, 21 Ilia Papakyriakou, 2414 Engomi, P.O. Box 24005, 1700, Nicosia, Cyprus. kossenaswork@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moutzouri</LastName>
+            <ForeName>Olga</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Basic and Clinical Sciences, University of Nicosia Medical School, 21 Ilia Papakyriakou, 2414 Engomi, P.O. Box 24005, 1700, Nicosia, Cyprus.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Georgopoulos</LastName>
+            <ForeName>Filippos</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Head of Gastroenterology and Hepatology, Al Zahra Hospital, Dubai, UAE.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D000078182">Systematic Review</PublicationType>
+          <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>19</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Robot Surg</MedlineTA>
+        <NlmUniqueID>101300401</NlmUniqueID>
+        <ISSNLinking>1863-2483</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D005743" MajorTopicYN="Y">Gastrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013274" MajorTopicYN="Y">Stomach Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005763" MajorTopicYN="Y">Gastroenterostomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="Y">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016063" MajorTopicYN="N">Blood Loss, Surgical</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Gastric cancer</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopic distal gastrectomy</Keyword>
+        <Keyword MajorTopicYN="N">Minimally invasive surgery</Keyword>
+        <Keyword MajorTopicYN="N">Robotic distal gastrectomy</Keyword>
+        <Keyword MajorTopicYN="N">Stomach</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Conflict of interest: The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>06</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>19</Day>
+          <Hour>18</Hour>
+          <Minute>22</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>19</Day>
+          <Hour>12</Hour>
+          <Minute>21</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>19</Day>
+          <Hour>11</Hour>
+          <Minute>24</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39699804</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11701-024-02193-1</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11701-024-02193-1</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ilic M, Ilic I (2022) Epidemiology of stomach cancer. World J Gastroenterol 28:1187–1203. https://doi.org/10.3748/wjg.v28.i12.1187</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3748/wjg.v28.i12.1187</ArticleId>
+            <ArticleId IdType="pubmed">35431510</ArticleId>
+            <ArticleId IdType="pmcid">8968487</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, Zhang P-S, Rong Z-Y, Huang C (2021) One stomach, two subtypes of carcinoma—the differences between distal and proximal gastric cancer. Gastroenterology Report 9:489–504. https://doi.org/10.1093/gastro/goab050</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/gastro/goab050</ArticleId>
+            <ArticleId IdType="pubmed">34925847</ArticleId>
+            <ArticleId IdType="pmcid">8677565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crew KD, Neugut AI (2006) Epidemiology of gastric cancer. World J Gastroenterol 12:354–362. https://doi.org/10.3748/wjg.v12.i3.354</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3748/wjg.v12.i3.354</ArticleId>
+            <ArticleId IdType="pubmed">16489633</ArticleId>
+            <ArticleId IdType="pmcid">4066052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang C, Liu H, Hu Y et al (2022) Laparoscopic vs open distal gastrectomy for locally advanced gastric cancer: five-year outcomes from the CLASS-01 randomized clinical trial. JAMA Surg 157:9–17. https://doi.org/10.1001/jamasurg.2021.5104</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jamasurg.2021.5104</ArticleId>
+            <ArticleId IdType="pubmed">34668963</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Son S-Y, Hur H, Hyung WJ et al (2022) Laparoscopic vs open distal gastrectomy for locally advanced gastric cancer: 5-year outcomes of the KLASS-02 randomized clinical trial. JAMA Surg 157:879–886. https://doi.org/10.1001/jamasurg.2022.2749</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jamasurg.2022.2749</ArticleId>
+            <ArticleId IdType="pubmed">35857305</ArticleId>
+            <ArticleId IdType="pmcid">9301593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hakkenbrak NA-G, Jansma EP, van der Wielen N, van der Peet DL, Straatman J (2022) Laparoscopic versus open distal gastrectomy for gastric cancer: a systematic review and meta-analysis. Surg 171:1552–1561. https://doi.org/10.1016/j.surg.2021.11.035</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2021.11.035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yan Y, Ou C, Cao S, Hua Y, Sha Y (2023) Laparoscopic vs open distal gastrectomy for locally advanced gastric cancer: a systematic review and meta-analysis of randomized controlled trials. Front Surg. https://doi.org/10.3389/fsurg.2023.1127854</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fsurg.2023.1127854</ArticleId>
+            <ArticleId IdType="pubmed">38343440</ArticleId>
+            <ArticleId IdType="pmcid">10611458</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu X, Lei W, Zhu L, Qi F, Liu Y, Feng Q (2024) Robotic versus laparoscopic distal gastrectomy for gastric cancer: a systematic review and meta-analysis. Asian J Surg. https://doi.org/10.1016/j.asjsur.2024.06.051</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.asjsur.2024.06.051</ArticleId>
+            <ArticleId IdType="pubmed">39672718</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gong S, Li X, Tian H et al (2022) Clinical efficacy and safety of robotic distal gastrectomy for gastric cancer: a systematic review and meta-analysis. Surg Endosc 36:2734–2748. https://doi.org/10.1007/s00464-021-08994-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-021-08994-x</ArticleId>
+            <ArticleId IdType="pubmed">35020057</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chan KS, Oo AM (2023) Establishing the learning curve of laparoscopic and robotic distal gastrectomy: a systematic review and meta-regression analysis. J Gastrointest Surg 27:2946–2982. https://doi.org/10.1007/s11605-023-05812-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11605-023-05812-8</ArticleId>
+            <ArticleId IdType="pubmed">37658172</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aiolfi A, Lombardo F, Matsushima K et al (2021) Systematic review and updated network meta-analysis of randomized controlled trials comparing open, laparoscopic-assisted, and robotic distal gastrectomy for early and locally advanced gastric cancer. Surgery 170:942–951. https://doi.org/10.1016/j.surg.2021.04.014</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2021.04.014</ArticleId>
+            <ArticleId IdType="pubmed">34023140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun T, Wang Y, Liu Y et al (2022) Perioperative outcomes of robotic versus laparoscopic distal gastrectomy for gastric cancer: a meta-analysis of propensity score-matched studies and randomized controlled trials. BMC Surg 22:427. https://doi.org/10.1186/s12893-022-01881-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12893-022-01881-9</ArticleId>
+            <ArticleId IdType="pubmed">36517776</ArticleId>
+            <ArticleId IdType="pmcid">9749346</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li W, Wei SJ (2024) Perioperative outcomes of robot-assisted versus laparoscopic distal gastrectomy for gastric cancer: a systematic review and meta-analysis of propensity score matching studies. J Robotic Surg 18:333. https://doi.org/10.1007/s11701-024-02038-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-024-02038-x</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Manara M, Aiolfi A, Sozzi A et al (2024) Short-term outcomes analysis comparing open, laparoscopic, laparoscopic-assisted, and robotic distal gastrectomy for locally advanced gastric cancer: a randomized trials network analysis. Cancers 16:1620. https://doi.org/10.3390/cancers16091620</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers16091620</ArticleId>
+            <ArticleId IdType="pubmed">38730574</ArticleId>
+            <ArticleId IdType="pmcid">11083793</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang H, Li Y, Wang T (2021) Comparison of Billroth I, Billroth II, and Roux-en-Y reconstructions following distal gastrectomy: a systematic review and network meta-analysis. Cir Esp (Engl Ed) 99:412–420. https://doi.org/10.1016/j.cireng.2020.09.018</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cireng.2020.09.018</ArticleId>
+            <ArticleId IdType="pubmed">34130813</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiong JJ, Altaf K, Javed MA et al (2013) Roux-en-Y versus Billroth I reconstruction after distal gastrectomy for gastric cancer: a meta-analysis. World J Gastroenterol 19:1124–1134. https://doi.org/10.3748/wjg.v19.i7.1124</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3748/wjg.v19.i7.1124</ArticleId>
+            <ArticleId IdType="pubmed">23467403</ArticleId>
+            <ArticleId IdType="pmcid">3582002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu X-F, Gao Z-M, Wang R-Y, Wang P-L, Li K, Gao S (2019) Comparison of Billroth I, Billroth II, and Roux-en-Y reconstructions after distal gastrectomy according to functional recovery: a meta-analysis. Eur Rev Med Pharmacol Sci 23:7532–7542. https://doi.org/10.26355/eurrev_201909_18869</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.26355/eurrev_201909_18869</ArticleId>
+            <ArticleId IdType="pubmed">31539143</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiao YJ, Lu TT, Liu DM et al (2022) Comparison between laparoscopic uncut Roux-en-Y and Billroth II with Braun anastomosis after distal gastrectomy: a meta-analysis. World J Gastrointest Surg 14:594–610. https://doi.org/10.4240/wjgs.v14.i6.594</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4240/wjgs.v14.i6.594</ArticleId>
+            <ArticleId IdType="pubmed">35979420</ArticleId>
+            <ArticleId IdType="pmcid">9258235</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He L, Zhao Y (2019) Is Roux-en-Y or Billroth-II reconstruction the preferred choice for gastric cancer patients undergoing distal gastrectomy when Billroth I reconstruction is not applicable? Meta-anal Med 98:170993. https://doi.org/10.1097/MD.0000000000017093</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MD.0000000000017093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim MC, Heo GU, Jung GJ (2010) Robotic gastrectomy for gastric cancer: surgical techniques and clinical merits. Surg Endosc 24:610–615. https://doi.org/10.1007/s00464-009-0618-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-009-0618-9</ArticleId>
+            <ArticleId IdType="pubmed">19688399</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pugliese R, Maggioni D, Sansonna F et al (2010) Subtotal gastrectomy with D2 dissection by minimally invasive surgery for distal adenocarcinoma of the stomach: results and 5-year survival. Surg Endosc 24:2594–2602. https://doi.org/10.1007/s00464-010-1014-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-010-1014-1</ArticleId>
+            <ArticleId IdType="pubmed">20414682</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Noshiro H, Ikeda O, Urata M (2014) Robotically-enhanced surgical anatomy enables surgeons to perform distal gastrectomy for gastric cancer using electric cautery devices alone. Surg Endosc 28:1180–1187. https://doi.org/10.1007/s00464-013-3304-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-013-3304-x</ArticleId>
+            <ArticleId IdType="pubmed">24202713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seo HS, Shim JH, Jeon HM, Park CH, Song KY (2015) Postoperative pancreatic fistula after robot distal gastrectomy. J Surg Res 194:361–366. https://doi.org/10.1016/j.jss.2014.10.022</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jss.2014.10.022</ArticleId>
+            <ArticleId IdType="pubmed">25454974</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee J, Kim YM, Woo Y et al (2015) Robotic distal subtotal gastrectomy with D2 lymphadenectomy for gastric cancer patients with high body mass index: comparison with conventional laparoscopic distal subtotal gastrectomy with D2 lymphadenectomy. Surg Endosc 29:3251–3260. https://doi.org/10.1007/s00464-015-4069-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-015-4069-1</ArticleId>
+            <ArticleId IdType="pubmed">25631106</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim YW, Reim D, Park JY et al (2016) Role of robot-assisted distal gastrectomy compared to laparoscopy-assisted distal gastrectomy in suprapancreatic nodal dissection for gastric cancer. Surg Endosc 30:1547–1552. https://doi.org/10.1007/s00464-015-4372-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-015-4372-x</ArticleId>
+            <ArticleId IdType="pubmed">26169636</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cianchi F, Indennitate G, Trallori G et al (2016) Robotic vs laparoscopic distal gastrectomy with D2 lymphadenectomy for gastric cancer: a retrospective comparative mono-institutional study. BMC Surg 16:65. https://doi.org/10.1186/s12893-016-0180-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12893-016-0180-z</ArticleId>
+            <ArticleId IdType="pubmed">27646414</ArticleId>
+            <ArticleId IdType="pmcid">5029040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hikage M, Tokunaga M, Makuuchi R et al (2018) Comparison of surgical outcomes between robotic and laparoscopic distal gastrectomy for cT1 gastric cancer. World J Surg 42:1803–1810. https://doi.org/10.1007/s00268-017-4345-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00268-017-4345-4</ArticleId>
+            <ArticleId IdType="pubmed">29134310</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li J, Zhu S, Juan J, Yi B (2020) Preliminary exploration of robotic complete mesocolic excision for colon cancer with the domestically produced Chinese minimally invasive Micro Hand S surgical robot system. Int J Med Robot 16:1–8. https://doi.org/10.1002/rcs.2148</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/rcs.2148</ArticleId>
+            <ArticleId IdType="pubmed">32949442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roh CK, Choi S, Seo WJ et al (2020) Comparison of surgical outcomes between integrated robotic and conventional laparoscopic surgery for distal gastrectomy: a propensity score matching analysis. Sci Rep 10:485. https://doi.org/10.1038/s41598-020-57413-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-020-57413-z</ArticleId>
+            <ArticleId IdType="pubmed">31949219</ArticleId>
+            <ArticleId IdType="pmcid">6965606</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song JH, Son T, Lee S et al (2020) D2 lymph node dissections during reduced-port robotic distal subtotal gastrectomy and conventional laparoscopic surgery performed by a single surgeon in a high-volume center: a propensity score-matched analysis. J Gastric Cancer 20:431–441. https://doi.org/10.5230/jgc.2020.20.e36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5230/jgc.2020.20.e36</ArticleId>
+            <ArticleId IdType="pubmed">33425444</ArticleId>
+            <ArticleId IdType="pmcid">7781749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sp Ye, Shi J, Dn L et al (2020) Robotic- versus laparoscopic-assisted distal gastrectomy with D2 lymphadenectomy for advanced gastric cancer based on propensity score matching: short-term outcomes at a high-capacity center. Sci Rep 10:6502. https://doi.org/10.1038/s41598-020-63616-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-020-63616-1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu X, Lei W, Zhu L et al (2024) Robotic versus laparoscopic distal gastrectomy for gastric cancer: a systematic review and meta-analysis. Asian J Surg. https://doi.org/10.1016/j.asjsur.2024.06.051</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.asjsur.2024.06.051</ArticleId>
+            <ArticleId IdType="pubmed">39672718</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao G, Liao H, Jiang Q, Liu D, Li T (2022) Surgical and oncological outcomes of robotic- versus laparoscopic-assisted distal gastrectomy with D2 lymphadenectomy for advanced gastric cancer: a propensity score-matched analysis of 1164 patients. World J Surg Oncol 20:315. https://doi.org/10.1186/s12957-022-02778-w</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12957-022-02778-w</ArticleId>
+            <ArticleId IdType="pubmed">36171631</ArticleId>
+            <ArticleId IdType="pmcid">9520837</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu J, Wu D, Huang JB et al (2023) Comparison of robotic versus laparoscopic versus open distal gastrectomy for locally advanced gastric cancer: a prospective trial-based economic evaluation. Surg Endosc 37:7472–7485. https://doi.org/10.1007/s00464-023-10147-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-023-10147-1</ArticleId>
+            <ArticleId IdType="pubmed">37395806</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shigeno T, Kizuki M, Tokunaga M et al (2023) A comparison of the short-term outcomes between laparoscopic and robotic distal gastrectomy: a retrospective study using a nationwide inpatient database. Surgery 173:1169–1175. https://doi.org/10.1016/j.surg.2022.12.022</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.surg.2022.12.022</ArticleId>
+            <ArticleId IdType="pubmed">36754740</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song Y, Zhang Q, Feng Z et al (2023) The comparison of short-term outcomes between robotic and laparoscopic radical distal gastrectomy. Langenbecks Arch Surg 408:131. https://doi.org/10.1007/s00423-023-02866-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00423-023-02866-9</ArticleId>
+            <ArticleId IdType="pubmed">36991272</ArticleId>
+            <ArticleId IdType="pmcid">10060261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tian Y, Guo H, Hu Y et al (2023) Safety and efficacy of robotic-assisted versus laparoscopic distal gastrectomy after neoadjuvant chemotherapy for advanced gastric cancer. Surg Endosc 37:6761–6770. https://doi.org/10.1007/s00464-023-10122-w</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-023-10122-w</ArticleId>
+            <ArticleId IdType="pubmed">37221415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu J, Xu BB, Zheng HL et al (2024) Robotic versus laparoscopic distal gastrectomy for resectable gastric cancer: a randomized phase 2 trial. Nat Commun 15:4668. https://doi.org/10.1038/s41467-024-49013-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-024-49013-6</ArticleId>
+            <ArticleId IdType="pubmed">38821945</ArticleId>
+            <ArticleId IdType="pmcid">11143299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kitazono M, Fujita M, Uchiyama S et al (2024) Robotic vs. laparoscopic distal gastrectomy for gastric cancer: a propensity score-matched retrospective comparative study at a single institution. Asian J Surg 47:2598–2605. https://doi.org/10.1016/j.asjsur.2024.03.086</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.asjsur.2024.03.086</ArticleId>
+            <ArticleId IdType="pubmed">38538396</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Higgins JPT, Green S (2008) Cochrane Handbook for Systematic Reviews of Interventions. Cochrane Book Series. https://doi.org/10.1002/9780470712184</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/9780470712184</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Preferred reporting items for systematic reviews and meta-analyses (2009) the PRISMA statement. BMJ. https://doi.org/10.1136/bmj.b2535</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/bmj.b2535</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu J, Zheng CH, Xu BB et al (2021) Assessment of robotic versus laparoscopic distal gastrectomy for gastric cancer: a randomized controlled trial. Ann Surg 273:858–867. https://doi.org/10.1097/SLA.0000000000004466</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000004466</ArticleId>
+            <ArticleId IdType="pubmed">32889876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wan X, Wang W, Liu J, Tong T (2014) Estimating the sample mean and standard deviation from the sample size, median, range and/or interquartile range. BMC Med Res Methodol 14:135. https://doi.org/10.1186/1471-2288-14-135</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2288-14-135</ArticleId>
+            <ArticleId IdType="pubmed">25524443</ArticleId>
+            <ArticleId IdType="pmcid">4383202</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schünemann HJ, Higgins JPT, Vist GE, Glasziou P, Akl EA, Skoetz N, Guyatt GH (on behalf of the Cochrane GRADEing Methods Group) (n.d.) GRADE guidelines: 10. Assessing the certainty of evidence in a synthesis of findings. Available at https://training.cochrane.org/handbook/current/chapter-14 . Accessed on 23 Oct 2024</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Review Manager (RevMan) (n.d.) Version (online). The Cochrane Collaboration. Available at revman.cochrane.org</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Song J, Kang WH, Oh SJ et al (2009) Role of robotic gastrectomy using da Vinci system compared with laparoscopic gastrectomy: initial experience of 20 consecutive cases. Surg Endosc 23:1204–1211. https://doi.org/10.1007/s00464-009-0351-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-009-0351-4</ArticleId>
+            <ArticleId IdType="pubmed">19263147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eom BW, Yoon HM, Ryu KW et al (2012) Comparison of surgical performance and short-term clinical outcomes between laparoscopic and robotic surgery in distal gastric cancer. Eur J Surg Oncol 38:57–63. https://doi.org/10.1016/j.ejso.2011.09.006</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejso.2011.09.006</ArticleId>
+            <ArticleId IdType="pubmed">21945625</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Uyama I, Kanaya S, Ishida Y et al (2012) Novel integrated robotic approach for suprapancreatic D2 nodal dissection for treating gastric cancer: technique and initial experience. World J Surg 36:331–337. https://doi.org/10.1007/s00268-011-1352-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00268-011-1352-8</ArticleId>
+            <ArticleId IdType="pubmed">22131088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tian Y, Lin Y, Sun C et al (2023) Comparison of short-term efficacy and safety between total robotic and total 3D laparoscopic distal radical gastrectomy for gastric cancer in Enhanced Recovery After Surgery (ERAS) protocol: a propensity score matching study. J Robot Surg 17:1151–1158. https://doi.org/10.1007/s11701-023-01528-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-023-01528-8</ArticleId>
+            <ArticleId IdType="pubmed">36630065</ArticleId>
+            <ArticleId IdType="pmcid">10209222</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song Y, Zhang Q, Feng Z, Wang B, Ren S (2023) The comparison of short-term outcomes between robotic and laparoscopic radical distal gastrectomy. Langenbecks Arch Surg 408:131. https://doi.org/10.1007/s00423-023-02866-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00423-023-02866-9</ArticleId>
+            <ArticleId IdType="pubmed">36991272</ArticleId>
+            <ArticleId IdType="pmcid">10060261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ren Z, Wang WX (2019) Comparison of Billroth I, Billroth II, and Roux-en-Y reconstruction after totally laparoscopic distal gastrectomy: a randomized controlled study. Adv Ther 36:2997–3006. https://doi.org/10.1007/s12325-019-01104-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s12325-019-01104-3</ArticleId>
+            <ArticleId IdType="pubmed">31605307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kossenas K, Kalomoiris D, Georgopoulos F (2024) Single-port robotic versus single-incision laparoscopic cholecystectomy in patients with BMI ≥25 kg/m<sup>2</sup>: a systematic review and meta-analysis. J Robot Surg 19(1):2. https://doi.org/10.1007/s11701-024-02167-3 . (Published 2024 Nov 16)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-024-02167-3</ArticleId>
+            <ArticleId IdType="pubmed">39549130</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kossenas K, Karamatzanis I, Moutzouri O et al (2024) Precision versus practicality: a comprehensive analysis of robotic right colectomy versus laparoscopic right colectomy, future directions, biases, research gaps, and their implications. Cureus 16(1):e52904. https://doi.org/10.7759/cureus.52904 . (Published 2024 Jan 25)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7759/cureus.52904</ArticleId>
+            <ArticleId IdType="pubmed">38406010</ArticleId>
+            <ArticleId IdType="pmcid">10892367</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kossenas K, Georgopoulos F (2023) The evolving surgical landscape: a comprehensive review of robotic versus laparoscopic gastrectomy for the treatment of gastric cancer. Cureus 15(12):e49780. https://doi.org/10.7759/cureus.49780 . (Published 2023 Dec 1)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7759/cureus.49780</ArticleId>
+            <ArticleId IdType="pubmed">38161532</ArticleId>
+            <ArticleId IdType="pmcid">10757755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

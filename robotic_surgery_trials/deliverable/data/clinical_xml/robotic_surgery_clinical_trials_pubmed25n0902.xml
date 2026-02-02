@@ -1,0 +1,776 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">28388963</PMID>
+      <DateCompleted>
+        <Year>2018</Year>
+        <Month>03</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>03</Month>
+        <Day>06</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1745-6215</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>18</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2017</Year>
+              <Month>04</Month>
+              <Day>08</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Trials</Title>
+          <ISOAbbreviation>Trials</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Minimally invasive versus open distal pancreatectomy (LEOPARD): study protocol for a randomized controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>166</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13063-017-1892-9</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Observational cohort studies have suggested that minimally invasive distal pancreatectomy (MIDP) is associated with better short-term outcomes compared with open distal pancreatectomy (ODP), such as less intraoperative blood loss, lower morbidity, shorter length of hospital stay, and reduced total costs. Confounding by indication has probably influenced these findings, given that case-matched studies failed to confirm the superiority of MIDP. This accentuates the need for multicenter randomized controlled trials, which are currently lacking. We hypothesize that time to functional recovery is shorter after MIDP compared with ODP even in an enhanced recovery setting.</AbstractText>
+          <AbstractText Label="METHODS">LEOPARD is a randomized controlled, parallel-group, patient-blinded, multicenter, superiority trial in all 17 centers of the Dutch Pancreatic Cancer Group. A total of 102 patients with symptomatic benign, premalignant or malignant disease will be randomly allocated to undergo MIDP or ODP in an enhanced recovery setting. The primary outcome is time (days) to functional recovery, defined as all of the following: independently mobile at the preoperative level, sufficient pain control with oral medication alone, ability to maintain sufficient (i.e. &gt;50%) daily required caloric intake, no intravenous fluid administration and no signs of infection. Secondary outcomes are operative and postoperative outcomes, including clinically relevant complications, mortality, quality of life and costs.</AbstractText>
+          <AbstractText Label="DISCUSSION">The LEOPARD trial is designed to investigate whether MIDP reduces the time to functional recovery compared with ODP in an enhanced recovery setting.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION">Dutch Trial Register, NTR5188 . Registered on 9 April 2015.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>de Rooij</LastName>
+            <ForeName>Thijs</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Academic Medical Center, PO Box 22660, Amsterdam, AZ 1105, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Hilst</LastName>
+            <ForeName>Jony</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Academic Medical Center, PO Box 22660, Amsterdam, AZ 1105, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vogel</LastName>
+            <ForeName>Jantien A</ForeName>
+            <Initials>JA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Academic Medical Center, PO Box 22660, Amsterdam, AZ 1105, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Santvoort</LastName>
+            <ForeName>Hjalmar C</ForeName>
+            <Initials>HC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, St Antonius Hospital, PO Box 2500, Nieuwegein, EM 3430, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>de Boer</LastName>
+            <ForeName>Marieke T</ForeName>
+            <Initials>MT</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, University Medical Center Groningen, PO Box 30 001, Groningen, RB 9700, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Boerma</LastName>
+            <ForeName>Djamila</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, St Antonius Hospital, PO Box 2500, Nieuwegein, EM 3430, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van den Boezem</LastName>
+            <ForeName>Peter B</ForeName>
+            <Initials>PB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Radboud University Nijmegen Medical Center, PO Box 9101, Nijmegen, HB 6500, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bonsing</LastName>
+            <ForeName>Bert A</ForeName>
+            <Initials>BA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Leiden University Medical Center, PO Box 9600, Leiden, ZA 2333, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bosscha</LastName>
+            <ForeName>Koop</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Jeroen Bosch Hospital, PO Box 90153, Den Bosch, ME 5200, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Coene</LastName>
+            <ForeName>Peter-Paul</ForeName>
+            <Initials>PP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Maasstad Hospital, PO Box 9100, Rotterdam, AC 3007, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Daams</LastName>
+            <ForeName>Freek</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, VU University Medical Center, PO Box 7057, Amsterdam, HV 1081, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Dam</LastName>
+            <ForeName>Ronald M</ForeName>
+            <Initials>RM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Maastricht University Medical Center, PO Box 5800, Maastricht, AZ 6202, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dijkgraaf</LastName>
+            <ForeName>Marcel G</ForeName>
+            <Initials>MG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical Research Unit, Academic Medical Center, PO Box 22660, Amsterdam, DD 1100, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Eijck</LastName>
+            <ForeName>Casper H</ForeName>
+            <Initials>CH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Erasmus University Medical Center, PO Box 2040, Rotterdam, CA 3000, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Festen</LastName>
+            <ForeName>Sebastiaan</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Onze Lieve Vrouwe Gasthuis, PO Box 95500, Amsterdam, HM 1090, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gerhards</LastName>
+            <ForeName>Michael F</ForeName>
+            <Initials>MF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Onze Lieve Vrouwe Gasthuis, PO Box 95500, Amsterdam, HM 1090, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Groot Koerkamp</LastName>
+            <ForeName>Bas</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Erasmus University Medical Center, PO Box 2040, Rotterdam, CA 3000, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hagendoorn</LastName>
+            <ForeName>Jeroen</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, University Medical Center Utrecht, PO Box 85 500, Utrecht, GA 3508, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van der Harst</LastName>
+            <ForeName>Erwin</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Maasstad Hospital, PO Box 9100, Rotterdam, AC 3007, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>de Hingh</LastName>
+            <ForeName>Ignace H</ForeName>
+            <Initials>IH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Catharina Hospital, PO Box 1350, Eindhoven, ZA 5602, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dejong</LastName>
+            <ForeName>Cees H</ForeName>
+            <Initials>CH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Maastricht University Medical Center, PO Box 5800, Maastricht, AZ 6202, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>NUTRIM School for Nutrition and Translational Research in Metabolism, PO Box 5800, Maastricht, AZ 6202, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kazemier</LastName>
+            <ForeName>Geert</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, VU University Medical Center, PO Box 7057, Amsterdam, HV 1081, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Klaase</LastName>
+            <ForeName>Joost</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Medisch Spectrum Twente, PO Box 50 000, Enschede, KA 7500, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>de Kleine</LastName>
+            <ForeName>Ruben H</ForeName>
+            <Initials>RH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, University Medical Center Groningen, PO Box 30 001, Groningen, RB 9700, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Laarhoven</LastName>
+            <ForeName>Cornelis J</ForeName>
+            <Initials>CJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Radboud University Nijmegen Medical Center, PO Box 9101, Nijmegen, HB 6500, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lips</LastName>
+            <ForeName>Daan J</ForeName>
+            <Initials>DJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Jeroen Bosch Hospital, PO Box 90153, Den Bosch, ME 5200, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Luyer</LastName>
+            <ForeName>Misha D</ForeName>
+            <Initials>MD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Catharina Hospital, PO Box 1350, Eindhoven, ZA 5602, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Molenaar</LastName>
+            <ForeName>I Quintus</ForeName>
+            <Initials>IQ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, University Medical Center Utrecht, PO Box 85 500, Utrecht, GA 3508, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nieuwenhuijs</LastName>
+            <ForeName>Vincent B</ForeName>
+            <Initials>VB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Isala Clinics, PO Box 10 400, Zwolle, AB 8025, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Patijn</LastName>
+            <ForeName>Gijs A</ForeName>
+            <Initials>GA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Isala Clinics, PO Box 10 400, Zwolle, AB 8025, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Roos</LastName>
+            <ForeName>Daphne</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Reinier de Graag Gasthuis, PO Box 5011, Delft, GA 2600, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Scheepers</LastName>
+            <ForeName>Joris J</ForeName>
+            <Initials>JJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Reinier de Graag Gasthuis, PO Box 5011, Delft, GA 2600, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van der Schelling</LastName>
+            <ForeName>George P</ForeName>
+            <Initials>GP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Amphia Hospital, PO Box 90 158, Breda, RK 4800, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Steenvoorde</LastName>
+            <ForeName>Pascal</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Medisch Spectrum Twente, PO Box 50 000, Enschede, KA 7500, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Swijnenburg</LastName>
+            <ForeName>Rutger-Jan</ForeName>
+            <Initials>RJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Leiden University Medical Center, PO Box 9600, Leiden, ZA 2333, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wijsman</LastName>
+            <ForeName>Jan H</ForeName>
+            <Initials>JH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Amphia Hospital, PO Box 90 158, Breda, RK 4800, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Abu Hilal</LastName>
+            <ForeName>Moh'd</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Southampton University Hospital NHS Foundation Trust, Southampton, SO166YD, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Busch</LastName>
+            <ForeName>Olivier R</ForeName>
+            <Initials>OR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Academic Medical Center, PO Box 22660, Amsterdam, DD 1100, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Besselink</LastName>
+            <ForeName>Marc G</ForeName>
+            <Initials>MG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Academic Medical Center, PO Box 22660, Amsterdam, DD 1100, The Netherlands. m.g.besselink@amc.nl.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <CollectiveName>Dutch Pancreatic Cancer Group</CollectiveName>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>NTR</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NTR5188</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2017</Year>
+          <Month>04</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Trials</MedlineTA>
+        <NlmUniqueID>101263253</NlmUniqueID>
+        <ISSNLinking>1745-6215</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000700">Analgesics</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000284" MajorTopicYN="N">Administration, Oral</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000700" MajorTopicYN="N">Analgesics</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002985" MajorTopicYN="N">Clinical Protocols</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003362" MajorTopicYN="N">Cost-Benefit Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004435" MajorTopicYN="N">Eating</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002149" MajorTopicYN="N">Energy Intake</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006304" MajorTopicYN="N">Health Status</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017721" MajorTopicYN="N">Hospital Costs</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009426" MajorTopicYN="N">Netherlands</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010147" MajorTopicYN="N">Pain Measurement</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010149" MajorTopicYN="N">Pain, Postoperative</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010180" MajorTopicYN="N">Pancreatectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020127" MajorTopicYN="N">Recovery of Function</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012107" MajorTopicYN="N">Research Design</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Distal pancreatectomy</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopic</Keyword>
+        <Keyword MajorTopicYN="N">Minimally invasive</Keyword>
+        <Keyword MajorTopicYN="N">Pancreatic cancer</Keyword>
+        <Keyword MajorTopicYN="N">Pancreatic surgery</Keyword>
+        <Keyword MajorTopicYN="N">Robot-assisted</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2016</Year>
+          <Month>12</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2017</Year>
+          <Month>03</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2017</Year>
+          <Month>4</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2017</Year>
+          <Month>4</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>3</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">28388963</ArticleId>
+        <ArticleId IdType="doi">10.1186/s13063-017-1892-9</ArticleId>
+        <ArticleId IdType="pii">10.1186/s13063-017-1892-9</ArticleId>
+        <ArticleId IdType="pmc">PMC5385082</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Surgery. 2015 Jan;157(1):45-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25482464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2004 May 13;350(20):2050-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15141043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 2007 Nov;142(5):761-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17981197</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 2010 Aug 18;304(7):793-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20716744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2013 Oct 10;369(15):1434-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24106936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Surg. 1988 May;123(5):550-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3358679</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 2007 Jul;142(1):20-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17629996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Surg. 2015 Mar;220(3):263-270.e1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25600974</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Surg. 2010 May;210(5):779-85, 786-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20421049</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trials. 2012 May 06;13:54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22559239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2016 Sep;30(9):3830-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26675941</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Public Health. 1994 Aug;84(8):1270-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8059884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2005 Feb;241(2):232-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15650632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Gastroenterol Hepatol. 2016 Apr;13(4):227-38</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26882881</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2013 Jun 18;346:f3011</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23778426</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Syst Rev. 2016 Mar 24;5:48</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27012940</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 2012 Mar 14;307(10):1053-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22416101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2011 Aug;25(8):2643-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21487886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 2005 Jul;138(1):8-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16003309</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J R Coll Surg Edinb. 1994 Jun;39(3):178-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7932341</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2013 Jun 18;346:f2820</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23778425</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2014 Oct;28(10):2848-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24853839</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 1996 Nov;120(5):885-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8909526</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 2014 Sep;156(3):591-600</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25061003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2011 Apr 30;377(9776):1514-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21529927</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Gastroenterol Hepatol. 2016 Oct;1(2):105-113</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28404067</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Surg. 2010 Sep;97(9):1395-400</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20632312</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2011 Dec;254(6):868-75</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21597360</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2013 Jan 08;346:e7586</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23303884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2004 Aug;240(2):205-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15273542</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2015 Oct;39(10):2564-72</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26154576</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2015 Apr 2;372(14):1324-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25830422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2015 Nov;262(5):868-73; discussion 873-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26583678</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2015 Sep 04;351:h4672</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26341898</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2016 Nov;264(5):754-762</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27741008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2006 Feb;243(2):143-9; discussion 150-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16432345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2013 Jun 18;346:f3012</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23778427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Today. 2015 Jul;45(7):808-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25156008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Surg. 2010 Jan;97(1):21-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19937983</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 2003 May;133(5):521-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12773980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2011 Apr;25(4):1127-35</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20927546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Infect Control. 1999 Apr;27(2):97-132; quiz 133-4; discussion 96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10196487</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

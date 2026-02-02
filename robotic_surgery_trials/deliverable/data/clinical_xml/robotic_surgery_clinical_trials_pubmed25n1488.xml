@@ -1,0 +1,1183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">37905524</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>08</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1557-900X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>38</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of endourology</Title>
+          <ISOAbbreviation>J Endourol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Artificial Intelligence-Based Video Feedback to Improve Novice Performance on Robotic Suturing Skills: A Pilot Study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>884-891</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1089/end.2023.0328</ELocationID>
+        <Abstract>
+          <AbstractText><b><i>Introduction:</i></b> Automated skills assessment can provide surgical trainees with objective, personalized feedback during training. Here, we measure the efficacy of artificial intelligence (AI)-based feedback on a robotic suturing task. <b><i>Materials and Methods:</i></b> Forty-two participants with no robotic surgical experience were randomized to a control or feedback group and video-recorded while completing two rounds (R1 and R2) of suturing tasks on a da Vinci surgical robot. Participants were assessed on needle handling and needle driving, and feedback was provided via a visual interface after R1. For feedback group, participants were informed of their AI-based skill assessment and presented with specific video clips from R1. For control group, participants were presented with randomly selected video clips from R1 as a placebo. Participants from each group were further labeled as underperformers or innate-performers based on a median split of their technical skill scores from R1. <b><i>Results:</i></b> Demographic features were similar between the control (<i>n</i> = 20) and feedback group (<i>n</i> = 22) (<i>p</i> &gt; 0.05). Observing the improvement from R1 to R2, the feedback group had a significantly larger improvement in needle handling score (0.30 <i>vs</i> -0.02, <i>p</i> = 0.018) when compared with the control group, although the improvement of needle driving score was not significant when compared with the control group (0.17 <i>vs</i> -0.40, <i>p</i> = 0.074). All innate-performers exhibited similar improvements across rounds, regardless of feedback (<i>p</i> &gt; 0.05). In contrast, underperformers in the feedback group improved more than the control group in needle handling (<i>p</i> = 0.02). <b><i>Conclusion:</i></b> AI-based feedback facilitates surgical trainees' acquisition of robotic technical skills, especially underperformers. Future research will extend AI-based feedback to additional suturing skills, surgical tasks, and experience groups.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ma</LastName>
+            <ForeName>Runzhuo</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kiyasseh</LastName>
+            <ForeName>Dani</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computing and Mathematical Sciences, California Institute of Technology, Pasadena, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Laca</LastName>
+            <ForeName>Jasper A</ForeName>
+            <Initials>JA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kocielnik</LastName>
+            <ForeName>Rafal</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computing and Mathematical Sciences, California Institute of Technology, Pasadena, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wong</LastName>
+            <ForeName>Elyssa Y</ForeName>
+            <Initials>EY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chu</LastName>
+            <ForeName>Timothy N</ForeName>
+            <Initials>TN</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cen</LastName>
+            <ForeName>Steven</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Radiology Department, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Cherine H</ForeName>
+            <Initials>CH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dalieh</LastName>
+            <ForeName>Istabraq S</ForeName>
+            <Initials>IS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Haque</LastName>
+            <ForeName>Taseen F</ForeName>
+            <Initials>TF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goldenberg</LastName>
+            <ForeName>Mitch G</ForeName>
+            <Initials>MG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Xiuzhen</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Computational Biomedicine, Cedars-Sinai Medical Center, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Anandkumar</LastName>
+            <ForeName>Anima</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computing and Mathematical Sciences, California Institute of Technology, Pasadena, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hung</LastName>
+            <ForeName>Andrew J</ForeName>
+            <Initials>AJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Catherine &amp; Joseph Aresty Department of Urology, Center for Robotic Simulation and Education, USC Institute of Urology, University of Southern California, Los Angeles, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>01</Month>
+          <Day>29</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Endourol</MedlineTA>
+        <NlmUniqueID>8807503</NlmUniqueID>
+        <ISSNLinking>0892-7790</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="Y">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013536" MajorTopicYN="Y">Suture Techniques</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001185" MajorTopicYN="Y">Artificial Intelligence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014741" MajorTopicYN="N">Video Recording</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005246" MajorTopicYN="N">Feedback</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">artificial intelligence</Keyword>
+        <Keyword MajorTopicYN="N">education</Keyword>
+        <Keyword MajorTopicYN="N">feedback</Keyword>
+        <Keyword MajorTopicYN="N">robotics</Keyword>
+        <Keyword MajorTopicYN="N">suturing</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pmc-release">
+          <Year>2025</Year>
+          <Month>08</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>8</Month>
+          <Day>9</Day>
+          <Hour>18</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>31</Day>
+          <Hour>12</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>31</Day>
+          <Hour>7</Hour>
+          <Minute>12</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37905524</ArticleId>
+        <ArticleId IdType="doi">10.1089/end.2023.0328</ArticleId>
+        <ArticleId IdType="pmc">PMC11947633</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">39586816</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>12</Month>
+        <Day>20</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1544-0591</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>104</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of dental research</Title>
+          <ISOAbbreviation>J Dent Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of Implant Precision with Robots, Navigation, or Static Guides.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>37-44</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1177/00220345241285566</ELocationID>
+        <Abstract>
+          <AbstractText>Precise surgical positioning according to a digital plan is important for aesthetic and biologically stable dental implant restorations. This randomized controlled trial compared implant placement assisted by robotic surgery (RS), dynamic navigation (DN), or 3-dimensional printed static guide (SG). An overall 45 patients with a missing tooth in the premolar/molar region were randomly assigned to 1 of the 3 groups. Implant positional accuracy (primary outcome), early wound healing, soft tissue microcirculation, patient-reported outcome measures, and surgeon preference were measured by calibrated blind examiners. One adverse event occurred in DN and RS. In RS (<i>n</i> = 15), the global platform, apex deviation, and angular deviations (mean ± SD) were 1.1 ± 0.4 mm, 1.5 ± 0.6 mm, and 4.7° ± 2.5°, respectively. Similarly, deviations were 1.3 ± 0.6 mm, 1.9 ± 0.9 mm, and 5.5° ± 3.5° in the DN group (<i>n</i> = 14) and 1.1 ± 0.6 mm, 2.0 ± 1.2 mm, and 6.2° ± 4.0° in the SG group (<i>n</i> = 13). Significantly smaller differential deviations (mesial-distal) at the platform and apex levels were found in the RS group than the SG group (<i>P</i> &lt; 0.05). Surgery was significantly shorter with a SG (<i>P</i> &lt; 0.001), and this was associated with better postoperative recovery at 3 d. The surgeon assessed DN as providing easier access to reach the surgical site. No significant differences were found upon comparing soft tissue microcirculation and oxygen saturation immediately, 1 h, or 7 d after surgery. Patient-reported outcomes were comparable in the 3 groups, except that patients in the SG group reported better oral health-related quality of life 3 d after surgery. It can be concluded that RS showed near-zero 3-dimensional systematic error in implant position, while DN and SG demonstrated a centrifugal error pattern. All 3 guided approaches had uneventful wound healing and acceptable patient-reported outcomes. The 3 groups had specific cost-benefit profiles. After additional technical developments, future trials with larger sample sizes and longer follow-up periods should be performed to analyze the cost-effectiveness of different guided surgical approaches.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Shi</LastName>
+            <ForeName>J-Y</ForeName>
+            <Initials>JY</Initials>
+            <Identifier Source="ORCID">0000-0002-8241-2572</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Perio-Implant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>X-Y</ForeName>
+            <Initials>XY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Perio-Implant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lv</LastName>
+            <ForeName>X-L</ForeName>
+            <Initials>XL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Perio-Implant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>M</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Perio-Implant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fu</LastName>
+            <ForeName>X-J</ForeName>
+            <Initials>XJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Perio-Implant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>B-L</ForeName>
+            <Initials>BL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Perio-Implant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lai</LastName>
+            <ForeName>H-C</ForeName>
+            <Initials>HC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Perio-Implant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tonetti</LastName>
+            <ForeName>M S</ForeName>
+            <Initials>MS</Initials>
+            <Identifier Source="ORCID">0000-0002-2743-0137</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Perio-Implant Innovation Center, Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>College of Stomatology, Shanghai Jiao Tong University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Key Laboratory of Stomatology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>European Research Group on Periodontology, Genova, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>25</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Dent Res</MedlineTA>
+        <NlmUniqueID>0354343</NlmUniqueID>
+        <ISSNLinking>0022-0345</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015921">Dental Implants</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003758" MajorTopicYN="N">Dental Implantation, Endosseous</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015921" MajorTopicYN="Y">Dental Implants</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008833" MajorTopicYN="N">Microcirculation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071066" MajorTopicYN="N">Patient Reported Outcome Measures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066330" MajorTopicYN="Y">Printing, Three-Dimensional</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="Y">Surgery, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014945" MajorTopicYN="N">Wound Healing</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">computer-aided design</Keyword>
+        <Keyword MajorTopicYN="N">computer-aided surgery</Keyword>
+        <Keyword MajorTopicYN="N">dental implant</Keyword>
+        <Keyword MajorTopicYN="N">randomized controlled trial</Keyword>
+        <Keyword MajorTopicYN="N">robot surgery</Keyword>
+        <Keyword MajorTopicYN="N">surgical navigation system</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of Conflicting InterestsThe authors declared the following potential conflicts of interest with respect to the research, authorship, and/or publication of this article: M.S. Tonetti received grant support and/or personal fees from Geistlich Pharma AG, Straumann AG, and Nobel Biocare SA, which are unrelated to the present work. The other authors declared no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pmc-release">
+          <Year>2026</Year>
+          <Month>01</Month>
+          <Day>01</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>20</Day>
+          <Hour>18</Hour>
+          <Minute>20</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>26</Day>
+          <Hour>0</Hour>
+          <Minute>16</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>25</Day>
+          <Hour>22</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39586816</ArticleId>
+        <ArticleId IdType="doi">10.1177/00220345241285566</ArticleId>
+        <ArticleId IdType="pmc">PMC11667196</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40279497</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1527-3792</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>214</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of urology</Title>
+          <ISOAbbreviation>J Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Do Prophylactic Antibiotics Decrease the Rate of Urinary Tract Infections After Robot-Assisted Radical Cystectomy? A Randomized Controlled Trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>147-155</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/JU.0000000000004586</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="UNASSIGNED">The purpose of this article was to investigate the role of prophylactic antibiotics after robot-assisted radical cystectomy (RARC) in the prevention of 90-day UTIs.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="UNASSIGNED">Patients who underwent RARC with urinary diversion were randomized to standard of care (SOC) vs receiving prophylactic antibiotics (nitrofurantoin 100 mg daily or trimethoprim/sulfamethoxazole 160/800 mg daily) for 30 days after discharge. The primary end point was 90-day UTIs (defined as positive urine culture with &gt;10<sup>5</sup> cfu/mL associated with clinical symptoms, such as fever, chills, or flank pain). Secondary end points included adverse events, 90-day infectious complications, UTI-related readmissions, and cost.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="UNASSIGNED">The final cohort included 40 in the SOC and 37 patients in the study arm, with follow-up ≥90 days. Median age was 69 years (IQR, 65-76), 19 (25%) were female, and 28 (36%) received neoadjuvant chemotherapy. Ten patients (25%) developed UTIs in the SOC vs 0% in the study arm (<i>P</i> = .001). There was no significant difference in complications or high-grade complications. Ninety-day infectious complications were 43% in the SOC arm vs 14% in the study arm (<i>P</i> = .006), and 90-day infection-related readmissions were 30% in the SOC vs 5% in the study arm (<i>P</i> = .007). The mean postcystectomy cost was $9074 lower in the treatment arm compared with the SOC (<i>P</i> = .007). The number needed to treat to prevent a single UTI was 4.0 (95% CI, 2.5-7.0).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="UNASSIGNED">Prophylactic antibiotics for 30 days after RARC were associated with lower 90-day UTIs, infectious complications, UTI-related readmissions, and costs without an increase in adverse events.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hussein</LastName>
+            <ForeName>Ahmed A</ForeName>
+            <Initials>AA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mahmood</LastName>
+            <ForeName>Abdul Wasay</ForeName>
+            <Initials>AW</Initials>
+            <Identifier Source="ORCID">0000-0002-8789-8110</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ahmad</LastName>
+            <ForeName>Ali</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Houenstein</LastName>
+            <ForeName>Holly</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Harrington</LastName>
+            <ForeName>Grace</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Khan</LastName>
+            <ForeName>Mohammad</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Abdelhaq</LastName>
+            <ForeName>Dawod</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jing</LastName>
+            <ForeName>Zhe</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Attwood</LastName>
+            <ForeName>Kristopher</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biostatistics and Bioinformatics, Roswell Park Comprehensive Cancer Center, Buffalo, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Almyroudis</LastName>
+            <ForeName>Nikolaos G</ForeName>
+            <Initials>NG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Internal Medicine, Infectious Diseases, Roswell Park Comprehensive Cancer Center, Buffalo, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Qiang</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guru</LastName>
+            <ForeName>Khurshid A</ForeName>
+            <Initials>KA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Roswell Park Comprehensive Cancer Center, Buffalo, New York.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>04</Month>
+          <Day>25</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Urol</MedlineTA>
+        <NlmUniqueID>0376374</NlmUniqueID>
+        <ISSNLinking>0022-5347</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>927AH8112L</RegistryNumber>
+          <NameOfSubstance UI="D009582">Nitrofurantoin</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>8064-90-2</RegistryNumber>
+          <NameOfSubstance UI="D015662">Trimethoprim, Sulfamethoxazole Drug Combination</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Urol. 2025 Aug;214(2):154. doi: 10.1097/JU.0000000000004590.</RefSource>
+          <PMID Version="1">40365899</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Urol. 2025 Aug;214(2):154-155. doi: 10.1097/JU.0000000000004601.</RefSource>
+          <PMID Version="1">40371735</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015653" MajorTopicYN="Y">Cystectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014552" MajorTopicYN="Y">Urinary Tract Infections</DescriptorName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019072" MajorTopicYN="Y">Antibiotic Prophylaxis</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="Y">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001749" MajorTopicYN="Y">Urinary Bladder Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009582" MajorTopicYN="Y">Nitrofurantoin</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015662" MajorTopicYN="Y">Trimethoprim, Sulfamethoxazole Drug Combination</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000900" MajorTopicYN="Y">Anti-Bacterial Agents</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">UTI</Keyword>
+        <Keyword MajorTopicYN="N">bladder cancer</Keyword>
+        <Keyword MajorTopicYN="N">robot-assisted radical cystectomy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>8</Day>
+          <Hour>12</Hour>
+          <Minute>55</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>25</Day>
+          <Hour>18</Hour>
+          <Minute>31</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>25</Day>
+          <Hour>15</Hour>
+          <Minute>32</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40279497</ArticleId>
+        <ArticleId IdType="doi">10.1097/JU.0000000000004586</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40455621</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>07</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1538-3598</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>334</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jul</Month>
+              <Day>08</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA</Title>
+          <ISOAbbreviation>JAMA</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic vs Laparoscopic Surgery for Middle and Low Rectal Cancer: The REAL Randomized Clinical Trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>136-148</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1001/jama.2025.8123</ELocationID>
+        <Abstract>
+          <AbstractText Label="Importance" NlmCategory="UNASSIGNED">Robotic surgery for rectal cancer is widely used, but data on long-term oncological outcomes are still lacking.</AbstractText>
+          <AbstractText Label="Objective" NlmCategory="UNASSIGNED">To compare the 3-year locoregional recurrence rates of middle and low rectal cancer in patients who underwent robotic surgery vs conventional laparoscopic surgery.</AbstractText>
+          <AbstractText Label="Design, Setting, and Participants" NlmCategory="UNASSIGNED">In this multicenter, superiority, randomized clinical trial, patients with middle or low rectal adenocarcinoma (cT1-T3, N0-N1, or ycT1-T3 Nx) and no distant metastasis were enrolled at 11 centers across 8 provinces in China from July 2016 to December 2020. Among the 1742 consecutive patients assessed for eligibility, 1240 were eligible and randomized. Follow-up continued until December 31, 2023.</AbstractText>
+          <AbstractText Label="Interventions" NlmCategory="UNASSIGNED">Patients were randomized 1:1 to undergo robotic or conventional laparoscopic rectal cancer resection.</AbstractText>
+          <AbstractText Label="Main Outcomes and Measures" NlmCategory="UNASSIGNED">The primary outcome was the 3-year locoregional recurrence rate. The primary analysis was performed as randomized, but excluded patients deemed ineligible after randomization. The secondary outcomes included disease-free survival; overall survival; and urinary, sexual, and defecation function.</AbstractText>
+          <AbstractText Label="Results" NlmCategory="UNASSIGNED">Of the 1240 patients enrolled, 1171 were included in the primary analysis (586 in the robotic surgery group; mean age, 59.1 [SD, 11.0] years; and 356 were men [60.8%] vs 585 in the laparoscopic surgery group; mean age, 60.7 [SD, 9.8] years; and 354 were men [60.5%]). The median follow-up time was 43.0 months (IQR, 36.7-60.0 months). The 3-year locoregional recurrence rate was 1.6% (95% CI, 0.6%-2.6%) in the robotic group vs 4.0% (95% CI, 2.4%-5.6%) in the laparoscopic group (hazard ratio [HR], 0.45 [95% CI, 0.22-0.92], log-rank P = .03; adjusted HR, 0.39 [95% CI, 0.19-0.80]). The 3-year disease-free survival rate was higher in the robotic group (87.2%) vs the laparoscopic group (83.4%) (HR, 0.74 [95% CI, 0.56-0.98], log-rank P = .04; adjusted HR, 0.67 [95% CI, 0.50-0.89]). No significant between-group difference was observed in 3-year overall survival (94.7% in the robotic group vs 93.0% in the laparoscopic group). Patients in the robotic group also had better urinary function, male and female sexual function, and defecation function at 3 and 6 months after surgery and better urinary function and male sexual function at 12 months after surgery.</AbstractText>
+          <AbstractText Label="Conclusions and Relevance" NlmCategory="UNASSIGNED">Compared with conventional laparoscopic surgery, robotic surgery significantly improved long-term oncological outcomes in patients with middle or low rectal cancer. With additional real-world clinical data and modern, improved training programs for surgeons, robotic surgery could be the preferred choice for patients with middle or low rectal cancer.</AbstractText>
+          <AbstractText Label="Trial Registration" NlmCategory="UNASSIGNED">ClinicalTrials.gov Identifier: NCT02817126.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Feng</LastName>
+            <ForeName>Qingyang</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Engineering Research Center of Colorectal Cancer Minimally Invasive Technology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yuan</LastName>
+            <ForeName>Weitang</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, First Affiliated Hospital of Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Taiyuan</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, First Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tang</LastName>
+            <ForeName>Bo</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Southwest Hospital, Army Medical University, Chongqing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jia</LastName>
+            <ForeName>Baoqing</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, First Medical Center, PLA General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Yanbing</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastrointestinal Surgery, Affiliated Hospital of Qingdao University, Qingdao, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Wei</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Changhai Hospital, Navy Medical University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Ren</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Cheng</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Northern Theater Command General Hospital, Shenyang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cheng</LastName>
+            <ForeName>Longwei</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Second Department of Gastrointestinal Surgery, Jilin Cancer Hospital, Changchun, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Xiaoqiao</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, 960th Hospital of the PLA Joint Logistic Support Force (former Jinan Military General Hospital), Jinan, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wei</LastName>
+            <ForeName>Ye</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Huadong Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Fei</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biostatistics, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>Guodong</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Engineering Research Center of Colorectal Cancer Minimally Invasive Technology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Jianmin</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Zhongshan Hospital Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanghai Engineering Research Center of Colorectal Cancer Minimally Invasive Technology, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <CollectiveName Investigators="ID8AB948D7ABF15835D57A7A78BE603F36">REAL Study Group</CollectiveName>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT02817126</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D000073843">Equivalence Trial</PublicationType>
+          <PublicationType UI="D016420">Comment</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JAMA</MedlineTA>
+        <NlmUniqueID>7501160</NlmUniqueID>
+        <ISSNLinking>0098-7484</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentOn">
+          <RefSource>JAMA. 2025 Jul 8;334(2):121-123. doi: 10.1001/jama.2025.7019.</RefSource>
+          <PMID Version="1">40455625</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012004" MajorTopicYN="Y">Rectal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009364" MajorTopicYN="N">Neoplasm Recurrence, Local</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000230" MajorTopicYN="Y">Adenocarcinoma</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018572" MajorTopicYN="N">Disease-Free Survival</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <InvestigatorList ID="ID8AB948D7ABF15835D57A7A78BE603F36">
+        <Investigator ValidYN="Y">
+          <LastName>Sun</LastName>
+          <ForeName>Zhenqiang</ForeName>
+          <Initials>Z</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Tang</LastName>
+          <ForeName>Bo</ForeName>
+          <Initials>B</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Gao</LastName>
+          <ForeName>Linfeng</ForeName>
+          <Initials>L</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Li</LastName>
+          <ForeName>Peng</ForeName>
+          <Initials>P</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Liu</LastName>
+          <ForeName>Xiaodong</ForeName>
+          <Initials>X</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Lou</LastName>
+          <ForeName>Zheng</ForeName>
+          <Initials>Z</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Zhang</LastName>
+          <ForeName>Tao</ForeName>
+          <Initials>T</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Li</LastName>
+          <ForeName>Da</ForeName>
+          <Initials>D</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Chi</LastName>
+          <ForeName>Zhaocheng</ForeName>
+          <Initials>Z</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Yang</LastName>
+          <ForeName>Guang</ForeName>
+          <Initials>G</Initials>
+        </Investigator>
+      </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pmc-release">
+          <Year>2025</Year>
+          <Month>12</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>7</Month>
+          <Day>8</Day>
+          <Hour>12</Hour>
+          <Minute>53</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>6</Month>
+          <Day>2</Day>
+          <Hour>18</Hour>
+          <Minute>30</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>6</Month>
+          <Day>2</Day>
+          <Hour>12</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40455621</ArticleId>
+        <ArticleId IdType="pii">2834890</ArticleId>
+        <ArticleId IdType="doi">10.1001/jama.2025.8123</ArticleId>
+        <ArticleId IdType="pmc">PMC12131176</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

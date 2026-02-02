@@ -1,0 +1,618 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">25033260</PMID>
+      <DateCompleted>
+        <Year>2015</Year>
+        <Month>06</Month>
+        <Day>04</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>31</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2168-6092</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>16</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <MedlineDate>2014 Sep-Oct</MedlineDate>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA facial plastic surgery</Title>
+          <ISOAbbreviation>JAMA Facial Plast Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Surface electromyographic mapping of the orbicularis oculi muscle for real-time blink detection.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>335-42</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamafacial.2014.283</ELocationID>
+        <Abstract>
+          <AbstractText Label="IMPORTANCE" NlmCategory="OBJECTIVE">Facial paralysis is a life-altering condition that significantly impairs function, appearance, and communication. Facial rehabilitation via closed-loop pacing represents a potential but as yet theoretical approach to reanimation. A first critical step toward closed-loop facial pacing in cases of unilateral paralysis is the detection of healthy movements to use as a trigger to prosthetically elicit automatic artificial movements on the contralateral side of the face.</AbstractText>
+          <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To test and to maximize the performance of an electromyography (EMG)-based blink detection system for applications in closed-loop facial pacing.</AbstractText>
+          <AbstractText Label="DESIGN, SETTING, AND PARTICIPANTS" NlmCategory="METHODS">Blinking was detected across the periocular region by means of multichannel surface EMG at an academic neuroengineering and medical robotics laboratory among 15 healthy volunteers.</AbstractText>
+          <AbstractText Label="MAIN OUTCOMES AND MEASURES" NlmCategory="METHODS">Real-time blink detection was accomplished by mapping the surface of the orbicularis oculi muscle on one side of the face with a multichannel surface EMG. The biosignal from each channel was independently processed; custom software registered a blink when an amplitude-based or slope-based suprathreshold activity was detected. The experiments were performed when participants were relaxed and during the production of particular orofacial movements. An F1 score metric was used to analyze software performance in detecting blinks.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The maximal software performance was achieved when a blink was recorded from the superomedial orbit quadrant. At this recording location, the median F1 scores were 0.89 during spontaneous blinking, 0.82 when chewing gum, 0.80 when raising the eyebrows, and 0.70 when smiling. The overall performance of blink detection was significantly better at the superomedial quadrant (F1 score, 0.75) than at the traditionally used inferolateral quadrant (F1 score, 0.40) (P &lt; .05).</AbstractText>
+          <AbstractText Label="CONCLUSIONS AND RELEVANCE" NlmCategory="CONCLUSIONS">Electromyographic recording represents an accurate tool to detect spontaneous blinks as part of closed-loop facial pacing systems. The early detection of blink activity may allow real-time pacing via rapid triggering of contralateral muscles. Moreover, an EMG detection system can be integrated in external devices and in implanted neuroprostheses. A potential downside to this approach involves cross talk from adjacent muscles, which can be notably reduced by recording from the superomedial quadrant of the orbicularis oculi muscle and by applying proper signal processing.</AbstractText>
+          <AbstractText Label="LEVEL OF EVIDENCE" NlmCategory="METHODS">NA.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Frigerio</LastName>
+            <ForeName>Alice</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Human Physiology Section, Department of Pathophysiology and Transplantation, Università degli Studi di Milano, Milan, Italy2Facial Nerve Center, Carolyn and Peter Lynch Center for Laser and Reconstructive Surgery, Division of Facial Plastic and Reconstruc.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cavallari</LastName>
+            <ForeName>Paolo</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Human Physiology Section, Department of Pathophysiology and Transplantation, Università degli Studi di Milano, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Frigeni</LastName>
+            <ForeName>Marta</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Human Physiology Section, Department of Pathophysiology and Transplantation, Università degli Studi di Milano, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pedrocchi</LastName>
+            <ForeName>Alessandra</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Neuroengineering and Medical Robotics Laboratory, Department of Electronics, Information, and Bioengineering, Politecnico di Milano, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sarasola</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Neuroengineering and Medical Robotics Laboratory, Department of Electronics, Information, and Bioengineering, Politecnico di Milano, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ferrante</LastName>
+            <ForeName>Simona</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Neuroengineering and Medical Robotics Laboratory, Department of Electronics, Information, and Bioengineering, Politecnico di Milano, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JAMA Facial Plast Surg</MedlineTA>
+        <NlmUniqueID>101589532</NlmUniqueID>
+        <ISSNLinking>2168-6076</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001767" MajorTopicYN="N">Blinking</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004576" MajorTopicYN="N">Electromyography</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005152" MajorTopicYN="N">Facial Muscles</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005158" MajorTopicYN="N">Facial Paralysis</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+          <QualifierName UI="Q000534" MajorTopicYN="N">rehabilitation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D064368" MajorTopicYN="N">Healthy Volunteers</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2015</Year>
+          <Month>6</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">25033260</ArticleId>
+        <ArticleId IdType="pii">1888415</ArticleId>
+        <ArticleId IdType="doi">10.1001/jamafacial.2014.283</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">25041850</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>02</Month>
+        <Day>23</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1873-7560</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>66</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2014</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>European urology</Title>
+          <ISOAbbreviation>Eur Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A novel robotic system for single-port urologic surgery: first clinical investigation.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1033-43</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.eururo.2014.06.039</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0302-2838(14)00613-7</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The idea of performing a laparoscopic procedure through a single abdominal incision was conceived with the aim of expediting postoperative recovery.</AbstractText>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine the clinical feasibility and safety of single-port urologic procedures by using a novel robotic surgical system.</AbstractText>
+          <AbstractText Label="DESIGN, SETTING, AND PARTICIPANTS" NlmCategory="METHODS">This was a prospective institutional review board-approved, Innovation, Development, Exploration, Assessment, Long-term Study (IDEAL) phase 1 study. After enrollment, patients underwent a major urologic robotic single-port procedure over a 3-wk period in July 2010. The patients were followed for 3 yr postoperatively.</AbstractText>
+          <AbstractText Label="INTERVENTION" NlmCategory="METHODS">Different types of urologic surgeries were performed using the da Vinci SP Surgical System. This system is intended to provide the same core clinical capabilities as the existing multiport da Vinci system, except that three articulating endoscopic instruments and an articulating endoscopic camera are inserted into the patient through a single robotic port.</AbstractText>
+          <AbstractText Label="OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS" NlmCategory="METHODS">The main outcomes were the technical feasibility of the procedures (as measured by the rate of conversions) and the safety of the procedures (as measured by the incidence of perioperative complications). Secondary end points consisted of evaluating other key surgical perioperative outcomes as well as midterm functional and oncologic outcomes.</AbstractText>
+          <AbstractText Label="RESULTS AND LIMITATIONS" NlmCategory="CONCLUSIONS">A total of 19 patients were enrolled in the study. Eleven of them underwent radical prostatectomy; eight subjects underwent nephrectomy procedures (partial nephrectomy, four; radical nephrectomy, two; and simple nephrectomy, two). There were no conversions to alternative surgical approaches. Overall, two major (Clavien grade 3b) postoperative complications were observed in the radical prostatectomy group and none in the nephrectomy group. At 1-yr follow-up, one radical prostatectomy patient experienced biochemical recurrence, which was successfully treated with salvage radiation therapy. The median warm ischemia time for three of the partial nephrectomies was 38 min. At 3-yr follow-up all patients presented a preserved renal function; none had tumor recurrence. Study limitations include the small sample and the lack of a control group.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We describe the first clinical application of a novel robotic platform specifically designed for single-port urologic surgery. Major urologic procedures were successfully completed without conversions. Further assessment is warranted to corroborate these promising findings.</AbstractText>
+          <AbstractText Label="PATIENT SUMMARY" NlmCategory="RESULTS">A novel purpose-built robotic system enables surgeons to perform safely and effectively a variety of major urologic procedures through a single small abdominal incision.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">The study was registered on www.ClinicalTrials.gov (NCT02136121).</AbstractText>
+          <CopyrightInformation>Copyright © 2014 European Association of Urology. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kaouk</LastName>
+            <ForeName>Jihad H</ForeName>
+            <Initials>JH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, OH, USA. Electronic address: kaoukj@ccf.org.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Haber</LastName>
+            <ForeName>Georges-Pascal</ForeName>
+            <Initials>GP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, OH, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Autorino</LastName>
+            <ForeName>Riccardo</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, OH, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Crouzet</LastName>
+            <ForeName>Sebastien</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology and Transplantation, Edouard Herriot Hospital, Lyon, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ouzzane</LastName>
+            <ForeName>Adil</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, CHU Lille, University Lille Nord de France, Lille, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Flamand</LastName>
+            <ForeName>Vincent</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, CHU Lille, University Lille Nord de France, Lille, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Villers</LastName>
+            <ForeName>Arnauld</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, CHU Lille, University Lille Nord de France, Lille, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT02136121</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2014</Year>
+          <Month>07</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Eur Urol</MedlineTA>
+        <NlmUniqueID>7512719</NlmUniqueID>
+        <ISSNLinking>0302-2838</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Eur Urol. 2014 Dec;66(6):1044-5. doi: 10.1016/j.eururo.2014.07.029</RefSource>
+          <PMID Version="1">25123322</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005240" MajorTopicYN="N">Feasibility Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007680" MajorTopicYN="N">Kidney Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009364" MajorTopicYN="N">Neoplasm Recurrence, Local</DescriptorName>
+          <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="N">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="N">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013673" MajorTopicYN="N">Technology Assessment, Biomedical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D052096" MajorTopicYN="N">Warm Ischemia</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Nephrectomy</Keyword>
+        <Keyword MajorTopicYN="N">Radical prostatectomy</Keyword>
+        <Keyword MajorTopicYN="N">Robotic surgery</Keyword>
+        <Keyword MajorTopicYN="N">Single-port surgery</Keyword>
+        <Keyword MajorTopicYN="N">Single-site surgery</Keyword>
+        <Keyword MajorTopicYN="N">Urology</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2014</Year>
+          <Month>05</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2014</Year>
+          <Month>06</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>2</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">25041850</ArticleId>
+        <ArticleId IdType="pii">S0302-2838(14)00613-7</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.eururo.2014.06.039</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">25045857</PMID>
+      <DateCompleted>
+        <Year>2015</Year>
+        <Month>07</Month>
+        <Day>22</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1553-4669</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>22</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2015</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of minimally invasive gynecology</Title>
+          <ISOAbbreviation>J Minim Invasive Gynecol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A randomized trial comparing vaginal and laparoscopic hysterectomy vs robot-assisted hysterectomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>78-86</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jmig.2014.07.010</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S1553-4650(14)00400-2</ELocationID>
+        <Abstract>
+          <AbstractText Label="STUDY OBJECTIVE" NlmCategory="OBJECTIVE">To investigate the hospital cost and short-term clinical outcome of traditional minimally invasive hysterectomy vs robot-assisted hysterectomy in women primarily not considered candidates for vaginal surgery.</AbstractText>
+          <AbstractText Label="DESIGN" NlmCategory="METHODS">Randomized controlled trial (Canadian Task Force classification I).</AbstractText>
+          <AbstractText Label="SETTING" NlmCategory="METHODS">University Hospital in Sweden.</AbstractText>
+          <AbstractText Label="PATIENTS" NlmCategory="METHODS">One hundred twenty-two women with uterine size ≤ 16 gestational weeks scheduled to undergo minimally invasive hysterectomy because of benign disease.</AbstractText>
+          <AbstractText Label="INTERVENTIONS" NlmCategory="METHODS">Robot-assisted hysterectomy or traditional vaginal or laparoscopic minimally invasive hysterectomy.</AbstractText>
+          <AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">All women underwent surgery as randomized. There were no demographic differences between the 2 groups. Vaginal hysterectomy was possible in 41% in the traditional minimally invasive group, at a mean hospital cost of $4579 compared with $7059 for traditional laparoscopic hysterectomy. This was reflected in a mean hospital cost of $993 more per robotic-assisted hysterectomy than for traditional minimally invasive hysterectomy when the robot was a preexisting investment. This hospital cost increased by $1607 when including investments and cost of maintenance. A per-protocol subanalysis comparing laparoscopy and robotics demonstrated similar hospital cost when the robot was a preexisting investment ($7059 vs $7016). Robotic-assisted hysterectomy was associated with less blood loss and fewer postoperative complications.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">A similar hospital cost can be attained for laparoscopy and robotics when the robot is a preexisting investment. From the perspective of hospital costs, robotic-assisted hysterectomy is not advantageous for treating benign conditions when a vaginal approach is feasible in a high proportion of patients.</AbstractText>
+          <CopyrightInformation>Copyright © 2015 AAGL. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lönnerfors</LastName>
+            <ForeName>Celine</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, Skåne University Hospital and Lund University, Lund, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Reynisson</LastName>
+            <ForeName>Petur</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, Skåne University Hospital and Lund University, Lund, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Persson</LastName>
+            <ForeName>Jan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, Skåne University Hospital and Lund University, Lund, Sweden. Electronic address: jan.persson@med.lu.se.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2014</Year>
+          <Month>07</Month>
+          <Day>19</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Minim Invasive Gynecol</MedlineTA>
+        <NlmUniqueID>101235322</NlmUniqueID>
+        <ISSNLinking>1553-4650</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017721" MajorTopicYN="Y">Hospital Costs</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007044" MajorTopicYN="N">Hysterectomy</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007045" MajorTopicYN="N">Hysterectomy, Vaginal</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Hysterectomy</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopic hysterectomy</Keyword>
+        <Keyword MajorTopicYN="N">Minimally invasive surgery</Keyword>
+        <Keyword MajorTopicYN="N">Robot-assisted laparoscopy</Keyword>
+        <Keyword MajorTopicYN="N">Vaginal hysterectomy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2014</Year>
+          <Month>06</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2014</Year>
+          <Month>07</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2014</Year>
+          <Month>07</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2015</Year>
+          <Month>7</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">25045857</ArticleId>
+        <ArticleId IdType="pii">S1553-4650(14)00400-2</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jmig.2014.07.010</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

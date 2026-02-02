@@ -1,0 +1,900 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">25054732</PMID>
+      <DateCompleted>
+        <Year>2014</Year>
+        <Month>07</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2015</Year>
+        <Month>01</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1533-4406</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>371</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2014</Year>
+              <Month>Jul</Month>
+              <Day>24</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The New England journal of medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A randomized trial of robot-assisted laparoscopic radical cystectomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>389-90</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1056/NEJMc1405213</ELocationID>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bochner</LastName>
+            <ForeName>Bernard H</ForeName>
+            <Initials>BH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Memorial Sloan Kettering Cancer Center, New York, NY.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sjoberg</LastName>
+            <ForeName>Daniel D</ForeName>
+            <Initials>DD</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Laudone</LastName>
+            <ForeName>Vincent P</ForeName>
+            <Initials>VP</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <CollectiveName>Memorial Sloan Kettering Cancer Center Bladder Cancer Surgical Trials Group</CollectiveName>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016422">Letter</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>N Engl J Med</MedlineTA>
+        <NlmUniqueID>0255562</NlmUniqueID>
+        <ISSNLinking>0028-4793</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>N Engl J Med. 2014 Oct 23;371(17):1655. doi: 10.1056/NEJMc1410504</RefSource>
+          <PMID Version="1">25337764</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>N Engl J Med. 2014 Oct 23;371(17):1654-5. doi: 10.1056/NEJMc1410504</RefSource>
+          <PMID Version="1">25337765</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Eur Urol. 2015 Jan;67(1):173-174. doi: 10.1016/j.eururo.2014.09.046</RefSource>
+          <PMID Version="1">25528394</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016063" MajorTopicYN="N">Blood Loss, Surgical</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015653" MajorTopicYN="N">Cystectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057194" MajorTopicYN="N">Intention to Treat Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001749" MajorTopicYN="N">Urinary Bladder Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <InvestigatorList>
+        <Investigator ValidYN="Y">
+          <LastName>Bochner</LastName>
+          <ForeName>Bernard H</ForeName>
+          <Initials>BH</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Dalbagni</LastName>
+          <ForeName>Guido</ForeName>
+          <Initials>G</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Sjoberg</LastName>
+          <ForeName>Daniel D</ForeName>
+          <Initials>DD</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Silberstein</LastName>
+          <ForeName>Jonathan</ForeName>
+          <Initials>J</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Paz</LastName>
+          <ForeName>Gal E  Keren</ForeName>
+          <Initials>GE</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Donat</LastName>
+          <ForeName>S  Machele</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Coleman</LastName>
+          <ForeName>Jonathan A</ForeName>
+          <Initials>JA</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Vickers</LastName>
+          <ForeName>Andrew</ForeName>
+          <Initials>A</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Parra</LastName>
+          <ForeName>Raul O</ForeName>
+          <Initials>RO</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Herr</LastName>
+          <ForeName>Harry W</ForeName>
+          <Initials>HW</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Laudone</LastName>
+          <ForeName>Vincent P</ForeName>
+          <Initials>VP</Initials>
+        </Investigator>
+      </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">25054732</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMc1405213</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">25064455</PMID>
+      <DateCompleted>
+        <Year>2015</Year>
+        <Month>05</Month>
+        <Day>15</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2016</Year>
+        <Month>11</Month>
+        <Day>25</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1873-3913</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>26</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2014</Year>
+              <Month>Nov</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Cellular signalling</Title>
+          <ISOAbbreviation>Cell Signal</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Heterozygous mutations in cyclic AMP phosphodiesterase-4D (PDE4D) and protein kinase A (PKA) provide new insights into the molecular pathology of acrodysostosis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>2446-59</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cellsig.2014.07.025</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0898-6568(14)00247-2</ELocationID>
+        <Abstract>
+          <AbstractText>Acrodysostosis without hormone resistance is a rare skeletal disorder characterized by brachydactyly, nasal hypoplasia, mental retardation and occasionally developmental delay. Recently, loss-of-function mutations in the gene encoding cAMP-hydrolyzing phosphodiesterase-4D (PDE4D) have been reported to cause this rare condition but the pathomechanism has not been fully elucidated. To understand the pathogenetic mechanism of PDE4D mutations, we conducted 3D modeling studies to predict changes in the binding efficacy of cAMP to the catalytic pocket in PDE4D mutants. Our results indicated diminished enzyme activity in the two mutants we analyzed (Gly673Asp and Ile678Thr; based on PDE4D4 residue numbering). Ectopic expression of PDE4D mutants in HEK293 cells demonstrated this reduction in activity, which was identified by increased cAMP levels. However, the cells from an acrodysostosis patient showed low cAMP accumulation, which resulted in a decrease in the phosphorylated cAMP Response Element-Binding Protein (pCREB)/CREB ratio. The reason for this discrepancy was due to a compensatory increase in expression levels of PDE4A and PDE4B isoforms, which accounted for the paradoxical decrease in cAMP levels in the patient cells expressing mutant isoforms with a lowered PDE4D activity. Skeletal radiographs of 10-week-old knockout (KO) rats showed that the distal part of the forelimb was shorter than in wild-type (WT) rats and that all the metacarpals and phalanges were also shorter in KO, as the name acrodysostosis implies. Like the G-protein α-stimulatory subunit and PRKAR1A, PDE4D critically regulates the cAMP signal transduction pathway and influences bone formation in a way that activity-compromising PDE4D mutations can result in skeletal dysplasia. We propose that specific inhibitory PDE4D mutations can lead to the molecular pathology of acrodysostosis without hormone resistance but that the pathological phenotype may well be dependent on an over-compensatory induction of other PDE4 isoforms that can be expected to be targeted to different signaling complexes and exert distinct effects on compartmentalized cAMP signaling.</AbstractText>
+          <CopyrightInformation>Copyright © 2014. Published by Elsevier Inc.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kaname</LastName>
+            <ForeName>Tadashi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Genetics, University of the Ryukyus Graduate School of Medicine, Okinawa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ki</LastName>
+            <ForeName>Chang-Seok</ForeName>
+            <Initials>CS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Laboratory Medicine and Genetics, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Niikawa</LastName>
+            <ForeName>Norio</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Health Sciences University of Hokkaido, Hokkaido, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Baillie</LastName>
+            <ForeName>George S</ForeName>
+            <Initials>GS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Cardiovascular and Medical Sciences, College of Medical, Veterinary and Life Sciences, University of Glasgow, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Day</LastName>
+            <ForeName>Jonathan P</ForeName>
+            <Initials>JP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Genetics, University of Cambridge, Cambridge, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yamamura</LastName>
+            <ForeName>Ken-Ichi</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Developmental Genetics, Institute of Resource Development and Analysis, Kumamoto University, Kumamoto, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ohta</LastName>
+            <ForeName>Tohru</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Institute of Personalized Health Sciences, Health Sciences University of Hokkaido, Hokkaido, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nishimura</LastName>
+            <ForeName>Gen</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatric Imaging, Tokyo Metropolitan Children's Medical Center, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mastuura</LastName>
+            <ForeName>Nobuo</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Seitoku University, Chiba, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Ok-Hwa</ForeName>
+            <Initials>OH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, Gachon University Gil Medical Center, Incheon, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sohn</LastName>
+            <ForeName>Young Bae</ForeName>
+            <Initials>YB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Genetics Ajou University Hospital, Ajou University School of Medicine, Suwon, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Hyun Woo</ForeName>
+            <Initials>HW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, Yonsei University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cho</LastName>
+            <ForeName>Sung Yoon</ForeName>
+            <Initials>SY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ko</LastName>
+            <ForeName>Ah-Ra</ForeName>
+            <Initials>AR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical Research Center, Samsung Biomedical Research Institute, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Jin Young</ForeName>
+            <Initials>JY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical Research Center, Samsung Biomedical Research Institute, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Hyun Wook</ForeName>
+            <Initials>HW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Life Sciences, Pohang University of Science and Technology, Pohang, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ryu</LastName>
+            <ForeName>Sung Ho</ForeName>
+            <Initials>SH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Life Sciences, Pohang University of Science and Technology, Pohang, Republic of Korea; Division of Integrative Biosciences and Biotechnology and School of Interdisciplinary Bioscience and Bioengineering, Pohang University of Science and Technology, Pohang, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rhee</LastName>
+            <ForeName>Hwanseok</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Macrogen Inc., Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Kap-Seok</ForeName>
+            <Initials>KS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Macrogen Inc., Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Joo</LastName>
+            <ForeName>Keehyoung</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for In Silico Protein Science, Korea Institute for Advanced Study, Republic of Korea; Center for Advanced Computation, Korea Institute for Advanced Study, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Jooyoung</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for In Silico Protein Science, Korea Institute for Advanced Study, Republic of Korea; Center for Advanced Computation, Korea Institute for Advanced Study, Republic of Korea; School of Computational Sciences, Korea Institute for Advanced Study, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Chi Hwa</ForeName>
+            <Initials>CH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Mogam Biotechnology Research Institute, Yongin, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cho</LastName>
+            <ForeName>Kwang-Hyun</ForeName>
+            <Initials>KH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bio and Brain Engineering, Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Dongsan</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bio and Brain Engineering, Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yanagi</LastName>
+            <ForeName>Kumiko</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Genetics, University of the Ryukyus Graduate School of Medicine, Okinawa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Naritomi</LastName>
+            <ForeName>Kenji</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Genetics, University of the Ryukyus Graduate School of Medicine, Okinawa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yoshiura</LastName>
+            <ForeName>Ko-Ichiro</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Human Genetics, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kondoh</LastName>
+            <ForeName>Tatsuro</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Developmental Disabilities, The Misakaenosono Mutsumi Developmental, Medical and Welfare Center, Isahaya, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nii</LastName>
+            <ForeName>Eiji</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, Mie Prefectural Kusanomi Rehabilitation Center, Tsu, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tonoki</LastName>
+            <ForeName>Hidefumi</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Section of Clinical Genetics, Department of Pediatrics, Tenshi Hospital, Sapporo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Houslay</LastName>
+            <ForeName>Miles D</ForeName>
+            <Initials>MD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Pharmaceutical Science, King's College, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jin</LastName>
+            <ForeName>Dong-Kyu</ForeName>
+            <Initials>DK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea. Electronic address: jindk@skku.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2014</Year>
+          <Month>07</Month>
+          <Day>24</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Cell Signal</MedlineTA>
+        <NlmUniqueID>8904683</NlmUniqueID>
+        <ISSNLinking>0898-6568</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.11</RegistryNumber>
+          <NameOfSubstance UI="D017868">Cyclic AMP-Dependent Protein Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.1.4.17</RegistryNumber>
+          <NameOfSubstance UI="D054703">Cyclic Nucleotide Phosphodiesterases, Type 4</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.1.4.17</RegistryNumber>
+          <NameOfSubstance UI="C517376">PDE4D protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.1.4.17</RegistryNumber>
+          <NameOfSubstance UI="C528468">PDE4D protein, rat</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <SupplMeshList>
+        <SupplMeshName Type="Disease" UI="C538179">Acrodysostosis</SupplMeshName>
+      </SupplMeshList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019943" MajorTopicYN="N">Amino Acid Substitution</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002675" MajorTopicYN="N">Child, Preschool</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017868" MajorTopicYN="N">Cyclic AMP-Dependent Protein Kinases</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054703" MajorTopicYN="Y">Cyclic Nucleotide Phosphodiesterases, Type 4</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004413" MajorTopicYN="Y">Dysostoses</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057809" MajorTopicYN="N">HEK293 Cells</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006579" MajorTopicYN="Y">Heterozygote</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008607" MajorTopicYN="Y">Intellectual Disability</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062105" MajorTopicYN="Y">Molecular Docking Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020125" MajorTopicYN="Y">Mutation, Missense</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010009" MajorTopicYN="Y">Osteochondrodysplasias</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011859" MajorTopicYN="N">Radiography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011922" MajorTopicYN="N">Rats, Mutant Strains</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015290" MajorTopicYN="N">Second Messenger Systems</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Acrodysostosis</Keyword>
+        <Keyword MajorTopicYN="N">Knok out rat</Keyword>
+        <Keyword MajorTopicYN="N">PDE4D</Keyword>
+        <Keyword MajorTopicYN="N">cAMP</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2014</Year>
+          <Month>06</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2014</Year>
+          <Month>07</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2014</Year>
+          <Month>07</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2015</Year>
+          <Month>5</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">25064455</ArticleId>
+        <ArticleId IdType="pii">S0898-6568(14)00247-2</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.cellsig.2014.07.025</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">25074885</PMID>
+      <DateCompleted>
+        <Year>2014</Year>
+        <Month>09</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>01</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">2095-4964</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>12</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2014</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of integrative medicine</Title>
+          <ISOAbbreviation>J Integr Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effects of cinnamon on perineal pain and healing of episiotomy: a randomized placebo-controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>359-66</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/S2095-4964(14)60025-X</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S2095-4964(14)60025-X</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Analgesic and wound-healing effects of cinnamon, a widely used spice, have been shown in laboratory rats. However, we found no human studies in this area.</AbstractText>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to assess the effect of cinnamon on perineal pain and healing of episiotomy incision.</AbstractText>
+          <AbstractText Label="DESIGN, SETTING, PARTICIPANTS AND INTERVENTIONS" NlmCategory="METHODS">In this double-blind, randomized, placebo-controlled trial, 144 postpartum women were allocated into two groups, using stratified block randomization, 1 h after completion of episiotomy repair. They received cinnamon or placebo ointment, 2 mL every 12 h for 10 d.</AbstractText>
+          <AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">Perineal pain and wound healing were assessed using visual analogue scale (0-10) and Redness, Edema, Ecchymosis, Discharge, Approximation scale (0-15), respectively. General linear model was used to compare the groups on the outcomes adjusted for baseline values and stratified factors.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Follow-up rate was 100% up to the 8 h time point in both groups, and 86% (62 of 72) in the cinnamon group and 85% (61 of 72) in the placebo group at day 10-11 after delivery. Pain score in the cinnamon group was significantly lower than that in the placebo group at (4±1) h (adjusted difference: -0.6, 95% confidence interval: -1.0 to -0.2) and (8±1) h (-0.9, -1.4 to -0.3) after intervention, and on the 10-11th day after delivery (-1.4, -2.0 to -0.7). Also the cinnamon group showed significantly more improvement than the control group in healing score at (8±1) h (-0.2, -0.4 to -0.04) and the 10-11th day after delivery (-1.6, -2.0 to -1.1).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Cinnamon can be used for reducing perineal pain and improving healing of episiotomy incision.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Mohammadi</LastName>
+            <ForeName>Azam</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Students Research Committee, Faculty of Nursing and Midwifery, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mohammad-Alizadeh-Charandabi</LastName>
+            <ForeName>Sakineh</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Iranian Center for Evidence Based Medicine, Tabriz University of Medical Sciences, Tabriz, Iran; E-mail:alizades@tbzmed.ac.ir,smoalch@yahoo.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mirghafourvand</LastName>
+            <ForeName>Mojgan</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Midwifery Department, Faculty of Nursing and Midwifery, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Javadzadeh</LastName>
+            <ForeName>Yousef</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pharmaceutics, Faculty of Pharmacy, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fardiazar</LastName>
+            <ForeName>Zahra</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Women Reproductive Health Research Center, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Effati-Daryani</LastName>
+            <ForeName>Fatemeh</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Students Research Committee, Faculty of Nursing and Midwifery, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>J Integr Med</MedlineTA>
+        <NlmUniqueID>101603118</NlmUniqueID>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000700">Analgesics</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D010936">Plant Extracts</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000700" MajorTopicYN="N">Analgesics</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002935" MajorTopicYN="N">Cinnamomum zeylanicum</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D036861" MajorTopicYN="N">Delivery, Obstetric</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010147" MajorTopicYN="N">Pain Measurement</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010149" MajorTopicYN="N">Pain, Postoperative</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017699" MajorTopicYN="N">Pelvic Pain</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010502" MajorTopicYN="N">Perineum</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010936" MajorTopicYN="N">Plant Extracts</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014945" MajorTopicYN="N">Wound Healing</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>31</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2014</Year>
+          <Month>7</Month>
+          <Day>31</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2014</Year>
+          <Month>10</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">25074885</ArticleId>
+        <ArticleId IdType="pii">S2095-4964(14)60025-X</ArticleId>
+        <ArticleId IdType="doi">10.1016/S2095-4964(14)60025-X</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

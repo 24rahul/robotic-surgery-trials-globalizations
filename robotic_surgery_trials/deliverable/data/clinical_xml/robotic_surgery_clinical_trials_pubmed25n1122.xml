@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">35150407</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>09</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1861-6429</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>17</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of computer assisted radiology and surgery</Title>
+          <ISOAbbreviation>Int J Comput Assist Radiol Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Frame-wise detection of surgeon stress levels during laparoscopic training using kinematic data.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>785-794</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11548-022-02568-5</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Excessive stress experienced by the surgeon can have a negative effect on the surgeon's technical skills. The goal of this study is to evaluate and validate a deep learning framework for real-time detection of stressed surgical movements using kinematic data.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">30 medical students were recruited as the subjects to perform a modified peg transfer task and were randomized into two groups, a control group (n=15) and a stressed group (n=15) that completed the task under deteriorating, simulated stressful conditions. To classify stressed movements, we first developed an attention-based Long-Short-Term-Memory recurrent neural network (LSTM) trained to classify normal/stressed trials and obtain the contribution of each data frame to the stress level classification. Next, we extracted the important frames from each trial and used another LSTM network to implement the frame-wise classification of normal and stressed movements.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The classification between normal and stressed trials using attention-based LSTM model reached an overall accuracy of 75.86% under Leave-One-User-Out (LOUO) cross-validation. The second LSTM classifier was able to distinguish between the typical normal and stressed movement with an accuracy of 74.96% with an 8-second observation under LOUO. Finally, the normal and stressed movements in stressed trials could be classified with the accuracy of 68.18% with a 16-second observation under LOUO.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In this study, we extracted the movements which are more likely to be affected by stress and validated the feasibility of using LSTM and kinematic data for frame-wise detection of stress level during laparoscopic training. The proposed classifier could be potentially be integrated with robot-assisted surgery platforms for stress management purposes.</AbstractText>
+          <CopyrightInformation>© 2022. CARS.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Yi</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-1830-0680</Identifier>
+            <AffiliationInfo>
+              <Affiliation>The Department of Mechanical Engineering, The University of Texas at Austin, Austin, TX, 78712, USA. yi.zheng@austin.utexas.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Leonard</LastName>
+            <ForeName>Grey</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>The Department of Surgery, UT Southwestern Medical Center, Dallas, TX, 75390, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zeh</LastName>
+            <ForeName>Herbert</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>The Department of Surgery, UT Southwestern Medical Center, Dallas, TX, 75390, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fey</LastName>
+            <ForeName>Ann Majewicz</ForeName>
+            <Initials>AM</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-1802-6730</Identifier>
+            <AffiliationInfo>
+              <Affiliation>The Department of Mechanical Engineering, The University of Texas at Austin, Austin, TX, 78712, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Department of Surgery, UT Southwestern Medical Center, Dallas, TX, 75390, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 EB030125</GrantID>
+            <Acronym>EB</Acronym>
+            <Agency>NIBIB NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>1R01EB030125-01</GrantID>
+            <Acronym>NH</Acronym>
+            <Agency>NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>12</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Int J Comput Assist Radiol Surg</MedlineTA>
+        <NlmUniqueID>101499225</NlmUniqueID>
+        <ISSNLinking>1861-6410</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001696" MajorTopicYN="N">Biomechanical Phenomena</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016571" MajorTopicYN="N">Neural Networks, Computer</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066231" MajorTopicYN="Y">Surgeons</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Deep learning</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopic surgery</Keyword>
+        <Keyword MajorTopicYN="N">Motion analysis</Keyword>
+        <Keyword MajorTopicYN="N">Surgical stress</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>01</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>12</Day>
+          <Hour>12</Hour>
+          <Minute>8</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35150407</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11548-022-02568-5</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11548-022-02568-5</ArticleId>
+        <ArticleId IdType="pmc">PMC10321330</ArticleId>
+        <ArticleId IdType="mid">NIHMS1901282</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Am J Surg. 2009 Apr;197(4):537-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19246024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Educ. 2016 May-Jun;73(3):482-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26896147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Surg. 1997 Feb;84(2):273-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9052454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 2018 Aug;216(2):361-368</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28615137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Surg. 2001 Mar;136(3):305-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11231850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2001 Oct;15(10):1204-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11727101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 2015 Nov;210(5):846-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26105802</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Appl Physiol Occup Physiol. 1983;51(3):441-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6685042</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2003 Sep;17(9):1481-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12820061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int Symp Med Robot. 2021 Nov;2021:</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37408580</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Med Imaging. 2020 Mar;39(3):556-566</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31352339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2010 Oct;24(10):2588-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20354878</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Pattern Anal Mach Intell. 2020 Jan;42(1):154-163</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30334781</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Surg. 2005 Oct;201(4):560-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16183494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neural Comput. 1997 Nov 15;9(8):1735-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9377276</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Comput Assist Radiol Surg. 2018 Dec;13(12):1959-1970</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30255463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2018 Feb;14(1):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28660725</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Laparoendosc Adv Surg Tech A. 2006 Apr;16(2):94-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16646695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">35156838</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>08</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1557-900X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>36</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>08</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of endourology</Title>
+          <ISOAbbreviation>J Endourol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Evaluation of Hugo RAS System in Major Urologic Surgery: Our Initial Experience.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1029-1035</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1089/end.2022.0015</ELocationID>
+        <Abstract>
+          <AbstractText><b><i>Background:</i></b> The Hugo RAS is a newly launched robotic system for clinical use. This article provides the initial experience of the authors using Hugo RAS in urologic procedures. <b><i>Methodology:</i></b> Patients undergoing major urologic procedures, including nephrectomy and prostatectomy, were included in this prospective clinical trial. Institutional ethical approval was obtained, and patients were counseled preoperatively with informed consent. Both intraoperative and postoperative data were carefully recorded. <b><i>Results:</i></b> A total of seven patients were included in this initial study. This includes radical prostatectomy (<i>n</i> = 3), simple prostatectomy (<i>n</i> = 1), radical nephrectomy (<i>n</i> = 1), and simple nephrectomy (<i>n</i> = 2). The total operative time, port placement time, time to dock the ports, blood loss and length of hospital stay, and 30-day morbidity and mortality were recorded. There were no intraoperative or postoperative complications up to 1 month follow-up. <b><i>Conclusion:</i></b> From the early experience with the Hugo RAS™ platform, it appears to be a safe robotic platform for major urologic procedures and is a good addition to the existing arsenal of surgical robots.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ragavan</LastName>
+            <ForeName>Narasimhan</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, The Tamil Nadu Dr MGR Medical University, Apollo Hospitals, Chennai, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bharathkumar</LastName>
+            <ForeName>Shivaraj</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0001-8618-4266</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology and Apollo Hospitals, Chennai, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chirravur</LastName>
+            <ForeName>Pradeep</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anaesthesiology, Apollo Hospitals, Chennai, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sankaran</LastName>
+            <ForeName>Sindhu</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0001-8294-4037</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology and Apollo Hospitals, Chennai, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mottrie</LastName>
+            <ForeName>Alex</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Orsi Academy, Ghent, Belgium.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>OLV Hospital, Aalst, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Endourol</MedlineTA>
+        <NlmUniqueID>8807503</NlmUniqueID>
+        <ISSNLinking>0892-7790</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Urol. 2023 Jun;209(6):1216. doi: 10.1097/JU.0000000000003410</RefSource>
+          <PMID Version="1">36950934</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Pediatr Urol. 2023 Apr;19(2):222-224. doi: 10.1016/j.jpurol.2023.03.004</RefSource>
+          <PMID Version="1">36967206</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="N">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013520" MajorTopicYN="N">Urologic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">robotic surgery</Keyword>
+        <Keyword MajorTopicYN="N">urologic procedures</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>8</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>14</Day>
+          <Hour>12</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35156838</ArticleId>
+        <ArticleId IdType="doi">10.1089/end.2022.0015</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

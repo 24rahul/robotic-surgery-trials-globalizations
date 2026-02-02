@@ -1,0 +1,861 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">30218263</PMID>
+      <DateCompleted>
+        <Year>2020</Year>
+        <Month>04</Month>
+        <Day>15</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>04</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-2218</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>33</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>05</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Surgical endoscopy</Title>
+          <ISOAbbreviation>Surg Endosc</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robot-assisted versus laparoscopic single-incision cholecystectomy: results of a randomized controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1482-1490</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00464-018-6430-7</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Although single-port laparoscopic cholecystectomy (SILC) is safe and effective, inherent surgeons' discomfort has prevented a large-scale adaptation of this technique. Recent advances in robotic technology suggest that da Vinci Single-Site™ cholecystectomy (dVSSC) may overcome this issue by reducing the stress load of the surgeon compared to SILC. However, evidence to objectively assess differences between the two approaches is lacking.</AbstractText>
+          <AbstractText Label="METHODS">60 patients [36 women, 24 men (mean age 52 years)] with benign gallbladder disease were randomly assigned to dVSSC (n = 30) or SILC (n = 30) in this single-centre, single-blinded controlled trial. The primary endpoint was surgeon's stress load. Secondary endpoints included operating time, conversion rates, additional trocar placement, blood loss, length of hospital stay, procedure costs, health-related quality of life, cosmesis and complications. Data were collected preoperatively, during the hospital stay, and at 1 and 12 months' follow-up.</AbstractText>
+          <AbstractText Label="RESULTS">The dVSSC group showed a significant reduction of mental stress load of the surgeon compared to SILC [Subjective Mental Effort Questionnaire (SMEQ) score: median 25.0 (range 8-89) vs. 42.5 (range 13-110) points; p = 0.002] and a trend towards reduced physical stress load [Local Experienced Discomfort (LED) score: median 8 (range 2-27) vs. 12 (range 0-64) points; p = 0.088]. The length of hospital stay was longer in the SILC group [mean 3.06 (median 2; range 1-26) vs. 1.9 (median 2; range 1-4) days, p = 0.034] but overall hospital costs were higher for dVSSC [median 9734 (range 5775-16729) vs. 6900 (range 4156-99977) CHF; p = 0.001]. There were no differences in the rate of postoperative complications that required re-intervention (Dindo-Clavien grade ≥ IIIa; SILC n = 2 vs. dVSSC n = 0, p = 0.492) or other secondary endpoints.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Da Vinci Single-Site™ cholecystectomy provides significant benefits over Single-Port Laparoscopic Cholecystectomy in terms of surgeon's stress load, matches the standards of the laparoscopic single-incision approach with regard to patients' outcomes but increases expenses. Clinicaltrials.gov registration-No.: NCT02485392.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Grochola</LastName>
+            <ForeName>Lukasz Filip</ForeName>
+            <Initials>LF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Cantonal Hospital of Winterthur, Brauerstrasse 15, 8401, Winterthur, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Soll</LastName>
+            <ForeName>Christopher</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Cantonal Hospital of Winterthur, Brauerstrasse 15, 8401, Winterthur, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zehnder</LastName>
+            <ForeName>Adrian</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Cantonal Hospital of Winterthur, Brauerstrasse 15, 8401, Winterthur, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wyss</LastName>
+            <ForeName>Roland</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Cantonal Hospital of Winterthur, Brauerstrasse 15, 8401, Winterthur, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Herzog</LastName>
+            <ForeName>Pascal</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Cantonal Hospital of Winterthur, Brauerstrasse 15, 8401, Winterthur, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Breitenstein</LastName>
+            <ForeName>Stefan</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Cantonal Hospital of Winterthur, Brauerstrasse 15, 8401, Winterthur, Switzerland. stefan.breitenstein@ksw.ch.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT02485392</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>09</Month>
+          <Day>14</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Surg Endosc</MedlineTA>
+        <NlmUniqueID>8806653</NlmUniqueID>
+        <ISSNLinking>0930-2794</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017081" MajorTopicYN="N">Cholecystectomy, Laparoscopic</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017721" MajorTopicYN="N">Hospital Costs</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000073397" MajorTopicYN="N">Occupational Stress</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016037" MajorTopicYN="N">Single-Blind Method</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066231" MajorTopicYN="N">Surgeons</DescriptorName>
+          <QualifierName UI="Q000523" MajorTopicYN="N">psychology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013557" MajorTopicYN="N" Type="Geographic">Switzerland</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Benign gallbladder disease</Keyword>
+        <Keyword MajorTopicYN="N">Cholecystectomy</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopic single-incision</Keyword>
+        <Keyword MajorTopicYN="N">Randomized controlled trial</Keyword>
+        <Keyword MajorTopicYN="N">Robot-assisted single-site</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>02</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>09</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>9</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>4</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>9</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30218263</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00464-018-6430-7</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00464-018-6430-7</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Arch Surg. 2012 Aug;147(8):701-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22508668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2009 Jun;23(6):1365-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18855053</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Surg. 1995 Feb;82(2):216-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7749697</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ergonomics. 1976 Mar;19(2):175-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1278144</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2007 Oct;21(10):1835-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17356937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2012 Sep;26(9):2687-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22476831</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int Arch Occup Environ Health. 1995;67(3):179-86</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7591176</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2010 Jun;251(6):995-1000</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19934755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2015 Nov;262(5):728-34; discussion 734-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26583659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2010 Jul;24(7):1712-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20035345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2018 Sep;32(9):3822-3829</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29435754</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 1999 May;13(5):466-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10227943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Intern Med. 2008 Feb 19;148(4):295-309</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18283207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2009 Apr;23(4):627-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19358686</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2011 Sep;18(9):2538-47</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21373954</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Laparoendosc Adv Surg Tech A. 2012 Jun;22(5):449-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22670637</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Surg. 2012 Aug;147(8):709-14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22508669</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2004 Aug;240(2):205-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15273542</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Surg. 2017 Feb 9;17(1):13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28183345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 1998 Nov;12(11):1334-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9788857</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Surg. 2011 Sep 12;11:24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21910897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">30225665</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>12</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>12</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-055X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>67</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>11</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Der Anaesthesist</Title>
+          <ISOAbbreviation>Anaesthesist</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effect of prolonged inspiratory time on gas exchange during robot-assisted laparoscopic urologic surgery.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>859-867</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00101-018-0486-6</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Gas exchange disturbance may develop during urologic robotic laparoscopic surgery with the patient in a steep Trendelenburg position. This study investigated whether prolonged inspiratory time could mitigate gas exchange disturbances including hypercapnia.</AbstractText>
+          <AbstractText Label="METHODS">In this randomized cross-over trial, 32 patients scheduled for robot-assisted urologic surgery were randomized to receive an inspiratory to expiratory time ratio (I:E) of 1:1 for the first hour of pneumoperitoneum followed by 1:2 for last period of surgery (group A, n = 17) or I:E of 1:2 followed by 1:1 (group B, n = 15). Arterial blood gas analysis, airway pressure and hemodynamic variables were assessed at four time points (T1: 10 min after induction of general anesthesia, T2: 1 h after the initiation of pneumoperitoneum, T3: 1 h after T2 and T4: at skin closure). The carry over effect of initial I:E was also evaluated over the next hour through arterial blood gas analysis.</AbstractText>
+          <AbstractText Label="RESULTS">There was a significant decrease in partial pressure of oxygen in arterial blood (PaO<sub>2</sub>) for both groups at T2 and T3 compared to T1 but in group B the PaO<sub>2</sub> at T4 was not decreased from the baseline. Partial pressure of carbon dioxide in arterial blood (PaCO<sub>2</sub>) increased with I:E of 1:2 but did not significantly increase with I:E of 1:1; however, there were no differences in PaO<sub>2</sub> and PaCO<sub>2</sub> between the groups.</AbstractText>
+          <AbstractText Label="CONCLUSION">Decreased oxygenation by pneumoperitoneum was improved and PaCO<sub>2</sub> did not increase after 1 h of I:E of 1:1; however, the effect of equal ratio ventilation longer than 1 h remains to be determined. There was no carryover effect of the two different I:E ratios.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hur</LastName>
+            <ForeName>M</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, 101 Daehak-ro, Jongno-gu, 03080, Seoul, Korea (Republic of).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Park</LastName>
+            <ForeName>S-K</ForeName>
+            <Initials>SK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, 101 Daehak-ro, Jongno-gu, 03080, Seoul, Korea (Republic of).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jung</LastName>
+            <ForeName>D E</ForeName>
+            <Initials>DE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, 101 Daehak-ro, Jongno-gu, 03080, Seoul, Korea (Republic of).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yoo</LastName>
+            <ForeName>S</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, 101 Daehak-ro, Jongno-gu, 03080, Seoul, Korea (Republic of).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Choi</LastName>
+            <ForeName>J-Y</ForeName>
+            <Initials>JY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, 101 Daehak-ro, Jongno-gu, 03080, Seoul, Korea (Republic of).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>W H</ForeName>
+            <Initials>WH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, 101 Daehak-ro, Jongno-gu, 03080, Seoul, Korea (Republic of). wonhokim.ane@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>J T</ForeName>
+            <Initials>JT</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, 101 Daehak-ro, Jongno-gu, 03080, Seoul, Korea (Republic of).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bahk</LastName>
+            <ForeName>J-H</ForeName>
+            <Initials>JH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, 101 Daehak-ro, Jongno-gu, 03080, Seoul, Korea (Republic of).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <VernacularTitle>Der Einfluss der verlängerten Einatmungszeit auf den Gasaustausch bei der robotergestützten laparoskopischen urologischen Chirurgie.</VernacularTitle>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>09</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Anaesthesist</MedlineTA>
+        <NlmUniqueID>0370525</NlmUniqueID>
+        <ISSNLinking>0003-2417</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>142M471B3J</RegistryNumber>
+          <NameOfSubstance UI="D002245">Carbon Dioxide</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>S88TT14065</RegistryNumber>
+          <NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001784" MajorTopicYN="N">Blood Gas Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002245" MajorTopicYN="N">Carbon Dioxide</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018592" MajorTopicYN="N">Cross-Over Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018475" MajorTopicYN="N">Head-Down Tilt</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006439" MajorTopicYN="N">Hemodynamics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006935" MajorTopicYN="N">Hypercapnia</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007320" MajorTopicYN="N">Inspiratory Capacity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010100" MajorTopicYN="N">Oxygen</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011028" MajorTopicYN="N">Pneumoperitoneum, Artificial</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011659" MajorTopicYN="N">Pulmonary Gas Exchange</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012121" MajorTopicYN="N">Respiration, Artificial</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013520" MajorTopicYN="N">Urologic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Airway pressure</Keyword>
+        <Keyword MajorTopicYN="N">Carbon dioxide</Keyword>
+        <Keyword MajorTopicYN="N">Hypercapnia</Keyword>
+        <Keyword MajorTopicYN="N">Robot surgery</Keyword>
+        <Keyword MajorTopicYN="N">Ventilator, mechanical</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>02</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>08</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2018</Year>
+          <Month>07</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>9</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>9</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30225665</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00101-018-0486-6</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00101-018-0486-6</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Anesthesiology. 2001 Nov;95(5):1182-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11684988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rev Urol. 2013;15(4):178-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24659914</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crit Care Med. 1985 Jan;13(1):34-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3880689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2005 Feb;241(2):219-26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15650630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2009 Nov;111(5):979-87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19809292</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Springerplus. 2016 Jun 14;5(1):716</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27375985</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2016 Jun;124(6):1286-95</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27011307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anaesthesia. 2013 Sep;68(9):908-16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23789714</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 1993 Sep;104(3):871-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8365303</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crit Care Med. 2015 Mar;43(3):724-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25700068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nephrol Dial Transplant. 2011 Nov;26(11):3496-501</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21406544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 1988 Oct;94(4):755-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3168572</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2016 Feb;26(2):339-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26130179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2012 Jun;187(6):2087-92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22498227</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anaesthesia. 1980 Nov;35(11):1087-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6934701</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am Rev Respir Dis. 1982 Jul;126(1):166-70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7046541</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anaesth Intensive Care. 1998 Jun;26(3):262-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9619219</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Anaesthesiol Scand. 2013 May;57(5):613-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23496092</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stat Med. 1989 Dec;8(12):1421-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2616932</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2008 Jun;18(6):680-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18317856</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 1989 Dec;96(6):1356-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2582844</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crit Care Med. 1981 Nov;9(11):775-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7028397</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Minerva Anestesiol. 2012 May;78(5):596-604</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22415437</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Anesth. 2016 Nov;34:55-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27687346</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 1991 Aug;100(2):494-504</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1864125</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2004 Jul 22;351(4):389-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15269320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Appl Physiol (1985). 2014 Nov 1;117(9):1074-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25213641</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Medicine (Baltimore). 2016 Mar;95(13):e3269</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27043700</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Minim Invasive Gynecol. 2010 May-Jun;17(3):295-300</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20303833</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 1998 Jan;88(1):35-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9447853</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Anesth. 2017 Oct;31(5):651-656</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28497325</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anaesthesia. 2011 Jun;66(6):503-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21501131</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 1992 Nov;102(5):1556-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1424889</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Anaesthesiol Taiwan. 2016 Mar;54(1):1-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26695388</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2017 Sep;31(9):3605-3613</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28039643</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Laparosc Endosc Percutan Tech. 2016 Jun;26(3):221-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27258912</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pediatr. 1977 Nov;91(5):794-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">333078</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Anaesthesiol Scand. 2011 Apr;55(4):505</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21391926</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crit Care Med. 2001 Jan;29(1):40-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11176158</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2009 Jun;102(6):862-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19403595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Anesth. 2011 May;23(3):183-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21377341</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Respir Care. 2014 Nov;59(11):1773-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25336536</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

@@ -1,0 +1,1414 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40298347</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2724-6442</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>77</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Minerva urology and nephrology</Title>
+          <ISOAbbreviation>Minerva Urol Nephrol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Total hospital cost of robot-assisted approach in major urological cancer surgeries.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>217-225</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.23736/S2724-6051.25.06282-2</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The aim of this study was to test for differences in total hospital cost (THC) between robot-assisted vs. open partial nephrectomy (PN), radical cystectomy (RC), radical prostatectomy (RP) and radical nephroureterectomy (NU).</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Within the National Inpatient Sample (2010-2019), we identified all robot-assisted vs. open PN, RC, RP and NU patients. Multivariable Poisson regression models were fitted.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of all surgeries, 22,572 (56%) were robot-assisted PN (RPN), 5114 (24%) were robot-assisted RC (RARC), 99,134 (70%) were robot-assisted RP (RARP), and 1138 (24%) patients were robot-assisted NU (RNU). Relative to open surgery, RARC (115,511 vs. 103,531$), RNU (64,761 vs. 54,768$), RARP (49,629 vs. 40,850$) and RPN (56,288 vs. 50,875$) were associated with higher THC (all P&lt;0.001). After multivariable adjustment, RARP (risk ratio [RR]: 1.25), RNU (RR: 1.13), RPN (RR: 1.11) as well as RARC (RR: 1.10) independently predicted higher THC (all P&lt;0.001). Additionally, Charlson Comorbidity Index ≥2 (RR: from 1.07 to 1.08), large bed size hospitals (RR: from 1.03 to 1.08), length of stay (RR: from 1.02 to 1.06), and overall complications (RR: from 1.09 to 1.19) invariably predicted higher THC.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">THC is invariably higher when robot-assisted approach is applied instead of open approach in PN, RC, RP and NU patients. This THC disadvantage of robot-assisted approach requires consideration in the light of other benefits of robot-assisted surgery that could not be addressed in the current analyses.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>DI Bello</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Unit of Cancer Prognostics and Health Outcomes, University of Montréal Health Center, Montréal, QB, Canada - fran.dibello12@gmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosciences, Science of Reproduction and Odontostomatology, University of Naples Federico II, Naples, Italy - fran.dibello12@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rodriguez Peñaranda</LastName>
+            <ForeName>Natali</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Unit of Cancer Prognostics and Health Outcomes, University of Montréal Health Center, Montréal, QB, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Ospedale Policlinico e Nuovo Ospedale Civile S. Agostino-Estense, University of Modena and Reggio Emilia, Modena, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Marmiroli</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Unit of Cancer Prognostics and Health Outcomes, University of Montréal Health Center, Montréal, QB, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IEO European Institute of Oncology, IRCCS, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>University of Milan, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Longoni</LastName>
+            <ForeName>Mattia</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Unit of Cancer Prognostics and Health Outcomes, University of Montréal Health Center, Montréal, QB, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Vita-Salute San Raffaele University, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Experimental Oncology, Unit of Urology, URI, Urological Research Institute, IRCCS San Raffaele Scientific Institute, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Falkenbach</LastName>
+            <ForeName>Fabian</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Unit of Cancer Prognostics and Health Outcomes, University of Montréal Health Center, Montréal, QB, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Martini-Klinik Prostate Cancer Center, University Hospital Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>LE</LastName>
+            <ForeName>Quynh C</ForeName>
+            <Initials>QC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Unit of Cancer Prognostics and Health Outcomes, University of Montréal Health Center, Montréal, QB, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University Hospital, Goethe University of Frankfurt, Frankfurt am Main, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tian</LastName>
+            <ForeName>Zhe</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Unit of Cancer Prognostics and Health Outcomes, University of Montréal Health Center, Montréal, QB, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goyal</LastName>
+            <ForeName>Jordan A</ForeName>
+            <Initials>JA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Unit of Cancer Prognostics and Health Outcomes, University of Montréal Health Center, Montréal, QB, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Collà Ruvolo</LastName>
+            <ForeName>Claudia</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosciences, Science of Reproduction and Odontostomatology, University of Naples Federico II, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Califano</LastName>
+            <ForeName>Gianluigi</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosciences, Science of Reproduction and Odontostomatology, University of Naples Federico II, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Creta</LastName>
+            <ForeName>Massimiliano</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosciences, Science of Reproduction and Odontostomatology, University of Naples Federico II, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Saad</LastName>
+            <ForeName>Fred</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Unit of Cancer Prognostics and Health Outcomes, University of Montréal Health Center, Montréal, QB, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shariat</LastName>
+            <ForeName>Shahrokh F</ForeName>
+            <Initials>SF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Comprehensive Cancer Center, Medical University of Vienna, Vienna, Austria.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Weill Cornell Medical College, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Texas Southwestern Medical Center, Dallas, TX, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Hourani Center for Applied Scientific Research, Al-Ahliyya Amman University, Amman, Jordan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Micali</LastName>
+            <ForeName>Salvatore</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Ospedale Policlinico e Nuovo Ospedale Civile S. Agostino-Estense, University of Modena and Reggio Emilia, Modena, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Musi</LastName>
+            <ForeName>Gennaro</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IEO European Institute of Oncology, IRCCS, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>University of Milan, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Briganti</LastName>
+            <ForeName>Alberto</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Vita-Salute San Raffaele University, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Experimental Oncology, Unit of Urology, URI, Urological Research Institute, IRCCS San Raffaele Scientific Institute, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Graefen</LastName>
+            <ForeName>Markus</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Martini-Klinik Prostate Cancer Center, University Hospital Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chun</LastName>
+            <ForeName>Felix H</ForeName>
+            <Initials>FH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University Hospital, Goethe University of Frankfurt, Frankfurt am Main, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Longo</LastName>
+            <ForeName>Nicola</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosciences, Science of Reproduction and Odontostomatology, University of Naples Federico II, Naples, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Karakiewicz</LastName>
+            <ForeName>Pierre I</ForeName>
+            <Initials>PI</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Unit of Cancer Prognostics and Health Outcomes, University of Montréal Health Center, Montréal, QB, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Italy</Country>
+        <MedlineTA>Minerva Urol Nephrol</MedlineTA>
+        <NlmUniqueID>101777299</NlmUniqueID>
+        <ISSNLinking>2724-6051</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="Y">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017721" MajorTopicYN="Y">Hospital Costs</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015653" MajorTopicYN="Y">Cystectomy</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="Y">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014571" MajorTopicYN="Y">Urologic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000074682" MajorTopicYN="Y">Nephroureterectomy</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>12</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>12</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>8</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40298347</ArticleId>
+        <ArticleId IdType="pii">S2724-6051.25.06282-2</ArticleId>
+        <ArticleId IdType="doi">10.23736/S2724-6051.25.06282-2</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40298346</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2724-6442</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>77</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Minerva urology and nephrology</Title>
+          <ISOAbbreviation>Minerva Urol Nephrol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Retroperitoneal single port vs. transperitoneal multiport robot assisted partial nephrectomy in patients with highly hostile abdomen: comparative analysis from a tertiary care center.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>209-216</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.23736/S2724-6051.25.06245-7</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The aim of this study was to explore perioperative and functional outcomes in a cohort of patients with highly hostile abdomens treated with retroperitoneal (RP) single port vs transperitoneal multiport robot assisted partial nephrectomy.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Clinical and surgical data of all consecutive patients treated with transperitoneal multiport and RP single-port robot assisted partial nephrectomy between March 2019 and January 2024 were prospectively collected and retrospectively analyzed. The presence of "hostile abdomen" was defined as personal history of at least one major abdominal surgery. Multivariable logistic regression analysis was used to assess independent predictors of Trifecta achievement.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, clinical and surgical data of 247 consecutive patients were prospectively collected, of these 71 met the inclusions criteria and were retrospectively analyzed. No differences emerged in baseline features. Previous surgery proximity to the site of partial nephrectomy was found comparable among groups (P=0.21). RP single port group showed a significantly lower operative time (171 vs. 235 min, P=0.02) and estimated blood loss (70 vs. 100 cc, P=0.04) while open conversion was significantly higher (9.3%) in case of multiport treatment (P=0.001). A significative lower rate of major postoperative complications (7.1% vs. 16.3%, P=0.03) as well as 90-days readmissions (P=0.04) was found in case of single port RP procedures. Adjusting for age, BMI and CCI, RP single port approach was confirmed as independent predictor of Trifecta achievement (OR 1.62 CI 1.18-2.35 P=0.01).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In patients treated with RAPN with highly hostile abdomens, the adoption of a single port RP approach reduces the major complication rate as compared to the multiport transperitoneal approach also improving EBL, operative time, LOS and pain management.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lambertini</LastName>
+            <ForeName>Luca</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Illinois, Chicago, IL, USA - l.lambertini7@gmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Unit of Oncologic Minimally-Invasive Urology and Andrology, Department of Experimental and Clinical Medicine, Careggi Hospital, University of Florence, Florence, Italy - l.lambertini7@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pacini</LastName>
+            <ForeName>Matteo</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Illinois, Chicago, IL, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Unit of Urology, Department of Translational Research and New Technologies in Medicine and Surgery, University of Pisa, Pisa, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Calvo</LastName>
+            <ForeName>Ruben S</ForeName>
+            <Initials>RS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Illinois, Chicago, IL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Torres Anguiano</LastName>
+            <ForeName>Juan R</ForeName>
+            <Initials>JR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Illinois, Chicago, IL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cannoletta</LastName>
+            <ForeName>Donato</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Illinois, Chicago, IL, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology, Unit of Urology, Urological Research Institute, IRCCS San Raffaele Hospital, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pettenuzzo</LastName>
+            <ForeName>Greta</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Illinois, Chicago, IL, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Azienda Ospedaliera Universitaria Integrata, University of Verona, Verona, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>DI Maida</LastName>
+            <ForeName>Fabrizio</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unit of Oncologic Minimally-Invasive Urology and Andrology, Department of Experimental and Clinical Medicine, Careggi Hospital, University of Florence, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Valastro</LastName>
+            <ForeName>Francesca</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unit of Oncologic Minimally-Invasive Urology and Andrology, Department of Experimental and Clinical Medicine, Careggi Hospital, University of Florence, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mari</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unit of Oncologic Minimally-Invasive Urology and Andrology, Department of Experimental and Clinical Medicine, Careggi Hospital, University of Florence, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bignante</LastName>
+            <ForeName>Gabriele</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, Department of Oncology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lasorsa</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unit of Urology, Andrology and Kidney Transplantation, Department of Precision and Regenerative Medicine and Ionian Area, Aldo Moro University of Bari, Bari, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Haberal</LastName>
+            <ForeName>Hakan B</ForeName>
+            <Initials>HB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Ankara Ataturk Sanatoryum Training and Research Hospital, Ministry of Health, University of Health Sciences, Ankara, Türkiye.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zucchi</LastName>
+            <ForeName>Alessandro</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unit of Urology, Department of Translational Research and New Technologies in Medicine and Surgery, University of Pisa, Pisa, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Minervini</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unit of Oncologic Minimally-Invasive Urology and Andrology, Department of Experimental and Clinical Medicine, Careggi Hospital, University of Florence, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Crivellaro</LastName>
+            <ForeName>Simone</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Illinois, Chicago, IL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Italy</Country>
+        <MedlineTA>Minerva Urol Nephrol</MedlineTA>
+        <NlmUniqueID>101777299</NlmUniqueID>
+        <ISSNLinking>2724-6051</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="Y">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012187" MajorTopicYN="N">Retroperitoneal Space</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062606" MajorTopicYN="N">Tertiary Care Centers</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010537" MajorTopicYN="N">Peritoneum</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>12</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>12</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>8</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40298346</ArticleId>
+        <ArticleId IdType="pii">S2724-6051.25.06245-7</ArticleId>
+        <ArticleId IdType="doi">10.23736/S2724-6051.25.06245-7</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40298349</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2724-6442</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>77</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>04</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Minerva urology and nephrology</Title>
+          <ISOAbbreviation>Minerva Urol Nephrol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Waterjet ablation therapy vs. urethral-sparing robot-assisted simple prostatectomy for large prostate volumes (&gt;80 mL): results of a retrospective multicentric series according to the standardized BPH6 achievement.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>247-255</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.23736/S2724-6051.25.06084-7</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">The introduction of minimally invasive techniques for BPH treatment aimed to balance de-obstruction with maintenance of ejaculatory function. The aim of this multicentric series was to compare outcomes of waterjet ablation therapy (WAT) versus urethral-sparing robot assisted simple prostatectomy (us-RASP) for large prostate volumes (PV&gt;80 mL) according to BPH-6 metric.</AbstractText>
+          <AbstractText Label="METHODS">Four institutional BPH datasets were matched and queried for "PV&gt;80 mL" (N.=86), "WAT" (Group A; N.=42) and "us-RASP" (Group B; N.=44). Baseline, perioperative and functional data according to BPH6 composite endpoint were compared between groups. Differences between continuous variables were assessed with t-test or Mann-Whitney U-test depending on their normal or not normal distribution, while Chi-square Test was used for categorical data. A two-sided P&lt;0.05 was considered significant.</AbstractText>
+          <AbstractText Label="RESULTS">Patients treated with WAT showed lower preoperative PSA median values (3.5 vs. 7.07 ng/mL) (P&lt;0.05). Regarding perioperative outcomes, patients treated with us-RASP revealed increased median operative time (110 vs. 70 mins), prolonged bladder irrigation time (24 vs. 37.2 hours), longer median hospital stay (5 vs. 4 days), respectively (all P&lt;0.05). At a median follow-up of 43.7 months (IQR 33.8-49.7), the BPH6 achievement rate was comparable between groups (54.7% vs. 56.8%; P=0.964). In the WAT series 1-year ejaculatory dysfunction rate was 19.1% while in the us-RASP cohort was 13.6%, respectively (P=0.21). Retrospective design and the lack of a propensity-score matching represent main limitations of this study.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Compared to us-RASP, WAT showed comparable symptom relief and ejaculatory function preservation for prostate gland &gt;80 mL with benefit in terms of main perioperative outcomes at mid-term follow-up.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Anceschi</LastName>
+            <ForeName>Umberto</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS &amp;quot;Regina Elena&amp;quot; National Cancer Institute, Rome, Italy - umberto.anceschi@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tedesco</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Fondazione Policlinico Universitario Campus Bio-Medico, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Amparore</LastName>
+            <ForeName>Daniele</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bologna</LastName>
+            <ForeName>Eugenio</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS &amp;quot;Regina Elena&amp;quot; National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Siena</LastName>
+            <ForeName>Giampaolo</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Minimally-Invasive Oncologic Urology, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cacciatore</LastName>
+            <ForeName>Loris</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Fondazione Policlinico Universitario Campus Bio-Medico, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Basile</LastName>
+            <ForeName>Salvatore</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Fondazione Policlinico Universitario Campus Bio-Medico, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cocci</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Minimally-Invasive Oncologic Urology, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Prata</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Fondazione Policlinico Universitario Campus Bio-Medico, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Flammia</LastName>
+            <ForeName>Rocco S</ForeName>
+            <Initials>RS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS &amp;quot;Regina Elena&amp;quot; National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>De Cillis</LastName>
+            <ForeName>Sabrina</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sessa</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Minimally-Invasive Oncologic Urology, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bove</LastName>
+            <ForeName>Alfredo M</ForeName>
+            <Initials>AM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS &amp;quot;Regina Elena&amp;quot; National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Viola</LastName>
+            <ForeName>Lorenzo</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Minimally-Invasive Oncologic Urology, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Iannuzzi</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Fondazione Policlinico Universitario Campus Bio-Medico, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ragusa</LastName>
+            <ForeName>Alberto</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Fondazione Policlinico Universitario Campus Bio-Medico, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brassetti</LastName>
+            <ForeName>Aldo</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS &amp;quot;Regina Elena&amp;quot; National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mastroianni</LastName>
+            <ForeName>Riccardo</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS &amp;quot;Regina Elena&amp;quot; National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mirabile</LastName>
+            <ForeName>Gabriella</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center of Minimally-Invasive Urology, Pio XI Clinic, Fondazione Vincenzo Pansadoro, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Proietti</LastName>
+            <ForeName>Flavia</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS &amp;quot;Regina Elena&amp;quot; National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Licari</LastName>
+            <ForeName>Leslie C</ForeName>
+            <Initials>LC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS &amp;quot;Regina Elena&amp;quot; National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zampa</LastName>
+            <ForeName>Ashanti</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS &amp;quot;Regina Elena&amp;quot; National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Quarà</LastName>
+            <ForeName>Alberto</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ortenzi</LastName>
+            <ForeName>Michele</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Checcucci</LastName>
+            <ForeName>Enrico</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fiori</LastName>
+            <ForeName>Cristian</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Porpiglia</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, San Luigi Gonzaga Hospital, University of Turin, Orbassano, Turin, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Minervini</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Minimally-Invasive Oncologic Urology, Careggi University Hospital, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pansadoro</LastName>
+            <ForeName>Vito</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center of Minimally-Invasive Urology, Pio XI Clinic, Fondazione Vincenzo Pansadoro, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Leonardo</LastName>
+            <ForeName>Costantino</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS &amp;quot;Regina Elena&amp;quot; National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Simone</LastName>
+            <ForeName>Giuseppe</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, IRCCS &amp;quot;Regina Elena&amp;quot; National Cancer Institute, Rome, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Italy</Country>
+        <MedlineTA>Minerva Urol Nephrol</MedlineTA>
+        <NlmUniqueID>101777299</NlmUniqueID>
+        <ISSNLinking>2724-6051</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011470" MajorTopicYN="Y">Prostatic Hyperplasia</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="Y">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009929" MajorTopicYN="N">Organ Size</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055011" MajorTopicYN="Y">Ablation Techniques</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011467" MajorTopicYN="Y">Prostate</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014521" MajorTopicYN="N">Urethra</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059351" MajorTopicYN="N">Organ Sparing Treatments</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>12</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>12</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>8</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40298349</ArticleId>
+        <ArticleId IdType="pii">S2724-6051.25.06084-7</ArticleId>
+        <ArticleId IdType="doi">10.23736/S2724-6051.25.06084-7</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title />
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40299248</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>04</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1863-2491</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>19</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Apr</Month>
+              <Day>29</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of robotic surgery</Title>
+          <ISOAbbreviation>J Robot Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A comparative analysis of perioperative outcomes in single-port and multi-port retroperitoneal robot-assisted partial nephrectomy: a systematic review and meta-analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>184</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11701-025-02357-7</ELocationID>
+        <Abstract>
+          <AbstractText>The retroperitoneal approach for RAPN minimizes interference with intraperitoneal organs but is constrained by a restricted operating space. The single-port (SP) robotic platform excels in navigating tight anatomical environments compared to the multi-port (MP) robotic system. However, there are not many studies that compare the results of surgery using these two platforms when the retroperitoneal approach is used. To address this difference, a detailed review of current studies was done to compare the results of SP-RAPN and MP-RAPN surgeries that were performed using the retroperitoneal method. A comprehensive search was conducted in the databases of PubMed, Web of Science, the Cochrane Library, and SpringerLink to identify any studies that compare urgent-start PD versus urgent-start HD prior to November 25th, 2024. To compare SP-RAPN to MP-RAPN, we looked at things like operation duration, expected blood loss, length of stay, ischemia time, all complications, PSMs, and pathological stage. This meta-analysis incorporated four studies involving a total of 728 patients. Our findings showed no notable distinctions in operative time (WMD - 4.75 min, 95% CI - 12.05 to 2.55, p = 0.20), ischemia time (WMD 3.01 min, 95%CI - 1.32 to 7.34, p = 0.17), blood loss (WMD -3.53 ml, 95% CI - 18.01 to 10.95, p = 0.63), hospital stay duration (WMD - 0.23 days, 95% CI - 0.69 to 0.23, p = 0.32), or overall complication rates (OR 0.34, 95%CI 0.11 to 1.04, p = 0.06) between SP-RAPN and MP-RAPN. Additionally, there was no significant variation in the incidence of positive surgical margins (OR 0.74, 95%CI 0.33 to 1.65, p = 0.46) or in the distribution of postoperative pathological stages, including pT1a (OR 1.22, 95%CI 0.81 to 1.82, p = 0.35), pT1b (OR 0.65, 95%CI 0.39 to 1.06, p = 0.08), and stages ≥ pT2 (OR 1.13, 95%CI 0.54 to 2.38, p = 0.75). While single-port robotic systems provide notable operational advantages in confined spaces, our meta-analysis shows no significant differences between SP-RAPN and MP-RAPN in terms of operative time, intraoperative blood loss, hospital stay, ischemia time, complication rates, and positive surgical margins when both techniques are used for retroperitoneal resection of non-complex renal tumors. Future large-scale randomized controlled trials are required for long-term follow-up to further validate these findings.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s), under exclusive licence to Springer-Verlag London Ltd., part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lv</LastName>
+            <ForeName>ZongYing</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Pengzhou Hospital of Traditional Chinese Medicine, Chendu, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>ChunYu</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Pengzhou Hospital of Traditional Chinese Medicine, Chendu, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>SiJin</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Pengzhou Hospital of Traditional Chinese Medicine, Chendu, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tang</LastName>
+            <ForeName>WenKai</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Pengzhou Hospital of Traditional Chinese Medicine, Chendu, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peng</LastName>
+            <ForeName>Kai</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Pengzhou Hospital of Traditional Chinese Medicine, Chendu, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zeng</LastName>
+            <ForeName>LiKe</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Pengzhou Hospital of Traditional Chinese Medicine, Chendu, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Xin</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Pengzhou Hospital of Traditional Chinese Medicine, Chendu, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>LiangSuo</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Pengzhou Hospital of Traditional Chinese Medicine, Chendu, China. pzszyylsz1@163.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D000078182">Systematic Review</PublicationType>
+          <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>04</Month>
+          <Day>29</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Robot Surg</MedlineTA>
+        <NlmUniqueID>101300401</NlmUniqueID>
+        <ISSNLinking>1863-2483</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="Y">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012187" MajorTopicYN="N">Retroperitoneal Space</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016063" MajorTopicYN="N">Blood Loss, Surgical</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007680" MajorTopicYN="Y">Kidney Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Multi-port</Keyword>
+        <Keyword MajorTopicYN="N">RAPN</Keyword>
+        <Keyword MajorTopicYN="N">Retroperitoneal</Keyword>
+        <Keyword MajorTopicYN="N">Single-port</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Conflict of interst: No competing financial interests exist. Ethics approval and consent to participate: This meta-analysis is based on previously published data and does not involve direct human participant research. Therefore, ethics approval was not required.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>01</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>04</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>12</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>12</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>11</Hour>
+          <Minute>26</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40299248</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11701-025-02357-7</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11701-025-02357-7</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Vasudev NS, Wilson M, Stewart GD, Adeyoju A, Cartledge J, Kimuli M et al (2020) Challenges of early renal cancer detection: symptom patterns and incidental diagnosis rate in a multicentre prospective UK cohort of patients presenting with suspected renal cancer. BMJ Open 10(5):e035938</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/bmjopen-2019-035938</ArticleId>
+            <ArticleId IdType="pubmed">32398335</ArticleId>
+            <ArticleId IdType="pmcid">7223292</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Campbell SC, Clark PE, Chang SS, Karam JA, Souter L, Uzzo RG (2021) Renal mass and localized renal cancer: evaluation, management, and follow-up: AUA guideline: Part i. J Urol Wolters Kluwer Health 206:199–208</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Leal Ghezzi T, Campos CO (2016) 30 years of robotic surgery. World J Surg 40(10):2550–2557.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00268-016-3543-9(Ineng)</ArticleId>
+            <ArticleId IdType="pubmed">27177648</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alameddine M, Koru-Sengul T, Moore KJ, Miao F, Savio LF, Nahar B et al (2019) Trends in utilization of robotic and open partial nephrectomy for management of cT1 renal masses. Eur Urol Focus 5(3):482–487</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.euf.2017.12.006</ArticleId>
+            <ArticleId IdType="pubmed">29325761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Abou Zeinab M, Beksac AT, Ferguson E, Kaviani A, Kaouk J (2022) Transvesical versus extraperitoneal single-port robotic radical prostatectomy: a matched-pair analysis. World J Urol 40(8):2001–2008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00345-022-04056-6</ArticleId>
+            <ArticleId IdType="pubmed">35718816</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maurice MJ, Ramirez D, Kaouk JH (2017) Robotic laparoendoscopic single-site retroperitioneal renal surgery: initial investigation of a purpose-built single-port surgical system. Eur Urol 71(4):643–647</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eururo.2016.06.005</ArticleId>
+            <ArticleId IdType="pubmed">27421824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beksac AT, Abou Zeinab M, Ferguson E, Kaviani A, Kaouk J (2022) Single-port retroperitoneal robotic pyeloplasty: description of technique. Urol Video J 15:100178</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.urolvj.2022.100178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hu A, Lv Z, Chen G, Lin Y, Zhu X, Li J, Yu X (2024) Comparison of single-port versus multi-port robotic assisted partial nephrectomy: a systematic review and meta-analysis of perioperative and oncological outcomes. J Robot Surg 18(1):321</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-024-02066-7</ArticleId>
+            <ArticleId IdType="pubmed">39136882</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moher D, Shamseer L, Clarke M et al (2015) Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. Syst Rev 4:1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/2046-4053-4-1</ArticleId>
+            <ArticleId IdType="pubmed">25554246</ArticleId>
+            <ArticleId IdType="pmcid">4320440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cumpston M, Li T, Page MJ et al (2019) updated guidance for trusted systematic reviews: a new edition of the cochrane handbook for systematic reviews of interventions. Cochrane Database Syst Rev 2019:00142</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sterne JA, Hernan MA, Reeves BC et al (2016) ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions. BMJ 355:i4919</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/bmj.i4919</ArticleId>
+            <ArticleId IdType="pubmed">27733354</ArticleId>
+            <ArticleId IdType="pmcid">5062054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stang A (2010) Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses. Eur J Epidemiol 25(9):603–605</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10654-010-9491-z</ArticleId>
+            <ArticleId IdType="pubmed">20652370</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Egger M, Davey Smith G, Schneider M, Minder C (1997) Bias in meta-analysis detected by a simple, graphical test. BMJ 315(7109):629–634</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/bmj.315.7109.629</ArticleId>
+            <ArticleId IdType="pubmed">9310563</ArticleId>
+            <ArticleId IdType="pmcid">2127453</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Higgins JP, Thompson SG, Deeks JJ, Altman DG (2003) Measuring inconsistency in meta-analyses. BMJ 327:557–560</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/bmj.327.7414.557</ArticleId>
+            <ArticleId IdType="pubmed">12958120</ArticleId>
+            <ArticleId IdType="pmcid">192859</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bang S, Yu J, Bae H, Shin D, Park YH, Cho HJ, Ha US, Lee JY, Hong SH (2024) Single-port versus multi-port robotic retroperitoneal partial nephrectomy: a propensity score-matched comparison. J Endourol 38(12):1353–1358</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/end.2024.0493</ArticleId>
+            <ArticleId IdType="pubmed">39446658</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Okhawere KE, Beksac AT, Wilson MP et al (2022) A propensity-matched comparison of the perioperative outcomes between single-port and multi-port robotic assisted partial nephrectomy: a report from the single port advanced research consortium (SPARC). J Endourol 36(12):1526–1531</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/end.2022.0115</ArticleId>
+            <ArticleId IdType="pubmed">36053713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Okhawere KE, Beksac AT, Ferguson E et al (2025) Comparison of outcomes between single-port and multiport retroperitoneal robotic partial nephrectomy. Urol Oncol 43(1):63.e1-63.e6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.urolonc.2024.09.017</ArticleId>
+            <ArticleId IdType="pubmed">39379208</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Palacios AR, Morgantini L, Trippel R, Crivellaro S, Abern MR (2022) Comparison of perioperative outcomes between retroperitoneal single-port and multiport robot-assisted partial nephrectomies. J Endourol 36(12):1545–1550</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/end.2022.0346</ArticleId>
+            <ArticleId IdType="pubmed">35856826</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>von Hippel PT (2015) The heterogeneity statistic I(2) can be biased in small meta-analyses. BMC Med Res Methodol 15:35</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12874-015-0024-z</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramos R, Ferguson E, Abou Zeinab M, Soputro N, Chavali JS, Pedraza AM et al (2024) Single-port transvesical robot-assisted simple prostatectomy: surgical technique and clinical outcomes. Eur Urol 85(5):445–456</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eururo.2023.11.012</ArticleId>
+            <ArticleId IdType="pubmed">38057210</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pellegrino AA, Chen G, Morgantini L, Calvo RS, Crivellaro S (2023) Simplifying retroperitoneal robotic single-port surgery: novel supine anterior retroperitoneal access. Eur Urol 84(2):223–228</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eururo.2023.05.006</ArticleId>
+            <ArticleId IdType="pubmed">37211448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Glaser ZA, Burns ZR, Fang AM, Saidian A, Magi-Galluzzi C, Nix JW et al (2022) Single- versus multi-port robotic partial nephrectomy: a comparative analysis of perioperative outcomes and analgesic requirements. J Robot Surg 16(3):695–703</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-021-01271-y</ArticleId>
+            <ArticleId IdType="pubmed">34406630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pandolfo SD, Wu Z, Campi R et al (2024) Outcomes and techniques of robotic-assisted partial nephrectomy (RAPN) for renal hilar masses: a comprehensive systematic review. Cancers (Basel) 16:693</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers16040693</ArticleId>
+            <ArticleId IdType="pubmed">38398084</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Glaser ZA, Burns ZR, Fang AM et al (2022) Single- versus multi-port robotic partial nephrectomy: a comparative analysis of perioperative outcomes and analgesic requirements. J Robot Surg 16:695–703</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-021-01271-y</ArticleId>
+            <ArticleId IdType="pubmed">34406630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nguyen TT, Ngo XT, Duong NX et al (2024) Single-port vs multiport robot-assisted partial nephrectomy: a meta-analysis. J Endourol 38(3):253–261</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38185840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaouk J, Garisto J, Eltemamy M et al (2019) Pure single-site robot-assisted partial nephrectomy using the sp surgical system: initial clinical experience. Urology 124:282–285</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.urology.2018.11.024</ArticleId>
+            <ArticleId IdType="pubmed">30472258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buffi N, Lista G, Larcher A et al (2012) Margin, ischemia, and complications (MIC) score in partial nephrectomy: a new system for evaluating achievement of optimal outcomes in nephronsparing surgery. Eur Urol 62:617–618</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eururo.2012.06.001</ArticleId>
+            <ArticleId IdType="pubmed">22704367</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hung AJ, Cai J, Simmons MN et al (2013) “Trifecta” in partial nephrectomy. J Urol 189:36–42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.juro.2012.09.042</ArticleId>
+            <ArticleId IdType="pubmed">23164381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Malkoç E, Maurice MJ, Kara Ö et al (2019) Predictors of positive surgical margins in patients undergoing partial nephrectomy: a large single-center experience. Turk J Urol 45(1):17–21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5152/tud.2018.57767</ArticleId>
+            <ArticleId IdType="pubmed">30668306</ArticleId>
+            <ArticleId IdType="pmcid">6342579</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

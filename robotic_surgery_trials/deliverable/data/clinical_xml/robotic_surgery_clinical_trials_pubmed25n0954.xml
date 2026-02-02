@@ -1,0 +1,1880 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">29998936</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>01</Month>
+        <Day>02</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1349-8029</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>58</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Aug</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Neurologia medico-chirurgica</Title>
+          <ISOAbbreviation>Neurol Med Chir (Tokyo)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>MEG-BMI to Control Phantom Limb Pain.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>327-333</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.2176/nmc.st.2018-0099</ELocationID>
+        <Abstract>
+          <AbstractText>A brachial plexus root avulsion (BPRA) causes intractable pain in the insensible affected hands. Such pain is partly due to phantom limb pain, which is neuropathic pain occurring after the amputation of a limb and partial or complete deafferentation. Previous studies suggested that the pain was attributable to maladaptive plasticity of the sensorimotor cortex. However, there is little evidence to demonstrate the causal links between the pain and the cortical representation, and how much cortical factors affect the pain. Here, we applied lesioning of the dorsal root entry zone (DREZotomy) and training with a brain-machine interface (BMI) based on real-time magnetoencephalography signals to reconstruct affected hand movements with a robotic hand. The DREZotomy successfully reduced the shooting pain after BPRA, but a part of the pain remained. The BMI training successfully induced some plastic changes in the sensorimotor representation of the phantom hand movements and helped control the remaining pain. When the patient tried to control the robotic hand by moving their phantom hand through association with the representation of the intact hand, this especially decreased the pain while decreasing the classification accuracy of the phantom hand movements. These results strongly suggested that pain after the BPRA was partly attributable to cortical representation of phantom hand movements and that the BMI training controlled the pain by inducing appropriate cortical reorganization. For the treatment of chronic pain, we need to know how to modulate the cortical representation by novel methods.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Yanagisawa</LastName>
+            <ForeName>Takufumi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Osaka University Institute for Advanced Co-Creation Studies.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroinformatics, ATR Computational Neuroscience Laboratories.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Clinical Neuroengineering, Global Center for Medical Engineering and Informatics, Osaka University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fukuma</LastName>
+            <ForeName>Ryohei</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroinformatics, ATR Computational Neuroscience Laboratories.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Seymour</LastName>
+            <ForeName>Ben</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Computational and Biological Learning Laboratory, Department of Engineering, University of Cambridge.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Information and Neural Networks, National Institute for Information and Communications Technology.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hosomi</LastName>
+            <ForeName>Koichi</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuromodulation and Neurosurgery, Osaka University Graduate School of Medicine.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kishima</LastName>
+            <ForeName>Haruhiko</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shimizu</LastName>
+            <ForeName>Takeshi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuromodulation and Neurosurgery, Osaka University Graduate School of Medicine.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yokoi</LastName>
+            <ForeName>Hiroshi</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering and Intelligent Systems, The University of Electro-Communications.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hirata</LastName>
+            <ForeName>Masayuki</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Clinical Neuroengineering, Global Center for Medical Engineering and Informatics, Osaka University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yoshimine</LastName>
+            <ForeName>Toshiki</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Clinical Neuroengineering, Global Center for Medical Engineering and Informatics, Osaka University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kamitani</LastName>
+            <ForeName>Yukiyasu</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroinformatics, ATR Computational Neuroscience Laboratories.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Graduate School of Informatics, Kyoto University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Saitoh</LastName>
+            <ForeName>Youichi</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuromodulation and Neurosurgery, Osaka University Graduate School of Medicine.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>21537</GrantID>
+            <Acronym>VAC_</Acronym>
+            <Agency>Versus Arthritis</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>07</Month>
+          <Day>12</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Japan</Country>
+        <MedlineTA>Neurol Med Chir (Tokyo)</MedlineTA>
+        <NlmUniqueID>0400775</NlmUniqueID>
+        <ISSNLinking>0470-8105</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062207" MajorTopicYN="Y">Brain-Computer Interfaces</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018592" MajorTopicYN="N">Cross-Over Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006225" MajorTopicYN="Y">Hand</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015225" MajorTopicYN="N">Magnetoencephalography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010591" MajorTopicYN="N">Phantom Limb</DescriptorName>
+          <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019051" MajorTopicYN="Y">Rhizotomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013126" MajorTopicYN="N">Spinal Nerve Roots</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">cortical plasticity</Keyword>
+        <Keyword MajorTopicYN="N">magnetoencephalography</Keyword>
+        <Keyword MajorTopicYN="N">neurofeedback</Keyword>
+        <Keyword MajorTopicYN="N">phantom limb pain</Keyword>
+        <Keyword MajorTopicYN="N">robotic hand</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>7</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>1</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>7</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">29998936</ArticleId>
+        <ArticleId IdType="doi">10.2176/nmc.st.2018-0099</ArticleId>
+        <ArticleId IdType="pmc">PMC6092605</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Pain Med. 2014 Nov;15(11):1930-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24930826</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2015 Aug;138(Pt 8):2140-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26072517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2001 Nov;124(Pt 11):2268-77</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11673327</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Neurosci. 2006 Nov;7(11):873-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17053811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuron. 2014 Jun 18;82(6):1380-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24945777</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroimage. 2009 May 1;45(4):1099-106</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19349227</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2013 Jun 25;110(26):10818-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23754426</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 2012 Oct 31;32(44):15467-75</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23115184</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2012 Feb;135(Pt 2):596-614</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22232595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 2014 Jun;17(6):807-809</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24728268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2016 Jul;139(Pt 7):1958-70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27190016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 2008 Mar;39(3):910-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18258825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Rep. 2016 Feb 24;6:21781</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26904967</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 1991 Feb;114 ( Pt 1B):615-27</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2004259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuron. 2013 Dec 4;80(5):1301-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24210907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosurg. 2011 Jun;114(6):1715-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21314273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain Med. 2015 Apr;16(4):777-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25529640</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroimage. 2010 Feb 1;49(3):2564-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19874903</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Neurosci. 2016 Dec 15;18(1):20-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27974843</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurosci Res. 2014 Aug;85:20-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24880133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuron. 2015 Aug 5;87(3):474-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26247858</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Commun. 2013;4:1570</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23463013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Neurol. 2012 Mar;71(3):353-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22052728</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain Pract. 2011 Jul-Aug;11(4):403-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21447079</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurosurgery. 2011 May;68(5):1252-7; discussion 1257-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21307799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroimage. 2008 Oct 1;42(4):1397-413</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18620066</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 1999 Jan 16;353(9148):212</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9923888</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroimage. 2011 Jan 15;54(2):892-905</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20884361</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 2001 May 15;21(10):3609-18</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11331390</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 1995 Oct 12;377(6549):489-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7566144</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 1995 Jun 8;375(6531):482-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7777055</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2011 Dec 9;334(6061):1413-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22158821</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2013 Apr 11;368(15):1388-97</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23574118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Neurol. 2015 May;11(5):290-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25896085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2013 Aug 21;8(8):e72085</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23991046</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2015 Jul 02;10(7):e0131547</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26134845</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Commun. 2016 Oct 27;7:13209</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27807349</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Anaesthesiol. 2000 Oct;13(5):561-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17016358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 2011 May;14(5):662-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21499255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Epilepsy Res. 2009 Nov;87(1):12-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19660914</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroimage. 1999 Feb;9(2):179-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9931268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">30001923</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>04</Month>
+        <Day>12</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>04</Month>
+        <Day>12</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1474-4465</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>17</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>08</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Lancet. Neurology</Title>
+          <ISOAbbreviation>Lancet Neurol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Oral fingolimod for chronic inflammatory demyelinating polyradiculoneuropathy (FORCIDP Trial): a double-blind, multicentre, randomised controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>689-698</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S1474-4422(18)30202-3</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/S1474-4422(18)30202-3</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Fingolimod is approved for the treatment of relapsing-remitting multiple sclerosis and was effective in experimental autoimmune neuritis in rats, a possible model for chronic inflammatory demyelinating polyradiculoneuropathy (CIDP). We aimed to evaluate the efficacy of fingolimod in delaying disability progression in patients with CIDP who withdrew from currently effective treatments (intravenous immunoglobulin [IVIg] or corticosteroids).</AbstractText>
+          <AbstractText Label="METHODS">This double-blind, multicentre, randomised, placebo-controlled, parallel-group, event-driven study was done at 48 neurology centres in Australia, Canada, Israel, Japan, the USA, and nine countries in Europe. Participants with CIDP who were receiving IVIg or corticosteroids were randomly assigned (1:1) to once-daily oral fingolimod 0·5 mg or placebo. Owing to the event-driven design, treatment duration was flexible and could be up to 4·5 years. Randomisation was done with an automated interactive voice response-web response system and was stratified by Inflammatory Neuropathy Cause and Treatment (INCAT) disability scale scores. Previous IVIg treatment was discontinued after one final course ending the day before the first dose of fingolimod or placebo was given, whereas corticosteroids were tapered off over 8 weeks after randomisation. The primary endpoint was time to first confirmed worsening (≥1 point increase on the adjusted INCAT disability scale score versus baseline) and was assessed in the full analysis set, which consisted of all patients who underwent randomisation and had at least one efficacy assessment for the primary analysis. The survival distribution functions of time to first worsening were estimated within each treatment group according to the Kaplan-Meier survival distribution function and compared with a stratified log-rank test. The trial is registered with ClinicalTrials.gov, number NCT01625182.</AbstractText>
+          <AbstractText Label="FINDINGS">Of 106 participants randomly assigned between Jan 24, 2013, and March 10, 2016, 54 received fingolimod (41 who had been receiving IVIg and 13 who had been receiving corticosteroids) and 52 received placebo (41 who had been receiving IVIg and 11 who had been receiving corticosteroids). The trial ended for futility as recommended by an independent data monitoring committee after an interim analysis when 44 confirmed worsening events had occurred. At the end of the study, the survival estimate of the proportion of participants free from confirmed worsening was not significantly different between the fingolimod group (42%, 95% CI 23-60) and the placebo group (43%, 28-59; p=0·91). Adverse events occurred in 41 (76%) participants receiving fingolimod and 44 (85%) on placebo, and serious adverse events occurred in nine (17%) and four (8%) patients, respectively. The most common adverse events with fingolimod were headache (12 [22%] patients), hypertension (ten [19%]), and extremity pain (seven [13%]). Adverse events leading to study discontinuation occurred in seven (13%) participants on fingolimod and none on placebo.</AbstractText>
+          <AbstractText Label="INTERPRETATION">Fingolimod 0·5 mg once-daily was not better than placebo for the treatment of CIDP. Future trial designs should take account of the possibility that if IVIg is stopped abruptly, some patients might relapse soon afterwards whereas others might remain in remission.</AbstractText>
+          <AbstractText Label="FUNDING">Novartis Pharma.</AbstractText>
+          <CopyrightInformation>Copyright © 2018 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hughes</LastName>
+            <ForeName>Richard</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>MRC Centre for Neuromuscular Disease, National Hospital for Neurology and Neurosurgery, London, UK. Electronic address: richard.hughes@ucl.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dalakas</LastName>
+            <ForeName>Marinos C</ForeName>
+            <Initials>MC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathophysiology, Unit of Neuroimmunology, National and Kapodistrian University of Athens Medical School, Athens, Greece; Department of Neurology, Thomas Jefferson University, Philadelphia, PA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Merkies</LastName>
+            <ForeName>Ingemar</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Maastricht University Medical Center, Maastricht, Netherlands; St Elisabeth Hospital, Willemstad, Curaçao, Netherlands Antilles.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Latov</LastName>
+            <ForeName>Norman</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurology, Weill Cornell Medical College, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Léger</LastName>
+            <ForeName>Jean-Marc</ForeName>
+            <Initials>JM</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Referral Center for Neuromuscular Diseases, University Hospital Pïtié-Salpêtrière, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nobile-Orazio</LastName>
+            <ForeName>Eduardo</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Biotechnology and Translational Medicine, Milan University, Humanitas Clinical and Research Center, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sobue</LastName>
+            <ForeName>Gen</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nagoya University Hospital, Nagoya, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Genge</LastName>
+            <ForeName>Angela</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical Research Unit, ALS clinic, Montreal Neurological Institute and Hospital, Montreal, QC, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cornblath</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurology, Johns Hopkins University, Baltimore, MD, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Merschhemke</LastName>
+            <ForeName>Martin</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Novartis Pharma AG, Basel, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ervin</LastName>
+            <ForeName>Carolyn Marie</ForeName>
+            <Initials>CM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Novartis Pharma AG, Basel, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Agoropoulou</LastName>
+            <ForeName>Catherine</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Novartis Pharma AG, Basel, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hartung</LastName>
+            <ForeName>Hans-Peter</ForeName>
+            <Initials>HP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurology, Universitätsklinikum Düsseldorf and Center for Neurology and Neuropsychiatry LVR Klinikum, Heinrich-Heine-University, Düsseldorf, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <CollectiveName>FORCIDP Trial Investigators</CollectiveName>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT01625182</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>07</Month>
+          <Day>09</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Lancet Neurol</MedlineTA>
+        <NlmUniqueID>101139309</NlmUniqueID>
+        <ISSNLinking>1474-4422</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000305">Adrenal Cortex Hormones</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016756">Immunoglobulins, Intravenous</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D007166">Immunosuppressive Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>G926EC510T</RegistryNumber>
+          <NameOfSubstance UI="D000068876">Fingolimod Hydrochloride</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Lancet Neurol. 2018 Aug;17(8):655-656. doi: 10.1016/S1474-4422(18)30246-1</RefSource>
+          <PMID Version="1">30001924</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="ErratumIn">
+          <RefSource>Lancet Neurol. 2018 Nov;17(11):933. doi: 10.1016/S1474-4422(18)30363-6</RefSource>
+          <PMID Version="1">30353863</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Neurol. 2019 Sep;266(9):2338-2340. doi: 10.1007/s00415-019-09485-9</RefSource>
+          <PMID Version="1">31372734</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000284" MajorTopicYN="N">Administration, Oral</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000305" MajorTopicYN="N">Adrenal Cortex Hormones</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004185" MajorTopicYN="N">Disability Evaluation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004562" MajorTopicYN="N">Electrocardiography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000068876" MajorTopicYN="N">Fingolimod Hydrochloride</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018737" MajorTopicYN="N">Hand Strength</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016756" MajorTopicYN="N">Immunoglobulins, Intravenous</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007166" MajorTopicYN="N">Immunosuppressive Agents</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020277" MajorTopicYN="N">Polyradiculoneuropathy, Chronic Inflammatory Demyelinating</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016016" MajorTopicYN="N">Proportional Hazards Models</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <InvestigatorList>
+        <Investigator ValidYN="Y">
+          <LastName>Day</LastName>
+          <ForeName>Timothy</ForeName>
+          <Initials>T</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Spies</LastName>
+          <ForeName>Judith</ForeName>
+          <Initials>J</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Roberts</LastName>
+          <ForeName>Leslie</ForeName>
+          <Initials>L</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Van Damme</LastName>
+          <ForeName>Philip</ForeName>
+          <Initials>P</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Van den Bergh</LastName>
+          <ForeName>Peter Yk</ForeName>
+          <Initials>PY</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Maertens de Noordhout</LastName>
+          <ForeName>Alain</ForeName>
+          <Initials>A</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Dionne</LastName>
+          <ForeName>Annie</ForeName>
+          <Initials>A</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Larue</LastName>
+          <ForeName>Sandrine</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Massie</LastName>
+          <ForeName>Rami</ForeName>
+          <Initials>R</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Melanson</LastName>
+          <ForeName>Michel</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Camu</LastName>
+          <ForeName>William</ForeName>
+          <Initials>W</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>De Seze</LastName>
+          <ForeName>Jérôme</ForeName>
+          <Initials>J</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Le Masson</LastName>
+          <ForeName>Gwendal</ForeName>
+          <Initials>G</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Pouget</LastName>
+          <ForeName>Jean</ForeName>
+          <Initials>J</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Schmidt</LastName>
+          <ForeName>Jens</ForeName>
+          <Initials>J</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Kimiskidis</LastName>
+          <ForeName>Vasilios K</ForeName>
+          <Initials>VK</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Chapman</LastName>
+          <ForeName>Joab</ForeName>
+          <Initials>J</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Drory</LastName>
+          <ForeName>Vivian E</ForeName>
+          <Initials>VE</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Fazio</LastName>
+          <ForeName>Raffaella</ForeName>
+          <Initials>R</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Gallia</LastName>
+          <ForeName>Francesca</ForeName>
+          <Initials>F</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Kusunoki</LastName>
+          <ForeName>Susumu</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Mori</LastName>
+          <ForeName>Masahiro</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Iijima</LastName>
+          <ForeName>Masahiro</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Okamoto</LastName>
+          <ForeName>Tomoko</ForeName>
+          <Initials>T</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Baba</LastName>
+          <ForeName>Masayuki</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Faber</LastName>
+          <ForeName>Catharina G</ForeName>
+          <Initials>CG</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>van Schaik</LastName>
+          <ForeName>Ivo N</ForeName>
+          <Initials>IN</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Fryze</LastName>
+          <ForeName>Waldemar</ForeName>
+          <Initials>W</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Motta</LastName>
+          <ForeName>Ewa</ForeName>
+          <Initials>E</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Selmaj</LastName>
+          <ForeName>Krzysztof</ForeName>
+          <Initials>K</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Casasnovas</LastName>
+          <ForeName>Carlos</ForeName>
+          <Initials>C</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Sola</LastName>
+          <ForeName>Antonio Guerrero</ForeName>
+          <Initials>AG</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Illa</LastName>
+          <ForeName>Isabel</ForeName>
+          <Initials>I</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Holt</LastName>
+          <ForeName>James</ForeName>
+          <Initials>J</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Miller</LastName>
+          <ForeName>James Al</ForeName>
+          <Initials>JA</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Lunn</LastName>
+          <ForeName>Michael P</ForeName>
+          <Initials>MP</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Brannagan</LastName>
+          <ForeName>Thomas H</ForeName>
+          <Initials>TH</Initials>
+          <Suffix>3rd</Suffix>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Brown</LastName>
+          <ForeName>Martin</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Kelemen</LastName>
+          <ForeName>John</ForeName>
+          <Initials>J</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Iyadurai</LastName>
+          <ForeName>Stanley</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Rezania</LastName>
+          <ForeName>Kourosh</ForeName>
+          <Initials>K</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Sharma</LastName>
+          <ForeName>Khema R</ForeName>
+          <Initials>KR</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Tandan</LastName>
+          <ForeName>Rup</ForeName>
+          <Initials>R</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Gudesblatt</LastName>
+          <ForeName>Mark</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Lawson</LastName>
+          <ForeName>Victoria</ForeName>
+          <Initials>V</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Amato</LastName>
+          <ForeName>Anthony A</ForeName>
+          <Initials>AA</Initials>
+        </Investigator>
+      </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>01</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2018</Year>
+          <Month>05</Month>
+          <Day>01</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>05</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>7</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>4</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>7</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30001923</ArticleId>
+        <ArticleId IdType="pii">S1474-4422(18)30202-3</ArticleId>
+        <ArticleId IdType="doi">10.1016/S1474-4422(18)30202-3</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">30006861</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>07</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>11</Month>
+        <Day>07</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1863-2491</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>13</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of robotic surgery</Title>
+          <ISOAbbreviation>J Robot Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Standard vs delayed ligature of the dorsal vascular complex during robot-assisted radical prostatectomy: results from a randomized controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>253-260</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11701-018-0847-9</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Prospective randomized trial to compare standard vs delayed approach to dorsal vascular complex (s-DVC vs d-DVC) in robot-assisted radical prostatectomy (RARP).</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Patients scheduled for RARP were randomized into a 1:1 ratio to receive either s-DVC or d-DVC by two experienced surgeons. In s-DVC arm an eight-shaped single stitch was given at the beginning of the procedure and the DVC was subsequently cut at time of apical dissection; in d-DVC arm the plexus was transected at the end of prostatectomy, prior to apex dissection and then sutured. Primary endpoint was difference in estimated blood loss (EBL) and a sample size of 226 cases was calculated; ad interim analysis was planned after 2/3 of recruitment.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Endpoint was reached at ad interim analysis after 162 cases (81 s-DVC, 81 d-DVC) and recruitment was, therefore, interrupted. Baseline and tumor characteristics were overlapping. EBL was significantly higher in d-DVC arm (mean EBL 107 vs 65 ml, p = 0.003), but without differences in post-operative hemoglobin, transfusions and complications. Overall PSM rate was higher in d-DVC arm (21.0 vs 14.8%, p = 0.323), with statistical significance relatively to organ-confined disease (15.5 vs 3.6%, p = 0.031). Apical involvement was instead significantly higher in s-DVC arm (prevalence in PSM patients 66.7 vs 23.5%, p = 0.020). Post-operative PSA, continence and potency rates were similar between groups.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Standard and delayed approaches to DVC are safe and lead to similar functional outcomes. A delayed approach exposes to a higher risk of PSM in organ-confined disease but with a lower risk of apical involvement.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Antonelli</LastName>
+            <ForeName>Alessandro</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-7455-8803</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Spedali Civili Hospital, University of Brescia, Piazzale Spedali Civili 1, 25123, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Palumbo</LastName>
+            <ForeName>Carlotta</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-6165-5276</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Spedali Civili Hospital, University of Brescia, Piazzale Spedali Civili 1, 25123, Brescia, Italy. palumbo.carlotta@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Veccia</LastName>
+            <ForeName>Alessandro</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-5947-3206</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Spedali Civili Hospital, University of Brescia, Piazzale Spedali Civili 1, 25123, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fisogni</LastName>
+            <ForeName>Simona</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Spedali Civili Hospital, University of Brescia, Piazzale Spedali Civili 1, 25123, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zamboni</LastName>
+            <ForeName>Stefania</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Spedali Civili Hospital, University of Brescia, Piazzale Spedali Civili 1, 25123, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Furlan</LastName>
+            <ForeName>Maria</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Spedali Civili Hospital, University of Brescia, Piazzale Spedali Civili 1, 25123, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Francavilla</LastName>
+            <ForeName>Simone</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-3314-939X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Spedali Civili Hospital, University of Brescia, Piazzale Spedali Civili 1, 25123, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lattarulo</LastName>
+            <ForeName>Marco</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Spedali Civili Hospital, University of Brescia, Piazzale Spedali Civili 1, 25123, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>De Marzo</LastName>
+            <ForeName>Enrico</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Spedali Civili Hospital, University of Brescia, Piazzale Spedali Civili 1, 25123, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mirabella</LastName>
+            <ForeName>Giuseppe</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Spedali Civili Hospital, University of Brescia, Piazzale Spedali Civili 1, 25123, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peroni</LastName>
+            <ForeName>Angelo</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Spedali Civili Hospital, University of Brescia, Piazzale Spedali Civili 1, 25123, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Simeone</LastName>
+            <ForeName>Claudio</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-2035-9753</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Spedali Civili Hospital, University of Brescia, Piazzale Spedali Civili 1, 25123, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D017428">Clinical Trial, Phase III</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>07</Month>
+          <Day>13</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Robot Surg</MedlineTA>
+        <NlmUniqueID>101300401</NlmUniqueID>
+        <ISSNLinking>1863-2483</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016063" MajorTopicYN="N">Blood Loss, Surgical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008026" MajorTopicYN="N">Ligation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011467" MajorTopicYN="N">Prostate</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="N">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012306" MajorTopicYN="N">Risk</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Blood loss</Keyword>
+        <Keyword MajorTopicYN="N">Dorsal vascular complex</Keyword>
+        <Keyword MajorTopicYN="N">Positive surgical margins</Keyword>
+        <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+        <Keyword MajorTopicYN="N">Robot-assisted radical prostatectomy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>05</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>07</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>7</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>7</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>7</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30006861</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11701-018-0847-9</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11701-018-0847-9</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Clin Perform Qual Health Care. 1993 Oct-Dec;1(4):219-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10135639</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2000 Dec 20;56(6):899-905</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11113727</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2004 Aug;240(2):205-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15273542</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2009 Jun;55(6):1377-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19243886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2010 Aug;106(3):385-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20067457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2010 Mar 23;340:c332</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20332509</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2011 Feb;59(2):235-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20863611</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Minerva Urol Nefrol. 2010 Sep;62(3):295-304</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20940698</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2012 Dec;26(12):1605-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22691123</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Urol. 2013 May;20(5):493-500</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23039276</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Can J Urol. 2013 Dec;20(6):7079-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24331354</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2014 Dec;84(6):1453-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25432837</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nihon Hinyokika Gakkai Zasshi. 2015 Jan;106(1):7-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26399124</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg Pathol. 2016 Feb;40(2):244-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26492179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2016 Aug;70(2):301-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26850969</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2016 Nov;70(5):837-845</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26874806</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2017 Mar;35(3):395-402</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27380209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2016 Sep 10;388(10049):1057-1066</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27474375</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Minerva Urol Nefrol. 2017 Feb;69(1):63-68</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28009146</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2017 Oct;72(4):632-640</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28412062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol Focus. 2018 Jul;4(4):608-613</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28753862</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2018 Jun;121(6):845-853</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29063728</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Cancer. 2018 Feb 20;118(4):489-494</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29348490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>NCI Monogr. 1988;(7):133-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3173499</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Chronic Dis. 1987;40(5):373-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3558716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Surg. 1997 Oct;185(4):315-27</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9328380</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">30006862</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>07</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>05</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1863-2491</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>13</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of robotic surgery</Title>
+          <ISOAbbreviation>J Robot Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A randomised trial to compare the increase in intracranial pressure as correlated with the optic nerve sheath diameter during propofol versus sevoflurane-maintained anesthesia in robot-assisted laparoscopic pelvic surgery.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>267-273</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11701-018-0849-7</ELocationID>
+        <Abstract>
+          <AbstractText>Robot-assisted surgery can cause raised intracranial pressures (ICP) due to steep trendelenburg position and pneumoperitoneum. The choice of anesthetic agents can influence the ICP, which can be measured indirectly by correlating it with the sonographically measured optic nerve sheath diameter (ONSD). In this study, our primary aim was to compare the change from baseline of the ONSD during propofol versus sevoflurane-maintained anesthesia in patients undergoing robotic pelvic surgery. In this prospective, interventional, double-blinded study, we randomised 50 patients into two groups P and S. Subjects in group P received intravenous propofol infusion while those in group S received inhalation sevoflurane for maintenance of anesthesia. The ONSD at fixed intervals was noted as the mean of four values measured using ultrasound in both eyes by two independent anesthesiologists who were blinded to the group allocation. The patient demographics and baseline parameters were similar. The mean maximum rise in ONSD from baseline was 0.01 ± 0.01 cm in group P while it was 0.03 ± 0.01 cm in group S (p = 0.001). Percentage change from baseline in group P was 3.41 ± 1.81% and 8.00 ± 2.95% in group S (p = 0.001). We found a positive correlation between the duration of surgery and the maximum rise in ONSD in group S (p = 0.003), but not in group P. Propofol-based total intravenous anesthesia is more effective than inhalation sevoflurane in attenuating the increase in ICP as correlated with the ONSD during robotic pelvic surgery.Clinical trial registration: Yes; Principal investigator: Nambiath Sujata; Trial number: REF/2016/11/012713 (registered); Trial registry: CTRI- http://ctri.nic.in .</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Sujata</LastName>
+            <ForeName>Nambiath</ForeName>
+            <Initials>N</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-8791-2357</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesia and Pain Management, Max Hospital, No. 1 Press Enclave Road, Saket, New Delhi, 110017, India. drnambiath@yahoo.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tobin</LastName>
+            <ForeName>Raj</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesia and Pain Management, Max Hospital, No. 1 Press Enclave Road, Saket, New Delhi, 110017, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tamhankar</LastName>
+            <ForeName>Ashwin</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Uro-Oncology, Max Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gautam</LastName>
+            <ForeName>Gagan</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Uro-Oncology, Max Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yatoo</LastName>
+            <ForeName>Abdul Hamid</ForeName>
+            <Initials>AH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesia and Pain Management, Max Hospital, No. 1 Press Enclave Road, Saket, New Delhi, 110017, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>07</Month>
+          <Day>13</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Robot Surg</MedlineTA>
+        <NlmUniqueID>101300401</NlmUniqueID>
+        <ISSNLinking>1863-2483</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000777">Anesthetics</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>38LVP0K73A</RegistryNumber>
+          <NameOfSubstance UI="D000077149">Sevoflurane</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>YI7VU623SF</RegistryNumber>
+          <NameOfSubstance UI="D015742">Propofol</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Robot Surg. 2023 Apr;17(2):703-704. doi: 10.1007/s11701-022-01395-9</RefSource>
+          <PMID Version="1">35229258</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000280" MajorTopicYN="N">Administration, Inhalation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000769" MajorTopicYN="Y">Anesthesia, Inhalation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000771" MajorTopicYN="Y">Anesthesia, Intravenous</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000777" MajorTopicYN="N">Anesthetics</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018475" MajorTopicYN="N">Head-Down Tilt</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007262" MajorTopicYN="N">Infusions, Intravenous</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019586" MajorTopicYN="N">Intracranial Hypertension</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007427" MajorTopicYN="Y">Intracranial Pressure</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009900" MajorTopicYN="N">Optic Nerve</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010388" MajorTopicYN="N">Pelvis</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011028" MajorTopicYN="N">Pneumoperitoneum, Artificial</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015742" MajorTopicYN="N">Propofol</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000077149" MajorTopicYN="N">Sevoflurane</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014463" MajorTopicYN="N">Ultrasonography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Anesthesia agent</Keyword>
+        <Keyword MajorTopicYN="N">Intracranial pressure</Keyword>
+        <Keyword MajorTopicYN="N">Optic nerve sheath diameter</Keyword>
+        <Keyword MajorTopicYN="N">Robotic surgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>06</Month>
+          <Day>01</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>07</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>7</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>7</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>7</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30006862</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11701-018-0849-7</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11701-018-0849-7</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Anesthesiology. 1999 Sep;91(3):677-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10485778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Ultrasound. 2002 Oct;15(3):145-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12423741</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2003 Feb;98(2):329-36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12552189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Anaesthesiol. 2006 Oct;19(5):504-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16960482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Emerg Med. 2007 Apr;49(4):508-14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16997419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurotrauma. 2007;24 Suppl 1:S55-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17511546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 1990 Sep;73(3):404-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2118315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Ultrasound Med. 2011 May;30(5):651-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21527613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurocrit Care. 2011 Dec;15(3):506-15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21769456</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Anaesthesiol Scand. 2012 Feb;56(2):248-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22091956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Can J Anaesth. 2014 Apr;61(4):347-56</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24482247</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2014 Jul;28(7):801-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24517270</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurol Res Int. 2015;2015:146059</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25874128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2016 Dec;117(6):783-791</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27956677</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prostate Int. 2017 Dec;5(4):135-138</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29188199</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 1986 Nov;65(5):462-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3777475</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 1974 Sep-Oct;5(5):630-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">4472361</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 1995 Jul;83(1):66-76</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7605020</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

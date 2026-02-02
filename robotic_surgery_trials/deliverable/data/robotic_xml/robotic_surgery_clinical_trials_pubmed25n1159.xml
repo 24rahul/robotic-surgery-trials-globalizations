@@ -1,0 +1,1005 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36265267</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>11</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>03</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1873-4529</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>83</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>12</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of clinical anesthesia</Title>
+          <ISOAbbreviation>J Clin Anesth</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The effect of hyperoxia on ventilation during recovery from general anesthesia: A randomized pilot study for a parallel randomized controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>110982</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0952-8180(22)00340-3</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jclinane.2022.110982</ELocationID>
+        <Abstract>
+          <AbstractText Label="STUDY OBJECTIVE">While supplemental O<sub>2</sub> inhalation corrects hypoxemia, its effect on post-anesthesia ventilation remains unknown. This pilot trial tested the hypothesis that hyperoxia increases the time spent with a transcutaneous PCO<sub>2</sub> (TcPCO<sub>2</sub>) &gt; 45 mmHg, compared with standard O<sub>2</sub> supplementation.</AbstractText>
+          <AbstractText Label="DESIGN">Single-blinded, parallel two-arm randomized pilot trial.</AbstractText>
+          <AbstractText Label="SETTING">University hospital.</AbstractText>
+          <AbstractText Label="PATIENTS">20 patients undergoing robotic-assisted laparoscopic nephrectomy.</AbstractText>
+          <AbstractText Label="MEASUREMENTS">After institutional approval and informed consent, patients were randomized to receive O<sub>2</sub> titrated to arterial saturation (SpO<sub>2</sub>): 90-94% (Conservative O<sub>2</sub>, N =10), or to SpO<sub>2</sub> &gt; 96% (Liberal O<sub>2</sub>, N = 10) for up to 90 min after anesthesia. Continuous TcPCO<sub>2</sub>, respiratory inductance plethysmography (RIP), and SpO<sub>2</sub>, were recorded. We calculated the percentage of time at TcPCO<sub>2</sub> &gt; 45 mmHg for each patient and compared the two groups using analysis of covariance, adjusting for sex, age, and body mass index. We also estimated the sample size required to detect the between-group difference observed in this pilot trial. RIP signals were used to calculate apnea/hypopnea index (AHI), which was then compared between two groups.</AbstractText>
+          <AbstractText Label="MAIN RESULTS">The mean percentage of time with a TcPCO<sub>2</sub> &gt; 45 mmHg was 80.6% for the Conservative O<sub>2</sub> (N=9) and 61.2% for the Liberal O<sub>2</sub> (N=10) group [between-group difference of 19.4% (95% CI: -18.7% to 57.6%), P = 0.140]. With an observed effect size of 0.73, we estimated that 30 participants per group are required, to demonstrate this difference with a power of 80% at a two-sided alpha of 5%. Means SpO<sub>2</sub> were 94.5% and 99.9% for the Conservative O<sub>2</sub> and the Liberal O<sub>2</sub> groups, respectively. AHI was significantly higher in the Conservative O<sub>2</sub>, compared with the Liberal O<sub>2</sub> group (median AHI: 16 vs. 3; P = 0.0014).</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Hyperoxia in the post-anesthesia period reduced the time spent at TcPCO<sub>2</sub> &gt; 45 mmHg and significantly decreased AHI, while mean SpO<sub>2</sub> ranged inside the a priori defined limits.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION">ClinicalTrials.gov identifier: NCT04723433.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Doufas</LastName>
+            <ForeName>Anthony G</ForeName>
+            <Initials>AG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology, Perioperative and Pain Medicine, Stanford University School of Medicine, Stanford, CA, United States of America; Center for Sleep and Circadian Sciences, Department of Psychiatry and Behavioral Sciences, Stanford University School of Medicine, Stanford, CA, United States of America. Electronic address: agdoufas@stanford.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tian</LastName>
+            <ForeName>Lu</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Data Science, Stanford University School of Medicine, Stanford, CA, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kutscher</LastName>
+            <ForeName>Scott</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychiatry and Behavioral Sciences, and Center for Sleep Sciences and Medicine, Stanford University School of Medicine, Stanford, CA, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Finnsson</LastName>
+            <ForeName>Eysteinn</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nox Research, Nox Medical ehf, Reykjavík, Iceland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ágústsson</LastName>
+            <ForeName>Jón Skírnir</ForeName>
+            <Initials>JS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nox Research, Nox Medical ehf, Reykjavík, Iceland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chung</LastName>
+            <ForeName>Benjamin I</ForeName>
+            <Initials>BI</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Stanford University School of Medicine, Stanford, CA, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Panousis</LastName>
+            <ForeName>Periklis</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology, Perioperative and Pain Medicine, Stanford University School of Medicine, Stanford, CA, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT04723433</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Clin Anesth</MedlineTA>
+        <NlmUniqueID>8812166</NlmUniqueID>
+        <ISSNLinking>0952-8180</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>S88TT14065</RegistryNumber>
+          <NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018496" MajorTopicYN="Y">Hyperoxia</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010102" MajorTopicYN="N">Oxygen Inhalation Therapy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010100" MajorTopicYN="N">Oxygen</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000768" MajorTopicYN="N">Anesthesia, General</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Anesthesia</Keyword>
+        <Keyword MajorTopicYN="N">Hyperoxia</Keyword>
+        <Keyword MajorTopicYN="N">Obstructive sleep apnea</Keyword>
+        <Keyword MajorTopicYN="N">Oxygen</Keyword>
+        <Keyword MajorTopicYN="N">Pharmacologically induced ventilatory depression</Keyword>
+        <Keyword MajorTopicYN="N">Postoperative period</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of Competing Interest None of the authors has any competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>07</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>20</Day>
+          <Hour>18</Hour>
+          <Minute>20</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36265267</ArticleId>
+        <ArticleId IdType="pii">S0952-8180(22)00340-3</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jclinane.2022.110982</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36286397</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>04</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>04</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2724-6442</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>75</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Minerva urology and nephrology</Title>
+          <ISOAbbreviation>Minerva Urol Nephrol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A nomogram to predict pathologic T2 stage in candidates to robot-assisted radical prostatectomy with iT3 prostate cancer on preoperative multiparametric MRI: results from a multi-institutional collaboration.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>231-234</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.23736/S2724-6051.22.04992-8</ELocationID>
+        <Abstract>
+          <AbstractText>In candidates to robot-assisted radical prostatectomy (RARP) for locally advanced (iT3) prostate cancer on preoperative MRI, the performance of MRI for local staging is demonstrably suboptimal, and currently no prediction tools that might help surgeons in preoperative planning are available. We analyzed data of 685 patients with iT3 prostate cancer (PCa) who received RARP at five participating institutions between 2012 and 2020. Multivariable logistic regression model investigated predictors of pT2 disease among variables available before surgery (i.e.: preoperative PSA, biopsy ISUP group, clinical T stage on digital rectal examination-DRE, prostate volume on MRI, PIRADS score of index lesion, seminal vesicles invasion on MRI, location suspicious for T3 disease on MRI). Coefficients from such model were used to build a nomogram to predict organ-confined (i.e. pT2) disease on final pathology. Internal validation was performed using the leave-one-out cross-validation. Median (interquartile range) preoperative PSA was 7.5 (5.2, 11.9) ng/mL, and 280 (41%) and 216 (32%) had biopsy ISUP group 4-5 disease and palpable disease on DRE, respectively. Preoperative MRI was suspicious for iT3 disease on the mid-posterior part of the gland in 485 (71%) men, and 527 (77%) men had a PIRADS 5 lesion. After surgery, a total of 192 (28%) patients had organ-confined disease (i.e. pT2). All variables fitted into the model and were considered to build the nomogram. After internal validation, the AUC was 73% (95% confidence interval: 69%, 77%). Awaiting external validation, we provided data that is relevant to optimize surgical strategy in men diagnosed with iT3 PCa who are scheduled for RARP.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bravi</LastName>
+            <ForeName>Carlo A</ForeName>
+            <Initials>CA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Onze-Lieve-Vrouwziekenhuis Hospital, Aalst, Belgium - carloandrea.bravi@gmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>ORSI Academy, Ghent, Belgium - carloandrea.bravi@gmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Unit of Urology, Division of Oncology, IRCCS San Raffaele Hospital, Milan, Italy - carloandrea.bravi@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mazzone</LastName>
+            <ForeName>Elio</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unit of Urology, Division of Oncology, IRCCS San Raffaele Hospital, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dell'oglio</LastName>
+            <ForeName>Paolo</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, ASST Grande Ospedale Metropolitano Niguarda, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, the Netherlands Cancer Institute, Antoni van Leeuwenhoek Hospital, Amsterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Interventional Molecular Imaging Laboratory, Department of Radiology, University Medical Center of Leiden, Leiden, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Covas Moschovas</LastName>
+            <ForeName>Marcio</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>AdventHealth Global Robotics Institute, Celebration, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Martini</LastName>
+            <ForeName>Alberto</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unit of Urology, Division of Oncology, IRCCS San Raffaele Hospital, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rosiello</LastName>
+            <ForeName>Giuseppe</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unit of Urology, Division of Oncology, IRCCS San Raffaele Hospital, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Piazza</LastName>
+            <ForeName>Pietro</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>ORSI Academy, Ghent, Belgium.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, IRCCS University Hospital of Bologna, Bologna, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mottaran</LastName>
+            <ForeName>Angelo</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>ORSI Academy, Ghent, Belgium.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, IRCCS University Hospital of Bologna, Bologna, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Paciotti</LastName>
+            <ForeName>Marco</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>ORSI Academy, Ghent, Belgium.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Humanitas IRCCS Research Hospital, Rozzano, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sarchi</LastName>
+            <ForeName>Luca</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>ORSI Academy, Ghent, Belgium.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Modena and Reggio Emilia, Modena, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Puliatti</LastName>
+            <ForeName>Stefano</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>ORSI Academy, Ghent, Belgium.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, University of Modena and Reggio Emilia, Modena, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Knipper</LastName>
+            <ForeName>Sophie</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>ORSI Academy, Ghent, Belgium.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Martini-Klinik Prostate Cancer Center, University Hospital of Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>DE Groote</LastName>
+            <ForeName>Ruben</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Onze-Lieve-Vrouwziekenhuis Hospital, Aalst, Belgium.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>ORSI Academy, Ghent, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schiavina</LastName>
+            <ForeName>Riccardo</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Urology, IRCCS University Hospital of Bologna, Bologna, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rocco</LastName>
+            <ForeName>Bernando</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Humanitas IRCCS Research Hospital, Rozzano, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Unit of Urological, Department of Health Sciences, ASST Santi Paolo e Carlo, University of Milan, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Galfano</LastName>
+            <ForeName>Antonio</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, ASST Grande Ospedale Metropolitano Niguarda, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Briganti</LastName>
+            <ForeName>Alberto</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unit of Urology, Division of Oncology, IRCCS San Raffaele Hospital, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Montorsi</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unit of Urology, Division of Oncology, IRCCS San Raffaele Hospital, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Patel</LastName>
+            <ForeName>Vipul</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>AdventHealth Global Robotics Institute, Celebration, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mottrie</LastName>
+            <ForeName>Alexandre</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Onze-Lieve-Vrouwziekenhuis Hospital, Aalst, Belgium.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>ORSI Academy, Ghent, Belgium.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>26</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Italy</Country>
+        <MedlineTA>Minerva Urol Nephrol</MedlineTA>
+        <NlmUniqueID>101777299</NlmUniqueID>
+        <ISSNLinking>2724-6051</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+          <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011467" MajorTopicYN="N">Prostate</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D049451" MajorTopicYN="N">Nomograms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012669" MajorTopicYN="N">Seminal Vesicles</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017430" MajorTopicYN="N">Prostate-Specific Antigen</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000081364" MajorTopicYN="Y">Multiparametric Magnetic Resonance Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="Y">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>4</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>26</Day>
+          <Hour>8</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36286397</ArticleId>
+        <ArticleId IdType="pii">S2724-6051.22.04992-8</ArticleId>
+        <ArticleId IdType="doi">10.23736/S2724-6051.22.04992-8</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36290815</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>10</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>01</Month>
+        <Day>11</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1718-7729</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>29</Volume>
+            <Issue>10</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>09</Month>
+              <Day>22</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Current oncology (Toronto, Ont.)</Title>
+          <ISOAbbreviation>Curr Oncol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The Challenges of Patient Selection for Prostate Cancer Focal Therapy: A Retrospective Observational Multicentre Study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>6826-6833</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/curroncol29100538</ELocationID>
+        <Abstract>
+          <AbstractText>Increased diagnoses of silent prostate cancer (PCa) have led to overtreatment and consequent functional side effects. Focal therapy (FT) applies energy to a prostatic index lesion treating only the clinically significant PCa focus. We analysed the potential predictive factors of FT failure. We collected data from patients who underwent robot-assisted radical prostatectomy (RARP) in two high-volume hospitals from January 2017 to January 2020. The inclusion criteria were: one MRI-detected lesion with a Gleason Score (GS) of ≤7, ≤cT2a, PSA of ≤10 ng/mL, and GS 6 on a random biopsy with ≤2 positive foci out of 12. Potential oncological safety of FT was defined as the respect of clinicopathological inclusion criteria on histology specimens, no extracapsular extension, and no biochemical, local, or metastatic recurrence within 12 months. To predict FT failure, we performed uni- and multivariate logistic regression. Sixty-seven patients were enrolled. The MRI index lesion median size was 11 mm; target lesions were ISUP grade 1 in 27 patients and ISUP grade 2 in 40. Potential FT failure occurred in 32 patients, and only the PSA value resulted as a predictive parameter (<i>p</i> &lt; 0.05). The main issue for FT is patient selection, mainly because of multifocal csPCa foci. Nevertheless, FT could represent a therapeutic alternative for highly selected low-risk PCa patients.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Paladini</LastName>
+            <ForeName>Alessio</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0003-2680-3429</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Urology Clinic, Department of Medicine and Surgery, University of Perugia, 06129 Perugia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cochetti</LastName>
+            <ForeName>Giovanni</ForeName>
+            <Initials>G</Initials>
+            <Identifier Source="ORCID">0000-0003-3982-2004</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Urology Clinic, Department of Medicine and Surgery, University of Perugia, 06129 Perugia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Colau</LastName>
+            <ForeName>Alexandre</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-5648-4759</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Chirurgie Urologique, Hôpital Croix Saint Simon Groupe Diaconesses, 75020 Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mouton</LastName>
+            <ForeName>Martin</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Chirurgie Urologique, Hôpital Croix Saint Simon Groupe Diaconesses, 75020 Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ciarletti</LastName>
+            <ForeName>Sara</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Urology Clinic, Department of Medicine and Surgery, University of Perugia, 06129 Perugia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Felici</LastName>
+            <ForeName>Graziano</ForeName>
+            <Initials>G</Initials>
+            <Identifier Source="ORCID">0000-0001-7310-9398</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Urology Clinic, Department of Medicine and Surgery, University of Perugia, 06129 Perugia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Maiolino</LastName>
+            <ForeName>Giuseppe</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Urology Clinic, Department of Medicine and Surgery, University of Perugia, 06129 Perugia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Balzarini</LastName>
+            <ForeName>Federica</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Chirurgie Urologique, Hôpital Croix Saint Simon Groupe Diaconesses, 75020 Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sèbe</LastName>
+            <ForeName>Philippe</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Chirurgie Urologique, Hôpital Croix Saint Simon Groupe Diaconesses, 75020 Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mearini</LastName>
+            <ForeName>Ettore</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Urology Clinic, Department of Medicine and Surgery, University of Perugia, 06129 Perugia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D064888">Observational Study</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>22</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Curr Oncol</MedlineTA>
+        <NlmUniqueID>9502503</NlmUniqueID>
+        <ISSNLinking>1198-0052</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+          <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017430" MajorTopicYN="Y">Prostate-Specific Antigen</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018579" MajorTopicYN="N">Patient Selection</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="Y">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">MRI</Keyword>
+        <Keyword MajorTopicYN="N">PSA</Keyword>
+        <Keyword MajorTopicYN="N">focal therapy</Keyword>
+        <Keyword MajorTopicYN="N">low-risk PCa</Keyword>
+        <Keyword MajorTopicYN="N">prostate cancer</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>08</Month>
+          <Day>31</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>27</Day>
+          <Hour>1</Hour>
+          <Minute>8</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36290815</ArticleId>
+        <ArticleId IdType="pii">curroncol29100538</ArticleId>
+        <ArticleId IdType="doi">10.3390/curroncol29100538</ArticleId>
+        <ArticleId IdType="pmc">PMC9600719</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Int Urol Nephrol. 2019 Apr;51(4):609-615</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30798475</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prostate Int. 2014 Mar;2(1):26-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24693531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol Focus. 2020 Mar 15;6(2):419-423</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31771935</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol Focus. 2020 Mar 15;6(2):208-211</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31053567</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2019 May;75(5):712-720</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30509763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2014 Oct;114(4):517-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24112652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2018 Oct;74(4):422-429</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29960750</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2016 Sep 10;388(10049):1057-1066</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27474375</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2010 Jun;57(6):1111-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20346578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2021 Feb;79(2):243-262</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33172724</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol Focus. 2020 Mar 15;6(2):201-202</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31060852</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>EFORT Open Rev. 2020 Oct 26;5(10):593-603</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33204501</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2022 Jul 29;:</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35914584</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Cancer. 2000 Dec 20;90(6):305-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11180133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Open Med (Wars). 2019 Sep 15;14:711-718</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31572804</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer J. 2010 Sep-Oct;16(5):544-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20890154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2020 Dec;38(12):3075-3083</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32130477</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2005 Jan;95(1):34-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15638892</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2015 Mar;67(3):569-76</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25257029</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Res Treat. 2018 Apr;50(2):356-365</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28546520</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Thorac Dis. 2018 Aug;10(8):4838-4848</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30233857</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg Pathol. 1994 Aug;18(8):796-803</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8037294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urol Oncol. 2020 Jul;38(7):623-635</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32284256</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2020 May;77(5):628-635</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30041833</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urol Oncol. 2015 Jul;33(7):329.e13-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25960411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2017 Jan;31(1):32-37</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27824258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 2014 Mar 19;311(11):1143-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24643604</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2008 Aug;54(2):371-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18395322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Markers. 2015;2015:973597</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26078486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2015 May;85(5):1117-1122</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25917734</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2022 Jul;40(7):1645-1652</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35562598</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2018 Jul;74(1):26-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29501451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2014 Jun;65(6):1078-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24444476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prostate. 2001 Nov 1;49(3):185-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11746263</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2020 Sep;78(3):379-380</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32616404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol Focus. 2020 Mar 15;6(2):203-204</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31202786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

@@ -1,0 +1,1191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37214101</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>05</Month>
+        <Day>25</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">2167-8359</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>11</Volume>
+            <PubDate>
+              <Year>2023</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>PeerJ</Title>
+          <ISOAbbreviation>PeerJ</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Weight-shifting-based robot control system improves the weight-bearing rate and balance ability of the static standing position in hip osteoarthritis patients: a randomized controlled trial focusing on outcomes after total hip arthroplasty.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e15397</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.15397</ELocationID>
+        <Abstract>
+          <AbstractText Label="Background">After a total hip arthroplasty (THA), standing and walking balance are greatly affected in the early stages of recovery, so it is important to increase the weight-bearing amount (WBA) on the operated side. Sometimes, traditional treatments may not be enough to improve WBA and weight-bearing ratio (WBR) on the operated side in a satisfactory way. To solve this problem, we came up with a new weight-shifting-based robot control system called LOCOBOT. This system can control a spherical robot on a floor by changing the center of pressure (COP) on a force-sensing board in rehabilitation after THA. The goal of this study was to find out how rehabilitation with the LOCOBOT affects the WBR and balance in a static standing position in patients with unilateral hip osteoarthritis (OA) who had a primary uncemented THA.</AbstractText>
+          <AbstractText Label="Methods">This randomized controlled trial included 20 patients diagnosed with Kellgren-Lawrence (K-L) grade 3 or 4 hip OA on the operative side and K-L grade 0 normal hip on the nonoperative side. We used the minimization method for allocation and randomly assigned patients to either the LOCOBOT group or the control group. As a result, 10 patient seach were randomly assigned to the LOCOBOT and control groups. Both groups received 40 min of rehabilitation treatment. Out of the 40 min, the LOCOBOT group underwent treatment for 10 min with LOCOBOT. The control group performed COP-controlled exercises on a flat floor instead of using LOCOBOT for 10 of the 40 min. All theoutcome measures were performed pre-THA and 11.9 ± 1.6 days after THA (12 days after THA). The primary outcome measure included WBR in the static standing position.</AbstractText>
+          <AbstractText Label="Results">After12 days of THA, the LOCOBOT group exhibited significantly higher mean WBR and WBA (operated side) values than the control group. Furthermore, the LOCOBOT group exhibited significantly lower mean WBA (non-operated side) and outer diameter area (ODA) values than the control group. From pre-THA to 12 days after THA, the LOCOBOT group exhibited a significant improvement in mean WBR and WBA (operated side). Moreover, the mean WBA (non-operated side) and ODA significantly decreased. From pre-THA to 12 days after THA, the control group showed a significant increase in total trajectory length and ODA.</AbstractText>
+          <AbstractText Label="Conclusions">The most important finding of this study was that patients were able to perform the LOCOBOT exercise as early as the second day after THA, and that WBR and ODA significantly improved by the 12th day after THA. This result demonstrated that the LOCOBOT effectively improves WBR in a short period of time after THA and is a valuable system for enhancing balance ability. This expedites the acquisition of independence in activities of daily living after THA and may contribute to optimizing the effectiveness of medical care.</AbstractText>
+          <CopyrightInformation>©2023 Miyazaki et al.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Miyazaki</LastName>
+            <ForeName>Shigeaki</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Rehabilitation Unit, University of Miyazaki Hospital, Miyazaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yamako</LastName>
+            <ForeName>Go</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, Faculty of Engineering, University of Miyazaki, Miyazaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Arakawa</LastName>
+            <ForeName>Hideki</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Rehabilitation Unit, University of Miyazaki Hospital, Miyazaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sakamoto</LastName>
+            <ForeName>Takero</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, Faculty of Medicine, University of Miyazaki, Miyazaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kawaguchi</LastName>
+            <ForeName>Tsubasa</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Rehabilitation Unit, University of Miyazaki Hospital, Miyazaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ito</LastName>
+            <ForeName>Kirari</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, Faculty of Engineering, University of Miyazaki, Miyazaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chosa</LastName>
+            <ForeName>Etsuo</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, Faculty of Medicine, University of Miyazaki, Miyazaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>05</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>PeerJ</MedlineTA>
+        <NlmUniqueID>101603425</NlmUniqueID>
+        <ISSNLinking>2167-8359</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019644" MajorTopicYN="Y">Arthroplasty, Replacement, Hip</DescriptorName>
+          <QualifierName UI="Q000534" MajorTopicYN="N">rehabilitation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015207" MajorTopicYN="Y">Osteoarthritis, Hip</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000203" MajorTopicYN="N">Activities of Daily Living</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000078783" MajorTopicYN="N">Standing Position</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016474" MajorTopicYN="N">Weight-Bearing</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Balance ability</Keyword>
+        <Keyword MajorTopicYN="N">Hip osteoarthritis</Keyword>
+        <Keyword MajorTopicYN="N">Robot exercise</Keyword>
+        <Keyword MajorTopicYN="N">Robotic rehabilitation</Keyword>
+        <Keyword MajorTopicYN="N">Static standing position</Keyword>
+        <Keyword MajorTopicYN="N">Total hip arthroplasty</Keyword>
+        <Keyword MajorTopicYN="N">Weight-bearing rate</Keyword>
+      </KeywordList>
+      <CoiStatement>Go Yamako is an associate professor of University of Miyazaki, a founder, a shareholder, and the chief executive officer of university start-up company “LOCOBOT Inc.”, Miyazaki, Japan. Etsuo Chosa is professor of University of Miyazaki, an advisor of the university’s venture company “LOCOBOT, Inc.” in Miyazaki, Japan. LOCOBOT is a R&amp;D company and the manufacturer of the LOCOBOT. Go Yamako and Etsuo Chosa have a patent pending.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>06</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>04</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>5</Month>
+          <Day>22</Day>
+          <Hour>19</Hour>
+          <Minute>11</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>5</Month>
+          <Day>22</Day>
+          <Hour>12</Hour>
+          <Minute>6</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37214101</ArticleId>
+        <ArticleId IdType="doi">10.7717/peerj.15397</ArticleId>
+        <ArticleId IdType="pii">15397</ArticleId>
+        <ArticleId IdType="pmc">PMC10199675</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>J Arthroplasty. 2014 Aug;29(8):1559-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24656056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ortop Traumatol Rehabil. 2014 May-Jun;16(3):351-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25058110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Orthop. 2008 Apr;79(2):149-59</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18478482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Bone Joint Surg Am. 2009 Nov;91(11):2617-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19884436</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hip Int. 2016 Nov 10;26(6):567-572</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27229165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Musculoskelet Disord. 2008 May 15;9:69</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18482447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Geriatr Soc. 2004 Dec;52(12):2016-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15571536</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Phys Med Rehabil. 2002 Nov;81(11):801-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12394990</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biomed Res Int. 2021 Jul 08;2021:3919989</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34307652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Orthop Relat Res. 2006 Dec;453:81-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17312587</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Orthop Trauma Surg. 2010 Apr;130(4):547-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20012073</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Physiother Res Int. 1998;3(4):274-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9859135</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Geriatr Soc. 1991 Feb;39(2):142-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1991946</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Bone Joint Surg Am. 2010 Apr;92(4):814-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20360503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Arthroplasty. 2014 Dec;29(12):2251-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24405618</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Orthop. 2010 Apr;81(2):183-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20367414</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Arthroplasty. 2007 Sep;22(6):833-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17826273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Orthop Surg Res. 2017 Feb 17;12(1):31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28212661</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gait Posture. 2017 Feb;52:237-243</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27951482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Phys Ther. 1997 May;77(5):553-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9149764</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Rheum Dis. 2005 Dec;64(12):1715-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15843453</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Arthroplasty. 1997 Jan;12(1):84-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9021507</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Bodyw Mov Ther. 2018 Apr;22(2):519-527</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29861260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Can J Public Health. 1992 Jul-Aug;83 Suppl 2:S7-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1468055</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bone Marrow Transplant. 2013 Mar;48(3):452-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23208313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Aging Health. 2005 Apr;17(2):111-24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15750047</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Rheumatol. 2009 Sep;21(5):520-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19550331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Orthop Relat Res. 2003 Mar;(408):193-200</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12616059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Gerontol Geriatr. 2010 Jan-Feb;50(1):92-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19282040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int Orthop. 2009 Feb;33(1):53-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17932669</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int Orthop. 1989;13(4):235-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2599698</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gait Posture. 2008 Apr;27(3):471-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17644336</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diagnostics (Basel). 2022 Mar 11;12(3):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35328237</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arthritis Care Res (Hoboken). 2012 Mar;64(3):415-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22170790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Environ Res Public Health. 2023 Jan 04;20(2):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36673671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Bone Joint Surg Am. 1993 Nov;75(11):1619-26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8245054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gait Posture. 2013 Feb;37(2):290-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22889928</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Bone Joint Surg Br. 2008 May;90(5):570-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18450620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Gerontol. 1990 Nov;45(6):M192-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2229941</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Orthop Sci. 2022 Mar;27(2):408-413</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33640221</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aging (Milano). 1998 Feb;10(1):26-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9589748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Bone Joint Surg Br. 2010 Jun;92(6):856-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20513885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37232074</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>02</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>06</Month>
+        <Day>11</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2005-7563</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>77</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>02</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Korean journal of anesthesiology</Title>
+          <ISOAbbreviation>Korean J Anesthesiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Randomized controlled trial of the effect of general anesthetics on postoperative recovery after minimally invasive nephrectomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>95-105</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.4097/kja.23083</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">General anesthetic techniques can affect postoperative recovery. We compared the effect of propofol-based total intravenous anesthesia (TIVA) and desflurane anesthesia on postoperative recovery.</AbstractText>
+          <AbstractText Label="METHODS">In this randomized trial, 150 patients undergoing robot-assisted or laparoscopic nephrectomy for renal cancer were randomly allocated to either the TIVA or desflurane anesthesia (DES) group. Postoperative recovery was evaluated using the Korean version of the Quality of Recovery-15 questionnaire (QoR-15K) at 24 h, 48 h, and 72 h postoperatively. A generalized estimating equation (GEE) was performed to analyze longitudinal QoR-15K data. Fentanyl consumption, pain severity, postoperative nausea and vomiting, and quality of life three weeks after discharge were also compared.</AbstractText>
+          <AbstractText Label="RESULTS">Data were analyzed for 70 patients in each group. The TIVA group showed significantly higher QoR-15K scores at 24 and 48 h postoperatively (24 h: DES, 96 [77, 109] vs. TIVA, 104 [82, 117], median difference 8 [95% CI: 1, 15], P = 0.029; 48 h: 110 [95, 128] vs. 125 [109, 130], median difference 8 [95% CI: 1, 15], P = 0.022), however not at 72 h (P = 0.400). The GEE revealed significant effects of group (adjusted mean difference 6.2, 95% CI: 0.39, 12.1, P = 0.037) and time (P &lt; 0.001) on postoperative QoR-15K scores without group-time interaction (P = 0.051). However, there were no significant differences in other outcomes, except for fentanyl consumption, within the first 24 h postoperatively.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Propofol-based TIVA showed only a transient improvement in postoperative recovery than desflurane anesthesia, without significant differences in other outcomes.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Yoon</LastName>
+            <ForeName>Hyun-Kyu</ForeName>
+            <Initials>HK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Joo</LastName>
+            <ForeName>Somin</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yoon</LastName>
+            <ForeName>Susie</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Seo</LastName>
+            <ForeName>Jeong-Hwa</ForeName>
+            <Initials>JH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Won Ho</ForeName>
+            <Initials>WH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Ho-Jin</ForeName>
+            <Initials>HJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>05</Month>
+          <Day>26</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Korea (South)</Country>
+        <MedlineTA>Korean J Anesthesiol</MedlineTA>
+        <NlmUniqueID>101502451</NlmUniqueID>
+        <ISSNLinking>2005-6419</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>YI7VU623SF</RegistryNumber>
+          <NameOfSubstance UI="D015742">Propofol</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018686">Anesthetics, Intravenous</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>CRS35BZ94Q</RegistryNumber>
+          <NameOfSubstance UI="D000077335">Desflurane</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>UF599785JZ</RegistryNumber>
+          <NameOfSubstance UI="D005283">Fentanyl</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018685">Anesthetics, Inhalation</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015742" MajorTopicYN="Y">Propofol</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018686" MajorTopicYN="N">Anesthetics, Intravenous</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000077335" MajorTopicYN="N">Desflurane</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000762" MajorTopicYN="N">Anesthesia Recovery Period</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005283" MajorTopicYN="N">Fentanyl</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018685" MajorTopicYN="Y">Anesthetics, Inhalation</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000768" MajorTopicYN="N">Anesthesia, General</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="N">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Enhanced recovery after surgery</Keyword>
+        <Keyword MajorTopicYN="N">General anesthetics</Keyword>
+        <Keyword MajorTopicYN="N">Inhalation anesthesia</Keyword>
+        <Keyword MajorTopicYN="N">Intravenous anesthesia</Keyword>
+        <Keyword MajorTopicYN="N">Perioperative medicine</Keyword>
+        <Keyword MajorTopicYN="N">Postoperative period</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>02</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>05</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>2</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>5</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>5</Month>
+          <Day>26</Day>
+          <Hour>3</Hour>
+          <Minute>58</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37232074</ArticleId>
+        <ArticleId IdType="pii">kja.23083</ArticleId>
+        <ArticleId IdType="doi">10.4097/kja.23083</ArticleId>
+        <ArticleId IdType="pmc">PMC10834716</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Br J Anaesth. 2020 Dec;125(6):935-942</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32958203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Medicine (Baltimore). 2018 Oct;97(40):e12699</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30290667</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2021 Aug;45(8):2581-2590</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33881579</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesth Analg. 2018 Aug;127(2):569-575</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29905618</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int Forum Allergy Rhinol. 2019 Mar;9(3):248-254</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30452125</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Med. 2019 Sep 24;8(10):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31554223</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anaesth Intensive Care. 2018 Sep;46(5):480-487</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30189822</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2013 Jun;118(6):1332-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23411725</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2018 Jan;120(1):28-36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29397134</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesth Analg. 2019 Jan;128(1):68-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29782405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2019 Mar;43(3):659-695</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30426190</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2015 Apr;114(4):663-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25500679</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA Surg. 2021 Aug 1;156(8):758-765</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33978692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Med. 2010 Mar 24;8:18</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20334633</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reg Anesth Pain Med. 2021 Jan;46(1):18-24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33106280</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kidney Int. 2015 Jan;87(1):62-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25317932</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2018 Apr;120(4):705-711</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29576111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2020 Oct 1;133(4):764-773</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32930730</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Anesthesiol. 2018 Nov 8;18(1):162</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30409186</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Surg. 1998 Sep;85(9):1217-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9752863</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesth Analg. 2016 Oct;123(4):846-58</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27636574</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anaesthesia. 2016 Oct;71(10):1222-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27506326</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2021 May;126(5):921-930</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33386126</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesth Analg. 2020 Aug;131(2):411-448</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32467512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ Open. 2020 Dec 15;10(12):e039881</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33323432</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2010 Nov;105(5):661-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20876698</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Today. 2016 Jun;46(6):668-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26289837</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Anesth. 2016 Sep;33:428-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27555205</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Anesth. 2017 Dec;43:70-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29032007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Anesth. 2021 Oct;73:110374</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34090183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 1999 Sep;91(3):693-700</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10485781</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2019 Aug;123(2):135-150</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31255291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qual Life Res. 2016 Jul;25(7):1845-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26961008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesth Analg. 2020 Jun;130(6):1559-1567</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31490251</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2020 Oct;125(4):614-621</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32703550</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2016 Jul;125(1):39-45</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27159009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2018 Jun;128(6):1092-1098</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29509579</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Anaesthesiol. 2018 Aug;31(4):396-401</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29846193</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Anaesthesiol Scand. 2016 Mar;60(3):289-334</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26514824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37235716</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>06</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1534-4908</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>33</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Jun</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Surgical laparoscopy, endoscopy &amp; percutaneous techniques</Title>
+          <ISOAbbreviation>Surg Laparosc Endosc Percutan Tech</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Utilizing Simulation to Evaluate Robotic Skill Acquisition and Learning Decay.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>317-323</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/SLE.0000000000001177</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">We aim to evaluate how new robotic skills are acquired and retained by having participants train and retest using exercises on the robotic platform. We hypothesized that participants with a 3-month break from the robotic platform will have less learning decay and increased retention compared with those with a 6-month break.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This was a prospective randomized trial in which participants voluntarily enrolled and completed an initial training phase to reach proficiency in 9 robot simulator exercises. They were then instructed to refrain from practicing until they retested either 3 or 6 months later. This study was completed at an academic medical center within the general surgery department. Participants were medical students, and junior-level residents with minimal experience in robotic surgery were enrolled. A total of 27 enrolled, and 13 participants completed the study due to attrition.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, intragroup analysis revealed that participants performed better in their retest phase compared with their initial training in terms of attempts to reach proficiency, time for completion, penalty score, and overall score. Specifically, during the first attempt in the retesting phase, the 3-month group did not deviate far from their final attempt in the training phase, whereas the 6-month group experienced significantly worse time to complete and overall score in interrupted suturing {[-4 (-18 to 20) seconds vs. 109 (55 to 118) seconds, P =0.02] [-1.3 (-8 to 1.9) vs. -18.9 (-19.5 to (-15.0)], P =0.04} and 3-arm relay {[3 (-4 to 23) seconds vs. 43 (30 to 50) seconds, P =0.02] [0.4 (-4.6 to 3.1) vs. -24.8 (-30.6 to (-20.3)], P =0.01] exercises. In addition, the 6-month group had a significant increase in penalty score in retesting compared with the 3-month group, which performed similarly to their training phase [3.3 (2.7 to 3.3) vs. 0 (-0.8 to 1.7), P =0.03].</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study identified statistically significant differences in learning decay, skills retention, and proficiency between 3-month and 6-month retesting intervals on a robotic simulation platform.</AbstractText>
+          <CopyrightInformation>Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Shinban</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Emory University.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Kaiser Permanente, Southeast Permanente Medical Group, Atlanta, GA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Watkins</LastName>
+            <ForeName>Kayla</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Emory University.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>General Surgery, Surgical Institute at True North, Duncan, OK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hall</LastName>
+            <ForeName>Caroline E</ForeName>
+            <Initials>CE</Initials>
+            <Identifier Source="ORCID">0000-0002-1704-3547</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Emory University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Yuki</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Global Health Economics and Outcomes Research, Intuitive Surgical, Inc., Sunnyvale, CA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Shih-Hao</ForeName>
+            <Initials>SH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Global Health Economics and Outcomes Research, Intuitive Surgical, Inc., Sunnyvale, CA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Papandria</LastName>
+            <ForeName>Dominic</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Emory University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Delman</LastName>
+            <ForeName>Keith A</ForeName>
+            <Initials>KA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Emory University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Srinivasan</LastName>
+            <ForeName>Jahnavi</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Emory University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Patel</LastName>
+            <ForeName>Ankit</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Emory University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Davis</LastName>
+            <ForeName>S Scott</ForeName>
+            <Initials>SS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Emory University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Edward</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Emory University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stetler</LastName>
+            <ForeName>Jamil</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Emory University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>06</Month>
+          <Day>01</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Surg Laparosc Endosc Percutan Tech</MedlineTA>
+        <NlmUniqueID>100888751</NlmUniqueID>
+        <ISSNLinking>1530-4515</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="N">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000066908" MajorTopicYN="Y">Simulation Training</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>Y.L. and S-H.L. are full-time employees of Intuitive Surgical, Inc, who assisted in data extraction and analysis from the da Vinci Surgical Skills Simulator. The robotic skills simulation platform was donated by Intuitive Surgical. (da Vinci Xi, Intuitive Surgical, Norcross, GA). The remaining authors declare no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>02</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>04</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>6</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>5</Month>
+          <Day>26</Day>
+          <Hour>19</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>5</Month>
+          <Day>26</Day>
+          <Hour>14</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37235716</ArticleId>
+        <ArticleId IdType="doi">10.1097/SLE.0000000000001177</ArticleId>
+        <ArticleId IdType="pii">00129689-202306000-00017</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Fundamentals of Laparoscopic Surgery. Accessed May 28,2021. http://www.flsprogram.org</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fundamentals of Endoscopic Surgery. Accessed May 28,2021. https://www.fesprogram.org/</Citation>
+        </Reference>
+        <Reference>
+          <Citation>American Board of Surgery. Accessed May 28, 2021. http://www.absurgery.org/default.jsp?certgsqe_training</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Da Vinci Surgery Community. Accessed May 28, 2021. http://www.davincisurgerycommunity.com</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fundamentals of Robotic Surgery Accessed May 28, 2021. http://frsurgery.org/</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dulan G, Rege RV, Hogg DC, et al. Developing a comprehensive, proficiency-based training program for robotic surgery. Surgery. 2012;152:477–488.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dulan G, Rege RV, Hogg DC, et al. Proficiency-based training for robotic surgery: construct validity, workload, and expert levels for nine inanimate exercises. Surg Endosc. 2012;26:1516–1521.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Stefanidis D, Korndorffer J, Markley S, et al. Proficiency maintenance: impact of ongoing simulator training on laparoscopic skill retention. J Am Coll Surg. 2006;202:599–603.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Defined Category Minimum Numbers for General Surgery Residents and Credit Role. Accessed July 20, 2021. https://www.acgme.org/Portals/0/DefinedCategoryMinimumNumbersforGeneral;SurgeryResidentsandCreditRole.pdf</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Suh IH, Mukherjee M, Shah BC, et al. Retention of fundamental surgical skills learned in robot-assisted surgery. J Robotic Surg. 2012;6:301–309.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Finnegan KT, Meraney AM, Staff I, et al. da Vinci Skills Simulator construct validation study: correlation of prior robotic experience with overall score and time score simulator performance. Urology. 2012;80:330–335.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Stefanidis D, Hope WW, Scott DJ. Robotic suturing on the FLS model possesses construct validity, is less physically demanding, and is favored by more surgeons compared with laparoscopy. Surg Endosc. 2011;25:2141–2146.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

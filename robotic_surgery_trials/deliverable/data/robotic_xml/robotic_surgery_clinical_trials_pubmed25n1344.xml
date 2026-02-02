@@ -1,0 +1,1840 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39878073</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1743-9159</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>111</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Mar</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of surgery (London, England)</Title>
+          <ISOAbbreviation>Int J Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Bots in white coats: are large language models the future of patient education? A multicenter cross-sectional analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>2376-2384</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/JS9.0000000000002250</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Every year, around 300 million surgeries are conducted worldwide, with an estimated 4.2 million deaths occurring within 30 days after surgery. Adequate patient education is crucial, but often falls short due to the stress patients experience before surgery. Large language models (LLMs) can significantly enhance this process by delivering thorough information and addressing patient concerns that might otherwise go unnoticed.</AbstractText>
+          <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">This cross-sectional study evaluated Chat Generative Pretrained Transformer-4o's audio-based responses to frequently asked questions (FAQs) regarding six general surgical procedures. Three experienced surgeons and two senior residents formulated seven general and three procedure-specific FAQs for both preoperative and postoperative situations, covering six surgical scenarios (major: pancreatic head resection, rectal resection, total gastrectomy; minor: cholecystectomy, Lichtenstein procedure, hemithyroidectomy). In total, 120 audio responses were generated, transcribed, and assessed by 11 surgeons from 6 different German university hospitals.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">ChatGPT-4o demonstrated strong performance, achieving an average score of 4.12/5 for accuracy, 4.46/5 for relevance, and 0.22/5 for potential harm across 120 questions. Postoperative responses surpassed preoperative ones in both accuracy and relevance, while also exhibiting lower potential for harm. Additionally, responses related to minor surgeries were minimal, but significantly more accurate compared to those for major surgeries.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study underscores GPT-4o's potential to enhance patient education both before and after surgery by delivering accurate and relevant responses to FAQs about various surgical procedures. Responses regarding the postoperative course proved to be more accurate and less harmful than those addressing preoperative ones. Although a few responses carried moderate risks, the overall performance was robust, indicating GPT-4o's value in patient education. The study suggests the development of hospital-specific applications or the integration of GPT-4o into interactive robotic systems to provide patients with reliable, immediate answers, thereby improving patient satisfaction and informed decision-making.</AbstractText>
+          <CopyrightInformation>Copyright © 2025 The Author(s). Published by Wolters Kluwer Health, Inc.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Aghamaliyev</LastName>
+            <ForeName>Ughur</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral, and Transplant Surgery, Ludwig-Maximilians-University Munich, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Karimbayli</LastName>
+            <ForeName>Javad</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO), IRCCS, National Cancer Institute, Aviano, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zamparas</LastName>
+            <ForeName>Athanasios</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral, and Transplant Surgery, Ludwig-Maximilians-University Munich, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bösch</LastName>
+            <ForeName>Florian</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, University Medical Center Göttingen, Göttingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Thomas</LastName>
+            <ForeName>Michael</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral, Thoracic and Transplant Surgery, University of Cologne, Cologne, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schmidt</LastName>
+            <ForeName>Thomas</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral, Thoracic and Transplant Surgery, University of Cologne, Cologne, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Krautz</LastName>
+            <ForeName>Christian</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General and Visceral Surgery, Friedrich Alexander University, Erlangen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kahlert</LastName>
+            <ForeName>Christoph</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral, and Transplantation Surgery, Heidelberg University Hospital, Heidelberg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schölch</LastName>
+            <ForeName>Sebastian</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, University Medical Center Mannheim, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>JCCU Translational Surgical Oncology (A430), German Cancer Research Center (DKFZ), Heidelberg, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>DKFZ Hector Cancer Institute at University Medical Center Mannheim, Mannheim, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Angele</LastName>
+            <ForeName>Martin K</ForeName>
+            <Initials>MK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral, and Transplant Surgery, Ludwig-Maximilians-University Munich, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Niess</LastName>
+            <ForeName>Hanno</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral, and Transplant Surgery, Ludwig-Maximilians-University Munich, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guba</LastName>
+            <ForeName>Markus O</ForeName>
+            <Initials>MO</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral, and Transplant Surgery, Ludwig-Maximilians-University Munich, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Werner</LastName>
+            <ForeName>Jens</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral, and Transplant Surgery, Ludwig-Maximilians-University Munich, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ilmer</LastName>
+            <ForeName>Matthias</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral, and Transplant Surgery, Ludwig-Maximilians-University Munich, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>German Cancer Consortium (DKTK), German Cancer Research Centre (DKFZ), Heidelberg, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Division of Hepatobiliary and Pancreatic Surgery, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Renz</LastName>
+            <ForeName>Bernhard W</ForeName>
+            <Initials>BW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General, Visceral, and Transplant Surgery, Ludwig-Maximilians-University Munich, Munich, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>German Cancer Consortium (DKTK), German Cancer Research Centre (DKFZ), Heidelberg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>01</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Int J Surg</MedlineTA>
+        <NlmUniqueID>101228232</NlmUniqueID>
+        <ISSNLinking>1743-9159</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010353" MajorTopicYN="Y">Patient Education as Topic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007802" MajorTopicYN="N">Language</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013514" MajorTopicYN="N">Surgical Procedures, Operative</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005858" MajorTopicYN="N" Type="Geographic">Germany</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>14</Day>
+          <Hour>18</Hour>
+          <Minute>28</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>1</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>20</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>1</Month>
+          <Day>29</Day>
+          <Hour>5</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39878073</ArticleId>
+        <ArticleId IdType="doi">10.1097/JS9.0000000000002250</ArticleId>
+        <ArticleId IdType="pii">01279778-990000000-02111</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Meara JG, Leather AJM, Hagander L, et al. Global Surgery 2030: evidence and solutions for achieving health, welfare, and economic development. Int J Obstet Anesth 2016;25:75–8.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>de Wilde RF, Besselink MGH, van der Tweel I, et al. Impact of nationwide centralization of pancreaticoduodenectomy on hospital mortality. Br J Surg 2012;99:404–10.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nilsson H, Stylianidis G, Haapamäki M, et al. Mortality after groin hernia surgery. Ann Surg 2007;245:656–60.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>International guidelines for groin hernia management. Hernia 2018;22:1–165.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kinnersley P, Phillips K, Savage K, et al. Interventions to promote informed consent for patients undergoing surgical and other invasive healthcare procedures. Cochrane Database Syst Rev 2013;7:CD009445.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>AI Open, ChatGPT: Optimizing language models for dialogue OpenAI; 2022. https://openai.com/index/chatgpt/</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shafiee A. Matters arising: authors of research papers must cautiously use ChatGPT for scientific writing. Int J Surg 2023;109:2853–54.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Holland AM, Lorenz WR, Cavanagh JC, et al. Comparison of medical research abstracts written by surgical trainees and senior surgeons or generated by large language models. JAMA Network Open 2024;7:e2425373.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Benary M, Wang XD, Schmidt M, et al. Leveraging large language models for decision support in personalized oncology. JAMA Network Open 2023;6:e2343689.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Deng L, Wang T, Zhai Z, et al. Evaluation of large language models in breast cancer clinical scenarios: a comparative analysis based on ChatGPT-3.5, ChatGPT-4.0, and Claude2. Int J Surg 2024;110:1941–50.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aghamaliyev U, Karimbayli J, Giessen-Jung C, et al. ChatGPT’s gastrointestinal tumor board tango: a limping dance partner? Eur J Cancer 2024;205:114100.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ayers JW, Poliak A, Dredze M, et al. Comparing physician and artificial intelligence chatbot responses to patient questions posted to a public social media forum. JAMA Intern Med 2023;183:589–96.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yalamanchili A, Sengupta B, Song J, et al. Quality of large language model responses to radiation oncology patient care questions. JAMA Network Open 2024;7:e244630.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Decker H, Trang K, Ramirez J, et al. Large language model-based chatbot vs surgeon-generated informed consent documentation for common procedures. JAMA Network Open 2023;6:e2336997.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mathew G, Agha R, Albrecht J, et al. STROCSS 2021: strengthening the reporting of cohort, cross-sectional and case-control studies in surgery. Int J Surg 2021;96:106165.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gu Z, Eils R, Schlesner M. Complex heatmaps reveal patterns and correlations in multidimensional genomic data. Bioinformatics 2016;32:2847–49.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Falagas ME, Korbila IP, Giannopoulou KP, Kondilis BK, Peppas G. Informed consent: how much and what do patients understand? Am J Surg 2009;198:420–35.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lloyd AJ. The extent of patients’ understanding of the risk of treatments. Qual Health Care 2001;10:i14–18.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Harms J, Kunzmann B, Bredereke J, Harms L, Jungbluth T, Zimmermann T. Anxiety in patients with gastrointestinal cancer undergoing primary surgery. J Cancer Res Clin Oncol 2023;149:8191–200.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mika AP, Martin JR, Engstrom SM, Polkowski GG, Wilson JM. Assessing ChatGPT responses to common patient questions regarding total hip arthroplasty. J Bone Joint Surg Am 2023;105:1519–26.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Srinivasan N, Samaan JS, Rajeev ND, Kanu MU, Yeo YH, Samakar K. Large language models and bariatric surgery patient education: a comparative readability analysis of GPT-3.5, GPT-4, Bard, and online institutional resources. Surg Endosc 2024;38:2522–32.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Meyer R, Hamilton KM, Truong MD, et al. ChatGPT compared with Google Search and healthcare institution as sources of postoperative patient instructions after gynecological surgery. Bjog 2024;131:1154–56.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li J, Frilling A, Nadalin S, Paul A, Malagò M, Broelsch CE. Management of concomitant hepatic artery injury in patients with iatrogenic major bile duct injury after laparoscopic cholecystectomy. Br J Surg 2008;95:460–65.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Koliakos N, Papaconstantinou D, Nastos C, et al. Intestinal erosions following inguinal hernia repair: a systematic review. Hernia 2021;25:1137–45.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sun Y, Yu XF, Yao H, Xu S, Ma YQ, Chai C. Safety and feasibility of modified duct-to-mucosa pancreaticojejunostomy during pancreatoduodenectomy: a retrospective cohort study. World J Gastrointest Surg 2023;15:1901–09.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Munir MM, Endo Y, Ejaz A, Dillhoff M, Cloyd JM, Pawlik TM. Online artificial intelligence platforms and their applicability to gastrointestinal surgical operations. J Gastrointest Surg 2024;28:64–69.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40074689</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>12</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1759-7714</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>16</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Thoracic cancer</Title>
+          <ISOAbbreviation>Thorac Cancer</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of Early Functional Recovery Following Triportal Robot-Assisted and Uniportal Video-Assisted Segmentectomy in Patients With Early-Stage Non-Small Cell Lung Cancer: A Propensity Score-Matched Analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e70041</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/1759-7714.70041</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Robot-assisted thoracoscopic surgery (RATS) is more precise and flexible than video-assisted thoracoscopic surgery (VATS) for early-stage non-small cell lung cancer (NSCLC) treatment. This study compared the early postoperative functional recovery of patients who underwent triportal RATS with that of patients who underwent uniportal video-assisted thoracic surgery (UVATS) for segmentectomy.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This observational, prospective study included 172 patients with clinical stage I or II peripheral NSCLC who underwent RATS or UVATS segmentectomy. Propensity score matching (PSM) was used to balance differences between groups. The functional recovery data were collected during the first 4 weeks after discharge via portable devices and questionnaires (EORTC QLQ-C30, Christensen Fatigue Scale, MD Anderson Symptom Inventory, and Leicester Cough Questionnaire).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">After PSM, the baseline characteristics were consistent between the groups. RATS was associated with shorter operation time and lower total drainage volume compared to UVATS. However, RATS was associated with more cases of severe postoperative pain. Despite this, patients who underwent RATS recovered well, showed good short-term outcomes in fatigue and physical function, and experienced few postoperative adverse events. The differences in average daily step count and sleep duration were not significant. In terms of global health status (GHS), RATS was slightly but nonsignificantly advantageous.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In the enhanced recovery after surgery (ERAS) pathway, triportal RATS has potential benefits in terms of perioperative and early postoperative functional recovery after segmentectomy.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">Biomedical Research Ethics Committee of Shandong Province: 2022-580; Chinese Clinical Trial Registry: ChiCTR2300067977.</AbstractText>
+          <CopyrightInformation>© 2025 The Author(s). Thoracic Cancer published by John Wiley &amp; Sons Australia, Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Yan-Cheng</ForeName>
+            <Initials>YC</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0009-0001-4889-9479</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Shandong First Medical University, Jinan, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Diao</LastName>
+            <ForeName>Hai-Xiao</ForeName>
+            <Initials>HX</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Clinical Research Center for Cancer, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Lin</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Shandong First Medical University, Jinan, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peng</LastName>
+            <ForeName>Zhong-Min</ForeName>
+            <Initials>ZM</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-3067-5610</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Shandong First Medical University, Jinan, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>2019JZZY021002</GrantID>
+            <Agency>Major Scientific and Technological Innovation Project of Shandong Province</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D064888">Observational Study</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Singapore</Country>
+        <MedlineTA>Thorac Cancer</MedlineTA>
+        <NlmUniqueID>101531441</NlmUniqueID>
+        <ISSNLinking>1759-7706</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002289" MajorTopicYN="Y">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008175" MajorTopicYN="Y">Lung Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020775" MajorTopicYN="Y">Thoracic Surgery, Video-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="Y">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020127" MajorTopicYN="N">Recovery of Function</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011013" MajorTopicYN="N">Pneumonectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">non‐small cell lung cancer</Keyword>
+        <Keyword MajorTopicYN="N">postoperative recovery</Keyword>
+        <Keyword MajorTopicYN="N">robot‐assisted thoracoscopic surgery</Keyword>
+        <Keyword MajorTopicYN="N">segmentectomy</Keyword>
+        <Keyword MajorTopicYN="N">uniportal video‐assisted thoracic surgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>13</Day>
+          <Hour>0</Hour>
+          <Minute>34</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>13</Day>
+          <Hour>0</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>12</Day>
+          <Hour>23</Hour>
+          <Minute>23</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40074689</ArticleId>
+        <ArticleId IdType="doi">10.1111/1759-7714.70041</ArticleId>
+        <ArticleId IdType="pmc">PMC11903195</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Qual Life Res. 2019 Apr;28(4):991-1003</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30506178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2024 Apr;31(4):2470-2481</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38105381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2022 Feb 1;275(2):295-302</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33938492</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain. 2019 Oct;160(10):2350-2357</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31145215</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 2005 Dec;128(6):4041-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16354879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>CA Cancer J Clin. 2021 May;71(3):209-249</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33538338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thorax. 2003 Apr;58(4):339-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12668799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2021 Aug 7;398(10299):535-554</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34273294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Respir Med. 2018 Dec;6(12):915-924</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30442588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Oncol. 2022 Sep 16;12:1009298</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36185241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gait Posture. 2021 Jun;87:6-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33866152</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Cancer. 2021 May 3;21(1):498</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33941112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Digit Health. 2022 Aug 29;8:20552076221121162</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36060611</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2021 Dec 1;274(6):e1008-e1013</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31851005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Thorac Cardiovasc Surg. 2020 Nov;160(5):1363-1372</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32113718</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2023 May;30(5):2757-2764</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36774436</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Innovations (Phila). 2019 Jun;14(3):263-271</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31050320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Cardiothorac Surg. 2008 Jul;34(1):174-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18490173</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2013 Sep 5;369(10):910-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24004118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 2017 Jan;151(1):193-203</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27780786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Natl Compr Canc Netw. 2024 May;22(4):249-274</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38754467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Interact Cardiovasc Thorac Surg. 2018 Sep 1;27(3):379-383</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30165553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anaesthesia. 2022 May;77(5):555-561</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35261025</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Thorac Dis. 2022 Mar;14(3):689-698</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35399249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Cardiothorac Surg. 2019 Jan 1;55(1):91-115</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30304509</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pediatr Psychol. 2001 Apr-May;26(3):145-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11259516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pain Symptom Manage. 2002 Jul;24(1 Suppl):S38-47</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12204486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Natl Compr Canc Netw. 2022 May;20(5):497-530</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35545176</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Respirology. 2020 Nov;25 Suppl 2:49-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32734596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JCO Oncol Pract. 2020 Oct;16(10):e1151-e1160</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32539654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Treat Options Oncol. 2019 Feb 11;20(2):16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30741372</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncologist. 2020 Apr;25(4):e722-e732</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32297435</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Thorac Surg. 1995 Sep;60(3):615-22; discussion 622-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7677489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2022 Apr 23;399(10335):1607-1617</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35461558</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 2023 Jun;163(6):1576-1588</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36621757</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Transl Lung Cancer Res. 2021 Dec;10(12):4549-4557</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35070760</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lung Cancer. 2016 Nov;101:28-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27794405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain. 2011 Oct;152(10):2399-2404</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21856077</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Transl Lung Cancer Res. 2020 Apr;9(2):306-315</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32420070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhongguo Fei Ai Za Zhi. 2019 Dec 20;22(12):767-771</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31874672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Med. 2023 Sep 27;12(19):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37834873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Oncol. 2022 May 27;12:858242</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35692744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Epidemiol. 2004 Dec;57(12):1288-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15617955</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Thorac Dis. 2020 May;12(5):2343-2351</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32642139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Transl Lung Cancer Res. 2020 Aug;9(4):971-987</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32953478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40074949</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-1262</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>40</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Mar</Month>
+              <Day>12</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of colorectal disease</Title>
+          <ISOAbbreviation>Int J Colorectal Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Impact of surgical site infection on short- and long-term outcomes of robot-assisted rectal cancer surgery: a two-center retrospective study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>64</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00384-025-04842-9</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Robot-assisted surgery has increasingly gained recognition in the treatment of rectal cancer. This study aimed to assess the incidence of surgical site infection (SSI) that underwent robot-assisted radical rectal cancer surgery and to evaluate their influence on patient outcomes.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A retrospective analysis was conducted on 360 patients who underwent robot-assisted radical rectal cancer surgery between 2017 and 2024 at Fujian Medical University Union Hospital and Longyan First Affiliated Hospital of Fujian Medical University. The patients were categorized into surgical site infection and non-surgical site infection groups based on the presence of surgical site infection. Baseline clinicopathological characteristics, perioperative details, and follow-up data were analyzed. Univariate and multivariate logistic regression analyses were performed to identify independent predictors of surgical site infection, and Cox proportional hazards regression models were utilized to evaluate factors influencing overall survival.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The study found that 44 out of 360 patients (12.2%) developed surgical site infection. Multivariate analysis indicated that positive perineural invasion (OR 3.59, 95% CI 1.50-8.62, P = 0.004) is an independent risk factor for SSI. Low anterior resection (OR 0.26, 95% CI 0.09-0.73, P = 0.011), preservation of the left colonic artery (OR 0.20, 95% CI 0.09-0.44, P &lt; 0.001), and neoadjuvant therapy (OR 0.45, 95% CI 0.23-0.89, P = 0.021) were associated with reduced risks of SSI. The presence of SSI was significantly associated with a reduction in overall survival (HR 3.43, 95% CI 1.30-9.04, P = 0.012). The risk of developing surgical site infection increases with the number of risk factors, and patients with two or more risk factors have a much higher risk of developing SSI.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study identified perineural invasion as an independent risk factor for the development of SSI that underwent robot-assisted radical rectal cancer surgery. Low anterior resection, preservation of the left colonic artery, and neoadjuvant therapy emerged as protective factors. Moreover, the presence of surgical site infection was significantly correlated with poorer overall survival.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Shuangming</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastroenterology and Anorectal Surgery, Longyan First Affiliated Hospital of Fujian Medical University, No.105 Jiuyi North Road, LongyanFujian Province, 364000, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Zeng</LastName>
+            <ForeName>Hao</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastroenterology and Anorectal Surgery, Longyan First Affiliated Hospital of Fujian Medical University, No.105 Jiuyi North Road, LongyanFujian Province, 364000, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Fujian Medical University Union Hospital, No.29 Xinquan Road, FuzhouFujian Province, 350001, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Xiaojie</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Fujian Medical University Union Hospital, No.29 Xinquan Road, FuzhouFujian Province, 350001, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xue</LastName>
+            <ForeName>Xueyi</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastroenterology and Anorectal Surgery, Longyan First Affiliated Hospital of Fujian Medical University, No.105 Jiuyi North Road, LongyanFujian Province, 364000, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Yushuo</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastroenterology and Anorectal Surgery, Longyan First Affiliated Hospital of Fujian Medical University, No.105 Jiuyi North Road, LongyanFujian Province, 364000, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liao</LastName>
+            <ForeName>Baodong</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastroenterology and Anorectal Surgery, Longyan First Affiliated Hospital of Fujian Medical University, No.105 Jiuyi North Road, LongyanFujian Province, 364000, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Ying</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Fujian Medical University Union Hospital, No.29 Xinquan Road, FuzhouFujian Province, 350001, China. hy9033sy@sina.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Dongbo</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastroenterology and Anorectal Surgery, Longyan First Affiliated Hospital of Fujian Medical University, No.105 Jiuyi North Road, LongyanFujian Province, 364000, China. xdb2292388@sina.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chi</LastName>
+            <ForeName>Pan</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Fujian Medical University Union Hospital, No.29 Xinquan Road, FuzhouFujian Province, 350001, China. chipan363@163.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>2021LYF17042</GrantID>
+            <Agency>Longyan City Joint Funding</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2022LYF17094</GrantID>
+            <Agency>Longyan City Joint Funding</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2021LYF17042</GrantID>
+            <Agency>Longyan City Joint Funding</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2021J011442</GrantID>
+            <Agency>Natural Science Foundation of Fujian Province</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2021J011442</GrantID>
+            <Agency>Natural Science Foundation of Fujian Province</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>12</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Int J Colorectal Dis</MedlineTA>
+        <NlmUniqueID>8607899</NlmUniqueID>
+        <ISSNLinking>0179-1958</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012004" MajorTopicYN="Y">Rectal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013530" MajorTopicYN="Y">Surgical Wound Infection</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015999" MajorTopicYN="N">Multivariate Analysis</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Overall survival</Keyword>
+        <Keyword MajorTopicYN="N">Rectal cancer</Keyword>
+        <Keyword MajorTopicYN="N">Risk factors</Keyword>
+        <Keyword MajorTopicYN="N">Robot-assisted surgery</Keyword>
+        <Keyword MajorTopicYN="N">Surgical site infection</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Ethical approval: The study was ethically reviewed and approved by the Ethics Committees of both research centers; the study protocol adhered to the ethical guidelines of the 1975 Declaration of Helsinki. Competing interests: The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>28</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>27</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>13</Day>
+          <Hour>0</Hour>
+          <Minute>22</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40074949</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00384-025-04842-9</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00384-025-04842-9</ArticleId>
+        <ArticleId IdType="pmc">PMC11903511</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Cochrane Database Syst Rev. 2023 Feb 7;2:CD014909</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36748942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Colon Rectum. 2015 Feb;58(2):186-92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25585076</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>CA Cancer J Clin. 2024 May-Jun;74(3):229-263</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38572751</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Colorectal Dis. 2012 Mar;14(3):e95-e102</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21883813</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2023 Jul 1;278(1):31-38</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36594748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Treat Rev. 2018 Jul;68:38-46</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29793113</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2014 Jul;21(7):2295-302</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24604589</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rev Invest Clin. 2001 Sep-Oct;53(5):388-95</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11795103</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Updates Surg. 2023 Dec;75(8):2085-2102</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37715053</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2001 Aug;234(2):181-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11505063</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Public Health. 2021 Aug 04;9:712461</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34422751</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesth Analg. 2020 Dec;131(6):1693-1707</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33186158</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2005 May 14-20;365(9472):1718-26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15894098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Surg. 2012 Apr;147(4):366-72</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22508783</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Colorectal Dis. 2020 Sep;35(9):1689-1694</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32451648</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2010 May;251(5):807-18</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20395841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Infect Dis. 2017 Feb 3;17(1):119</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28158998</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhonghua Wei Chang Wai Ke Za Zhi. 2018 Apirl 25;21(4):361-364</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29682703</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJS Open. 2023 May 5;7(3):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37257059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Cancer. 2023 May 18;23(1):452</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37202778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2018 Jun;25(6):1454-1455</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29616422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Colon Rectum. 2005 Mar;48(3):438-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15719190</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Colon Rectum. 2023 Jul 1;66(7):1022-1028</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36538720</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tech Coloproctol. 2024 Nov 12;28(1):157</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39532723</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gastric Cancer. 2021 Jan;24(1):214-223</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32601909</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Treat Options Oncol. 2022 Jul;23(7):961-979</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35438444</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Gastroenterol. 2016 Jan 14;22(2):546-56</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26811606</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 2017 Oct 24;318(16):1569-1580</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29067426</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Updates Surg. 2023 Apr;75(3):619-626</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36479676</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Virulence. 2014 Jan 1;5(1):20-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24280933</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40075413</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1471-2482</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>25</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Mar</Month>
+              <Day>12</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>BMC surgery</Title>
+          <ISOAbbreviation>BMC Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of laparoscopic versus robot-assisted sugery for rectal cancer after neo-adjuvant therapy: a large volume single center experience.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>98</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12893-025-02764-5</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">This study aims to assess the short- and long-term outcomes of rectal cancer patients undergoing robotic versus laparoscopic surgery after receiving neo-adjuvant therapy. There is a lack of clarity on this topic, necessitating a comprehensive comparison.</AbstractText>
+          <AbstractText Label="METHOD" NlmCategory="METHODS">Between January 2017 and December 2021, consecutive patients who underwent laparoscopic and robotic rectal resection at a major public medical center were enrolled. All participants received neo-adjuvant chemoradiotherapy (nCRT) before surgery. The primary objective of this study was to assess the sphincter preservation rate and the rate of conversion to open surgery, using propensity score matching (PSM) analysis. Secondary endpoints included 5-year disease-free survival (DFS), 5-year overall survival (OS), short-term postoperative complications, long-term oncological prognosis, and the occurrence of low anterior resection syndrome (LARS).</AbstractText>
+          <AbstractText Label="RESULT" NlmCategory="RESULTS">A total of 575 patients diagnosed with rectal cancer participated in the cohort study, with 183 individuals undergoing robotic surgery and 392 undergoing laparoscopic surgery. Patients in the robotic group tended to be younger and had higher ypT, cT, and cN stages, lower tumor locations, and higher rates of extramural vascular invasion (EMVI) and circumferential resection margin (CRM) positivity. PSM resulted in 183 patients in the robotic group and 187 in the laparoscopic group. We found a higher sphincter preservation rate in robotic group compared with laparoscopic group (92.9% vs. 86.1%, P = 0.033), with no significant difference in conversion to open surgery(P &gt; 0.05). The robotic group had a higher incidence of postoperative chylous ascites (4.9% vs. 1.1%, P = 0.029) and potentially lower sepsis occurrence (0% vs. 1.6%, P = 0.085). No significant differences were observed in long-term oncological prognosis or 5-year survival rates (P &gt; 0.05). The median survival time for each group was 34 months. Subgroup analysis of 76 rectal cancer patients who underwent intersphincteric resection (ISR) surgery indicated that those who selected robotic surgery had higher cN and cT stages. Furthermore, no statistically significant differences were observed in short-term and long-term clinical outcomes, LARS, OS time, and DFS time between the two surgical modalities. The primary outcomes of interest, specifically the rate of sphincter preservation and the rate of conversion to open laparotomy, showed no significant differences.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Robotic surgery for rectal cancer, following preoperative nCRT, demonstrates comparable technical safety and oncological outcomes to laparoscopic surgery. Further comprehensive studies are needed to to confirm the potential advantages of robotic surgical interventions.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zhu</LastName>
+            <ForeName>Heyuan</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Union Medical College, Fujian Medical University, No. 1 Xuefu North Road, Fuzhou, Fujian, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Union Hospital, Fujian Medical University, 29 Xin-Quan Road, Fuzhou, 350001, Fujian, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zou</LastName>
+            <ForeName>Jingyu</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Union Medical College, Fujian Medical University, No. 1 Xuefu North Road, Fuzhou, Fujian, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Union Hospital, Fujian Medical University, 29 Xin-Quan Road, Fuzhou, 350001, Fujian, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pan</LastName>
+            <ForeName>Hongfeng</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Union Medical College, Fujian Medical University, No. 1 Xuefu North Road, Fuzhou, Fujian, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Union Hospital, Fujian Medical University, 29 Xin-Quan Road, Fuzhou, 350001, Fujian, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Ying</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Union Hospital, Fujian Medical University, 29 Xin-Quan Road, Fuzhou, 350001, Fujian, People's Republic of China. hy9033sy@sina.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chi</LastName>
+            <ForeName>Pan</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Colorectal Surgery, Union Hospital, Fujian Medical University, 29 Xin-Quan Road, Fuzhou, 350001, Fujian, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>2021GGA013, 2020CXA025</GrantID>
+            <Agency>Fujian Provincial Health Technology Project</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2021GGA013, 2020CXA025</GrantID>
+            <Agency>Fujian Provincial Health Technology Project</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2021GGA013, 2020CXA025</GrantID>
+            <Agency>Fujian Provincial Health Technology Project</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2021GGA013, 2020CXA025</GrantID>
+            <Agency>Fujian Provincial Health Technology Project</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2021GGA013, 2020CXA025</GrantID>
+            <Agency>Fujian Provincial Health Technology Project</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2023J01099</GrantID>
+            <Agency>Natural Science Foundation of Fujian Province</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2023J01099</GrantID>
+            <Agency>Natural Science Foundation of Fujian Province</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2023J01099</GrantID>
+            <Agency>Natural Science Foundation of Fujian Province</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2023J01099</GrantID>
+            <Agency>Natural Science Foundation of Fujian Province</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2023J01099</GrantID>
+            <Agency>Natural Science Foundation of Fujian Province</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2020Y9071</GrantID>
+            <Agency>Joint Funds for the innovation of science and Technology, Fujian province</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2020Y9071</GrantID>
+            <Agency>Joint Funds for the innovation of science and Technology, Fujian province</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2020Y9071</GrantID>
+            <Agency>Joint Funds for the innovation of science and Technology, Fujian province</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2020Y9071</GrantID>
+            <Agency>Joint Funds for the innovation of science and Technology, Fujian province</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2020Y9071</GrantID>
+            <Agency>Joint Funds for the innovation of science and Technology, Fujian province</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>12</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>BMC Surg</MedlineTA>
+        <NlmUniqueID>100968567</NlmUniqueID>
+        <ISSNLinking>1471-2482</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012004" MajorTopicYN="Y">Rectal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020360" MajorTopicYN="Y">Neoadjuvant Therapy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="N">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Laparoscopic surgery</Keyword>
+        <Keyword MajorTopicYN="N">Long-term prognosis</Keyword>
+        <Keyword MajorTopicYN="N">Low anterior resection syndrome</Keyword>
+        <Keyword MajorTopicYN="N">Neo-adjuvant chemoradiotherapy</Keyword>
+        <Keyword MajorTopicYN="N">Propensity-score matching analysis</Keyword>
+        <Keyword MajorTopicYN="N">Rectal cancer</Keyword>
+        <Keyword MajorTopicYN="N">Robotic surgery</Keyword>
+        <Keyword MajorTopicYN="N">Short-term prognosis</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Ethical approval and consent to participate: This retrospective study was subject to approval by the Institutional Review Board of Fujian Medical University Union Hospital (2024KY166). The study was conducted in compliance with the ethical standards of the Declaration of Helsinki and the current ethical guidelines. Considering the retrospective nature of the study and following a thorough review, the IRB granted a waiver for obtaining informed consent from the patients involved. Consent for publication: Not applicable. Competing interests: The authors declare no competing interests. Clinical trial number: Not applicable.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>01</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>28</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>27</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>13</Day>
+          <Hour>0</Hour>
+          <Minute>49</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40075413</ArticleId>
+        <ArticleId IdType="doi">10.1186/s12893-025-02764-5</ArticleId>
+        <ArticleId IdType="pii">10.1186/s12893-025-02764-5</ArticleId>
+        <ArticleId IdType="pmc">PMC11899483</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Int J Colorectal Dis. 2022 Sep;37(9):2085-2098</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36042031</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2017 Nov;266(5):870-877</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28746154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Technol Int. 2021 May 20;38:160-166</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33537982</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Updates Surg. 2024 Apr;76(2):505-512</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38147292</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg Oncol. 2022 Nov 10;20(1):358</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36352416</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2023 Aug;17(4):1637-1644</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36943657</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Surg Oncol. 2020 Sep;46(9):1649-1655</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32312590</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Colon Rectum. 2018 Aug;61(8):971-978</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29944576</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Today. 2024 Nov;54(11):1329-1336</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38717597</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Colorectal Dis. 2024 May 8;39(1):68</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38714581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Laparoendosc Adv Surg Tech A. 2019 May;29(5):663-670</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30648922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Oncol. 2014 Jun;15(7):767-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24837215</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Surg. 1994 Sep;81(9):1376-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7953423</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhonghua Wei Chang Wai Ke Za Zhi. 2012 Apr;15(4):328-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22539374</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Today. 2023 Jan;53(1):109-115</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35794286</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Technol Int. 2022 May 19;40:130-139</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35090178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Oncol Nurs. 2015 Oct;19(5):495-501</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25813530</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancers (Basel). 2021 Sep 24;13(19):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34638278</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2024 May;31(5):3203-3211</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38315332</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tech Coloproctol. 2023 May;27(5):345-360</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36508067</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chin Med J (Engl). 2021 Dec 23;135(2):164-171</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34954713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Asian J Surg. 2020 Jan;43(1):383-384</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31607418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Surg. 2024 Feb 01;110(2):709-720</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38016136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Gastroenterol Hepatol. 2022 Nov;7(11):991-1004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36087608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2020 Jun;14(3):393-399</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31313071</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>CA Cancer J Clin. 2021 May;71(3):209-249</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33538338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2024 Mar 30;18(1):144</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38554211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2019 Apr;269(4):700-711</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29315090</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2023 Sep;37(9):6672-6681</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37442833</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg Oncol. 2019 Jan 16;17(1):20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30651119</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2023 Dec;37(12):9001-9012</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37903883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Updates Surg. 2023 Dec;75(8):2201-2209</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37955804</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Colorectal Dis. 2017 Dec;19(12):1092-1099</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28644545</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Laparoendosc Adv Surg Tech A. 2018 May;28(5):491-495</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29630437</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Coloproctol. 2021 Dec;37(6):351-367</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34784706</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2023 Jun;17(3):959-969</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36413257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Colon Rectum. 2017 Mar;60(3):266-273</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28177988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Med. 2023 Apr 04;12(7):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37048791</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 2015 Oct 6;314(13):1356-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26441180</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ecancermedicalscience. 2020 Sep 21;14:1106</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33144874</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Colon Rectum. 2019 Jan;62(1):121-122</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30531267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diseases. 2024 Oct 17;12(10):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39452500</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 2015 Oct 6;314(13):1346-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26441179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Semin Plast Surg. 2021 Aug;35(3):181-188</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34526866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Updates Surg. 2023 Apr;75(3):581-588</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36513913</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg Oncol. 2022 Sep 14;20(1):296</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36104818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Updates Surg. 2022 Dec;74(6):1851-1860</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36198884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

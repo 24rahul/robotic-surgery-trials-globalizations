@@ -1,0 +1,715 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37389878</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>07</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>02</Month>
+        <Day>07</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2574-3805</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>6</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>06</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA network open</Title>
+          <ISOAbbreviation>JAMA Netw Open</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Cost-Effectiveness of Robot-Assisted Radical Cystectomy vs Open Radical Cystectomy for Patients With Bladder Cancer.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e2317255</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamanetworkopen.2023.17255</ELocationID>
+        <Abstract>
+          <AbstractText Label="Importance">The value to payers of robot-assisted radical cystectomy with intracorporeal urinary diversion (iRARC) when compared with open radical cystectomy (ORC) for patients with bladder cancer is unclear.</AbstractText>
+          <AbstractText Label="Objectives">To compare the cost-effectiveness of iRARC with that of ORC.</AbstractText>
+          <AbstractText Label="Design, Setting, and Participants">This economic evaluation used individual patient data from a randomized clinical trial at 9 surgical centers in the United Kingdom. Patients with nonmetastatic bladder cancer were recruited from March 20, 2017, to January 29, 2020. The analysis used a health service perspective and a 90-day time horizon, with supplementary analyses exploring patient benefits up to 1 year. Deterministic and probabilistic sensitivity analyses were undertaken. Data were analyzed from January 13, 2022, to March 10, 2023.</AbstractText>
+          <AbstractText Label="Interventions">Patients were randomized to receive either iRARC (n = 169) or ORC (n = 169).</AbstractText>
+          <AbstractText Label="Main Outcomes and Measures">Costs of surgery were calculated using surgery timings and equipment costs, with other hospital data based on counts of activity. Quality-adjusted life-years were calculated from European Quality of Life 5-Dimension 5-Level instrument responses. Prespecified subgroup analyses were undertaken based on patient characteristics and type of diversion.</AbstractText>
+          <AbstractText Label="Results">A total of 305 patients with available outcome data were included in the analysis, with a mean (SD) age of 68.3 (8.1) years, and of whom 241 (79.0%) were men. Robot-assisted radical cystectomy was associated with statistically significant reductions in admissions to intensive therapy (6.35% [95% CI, 0.42%-12.28%]), and readmissions to hospital (14.56% [95% CI, 5.00%-24.11%]), but increases in theater time (31.35 [95% CI, 13.67-49.02] minutes). The additional cost of iRARC per patient was £1124 (95% CI, -£576 to £2824 [US $1622 (95% CI, -$831 to $4075)]) with an associated gain in quality-adjusted life-years of 0.01124 (95% CI, 0.00391-0.01857). The incremental cost-effectiveness ratio was £100 008 (US $144 312) per quality-adjusted life-year gained. Robot-assisted radical cystectomy had a much higher probability of being cost-effective for subgroups defined by age, tumor stage, and performance status.</AbstractText>
+          <AbstractText Label="Conclusions and Relevance">In this economic evaluation of surgery for patients with bladder cancer, iRARC reduced short-term morbidity and some associated costs. While the resulting cost-effectiveness ratio was in excess of thresholds used by many publicly funded health systems, patient subgroups were identified for which iRARC had a high probability of being cost-effective.</AbstractText>
+          <AbstractText Label="Trial Registration">ClinicalTrials.gov Identifier: NCT03049410.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Dixon</LastName>
+            <ForeName>Simon</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Health and Related Research, University of Sheffield, Sheffield, England.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>PRICELESS SA (Priority Cost Effective Lessons for System Strengthening South Africa), School of Public Health, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hill</LastName>
+            <ForeName>Harry</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Health and Related Research, University of Sheffield, Sheffield, England.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Flight</LastName>
+            <ForeName>Laura</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Health and Related Research, University of Sheffield, Sheffield, England.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Institute for Health Care Excellence, Manchester, England.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Khetrapal</LastName>
+            <ForeName>Pramit</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Surgery &amp; Interventional Science, University College London, London, England.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ambler</LastName>
+            <ForeName>Gareth</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Statistical Science, University College London, London, England.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Williams</LastName>
+            <ForeName>Norman R</ForeName>
+            <Initials>NR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Surgical &amp; Interventional Trials Unit, Division of Surgery &amp; Interventional Science, University College London, London, England.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brew-Graves</LastName>
+            <ForeName>Chris</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Statistical Science, University College London, London, England.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kelly</LastName>
+            <ForeName>John D</ForeName>
+            <Initials>JD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Surgery &amp; Interventional Science, University College London, London, England.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Catto</LastName>
+            <ForeName>James W F</ForeName>
+            <Initials>JWF</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Health and Related Research, University of Sheffield, Sheffield, England.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Oncology and Metabolism, University of Sheffield, Sheffield, England.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Sheffield Teaching Hospitals NHS (National Health Service) Foundation Trust, Sheffield, England.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <CollectiveName>iROC Study Team</CollectiveName>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT03049410</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>06</Month>
+          <Day>01</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JAMA Netw Open</MedlineTA>
+        <NlmUniqueID>101729235</NlmUniqueID>
+        <ISSNLinking>2574-3805</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015653" MajorTopicYN="N">Cystectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003362" MajorTopicYN="N">Cost-Benefit Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001749" MajorTopicYN="Y">Urinary Bladder Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <InvestigatorList>
+        <Investigator ValidYN="Y">
+          <LastName>Groves</LastName>
+          <ForeName>E Ruth</ForeName>
+          <Initials>ER</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Goodwin</LastName>
+          <ForeName>Louise</ForeName>
+          <Initials>L</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Willson</LastName>
+          <ForeName>Jayne</ForeName>
+          <Initials>J</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Ravencroft</LastName>
+          <ForeName>Phillip</ForeName>
+          <Initials>P</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Kennish</LastName>
+          <ForeName>Stephen</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Rosario</LastName>
+          <ForeName>Derek J</ForeName>
+          <Initials>DJ</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Torrington</LastName>
+          <ForeName>Carol</ForeName>
+          <Initials>C</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Nair</LastName>
+          <ForeName>Rajesh</ForeName>
+          <Initials>R</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Thurairaja</LastName>
+          <ForeName>Ramesh</ForeName>
+          <Initials>R</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Amery</LastName>
+          <ForeName>Sue</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Chatterton</LastName>
+          <ForeName>Kathryn</ForeName>
+          <Initials>K</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Broadhead</LastName>
+          <ForeName>Samantha</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Hendry</LastName>
+          <ForeName>David</ForeName>
+          <Initials>D</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Zreik</LastName>
+          <ForeName>Abdullah</ForeName>
+          <Initials>A</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Jain</LastName>
+          <ForeName>Sunjay</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Prescott</LastName>
+          <ForeName>Steve</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Roberts</LastName>
+          <ForeName>Hannah</ForeName>
+          <Initials>H</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Morgan</LastName>
+          <ForeName>Angela</ForeName>
+          <Initials>A</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Main</LastName>
+          <ForeName>Chris</ForeName>
+          <Initials>C</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Bedford</LastName>
+          <ForeName>Elspeth</ForeName>
+          <Initials>E</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Wiseman</LastName>
+          <ForeName>Lorraine</ForeName>
+          <Initials>L</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Mpofu</LastName>
+          <ForeName>Bernice</ForeName>
+          <Initials>B</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Daisey</LastName>
+          <ForeName>Claire</ForeName>
+          <Initials>C</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Donachie</LastName>
+          <ForeName>Michelle</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Aning</LastName>
+          <ForeName>Jon</ForeName>
+          <Initials>J</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Johnson</LastName>
+          <ForeName>Lyndsey</ForeName>
+          <Initials>L</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Brain</LastName>
+          <ForeName>Carol</ForeName>
+          <Initials>C</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Shiridzinomwa</LastName>
+          <ForeName>Constance</ForeName>
+          <Initials>C</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Ebon</LastName>
+          <ForeName>Martin</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Hampson</LastName>
+          <ForeName>Alexander</ForeName>
+          <Initials>A</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Schimmel</LastName>
+          <ForeName>Roisin</ForeName>
+          <Initials>R</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Horsley</LastName>
+          <ForeName>Scott</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Nembhard</LastName>
+          <ForeName>Sayyida</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Collins</LastName>
+          <ForeName>Clare</ForeName>
+          <Initials>C</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Gilmore</LastName>
+          <ForeName>Jemma</ForeName>
+          <Initials>J</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Wilson</LastName>
+          <ForeName>Faith</ForeName>
+          <Initials>F</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Peacock</LastName>
+          <ForeName>Louise</ForeName>
+          <Initials>L</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Lim</LastName>
+          <ForeName>Sheena</ForeName>
+          <Initials>S</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Gabriel</LastName>
+          <ForeName>Rhosyll</ForeName>
+          <Initials>R</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Sarpong</LastName>
+          <ForeName>Rachael</ForeName>
+          <Initials>R</Initials>
+        </Investigator>
+        <Investigator ValidYN="Y">
+          <LastName>Tan</LastName>
+          <ForeName>Melanie</ForeName>
+          <Initials>M</Initials>
+        </Investigator>
+      </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>7</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>6</Month>
+          <Day>30</Day>
+          <Hour>13</Hour>
+          <Minute>11</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>6</Month>
+          <Day>30</Day>
+          <Hour>11</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37389878</ArticleId>
+        <ArticleId IdType="pii">2806721</ArticleId>
+        <ArticleId IdType="doi">10.1001/jamanetworkopen.2023.17255</ArticleId>
+        <ArticleId IdType="pmc">PMC10314306</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Value Health. 2021 Apr;24(4):585-591</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33840437</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Oncol. 2021 Jan 20;39(3):202-214</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33332191</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2020 Nov;78(5):719-730</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32624275</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 2016 Sep 13;316(10):1093-103</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27623463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Urol. 2019 Nov 8;19(1):110</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31703573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Value Health. 2012 Jul-Aug;15(5):708-15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22867780</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA. 2022 Jun 7;327(21):2092-2103</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35569079</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2021 Jan;79(1):82-104</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32360052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pharmacoeconomics. 2023 Feb;41(2):199-207</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36449173</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2020 Jan;77(1):55-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31473012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Value Health. 2015 Mar;18(2):161-72</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25773551</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ Open. 2018 Aug 8;8(8):e020500</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30093510</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2021 May;79(5):621-632</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33581875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2020 Dec;78(6):893-906</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32972792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Cancer. 2018 May;118(11):1518-1528</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29755116</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2021 Feb;17(1):1-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32979293</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Health Econ. 2004 May;13(5):461-75</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15127426</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2018 Mar;121(3):437-444</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28984408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol Focus. 2020 Sep 15;6(5):975-981</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30772360</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2018 Jun 23;391(10139):2525-2536</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29976469</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37401706</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>07</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>07</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1728-2985</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>May</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Urologiia (Moscow, Russia : 1999)</Title>
+          <ISOAbbreviation>Urologiia</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>[Minimally invasive methods of surgical reconstruction of vesicouterine fistulas].</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>58-64</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Vesicouterine fistula (VVF) is a rare disease. In 83-93% of cases it develops due to caesarean section. VVF is characterized by non-physiological communication between the bladder and the uterus. This disorder has a significant social impact, causing incontinence, persistent medical and psychological maladaptation. The gold standard for treating VVF is surgical reconstruction. Early and late results of minimally invasive approaches do not differ from open procedure, but only if the surgical team has sufficient experience.</AbstractText>
+          <AbstractText Label="AIM" NlmCategory="OBJECTIVE">To evaluate the efficiency of surgical treatment of VUF using a minimally invasive technique.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">From 2010 to 2021 a total of 15 patients with VVF were treated. The age of the patients varied from 18 to 37 years (mean 26.4 years). The average body mass index was 26.3 kg/m2. The mean maximum fistula diameter was 10.7 mm (from 2 to 25 mm). The predominant cause of VVF was cesarean section (93%; n=14). In one case (7%), radiation-induced VVF was seen. Patients were randomized according to the Jwik and Jwik classification based on clinical manifestations. A type I of VVF was diagnosed in 4 patients (27%), type II in 9 patients (60%), type III in one woman. Recurrent urinary tract infection was observed in 53% (n=8) of cases. Four women were complaint of chronic pelvic pain syndrome (27%). The pain score on VAS did not exceed 6 points. All patients were undergone to minimally invasive procedures, including robot-assisted approach (n=5; 33%) and laparoscopic access (n=10; 67%).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">During the follow-up from 4 weeks to 10 years there was no recurrence of VVF. No indications for hysterectomy were found in any of the cases, however, it was carried out in two women after obtaining the informed consent. The average duration of robot-assisted procedure was 118 min (80-140), compared to 125.5 min (90-160) for laparoscopic access (p&gt;0.05). The average length of stay after robotic procedure was 5.2 days (range 4 to 8 days) and 6.7 days (from 5 to 10 days; p&gt; 0.05), respectively. Intraoperative blood loss did not exceed 130 ml. The mean value for laparoscopy was 97 ml, compared to 82 ml for robot-assisted approach (p&gt;0.05). In both groups, there were no intra- and postoperative complications according to the Clavien-Dindo classification. Thus, there was no significant difference in the results of VVF closure between robot-assisted and laparoscopic approaches.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The results of minimally invasive surgical reconstruction of VVF do not differ from open procedure and depend on timely diagnosis, adherence to strict surgical techniques, and surgical experience, regardless of the approach.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Medvedev</LastName>
+            <ForeName>V L</ForeName>
+            <Initials>VL</Initials>
+            <AffiliationInfo>
+              <Affiliation>FGBOU VO Kuban State Medical University of Minzdrav of Russia, Krasnodar, Russia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>GBUZ Scientific and Research Institute of Regional Clinical Hospital 1 named after prof. S.V. Ochapovsky, Krasnodar, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Opolsky</LastName>
+            <ForeName>A M</ForeName>
+            <Initials>AM</Initials>
+            <AffiliationInfo>
+              <Affiliation>FGBOU VO Kuban State Medical University of Minzdrav of Russia, Krasnodar, Russia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>GBUZ Scientific and Research Institute of Regional Clinical Hospital 1 named after prof. S.V. Ochapovsky, Krasnodar, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>rus</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D004740">English Abstract</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Russia (Federation)</Country>
+        <MedlineTA>Urologiia</MedlineTA>
+        <NlmUniqueID>100900900</NlmUniqueID>
+        <ISSNLinking>1728-2985</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011247" MajorTopicYN="N">Pregnancy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014719" MajorTopicYN="Y">Vesicovaginal Fistula</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002585" MajorTopicYN="N">Cesarean Section</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001743" MajorTopicYN="N">Urinary Bladder</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">fistula reconstruction</Keyword>
+        <Keyword MajorTopicYN="N">laparoscopic</Keyword>
+        <Keyword MajorTopicYN="N">robot-assisted fistula reconstruction</Keyword>
+        <Keyword MajorTopicYN="N">urogenital fistulas</Keyword>
+        <Keyword MajorTopicYN="N">vesicouterine fistula</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>7</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>7</Month>
+          <Day>4</Day>
+          <Hour>13</Hour>
+          <Minute>8</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>7</Month>
+          <Day>4</Day>
+          <Hour>7</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37401706</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

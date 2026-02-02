@@ -1,0 +1,838 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">18200624</PMID>
+      <DateCompleted>
+        <Year>2008</Year>
+        <Month>02</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>31</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1478-596X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>3</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2007</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The international journal of medical robotics + computer assisted surgery : MRCAS</Title>
+          <ISOAbbreviation>Int J Med Robot</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Cardiac function during steep Trendelenburg position and CO2 pneumoperitoneum for robotic-assisted prostatectomy: a trans-oesophageal Doppler probe study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>312-5</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/rcs.165</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Haemodynamic changes associated with pneumoperitoneum and steep Trendelenburg position were investigated in non-obese, ASA I-II males, using general anaesthesia (sevoflurane in air/O2, 40%) undergoing robotic-assisted laparoscopic prostatectomy.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A trans-oesophageal echo-Doppler probe (Arrow International) measured cardiovascular changes in heart rate (HR), mean arterial pressure (MAP), cardiac output (CO), systemic vascular resistance (SVR), stroke volume (SV) and aortic diameter (AoD) in 35 of 37 males. Assessments were conducted after induction of general anaesthesia in: the supine position; at 45 degrees Trendelenburg; Trendelenburg + pnuemoperitoneum (intra-abdominal 15 mmHg); and at the end of surgery in the supine position.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The Trendelenburg position increased stroke volume. Trendelenburg position + pneumoperitoneum increased MAP and SVR and decreased AoD.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Pneumoperitoneum and steep Trendelenburg position significantly increase MAP and SVR. Trendelenburg position increased stroke volume. Pneumoperitoneum decreases aortic diameter. No significant changes in cardiac output or stroke volume were noted.</AbstractText>
+          <CopyrightInformation>(c) 2008 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Falabella</LastName>
+            <ForeName>Andres</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology, City of Hope National Medical Center, Duarte, CA 91010-3000, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moore-Jeffries</LastName>
+            <ForeName>Earl</ForeName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sullivan</LastName>
+            <ForeName>Michael J</ForeName>
+            <Initials>MJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nelson</LastName>
+            <ForeName>Rebecca</ForeName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lew</LastName>
+            <ForeName>Michael</ForeName>
+            <Initials>M</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Int J Med Robot</MedlineTA>
+        <NlmUniqueID>101250764</NlmUniqueID>
+        <ISSNLinking>1478-5951</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>142M471B3J</RegistryNumber>
+          <NameOfSubstance UI="D002245">Carbon Dioxide</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001794" MajorTopicYN="N">Blood Pressure</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002245" MajorTopicYN="Y">Carbon Dioxide</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017548" MajorTopicYN="N">Echocardiography, Transesophageal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006321" MajorTopicYN="N">Heart</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006339" MajorTopicYN="N">Heart Rate</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011028" MajorTopicYN="N">Pneumoperitoneum, Artificial</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011187" MajorTopicYN="N">Posture</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="N">Surgery, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2008</Year>
+          <Month>1</Month>
+          <Day>18</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2008</Year>
+          <Month>2</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2008</Year>
+          <Month>1</Month>
+          <Day>18</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">18200624</ArticleId>
+        <ArticleId IdType="doi">10.1002/rcs.165</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">18202905</PMID>
+      <DateCompleted>
+        <Year>2009</Year>
+        <Month>04</Month>
+        <Day>22</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>10</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1572-8595</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>21</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2008</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing</Title>
+          <ISOAbbreviation>J Interv Card Electrophysiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Experience of robotic catheter ablation in humans using a novel remotely steerable catheter sheath.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>19-26</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10840-007-9184-z</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">A novel remotely controlled steerable guide catheter has been developed to enable precise manipulation and stable positioning of any eight French (Fr) or smaller electrophysiological catheter within the heart for the purposes of mapping and ablation.</AbstractText>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To report our initial experience using this system for remotely performing catheter ablation in humans.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Consecutive patients attending for routine ablation were recruited. Various conventional diagnostic catheters were inserted through the left femoral vein in preparation for treating an accessory pathway (n = 1), atrial flutter (n = 2) and atrial fibrillation (n = 7). The steerable guide catheter was inserted into the right femoral vein through which various irrigated and non-irrigated tip ablation catheters were used. Conventional endpoints of loss of pathway conduction, bidirectional cavotricuspid isthmus block and four pulmonary vein isolation were used to determine acute procedural success.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Ten patients underwent remote catheter ablation using conventional and/or 3D non-fluoroscopic mapping technologies. All procedural endpoints were achieved using the robotic control system without manual manipulation of the ablation catheter. There was no major complication. A radiation dosimeter positioned next to the operator 2.7 m away from the X-ray source showed negligible exposure despite a mean cumulative dose area product of 7,281.4 cGycm(2) for all ten ablation procedures.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Safe and clinically effective remote navigation of ablation catheters can be achieved using a novel remotely controlled steerable guide catheter in a variety of arrhythmias. The system is compatible with current mapping and ablation technologies Remote navigation substantially reduces radiation exposure to the operator.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kanagaratnam</LastName>
+            <ForeName>Prapa</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Waller Cardiology Department, Imperial College and St. Mary's Hospital, Praed Street, London W2 1NY, UK. p.kanagaratnam@imperial.ac.uk</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Koa-Wing</LastName>
+            <ForeName>Michael</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wallace</LastName>
+            <ForeName>Daniel T</ForeName>
+            <Initials>DT</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goldenberg</LastName>
+            <ForeName>Alex S</ForeName>
+            <Initials>AS</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peters</LastName>
+            <ForeName>Nicholas S</ForeName>
+            <Initials>NS</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Davies</LastName>
+            <ForeName>D Wyn</ForeName>
+            <Initials>DW</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2008</Year>
+          <Month>01</Month>
+          <Day>18</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>J Interv Card Electrophysiol</MedlineTA>
+        <NlmUniqueID>9708966</NlmUniqueID>
+        <ISSNLinking>1383-875X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001145" MajorTopicYN="N">Arrhythmias, Cardiac</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018780" MajorTopicYN="N">Body Surface Potential Mapping</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017115" MajorTopicYN="N">Catheter Ablation</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019544" MajorTopicYN="N">Equipment Failure Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="N">Surgery, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017216" MajorTopicYN="N">Telemedicine</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2007</Year>
+          <Month>07</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2007</Year>
+          <Month>10</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2008</Year>
+          <Month>1</Month>
+          <Day>19</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2009</Year>
+          <Month>4</Month>
+          <Day>23</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2008</Year>
+          <Month>1</Month>
+          <Day>19</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">18202905</ArticleId>
+        <ArticleId IdType="doi">10.1007/s10840-007-9184-z</ArticleId>
+        <ArticleId IdType="pmc">PMC2262917</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>J Interv Card Electrophysiol. 2005 Aug;13 Suppl 1:17-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16133851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Heart J. 2007 Jan;28(2):190-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17218451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Europace. 2006 Jun;8(6):443-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16690631</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Cardiovasc Electrophysiol. 2006 Oct;17(10):1102-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16879628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Interv Card Electrophysiol. 2005 Apr;12(3):199-202</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15875110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heart Rhythm. 2006 Jun;3(6):691-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16731472</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circulation. 2004 Mar 30;109(12):1472-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15023876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Cardiol. 2006 Apr 4;47(7):1390-400</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16580527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circulation. 2007 Mar 13;115(10):1191-200</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17296855</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 2004 Oct;188(4A Suppl):2S-15S</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15476646</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Radiol. 2002 Mar;75(891):253-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11932220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">18206847</PMID>
+      <DateCompleted>
+        <Year>2008</Year>
+        <Month>03</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2009</Year>
+        <Month>05</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1879-1883</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>195</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2008</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>American journal of surgery</Title>
+          <ISOAbbreviation>Am J Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Evaluation of midlevel and upper-level residents performing their first robotic-sutured intestinal anastomosis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>333-7; discussion 337-8</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.amjsurg.2007.12.013</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">This study analyzed the experience of residents performing their first robotic intestinal anastomosis.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Eleven residents were tested. Participants performed 2 ex vivo hand-sewn suture lines followed by 3 robotic suture lines.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The leak pressures in hand-sewn groups were 28.5 and 28.1 mm Hg; and 17.4, 7.6, and 21.4 mm Hg for 3 consecutive robotic groups. Completion time was longer in the robotic groups. The need for haptic assistance decreased between the first and third robotic drills. An analysis of the subjective evaluations also was performed.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Complex hand-sewn tasks can be reproduced successfully by the residents using the robot-suturing technique. The quality of suturing and completion time improved over 3 consecutive exercises, although it did not reach the level of the hand-sewn suturing group.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Marecik</LastName>
+            <ForeName>Slawomir J</ForeName>
+            <Initials>SJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Advocate Lutheran General Hospital, 1775 W. Dempster Street, 8 South, Park Ridge, IL 60068, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Prasad</LastName>
+            <ForeName>Leela M</ForeName>
+            <Initials>LM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Park</LastName>
+            <ForeName>John J</ForeName>
+            <Initials>JJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jan</LastName>
+            <ForeName>Azam</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chaudhry</LastName>
+            <ForeName>Vivek</ForeName>
+            <Initials>V</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Am J Surg</MedlineTA>
+        <NlmUniqueID>0370473</NlmUniqueID>
+        <ISSNLinking>0002-9610</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000714" MajorTopicYN="N">Anastomosis, Surgical</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004503" MajorTopicYN="N">Education, Medical, Graduate</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004521" MajorTopicYN="N">Educational Measurement</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013502" MajorTopicYN="N">General Surgery</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007396" MajorTopicYN="N">Internship and Residency</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007421" MajorTopicYN="N">Intestine, Small</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D023421" MajorTopicYN="N">Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013536" MajorTopicYN="N">Suture Techniques</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013552" MajorTopicYN="N">Swine</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2007</Year>
+          <Month>11</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2007</Year>
+          <Month>12</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2007</Year>
+          <Month>12</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2008</Year>
+          <Month>1</Month>
+          <Day>22</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2008</Year>
+          <Month>3</Month>
+          <Day>18</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2008</Year>
+          <Month>1</Month>
+          <Day>22</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">18206847</ArticleId>
+        <ArticleId IdType="pii">S0002-9610(07)00982-8</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.amjsurg.2007.12.013</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">18218285</PMID>
+      <DateCompleted>
+        <Year>2008</Year>
+        <Month>05</Month>
+        <Day>22</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>06</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0946-1965</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>46</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2008</Year>
+              <Month>Feb</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of clinical pharmacology and therapeutics</Title>
+          <ISOAbbreviation>Int J Clin Pharmacol Ther</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Rapidly dissolving formulations for quick absorption during pain episodes: ibuprofen.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>55-63</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Pain or its associated trauma impairs oral absorption of drugs due, perhaps, to a diminished disintegration and dissolution rate secondary to suppression of the vagal nervous system. We first examined whether ibuprofen absorption is impaired on suppressing vagus nerve activity in a rat model. Secondly, we examined if ibuprofen absorption in rats during vagal suppression and in humans experiencing dental pain is improved by enhancing disintegration and dissolution rate of the administered formulation.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Vagal suppression was achieved in rats by administering 20 mg/kg propantheline i.p. 2 h and 1 h before gastric gavage of 20 mg/kg ibuprofen as small crushed pieces of a regular release and a fast-dissolving ibuprofen caplets. In humans, after surgical removal of wisdom teeth and emergence of pain, 2 A 200 mg ibuprofen as regular released (n = 14) and fast-dissolving (n = 12) caplets were administered. Serial blood sample were collected for bioavailability studies.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Vagal suppression resulted in significantly decreased absorption rate of ibuprofen enantiomers following administration of the regular release but not after fast-dissolving formulation. Human dental pain was associated with significantly slower absorption of ibuprofen enantiomers from the regular released as compared with the fast-dissolving caplets. Within the first hour post-dose the area under the plasma drug concentration-time curve was raised to 2.7-fold (p &lt; 0.05) after the fast-dissolving as compared with the regular release formulations. There was a 1-h difference in the peak concentration time (tmax) between the two caplets.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Impaired drug absorption appears to be due to slow disintegration and dissolution encountered during pain episodes.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Jamali</LastName>
+            <ForeName>F</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Pharmacy and Pharmaceutical Sciences, University of Alberta, Edmonton, Alberta, Canada. fjamali@pharmacy.ualberta.ca</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aghazadeh-Habashi</LastName>
+            <ForeName>A</ForeName>
+            <Initials>A</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Int J Clin Pharmacol Ther</MedlineTA>
+        <NlmUniqueID>9423309</NlmUniqueID>
+        <ISSNLinking>0946-1965</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018712">Analgesics, Non-Narcotic</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D013607">Tablets</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>WK2XYI10QM</RegistryNumber>
+          <NameOfSubstance UI="D007052">Ibuprofen</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000042" MajorTopicYN="N">Absorption</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000284" MajorTopicYN="N">Administration, Oral</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018712" MajorTopicYN="N">Analgesics, Non-Narcotic</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019540" MajorTopicYN="N">Area Under Curve</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016503" MajorTopicYN="N">Drug Delivery Systems</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005746" MajorTopicYN="N">Gastric Emptying</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006207" MajorTopicYN="N">Half-Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007052" MajorTopicYN="N">Ibuprofen</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+          <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010146" MajorTopicYN="N">Pain</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010147" MajorTopicYN="N">Pain Measurement</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016037" MajorTopicYN="N">Single-Blind Method</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012995" MajorTopicYN="N">Solubility</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013237" MajorTopicYN="N">Stereoisomerism</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013607" MajorTopicYN="N">Tablets</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014081" MajorTopicYN="N">Tooth Extraction</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014630" MajorTopicYN="N">Vagus Nerve</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2008</Year>
+          <Month>1</Month>
+          <Day>26</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2008</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2008</Year>
+          <Month>1</Month>
+          <Day>26</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">18218285</ArticleId>
+        <ArticleId IdType="doi">10.5414/cpp46055</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

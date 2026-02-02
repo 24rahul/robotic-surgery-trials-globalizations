@@ -1,0 +1,927 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">29488147</PMID>
+      <DateCompleted>
+        <Year>2018</Year>
+        <Month>10</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>11</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1861-6429</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>13</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>May</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of computer assisted radiology and surgery</Title>
+          <ISOAbbreviation>Int J Comput Assist Radiol Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Precisely positioning the tip of an instrument inserted through an orifice with a free wrist robot: application to prostate biopsies.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>611-618</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11548-018-1718-6</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Robots with a spherical unactuated wrist can be used for minimally invasive surgery. With such a robot, positioning the wrist center controls the instrument tip position when assuming that the insertion site behaves like a lever with a fixed and known fulcrum. In practice, this assumption is not always respected. In this paper we first study the practical consequences of this problem in terms of tip precision positioning. We then propose a robotic control scheme that improves the precision compared to the fixed point assumption approach.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">In the first part of the paper, data recorded during robot-assisted transrectal needle positioning for prostate biopsies (nine patients) are exploited to quantify the positioning error induced by the use of a fixed point hypothesis in the positioning process. In the second part of the paper advanced control techniques allow for the online identification of a locally linear system that describes a model characterized by anisotropy and center displacement. A laboratory apparatus is used to demonstrate the resulting improvement on tip positioning precision.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Errors obtained by processing the clinical data reach 7.5 mm at the tip in average. Errors obtained with the laboratory apparatus drop from 2.4 mm in average to 0.8 mm when using real-time model update.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Chalard</LastName>
+            <ForeName>Rémi</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-3589-0835</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Sorbonne Université, CNRS UMR 7222, INSERM U1150, Institut des Systèmes Intelligents et Robotique (ISIR), 75005, Paris, France. chalard@isir.upmc.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Reversat</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sorbonne Université, CNRS UMR 7222, INSERM U1150, Institut des Systèmes Intelligents et Robotique (ISIR), 75005, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Morel</LastName>
+            <ForeName>Guillaume</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sorbonne Université, CNRS UMR 7222, INSERM U1150, Institut des Systèmes Intelligents et Robotique (ISIR), 75005, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mozer</LastName>
+            <ForeName>Pierre</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sorbonne Université, CNRS UMR 7222, INSERM U1150, Institut des Systèmes Intelligents et Robotique (ISIR), 75005, Paris, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Hôpital de la Pitie Salpetriere, Service d'Urologie, AP-HP, 75013, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vitrani</LastName>
+            <ForeName>Marie-Aude</ForeName>
+            <Initials>MA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sorbonne Université, CNRS UMR 7222, INSERM U1150, Institut des Systèmes Intelligents et Robotique (ISIR), 75005, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>ANR-11-LABX-0004</GrantID>
+            <Agency>ANR-Labex CAMI</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>02</Month>
+          <Day>27</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Int J Comput Assist Radiol Surg</MedlineTA>
+        <NlmUniqueID>101499225</NlmUniqueID>
+        <ISSNLinking>1861-6410</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D016880" MajorTopicYN="N">Anisotropy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001706" MajorTopicYN="N">Biopsy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062005" MajorTopicYN="N">Biopsy, Large-Core Needle</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019160" MajorTopicYN="N">Endosonography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061705" MajorTopicYN="N">Image-Guided Biopsy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019060" MajorTopicYN="N">Minimally Invasive Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009339" MajorTopicYN="N">Needles</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000075082" MajorTopicYN="N">Proof of Concept Study</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011467" MajorTopicYN="N">Prostate</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Keyhole surgery</Keyword>
+        <Keyword MajorTopicYN="N">Prostate biopsy</Keyword>
+        <Keyword MajorTopicYN="N">Surgical robotics</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>01</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>02</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>3</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>10</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>3</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">29488147</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11548-018-1718-6</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11548-018-1718-6</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Comput Aided Surg. 2004;9(5):175-83</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16192059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Comput Assist Radiol Surg. 2016 Jun;11(6):1153-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27072834</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE ASME Trans Mechatron. 2017 Feb;22(1):115-126</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28867930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Biomed Eng. 2011 Nov;58(11):3049-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22009867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prog Urol. 2004 Apr;14(2):144-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15217126</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prog Urol. 2011 Jan;21(1):18-28</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21193141</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Med Image Comput Comput Assist Interv. 2005;8(Pt 2):17-24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16685938</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">29493708</PMID>
+      <DateCompleted>
+        <Year>2018</Year>
+        <Month>10</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>08</Month>
+        <Day>25</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2972-4066</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>47</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annals of the Academy of Medicine, Singapore</Title>
+          <ISOAbbreviation>Ann Acad Med Singap</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Can Robots Accelerate the Learning Curve for Surgical Training? An Analysis of Residents and Medical Students.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>29-35</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Surgical traineeship has traditionally been based on a master apprentice model where learning takes place in the operating theatre. This approach has changed over the past few years with greater emphasis on surgical training taking place within the surgical skills laboratory. We developed a high fidelity simulator, the Image-guided Robotic Assisted Surgical simulator (IRAS) with an incorporated robotic guidance feature. The robot system is developed to mimic the process of an experienced surgeon physically holding a trainee's hands to demonstrate maneuvering of the laparoscopic instruments. We aimed to assess the efficacy of incorporating robotic guidance into this high fidelity surgical simulator. Forty-two participants (13 surgical residents and 29 medical students) were recruited. Participants had one practice run for familiarisation and subsequently performed the virtual laparoscopic cholecystectomy (LC) once. Among the medical students, they were ransomised to either a control or intervention group. They were tasked to perform a second- and third-timed LC assessment. Participants were asked to rate the simulator using a 5-point Likert scale Questionnaire. IRAS rated favourably in hand-eye coordination and training bimanual dexterity (mean score: 4.1 and 4.0 among students, 3.4 and 3.4 among residents) though it faired suboptimally in realism. At baseline, residents were statistically faster compared to students (overall time: 418.9 vs 586.8 seconds, <i>P</i> = 0.001). Participants randomised to the intervention group consistently scored better. However, their overall time were not statistically significant from the control group. The robotic guidance capability of the IRAS is a key advantage of this simulator platform over the conventional platform.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lau</LastName>
+            <ForeName>Joel Wl</ForeName>
+            <Initials>JW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, National University Health System, Singapore.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Tao</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Toe</LastName>
+            <ForeName>Kyaw Kyar</ForeName>
+            <Initials>KK</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Weimin</ForeName>
+            <Initials>W</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chang</LastName>
+            <ForeName>Stephen Ky</ForeName>
+            <Initials>SK</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Singapore</Country>
+        <MedlineTA>Ann Acad Med Singap</MedlineTA>
+        <NlmUniqueID>7503289</NlmUniqueID>
+        <ISSNLinking>0304-4602</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017081" MajorTopicYN="Y">Cholecystectomy, Laparoscopic</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="N">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004521" MajorTopicYN="N">Educational Measurement</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007396" MajorTopicYN="Y">Internship and Residency</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059032" MajorTopicYN="N">Learning Curve</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000066908" MajorTopicYN="N">Simulation Training</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012846" MajorTopicYN="N">Singapore</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013337" MajorTopicYN="Y">Students, Medical</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>3</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>3</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>10</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">29493708</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">29508553</PMID>
+      <DateCompleted>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1708-8208</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>20</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Clinical implant dentistry and related research</Title>
+          <ISOAbbreviation>Clin Implant Dent Relat Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Biocompatibility and osteoconductivity of PLCL coated and noncoated xenografts: An in vitro and preclinical trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>294-299</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/cid.12596</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Cells, scaffolds, and growth factors are the key components in bone tissue engineering. Scaffold composition, topography, and architecture influence the amount of regenerated bone in the implantation site. The aims of the study were to compare viability and proliferation of mesenchymal stem cells (MSCs) seeded onto two commercial xenografts: Bio-Oss (BO) and bioactive bone bovine (BB). Next, these materials were compared for histomorphometric bone formation in a socket preservation model in rats.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">MSCs were seeded onto monolayers of BO or BB granules. Cell viability and proliferation were evaluated after incubation of 0, 2, 20, and 48 h. A total of 24 Sprague Dawley rats underwent unilateral extraction of maxillary molars. Rats were randomly divided into three groups: natural healing (nongrafted socket) or socket preservation with either BO or BB. Rats were sacrificed after 8 weeks, and histomorphometric analysis was done to evaluate bone formation and residual scaffold at the extraction site.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Differences in the metabolic activity of MSCs that were seeded onto BO or BB was observed at 2 h after seeding: the metabolic activity was elevated compared to baseline in the BB (P = .046) and not changed in the BO wells (P = .84). After 20 h, the metabolic activity of MSCs seeded onto BO was decreasing (P = .005), while cell viability was not changed in the BB group (P = .356). Intergroup comparison revealed higher metabolic activity of MSCs seeded on BB after 48 h compared with BO (P = .016). The in vivo results demonstrated differences in socket healing between the groups: percentage of new bone was higher in the BB compared to BO group (39.1 ± 14.3 vs. 23.7 ± 10.8%, respectively, P = .096). Connective tissue portion was higher in the BO group compared with BB (73.7 ± 11.1 vs. 49.6 ± 13.7%, respectively, P = .018). Residual grafting martial was higher in the BB (11.34 ± 4.18 vs. 2.62 ± 1.23%, P = .011).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The results of this study demonstrating higher vitality and proliferation of MSCs seeded onto BB. Furthermore, following ridge preservation, higher percentage of new bone and lower residual scaffold were found in the BB compared with BO. This enhanced regenerative response might be the result of an enhancement of metabolic activity in cells attached to it. Further research will be needed to understand the precise mechanism.</AbstractText>
+          <CopyrightInformation>© 2018 Wiley Periodicals, Inc.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Mayer</LastName>
+            <ForeName>Yaniv</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-5500-7961</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Periodontics, School of Graduate Dentistry, Rambam Health Care Campus, Haifa, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ginesin</LastName>
+            <ForeName>Ofir</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Periodontics, School of Graduate Dentistry, Rambam Health Care Campus, Haifa, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Khutaba</LastName>
+            <ForeName>Alaa</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Periodontics, School of Graduate Dentistry, Rambam Health Care Campus, Haifa, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Machtei</LastName>
+            <ForeName>Eli E</ForeName>
+            <Initials>EE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Periodontics, School of Graduate Dentistry, Rambam Health Care Campus, Haifa, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zigdon Giladi</LastName>
+            <ForeName>Hadar</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Lab of Bone Regeneration, Department of Periodontics, School of Graduate Dentistry, Rambam Health Care Campus, Haifa, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>03</Month>
+          <Day>06</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Clin Implant Dent Relat Res</MedlineTA>
+        <NlmUniqueID>100888977</NlmUniqueID>
+        <ISSNLinking>1523-0899</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C077540">Bio-Oss</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001672">Biocompatible Materials</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D008903">Minerals</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000540" MajorTopicYN="N">Alveolar Ridge Augmentation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001672" MajorTopicYN="N">Biocompatible Materials</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001861" MajorTopicYN="Y">Bone Regeneration</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016025" MajorTopicYN="Y">Bone Transplantation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002417" MajorTopicYN="N">Cattle</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002470" MajorTopicYN="N">Cell Survival</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003238" MajorTopicYN="N">Connective Tissue</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D064593" MajorTopicYN="N">Heterografts</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008422" MajorTopicYN="N">Materials Testing</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008437" MajorTopicYN="N">Maxilla</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008903" MajorTopicYN="N">Minerals</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D023421" MajorTopicYN="N">Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008963" MajorTopicYN="N">Molar</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010012" MajorTopicYN="N">Osteogenesis</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D023822" MajorTopicYN="N">Tissue Engineering</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054457" MajorTopicYN="N">Tissue Scaffolds</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014081" MajorTopicYN="N">Tooth Extraction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020390" MajorTopicYN="N">Tooth Socket</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000637" MajorTopicYN="N">transplantation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014945" MajorTopicYN="N">Wound Healing</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">alveolar bone</Keyword>
+        <Keyword MajorTopicYN="N">extraction</Keyword>
+        <Keyword MajorTopicYN="N">mesenchymal stem cells</Keyword>
+        <Keyword MajorTopicYN="N">regeneration</Keyword>
+        <Keyword MajorTopicYN="N">socket preservation</Keyword>
+        <Keyword MajorTopicYN="N">xenograft</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>01</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>01</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>3</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>3</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">29508553</ArticleId>
+        <ArticleId IdType="doi">10.1111/cid.12596</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">29509303</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>03</Month>
+        <Day>27</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1464-410X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>122</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>09</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>BJU international</Title>
+          <ISOAbbreviation>BJU Int</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Three-dimensional printing in robot-assisted radical prostatectomy - an Idea, Development, Exploration, Assessment, Long-term follow-up (IDEAL) Phase 2a study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>360-361</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/bju.14189</ELocationID>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Chandak</LastName>
+            <ForeName>Pankaj</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">0000-0002-6873-5965</Identifier>
+            <AffiliationInfo>
+              <Affiliation>MRC Centre for Transplantation, National Institute for Health Research (NIHR) Biomedical Research Centre (BRC), King's College London (KCL), London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Byrne</LastName>
+            <ForeName>Nick</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Physics, St Thomas' Hospitals, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lynch</LastName>
+            <ForeName>Hugo</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nuada Medical London, University College Hospital London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Allen</LastName>
+            <ForeName>Clare</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, Guy's and St Thomas' NHS Foundation Trust, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rottenberg</LastName>
+            <ForeName>Giles</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, Imperial College NHS Trust, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chandra</LastName>
+            <ForeName>Ashish</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Histopathology, Imperial College NHS Trust, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Raison</LastName>
+            <ForeName>Nicholas</ForeName>
+            <Initials>N</Initials>
+            <Identifier Source="ORCID">0000-0003-0496-4985</Identifier>
+            <AffiliationInfo>
+              <Affiliation>MRC Centre for Transplantation, National Institute for Health Research (NIHR) Biomedical Research Centre (BRC), King's College London (KCL), London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ahmed</LastName>
+            <ForeName>Hashim</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Imperial College NHS Trust, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kasivisvanathan</LastName>
+            <ForeName>Veeru</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Guy's and St Thomas' NHS Foundation Trust, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Elhage</LastName>
+            <ForeName>Oussama</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>MRC Centre for Transplantation, National Institute for Health Research (NIHR) Biomedical Research Centre (BRC), King's College London (KCL), London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dasgupta</LastName>
+            <ForeName>Prokar</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>MRC Centre for Transplantation, National Institute for Health Research (NIHR) Biomedical Research Centre (BRC), King's College London (KCL), London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>DRF-2014-07-146</GrantID>
+            <Acronym>DH_</Acronym>
+            <Agency>Department of Health</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>G0701302</GrantID>
+            <Acronym>MRC_</Acronym>
+            <Agency>Medical Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>G1002509</GrantID>
+            <Acronym>MRC_</Acronym>
+            <Agency>Medical Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>PG13-025</GrantID>
+            <Acronym>PCUK_</Acronym>
+            <Agency>Prostate Cancer UK</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D017427">Clinical Trial, Phase II</PublicationType>
+          <PublicationType UI="D016422">Letter</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>05</Month>
+          <Day>22</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>BJU Int</MedlineTA>
+        <NlmUniqueID>100886721</NlmUniqueID>
+        <ISSNLinking>1464-4096</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008953" MajorTopicYN="N">Models, Anatomic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066330" MajorTopicYN="Y">Printing, Three-Dimensional</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011467" MajorTopicYN="N">Prostate</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="N">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>3</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>3</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>3</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">29509303</ArticleId>
+        <ArticleId IdType="doi">10.1111/bju.14189</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

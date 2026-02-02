@@ -1,0 +1,708 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">39369793</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>26</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2950-3930</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>35</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The French journal of urology</Title>
+          <ISOAbbreviation>Fr J Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>SAFE: Multi-institutional study of time to complications after robot-assisted partial nephrectomy, selection of a population eligible for outpatient management (UroCCR 90).</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>102753</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S2950-3930(24)00210-9</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.fjurol.2024.102753</ELocationID>
+        <Abstract>
+          <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">The average hospital length of stay after robotic-assisted partial nephrectomy (RAPN) is 3 days, with a current trend towards outpatient cases, although no population has been identified. The main objective of the study was to analyze the time to onset of post-operative complications, identify risk factors for significant early complications in order to define a population eligible for outpatient case.</AbstractText>
+          <AbstractText Label="MATERIAL AND METHOD" NlmCategory="METHODS">The study included 3342 patients with clinically localized renal tumors who underwent RAPN surgery between 2010 and 2021. The primary endpoint was the occurrence of significant complications (SC) (Clavien Dindo&gt;2 [CD]). A CS-free survival analysis was performed. A multivariate logistic regression model was fitted to predict the risk of early significant complications (ESC) after RAPN.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The rates of total complications and SC were 14.99% and 3.59% respectively. Median time to SC was significantly longer at 3 days [3.9-5.7] versus 2 days [2.4-3] for total complications (P=0.012). The majority of complications occurred within the first 72h, and the risk factors for early SC (&lt;72h) (ESC) were clamping time (P=0.04) and ASA&gt;2 score (P=0.007). Analysis of survival without ESC showed a significant impact of clamping time (P=0.043) on complication-free survival.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Using standard preoperative variables, we were able to determine that the only factor influencing the occurrence of postoperative ESC was ASA score &gt;2 and thus define it as a primary eligibility criterion for an indication of outpatient RAPN subject to a clamp time of less than 20mins.</AbstractText>
+          <CopyrightInformation>Copyright © 2024 The Author(s). Published by Elsevier Masson SAS.. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Barthe</LastName>
+            <ForeName>Flora</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre hospitalier universitaire de Nice, Nice, France. Electronic address: Barthe.f@chu-nice.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bentellis</LastName>
+            <ForeName>Imad</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre hospitalier universitaire de Nice, Nice, France. Electronic address: Bentellis.i@chu-nice.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bernhard</LastName>
+            <ForeName>Jean-Christope</ForeName>
+            <Initials>JC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre hospitalier universitaire de Bordeaux, Bordeaux, France. Electronic address: jean-christophe.bernhard@chu-bordeaux.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bensalah</LastName>
+            <ForeName>Karim</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre hospitalier universitaire de Rennes, Rennes, France. Electronic address: Karim.Bensalah@chu-rennes.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Champy</LastName>
+            <ForeName>Cecile</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Assistance publique-Hôpitaux de Paris, Paris, France. Electronic address: cecile.champy@aphp.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bruyere</LastName>
+            <ForeName>Franck</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre hospitalier régional universitaire de Tours, Tours, France. Electronic address: bruyere@chu-tours.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Olivier</LastName>
+            <ForeName>Jonathan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre hospitalier universitaire de Lille, Lille, France. Electronic address: Jonathan.Olivier@chru-lille.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Audenet</LastName>
+            <ForeName>Francois</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Assistance publique-Hôpitaux de Paris, Paris, France. Electronic address: francois.audenet@aphp.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Parier</LastName>
+            <ForeName>Bastien</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Assistance publique-Hôpitaux de Paris, Paris, France. Electronic address: Bastien.Parier@aphp.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brenier</LastName>
+            <ForeName>Martin</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Groupe hospitalier Paris Saint-Joseph, Paris, France. Electronic address: mbrenier@hpsj.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Branger</LastName>
+            <ForeName>Nicolas</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut Paoli-Calmettes, Marseille, France. Electronic address: Brangern@ipc.unicancer.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lang</LastName>
+            <ForeName>Herve</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Les hôpitaux universitaires de Strasbourg Hôpital de Hautepierre, Strasbourg, France. Electronic address: herve.lang@chru-strasbourg.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xylinas</LastName>
+            <ForeName>Evanguelos</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Assistance publique-Hôpitaux de Paris, Paris, France. Electronic address: evanguelosxylinas@hotmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Boissier</LastName>
+            <ForeName>Romain</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Assistance publique-Hôpitaux de Marseille, Marseille, France. Electronic address: Romain.Boissier@ap-hm.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rouget</LastName>
+            <ForeName>Benjamin</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre hospitalier de Libourne, Libourne, France. Electronic address: benjamin.rouget@ch-libourne.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chevallier</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre hospitalier universitaire de Nice, Nice, France. Electronic address: Chevallier.d@chu-nice.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Durand</LastName>
+            <ForeName>Matthieu</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre hospitalier universitaire de Nice, Nice, France. Electronic address: Durand.d@chu-nice.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ahallal</LastName>
+            <ForeName>Youness</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre hospitalier universitaire de Nice, Nice, France. Electronic address: Ahallal.a@chu-nice.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D064888">Observational Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>04</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>France</Country>
+        <MedlineTA>Fr J Urol</MedlineTA>
+        <NlmUniqueID>9918752079106676</NlmUniqueID>
+        <ISSNLinking>2950-3930</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000556" MajorTopicYN="Y">Ambulatory Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007680" MajorTopicYN="Y">Kidney Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="Y">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018579" MajorTopicYN="Y">Patient Selection</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="Y">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Complications</Keyword>
+        <Keyword MajorTopicYN="N">Localised renal tumours</Keyword>
+        <Keyword MajorTopicYN="N">Outpatient surgery</Keyword>
+        <Keyword MajorTopicYN="N">Robot-assisted partial nephrectomy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>05</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2024</Year>
+          <Month>09</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>09</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>27</Day>
+          <Hour>5</Hour>
+          <Minute>2</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>7</Day>
+          <Hour>0</Hour>
+          <Minute>35</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>6</Day>
+          <Hour>19</Hour>
+          <Minute>17</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39369793</ArticleId>
+        <ArticleId IdType="pii">S2950-3930(24)00210-9</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.fjurol.2024.102753</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40336806</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>05</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>06</Month>
+        <Day>22</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1938-3797</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>29</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <MedlineDate>2025 Apr-Jun</MedlineDate>
+            </PubDate>
+          </JournalIssue>
+          <Title>JSLS : Journal of the Society of Laparoendoscopic Surgeons</Title>
+          <ISOAbbreviation>JSLS</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Clinical and Patient-Reported Outcomes of Robotic Versus Laparoscopic Inguinal Hernia Repair.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e2025.00005</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.4293/JSLS.2025.00005</ELocationID>
+        <Abstract>
+          <AbstractText Label="Background" NlmCategory="UNASSIGNED">This study aimed to assess the clinical and patient-reported outcomes of laparoscopic and robotic-assisted inguinal hernia repair in Indian real-world settings.</AbstractText>
+          <AbstractText Label="Methods" NlmCategory="UNASSIGNED">This is a single-center, prospective, nonrandomized, comparative study. Consecutive patients who were 18 years of age or older, and provided informed consent were included in the study between June 2023 and May 2024.</AbstractText>
+          <AbstractText Label="Results" NlmCategory="UNASSIGNED">In all, 83 patients were prospectively enrolled in this study: 24 patients were in the robotic-assisted surgery (RAS) group and 59 patients were in the laparoscopic surgery (LS) group. The baseline characteristics of the study cohorts were comparable. The mean total operating time for the RAS group was significantly longer than the LS group (89.83 ± 24.31 vs 67.71 ± 18.34 minutes, <i>P</i> = .0000). For the bilateral hernias, the RAS group's total operating time was significantly longer than that of the LS group; however, for the unilateral hernias, there was no discernible difference. Urine retention was the only early complication in 8.33% and 16.95% of patients, respectively, in the RAS and LS groups. The duration of hospital stay did not significantly differ between the 2 groups (<i>P</i> = .395). The pain scores of the RAS group were significantly lower on postoperative days 1, 4, and 7. Patients in the RAS group scored considerably higher on the quality of life (QoL) scale 1 month after surgery than patients in the LS group.</AbstractText>
+          <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">This study reports encouraging preliminary clinical outcomes of RAS inguinal hernia repairs in Indian settings, in terms of postoperative pain and QoL.</AbstractText>
+          <CopyrightInformation>© 2025 by SLS, Society of Laparoscopic &amp; Robotic Surgeons.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wadhawan</LastName>
+            <ForeName>Randeep</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Veetil</LastName>
+            <ForeName>Deepa Kizhakke</ForeName>
+            <Initials>DK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Batra</LastName>
+            <ForeName>Priti</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bhardwaj</LastName>
+            <ForeName>Arun</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Verma</LastName>
+            <ForeName>Naveen Kumar</ForeName>
+            <Initials>NK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of GI, Minimal Access &amp; Bariatric Surgery, Max Super Speciality Hospital, New Delhi, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>05</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JSLS</MedlineTA>
+        <NlmUniqueID>100884618</NlmUniqueID>
+        <ISSNLinking>1086-8089</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006552" MajorTopicYN="Y">Hernia, Inguinal</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071066" MajorTopicYN="Y">Patient Reported Outcome Measures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059685" MajorTopicYN="Y">Herniorrhaphy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Data collection</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopic inguinal repair</Keyword>
+        <Keyword MajorTopicYN="N">Pain</Keyword>
+        <Keyword MajorTopicYN="N">Prospective</Keyword>
+        <Keyword MajorTopicYN="N">Quality of life</Keyword>
+        <Keyword MajorTopicYN="N">Robotic-assisted inguinal repair</Keyword>
+      </KeywordList>
+      <CoiStatement>Conflict of interest: The authors disclose no conflicts of interest. No benefits of any kind have been obtained from a business entity that is connected to the topic of this paper, either directly or indirectly.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>8</Day>
+          <Hour>11</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>8</Day>
+          <Hour>11</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>5</Month>
+          <Day>8</Day>
+          <Hour>5</Hour>
+          <Minute>8</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40336806</ArticleId>
+        <ArticleId IdType="doi">10.4293/JSLS.2025.00005</ArticleId>
+        <ArticleId IdType="pii">JSLS.2025.00005</ArticleId>
+        <ArticleId IdType="pmc">PMC12057728</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Surg Endosc. 2018 Apr;32(4):2131-2136</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29067575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am Surg. 2016 Oct;82(10):1014-1017</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27779996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2018 Dec;32(12):4850-4859</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29766308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJS Open. 2021 Jan 8;5(1):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33609369</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2024 Feb 26;19(2):e0298989</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38408054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ANZ J Surg. 2021 Nov;91(11):2277-2287</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33475236</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2018 Jan;267(1):171-176</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27655239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hernia. 2020 Oct;24(5):1069-1081</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32495043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2022 Aug;16(4):775-781</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34609697</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Today. 2022 Oct;52(10):1395-1404</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34860300</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cureus. 2023 Feb 27;15(2):e35562</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36874312</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2020 Aug;34(8):3496-3507</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31571036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Oncol. 2015 Sep;112(3):310-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26153353</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2016 Sep;10(3):239-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27112781</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2010 Dec;24(12):3026-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20454807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hernia. 2024 Aug;28(4):1205-1214</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38503978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2023 Jan;37(1):723-728</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35578051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Res. 2019 Sep;241:247-253</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31035139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arq Bras Cir Dig. 2018 Dec 06;31(4):e1408</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30539983</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2019 Oct;33(10):3436-3443</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30535936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2018 Jun;12(2):261-269</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28707149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA Surg. 2020 May 1;155(5):380-387</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32186683</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 1990 Apr;159(4):370-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2138432</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pers Med. 2024 Jan 16;14(1):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38248801</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trials. 2024 Aug 8;25(1):529</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">39118135</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 2017 Sep;41(9):2251-2257</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28337532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hernia. 2018 Feb;22(1):1-165</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29330835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2013 Nov;27(11):4142-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23708722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2007 Oct;178(4 Pt 1):1296-9; discussion 1299-300</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17698133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cureus. 2023 Apr 24;15(4):e38053</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37122980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Robot. 2020 Aug;16(4):e2111</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32303112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

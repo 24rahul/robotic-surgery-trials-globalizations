@@ -1,0 +1,1141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">36477584</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>03</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>03</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1861-6429</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>18</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of computer assisted radiology and surgery</Title>
+          <ISOAbbreviation>Int J Comput Assist Radiol Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Adaptative damping assistance in bimanual laparoscopic surgery.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>741-751</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11548-022-02796-9</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Laparoscopic surgery has demonstrated various advantages for the patients' care, but also presents some difficulties for the surgeons, such as kinematic restrictions. Robotic comanipulation, in which control of instruments is shared between the robot and the surgeon, can provide adaptative damping assistance which allows stabilisation of movements. The objective of the present study was to determine the contribution of this assistance on a bimanual laparoscopic task.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Adaptative damping was studied on Peg Transfer task, performed by eighteen surgery-naive subjects. This exercise was repeated seven times without (Classic repetitions) and seven times with comanipulated robots (Robot repetitions), in a randomised order. We measured task performance, using Peg Transfer score; gesture performance, using hand oscillations and travelled distance; eye-tracking movements as an indicator of emergence of expertise. Participants' perceived workload was assessed by NASA TLX questionnaire, and difference in impression between the two conditions by UEQ questionnaire.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Adaptative damping improved gesture performance (oscillations F(1,17) = 23.473, p &lt; 0.001, η<sup>2</sup> = 0.580), with a statistically significant simple effect on the tool oscillation for both non-dominant (p &lt; 0.001) and dominant hands (p = 0.005), without influencing task performance (mean Peg Transfer score t(17) = 0.920, p = 0.382, d = 0.29), but deteriorating eye-tracking movements associated with emergence of expertise (mean fixation rate per second F(1,17) = 6.318, p = 0.022, η<sup>2</sup> = 0.271), at the cost of a high perceived workload (NASA TLX score 59.78/100).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Assistance by adaptative damping applied by comanipulated robots improved gesture performance during a laparoscopic bimanual task, without impacting task's performance without allowing the emergence of comportments associated with an expertise, and at the cost of a high perceived workload. Further research should investigate this assistance on more precise and clinical tasks performed by professionals.</AbstractText>
+          <CopyrightInformation>© 2022. CARS.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Nassar</LastName>
+            <ForeName>Alexandra</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-0728-3456</Identifier>
+            <AffiliationInfo>
+              <Affiliation>IInstitut des Systèmes Intelligents et de Robotique, Sorbonne Universités, 4, Place Jussieu, 75005, Paris, France. alexandra.nassar@free.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vérité</LastName>
+            <ForeName>Fabien</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>IInstitut des Systèmes Intelligents et de Robotique, Sorbonne Universités, 4, Place Jussieu, 75005, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pechereau</LastName>
+            <ForeName>Félix</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>IInstitut des Systèmes Intelligents et de Robotique, Sorbonne Universités, 4, Place Jussieu, 75005, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Morel</LastName>
+            <ForeName>Guillaume</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>IInstitut des Systèmes Intelligents et de Robotique, Sorbonne Universités, 4, Place Jussieu, 75005, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vitrani</LastName>
+            <ForeName>Marie-Aude</ForeName>
+            <Initials>MA</Initials>
+            <AffiliationInfo>
+              <Affiliation>IInstitut des Systèmes Intelligents et de Robotique, Sorbonne Universités, 4, Place Jussieu, 75005, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Int J Comput Assist Radiol Surg</MedlineTA>
+        <NlmUniqueID>101499225</NlmUniqueID>
+        <ISSNLinking>1861-6410</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="N">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066231" MajorTopicYN="Y">Surgeons</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013647" MajorTopicYN="N">Task Performance and Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016526" MajorTopicYN="N">Workload</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Adaptative damping</Keyword>
+        <Keyword MajorTopicYN="N">Bimanual task</Keyword>
+        <Keyword MajorTopicYN="N">Comanipulation</Keyword>
+        <Keyword MajorTopicYN="N">Laparoscopic surgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>3</Month>
+          <Day>28</Day>
+          <Hour>19</Hour>
+          <Minute>6</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>8</Day>
+          <Hour>11</Hour>
+          <Minute>56</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36477584</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11548-022-02796-9</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11548-022-02796-9</ArticleId>
+        <ArticleId IdType="pmc">PMC9735186</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Int J Med Robot. 2013 Jun;9(2):142-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23529792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2008 Aug;22(8):1887-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18270774</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2010 Oct;24(10):2458-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20333405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Surg. 2017 Aug;44:191-203</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28583897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 1998 Jun;175(6):482-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9645777</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Comput Aided Surg. 2003;8(1):24-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14708755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Innov. 2007 Jun;14(2):107-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17558016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 1999 May;13(5):466-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10227943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Robot. 2012 Feb 1;28(1):195-212</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23028266</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2018 Nov;32(11):1021-1027</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30064256</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2007 Oct;21(10):1875-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17479326</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Oncol. 2013 Mar;14(3):210-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23395398</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Ophthalmol. 2019 Aug;103(8):1195-1200</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30573495</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 2009 Aug;146(2):381-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19628099</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2018 Jun;267(6):1034-1046</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28984644</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fertil Steril. 2005 Jul;84(1):1-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16009146</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2002 Apr;16(4):640-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11972205</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2014 Dec;28(12):3379-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24928233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Surg. 2014 Feb;207(2):187-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24476801</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">36478144</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>03</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>03</Month>
+        <Day>11</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1478-596X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>19</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The international journal of medical robotics + computer assisted surgery : MRCAS</Title>
+          <ISOAbbreviation>Int J Med Robot</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Vagus nerve-guided (modified Bai-Jiang-style) robotic-assisted laparoscopic splenectomy and azygoportal disconnection.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e2490</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/rcs.2490</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">How to precisely protect and preserve anterior and posterior vagal trunks and all their branches during the procedure of splenectomy and azygoportal disconnection is studied rarely. We firstly developed a vagus nerve-guided robotic-assisted laparoscopic splenectomy and azygoportal disconnection (VGRSD). The aim of this study was to evaluate whether VGRSD is feasible and safe and to determine whether VGRSD can effectively eliminate postoperative digestive system complications by protecting vagal nerve precisely.</AbstractText>
+          <AbstractText Label="METHOD" NlmCategory="METHODS">In this prospective clinical study, 10 cirrhotic patients with oesophagogastric variceal bleeding and hypersplenism who underwent VGRSD between January 2022 and March 2022 were gathered, and compared with a retrospective cohort who received a part of the vagus nerve-preserving robotic-assisted laparoscopic splenectomy and azygoportal disconnection (VPRSD). They were all followed up for 6 months.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">In VGRSD group, the operation time was 173.5 ± 16.2 min, blood loss was 68.0 ± 39.1 ml, VAS pain score on the first day was 1.9 ± 0.7, and the postoperative hospital stay was 7.7 ± 0.7 days. There was no incisional complications, pneumonia, gastric fistula, pancreatic fistula, and abdominal infection. No patients suffered from diarrhoea, delayed gastric emptying, and epigastric fullness. Compared with VPRSD, operation time was significantly longer for VGRSD (p &lt; 0.05). However, VGRSD was significantly associated with less diarrhoea and shorter postoperative hospital stay (all p &lt; 0.05).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">VGRSD procedure is not only technically feasible and safe, it also effectively eliminate postoperative digestive system complications.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">We registered our research at https://www.</AbstractText>
+          <AbstractText Label="CLINICALTRIALS" NlmCategory="RESULTS">gov/. The name of research registered is 'Vagus Nerve-guided Robotic-assisted Splenectomy and Azygoportal Disconnection'. The trial registration identifier at clinicaltrials.gov is NCT05300516.</AbstractText>
+          <CopyrightInformation>© 2022 John Wiley &amp; Sons Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bai</LastName>
+            <ForeName>Dou-Sheng</ForeName>
+            <Initials>DS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary Surgery, Clinical Medical College, Yangzhou University, Yangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jin</LastName>
+            <ForeName>Sheng-Jie</ForeName>
+            <Initials>SJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary Surgery, Clinical Medical College, Yangzhou University, Yangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Bao-Huan</ForeName>
+            <Initials>BH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary Surgery, Clinical Medical College, Yangzhou University, Yangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xiang</LastName>
+            <ForeName>Xiao-Xing</ForeName>
+            <Initials>XX</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Digestive Diseases, Clinical Medical College, Yangzhou University, Yangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Qian</LastName>
+            <ForeName>Jian-Jun</ForeName>
+            <Initials>JJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary Surgery, Clinical Medical College, Yangzhou University, Yangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Chi</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary Surgery, Clinical Medical College, Yangzhou University, Yangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Tian-Ming</ForeName>
+            <Initials>TM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary Surgery, Clinical Medical College, Yangzhou University, Yangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jiang</LastName>
+            <ForeName>Guo-Qing</ForeName>
+            <Initials>GQ</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-8699-6624</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary Surgery, Clinical Medical College, Yangzhou University, Yangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT05300516</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>YZ2021077</GrantID>
+            <Agency>Yangzhou City Social Development Project</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>LGY2018028</GrantID>
+            <Agency>Top talent scientific research project of "six one projects"</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Int J Med Robot</MedlineTA>
+        <NlmUniqueID>101250764</NlmUniqueID>
+        <ISSNLinking>1478-5951</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004932" MajorTopicYN="Y">Esophageal and Gastric Varices</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006471" MajorTopicYN="N">Gastrointestinal Hemorrhage</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006975" MajorTopicYN="Y">Hypertension, Portal</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013156" MajorTopicYN="N">Splenectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014630" MajorTopicYN="N">Vagus Nerve</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">azygoportal disconnection</Keyword>
+        <Keyword MajorTopicYN="N">liver cirrhosis</Keyword>
+        <Keyword MajorTopicYN="N">portal hypertension</Keyword>
+        <Keyword MajorTopicYN="N">robot</Keyword>
+        <Keyword MajorTopicYN="N">splenectomy</Keyword>
+        <Keyword MajorTopicYN="N">vagus nerve</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>08</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>3</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>8</Day>
+          <Hour>12</Hour>
+          <Minute>39</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36478144</ArticleId>
+        <ArticleId IdType="doi">10.1002/rcs.2490</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Ma H. Gastroesophageal decongestion and splenectomy. A method of prevention and treatment of bleeding from esophageal varices associated with bilharzial hepatic fibrosis: preliminary report. J Int Coll Surg. 1964;41:232-248.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yu H, Guo S, Wang L, et al. Laparoscopic splenectomy and esophagogastric devascularization for liver cirrhosis and portal hypertension is a safe, effective, and minimally invasive operation. J Laparoendosc Adv Surg Tech A. 2016;26(7):524-530. https://doi.org/10.1089/lap.2016.0032</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bai DS, Qian JJ, Chen P, et al. Modified laparoscopic and open splenectomy and azygoportal disconnection for portal hypertension. Surg Endosc. 2014;28(1):257-264. https://doi.org/10.1007/s00464-013-3182-2</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zheng X, Liu Q, Yao Y. Laparoscopic splenectomy and esophagogastric devascularization is a safe, effective, minimally invasive alternative for the treatment of portal hypertension with refractory variceal bleeding. Surg Innovat. 2013;20(1):32-39. https://doi.org/10.1177/1553350612441863</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bai DS, Zhou BH, Qian JJ, Zhang C, Jin SJ, Jiang GQ. Effects of laparoscopic splenectomy and azygoportal disconnection on liver synthesis function and cirrhosis: a 2-year prospective study. Surg Endosc. 2020;34(11):5074-5082. https://doi.org/10.1007/s00464-019-07307-7</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bai DS, Chen P, Jin SJ, Qian JJ, Jiang GQ. Vagus nervepreserving versus conventional laparoscopic splenectomy and azygoportal disconnection. Surg Endosc. 2018;32(6):2696-2703. https://doi.org/10.1007/s00464-017-5965-3</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bai DS, Jin SJ, Qian JJ, Zhang C, Zhou BH, Jiang GQ. Modified (Bai-Jiang style) vagus nerve-preserving versus conventional laparoscopic splenectomy and azygoportal disconnection: a randomized clinical trial. Surg Endosc. 2021;35(4):1786-1795. https://doi.org/10.1007/s00464-020-07573-w</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kojima K, Yamada H, Inokuchi M, Kawano T, Sugihara K. Functional evaluation after vagusnerve-sparing laparoscopically assisted distal gastrectomy. Surg Endosc. 2008;22(9):2003-2008. https://doi.org/10.1007/s00464-008-0016-8</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ihasz M, Griffith CA. Gallstones after vagotomy. Am J Surg. 1981;141(1):48-50. https://doi.org/10.1016/0002-9610(81)90010-6</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yang Y, Liu Z, Guo Y, et al. The efficiency and safety of transperitoneal versus extraperitoneal robotic-assisted radical prostatectomy for patients with prostate cancer: a single center experience with 1-year follow-up. Urol J. 2020;17:480-485.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Traboulsi SL, Nguyen DD, Zakaria AS, et al. Functional and perioperative outcomes in elderly men after robotic-assisted radical prostatectomy for prostate cancer. World J Urol. 2020;38(11):2791-2798. https://doi.org/10.1007/s00345-020-03096-0</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Medical Advisory Secretariat. Robotic-assisted minimally invasive surgery for gynecologic and urologic oncology: an evidence-based analysis. Ont Health Technol Assess Ser. 2010;10(27):1-118.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>El-Hamamsy D, Geary RS, Gurol-Urganci I, van der Meulen J, Tincello D. Uptake and outcomes of robotic gynaecological surgery in England (2006-2018): an account of Hospital Episodes Statistics (HES). J Robot Surg. 2022;16(1):81-88. https://doi.org/10.1007/s11701-021-01197-5</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schootman M, Hendren S, Ratnapradipa K, Stringer L, Davidson NO. Adoption of robotic technology for treating colorectal cancer. Dis Colon Rectum. 2016;59(11):1011-1018. https://doi.org/10.1097/dcr.0000000000000688</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chung G, Hinoul P, Coplan P, Yoo A. Trends in the diffusion of robotic surgery in prostate, uterus, and colorectal procedures: a retrospective population-based study. J Robot Surg. 2021;15(2):275-291. https://doi.org/10.1007/s11701-020-01102-6</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bai DS, Jin SJ, Xiang XX, et al. Robotic-assisted versus laparoscopic approach of Bai-Jiang-style vagus nerve-preserving splenectomy and azygoportal disconnection. Updates Surg. 2022;74(5):1773-1780. Epub ahead of print. PMID: 34994944. https://doi.org/10.1007/s13304-022-01236-2</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bai DS, Jin SJ, Xiang XX, et al. Robotic-assisted versus laparoscopic approach of Bai-Jiang-style vagus nerve-preserving splenectomy and azygoportal disconnection. Updates Surg. 2022;74(5):1773-1780. https://doi.org/10.1007/s13304-022-01236-2</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jiang GQ, Bai DS, Chen P, et al. Modified laparoscopic splenectomy and azygoportal disconnection combined with cell salvage is feasible and might reduce the need for blood transfusion. World J Gastroenterol. 2014;20(48):18420-18426. https://doi.org/10.3748/wjg.v20.i48.18420</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bai DS, Xia BL, Zhang C, et al. Warfarin versus aspirin prevents portal vein thrombosis after laparoscopic splenectomy and azygoportal disconnection: a randomized clinical trial. Int J Surg. 2019;64:16-23. https://doi.org/10.1016/j.ijsu.2019.02.018</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chapman CR, Casey KL, Dubner R, Foley KM, Gracely RH, Reading AE. Pain measurement: an overview. Pain. 1985;22:1-31. https://doi.org/10.1016/0304-3959(85)90145-9</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hoffmann NE, Bischof JC. The cryobiology of cryosurgical injury. Urology. 2002;60(2):40-49. https://doi.org/10.1016/s0090-4295(02)01683-7</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Isozaki H, Okajima K, Momura E, et al. Postoperative evaluation of pylorus-preserving gastrectomy for early gastric cancer. Br J Surg. 1996;83(2):266-269. https://doi.org/10.1046/j.1365-2168.1996.02093.x</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yamada H, Kojima K, Inokuchi M, Kawano T, Sugihara K. Efficacy of celiac branch preservation in Roux-en-y reconstruction after laparoscopy-assisted distal gastrectomy. Surgery. 2011;149(1):22-28. https://doi.org/10.1016/j.surg.2010.03.002</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kinami S, Miwa K, Sato T, Miyazaki I. Section of the vagal celiac branch in man reduces glucagon-stimulated insulin release. J Auton Nerv Syst. 1997;64(1):44-48. https://doi.org/10.1016/s0165-1838(97)00013-1</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36481203</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>02</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>06</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1527-9995</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>172</Volume>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>02</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Urology</Title>
+          <ISOAbbreviation>Urology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Impact of Acetazolamide on Perioperative Pain Control in Robotic Assisted Laparoscopic Prostatectomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>126-130</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0090-4295(22)00987-6</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.urology.2022.11.014</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE">To evaluate the efficacy of peri-operative acetazolamide for pain control in robotic assisted laparoscopic prostatectomy (RALP). Prior studies have demonstrated that preoperative acetazolamide decreased postoperative referred pain in the postsurgical period for laparoscopic procedures. The proposed mechanism is acetazolamide mediated inhibition of carbonic anhydrase, thereby preventing formation of carbonic acid and subsequent peritoneal acidosis with referred pain. This has yet to be demonstrated in the setting of RALP.</AbstractText>
+          <AbstractText Label="METHODS AND MATERIALS">Patients undergoing RALP were randomized to receive either preoperative saline or acetazolamide prior to the procedure. Overall pain scores were recorded at multiple time points post operatively, as well as total morphine equivalents administered for adjunctive pain control.</AbstractText>
+          <AbstractText Label="RESULTS">Thirty-one patients were included in the study: 16 patients (51.6%) received perioperative acetazolamide, and 15 patients (48.4%) received perioperative saline as placebo. Overall pain scores were similar for patients receiving acetazolamide compared to placebo at various time points: first responsive (3.5 ± 3.1 vs 4.1 ± 1.7, P = .28), immediately prior to leaving PACU (2.8 ± 2.9 vs 2.9 ± 2.9, P = .48), at 4 hours post-procedure (3.1 ± 3.0 vs 2.9 ± 1.8, P = .362), or at 24 hours post-procedure (2.3 ± 1.7 vs 2.2 ± 1.6, P = .5). Shoulder tip pain was not present in either cohort. No statistically significant difference was observed for total morphine equivalents delivered between acetazolamide and placebo (17.3 vs 20.5, P= .2, respectively).</AbstractText>
+          <AbstractText Label="CONCLUSION">Acetazolamide does not appear to impact overall pain or shoulder tip pain in the observed cohort of patients undergoing RALP.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Medairos</LastName>
+            <ForeName>Robert</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Medical College of Wisconsin in Milwaukee, Milwaukee, WI.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lankford</LastName>
+            <ForeName>Joseph</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Medical College of Wisconsin in Milwaukee, Milwaukee, WI. Electronic address: joseph.c.lankford@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Everett</LastName>
+            <ForeName>Ross</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Medical College of Wisconsin in Milwaukee, Milwaukee, WI.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Berger</LastName>
+            <ForeName>Garrett</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Medical College of Wisconsin in Milwaukee, Milwaukee, WI.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Weierstahl</LastName>
+            <ForeName>Krystal</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Medical College of Wisconsin in Milwaukee, Milwaukee, WI.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Woehlck</LastName>
+            <ForeName>Harvey</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Medical College of Wisconsin in Milwaukee, Milwaukee, WI.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jacobsohn</LastName>
+            <ForeName>Kenneth</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Medical College of Wisconsin in Milwaukee, Milwaukee, WI.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Johnson</LastName>
+            <ForeName>Scott</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Medical College of Wisconsin in Milwaukee, Milwaukee, WI.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Urology</MedlineTA>
+        <NlmUniqueID>0366151</NlmUniqueID>
+        <ISSNLinking>0090-4295</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>O3FX965V0I</RegistryNumber>
+          <NameOfSubstance UI="D000086">Acetazolamide</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D009022">Morphine Derivatives</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086" MajorTopicYN="N">Acetazolamide</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053591" MajorTopicYN="N">Pain, Referred</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010149" MajorTopicYN="N">Pain, Postoperative</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009022" MajorTopicYN="N">Morphine Derivatives</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>06</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>2</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>8</Day>
+          <Hour>23</Hour>
+          <Minute>25</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36481203</ArticleId>
+        <ArticleId IdType="pii">S0090-4295(22)00987-6</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.urology.2022.11.014</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36504201</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>03</Month>
+        <Day>22</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>03</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1098-240X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>46</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>04</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Research in nursing &amp; health</Title>
+          <ISOAbbreviation>Res Nurs Health</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robot-assisted rehabilitation training improves knee function and daily activity ability in older adults following total knee arthroplasty.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>203-209</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/nur.22290</ELocationID>
+        <Abstract>
+          <AbstractText>To evaluate the effects of robot-assisted rehabilitation training on knee function and the daily activity ability of older adults following total knee arthroplasty (TKA). Eighty-eight patients who underwent TKA were randomly assigned to a robot-assisted rehabilitation or traditional therapy group. The patients in the control group were treated with traditional manual rehabilitation therapy, while the patients in the experimental group were subjected to the robot-assisted rehabilitation program. Range of motion of the knee joint, Hospital for Special Surgery Knee Rating Score, and the modified Barthel Index were assessed on the first or second day after TKA (preintervention) and the discharge day (postintervention). Additionally, the length of hospital stay and related hospitalization expenses of the two groups were collected on the discharge day. Improvements in the active range of motion (p &lt; 0.001), passive range of motion (p = 0.001), Hospital for Special Surgery Knee Rating Score (p &lt; 0.001), and modified Barthel Index score (p = 0.004) were significantly better in the robot-assisted rehabilitation group than in the traditional therapy group. Interestingly, the length of hospital stay in the experimental group (9 days) was shorter than that in the control group (13 days), and the total cost of hospitalization was lower (p = 0.002). The robot-assisted rehabilitation training program is an effective intervention that significantly improves the daily activity ability and knee function of older adults following TKA.</AbstractText>
+          <CopyrightInformation>© 2022 Wiley Periodicals LLC.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Cai</LastName>
+            <ForeName>Libai</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">0000-0001-5679-1321</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan Province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Yanjin</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Nursing, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wei</LastName>
+            <ForeName>Zexu</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Nursing, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Hao</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Nursing, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Yangyang</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Rehabilitation Medicine, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cui</LastName>
+            <ForeName>Miaoran</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedics, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan Province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>12</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Res Nurs Health</MedlineTA>
+        <NlmUniqueID>7806136</NlmUniqueID>
+        <ISSNLinking>0160-6891</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019645" MajorTopicYN="Y">Arthroplasty, Replacement, Knee</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000534" MajorTopicYN="N">rehabilitation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007719" MajorTopicYN="N">Knee Joint</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000203" MajorTopicYN="N">Activities of Daily Living</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005081" MajorTopicYN="N">Exercise Therapy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020370" MajorTopicYN="Y">Osteoarthritis, Knee</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">rehabilitation</Keyword>
+        <Keyword MajorTopicYN="N">robot-assisted</Keyword>
+        <Keyword MajorTopicYN="N">total knee arthroplasty</Keyword>
+        <Keyword MajorTopicYN="N">traditional therapy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>08</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>3</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>12</Day>
+          <Hour>10</Hour>
+          <Minute>19</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36504201</ArticleId>
+        <ArticleId IdType="doi">10.1002/nur.22290</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Alnaser, M. Z., &amp; Aljadi, S. H. (2019). Physical therapists with work-related musculoskeletal disorders in the state of Kuwait: A comparison across countries and health care professions. Work, 63(2), 261-268. https://doi.org/10.3233/WOR-192927</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bhardwaj, S., Khan, A. A., &amp; Muzammil, M. (2021). Lower limb rehabilitation robotics: The current understanding and technology. Work, 69(3), 775-793. https://doi.org/10.3233/WOR-205012</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cai, L., Liu, Y., Xu, H., Xu, Q., Wang, Y., &amp; Lyu, P. (2018). Incidence and risk factors of kinesiophobia after total knee arthroplasty in Zhengzhou, China: A cross-sectional study. The Journal of Arthroplasty, 33(9), 2858-2862. https://doi.org/10.1016/j.arth.2018.04.028</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cherni, Y., Ballaz, L., Lemaire, J., Dal Maso, F., &amp; Begon, M. (2020). Effect of low dose robotic-gait training on walking capacity in children and adolescents with cerebral palsy. Neurophysiologie Clinique, 50(6), 507-519. https://doi.org/10.1016/j.neucli.2020.09.005</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chughtai, M., Sodhi, N., Jawad, M., Newman, J. M., Khlopas, A., Bhave, A., &amp; Mont, M. A. (2017). Cryotherapy treatment after unicompartmental and total knee arthroplasty: A review. The Journal of Arthroplasty, 32(12), 3822-3832. https://doi.org/10.1016/j.arth.2017.07.016</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cibere, J., Bellamy, N., Thorne, A., Esdaile, J. M., McGorm, K. J., Chalmers, A., Huang, S., Peloso, P., Shojania, K., Singer, J., Wong, H., &amp; Kopec, J. (2004). Reliability of the knee examination in osteoarthritis: effect of standardization. Arthritis &amp; Rheumatism, 50(2), 458-468. https://doi.org/10.1002/art.20025</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fortier, L. M., Rockov, Z. A., Chen, A. F., &amp; Rajaee, S. S. (2021). Activity recommendations after total hip and total knee arthroplasty. Journal of Bone and Joint Surgery, 103(5), 446-455. https://doi.org/10.2106/JBJS.20.00983</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Frassanito, L., Vergari, A., Nestorini, R., Cerulli, G., Placella, G., Pace, V., &amp; Rossi, M. (2020). Enhanced recovery after surgery (ERAS) in hip and knee replacement surgery: description of a multidisciplinary program to improve management of the patients undergoing major orthopedic surgery. Musculoskeletal Surgery, 104(1), 87-92. https://doi.org/10.1007/s12306-019-00603-4</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Freivogel, S., Schmalohr, D., &amp; Mehrholz, J. (2009). Improved walking ability and reduced therapeutic stress with an electromechanical gait device. Journal of Rehabilitation Medicine, 41(9), 734-739. https://doi.org/10.2340/16501977-0422</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Graber, J., Lockhart, S., Matlock, D. D., Stevens-Lapsley, J., &amp; Kittelson, A. J. (2021). “This is not negotiable. You need to do this”: A directed content analysis of decision making in rehabilitation after knee arthroplasty. Journal of Evaluation in Clinical Practice, 28, 99-107. https://doi.org/10.1111/jep.13591</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Guermazi, A., Hayashi, D., Roemer, F., Felson, D. T., Wang, K., Lynch, J., Amin, S., Torner, J., Lewis, C. E., &amp; Nevitt, M. C. (2015). Severe radiographic knee osteoarthritis--does Kellgren and Lawrence grade 4 represent end stage disease?--The MOST study. Osteoarthritis and Cartilage, 23(9), 1499-1505. https://doi.org/10.1016/j.joca.2015.04.018</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hobbs, B., &amp; Artemiadis, P. (2020). A review of robot-assisted lower-limb stroke therapy: Unexplored paths and future directions in gait rehabilitation. Frontiers in Neurorobotics, 14, 19. https://doi.org/10.3389/fnbot.2020.00019</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hunter, D. J., March, L., &amp; Chew, M. (2020). Osteoarthritis in 2020 and beyond: A Lancet commission. The Lancet, 396(10264), 1711-1712. https://doi.org/10.1016/S0140-6736(20)32230-3</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kotani, N., Morishita, T., Saita, K., Kamada, S., Maeyama, A., Abe, H., Yamamoto, T., Shiota, E., &amp; Inoue, T. (2020). Feasibility of supplemental robot-assisted knee flexion exercise following total knee arthroplasty. Journal of Back and Musculoskeletal Rehabilitation, 33(3), 413-421. https://doi.org/10.3233/BMR-181482</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kurtz, S. M., Lau, E., Ong, K., Zhao, K., Kelly, M., &amp; Bozic, K. J. (2009). Future young patient demand for primary and revision joint replacement: National projections from 2010 to 2030. Clinical Orthopaedics &amp; Related Research, 467(10), 2606-2612. https://doi.org/10.1007/s11999-009-0834-6</Citation>
+        </Reference>
+        <Reference>
+          <Citation>di Laura Frattura, G., Zaffagnini, S., Filardo, G., Romandini, I., Fusco, A., &amp; Candrian, C. (2019). Total knee arthroplasty in patients with knee osteoarthritis: Effects on proprioception. A systematic review and best evidence synthesis. The Journal of Arthroplasty, 34(11), 2815-2822. https://doi.org/10.1016/j.arth.2019.06.005</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Leung, S. O. C., Chan, C. C. H., &amp; Shah, S. (2007). Development of a Chinese version of the Modified Barthel Index--Validity and reliability. Clinical Rehabilitation, 21(10), 912-922. https://doi.org/10.1177/0269215507077286</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li, J., Wu, T., Xu, Z., &amp; Gu, X. (2014). A pilot study of post-total knee replacement gait rehabilitation using lower limbs robot-assisted training system. European Journal of Orthopaedic Surgery &amp; Traumatology, 24(2), 203-208. https://doi.org/10.1007/s00590-012-1159-9</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lyp, M., Stanislawska, I., Witek, B., Olszewska-Zaczek, E., Czarny-Dzialak, M., &amp; Kaczor, R. (2018). Robot-assisted body-weight-supported treadmill training in gait impairment in multiple sclerosis patients: A pilot study. Advances in Experimental Medicine and Biology, 1070, 111-115. https://doi.org/10.1007/5584_2018_158</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ma, H., Zhong, C., Chen, B., Chan, K. M., &amp; Liao, W. H. (2018). User-Adaptive assistance of assistive knee braces for gait rehabilitation. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 26(10), 1994-2005. https://doi.org/10.1109/TNSRE.2018.2868693</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mirbagheri, M. M., Xun Niu, N., Kindig, M., &amp; Varoqui, D. (2012). The effects of locomotor training with a robotic-gait orthosis (lokomat) on neuromuscular properties in persons with chronic SCI. Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2012, 3854-3857. https://doi.org/10.1109/EMBC.2012.6346808</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Narin, S. (2014). Cross-cultural adaptation, reliability and validity of the Turkish version of the Hospital for Special Surgery (HSS) Knee Score. Acta Orthopaedica et Traumatologica Turcica, 48(3), 241-248. https://doi.org/10.3944/AOTT.2014.3109</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Santamaria, V., Luna, T. D., &amp; Agrawal, S. K. (2021). Feasibility and tolerance of a robotic postural training to improve standing in a person with ambulatory spinal cord injury. Spinal Cord Series and Cases, 7(1), 94. https://doi.org/10.1038/s41394-021-00454-x</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sconza, C., Negrini, F., Di Matteo, B., Borboni, A., Boccia, G., Petrikonis, I., Stankevičius, E., &amp; Casale, R. (2021). Robot-Assisted gait training in patients with multiple sclerosis: A randomized controlled crossover trial. Medicina, 57(7), 713. https://doi.org/10.3390/medicina57070713</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shakti, D., Mathew, L., Kumar, N., &amp; Kataria, C. (2018). Effectiveness of robo-assisted lower limb rehabilitation for spastic patients: A systematic review. Biosensors and Bioelectronics, 117, 403-415. https://doi.org/10.1016/j.bios.2018.06.027</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tang, X., Wang, S., Zhan, S., Niu, J., Tao, K., Zhang, Y., &amp; Lin, J. (2016). The prevalence of symptomatic knee osteoarthritis in China: Results from the China health and retirement longitudinal study. Arthritis &amp; Rheumatology, 68(3), 648-653. https://doi.org/10.1002/art.39465</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Trzeciak, T., Richter, M., &amp; Ruszkowski, K. (2011). [Effectiveness of continuous passive motion after total knee replacement]. Chirurgia Narzadow Ruchu i Ortopedia Polska, 76(6), 345-349.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Umehara, T., &amp; Tanaka, R. (2018). Effective exercise intervention period for improving body function or activity in patients with knee osteoarthritis undergoing total knee arthroplasty: A systematic review and meta-analysis. Brazilian Journal of Physical Therapy, 22(4), 265-275. https://doi.org/10.1016/j.bjpt.2017.10.005</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wirries, N., Ezechieli, M., Stimpel, K., &amp; Skutek, M. (2020). Impact of continuous passive motion on rehabilitation following total knee arthroplasty. Physiotherapy Research International, 25(4), e1869. https://doi.org/10.1002/pri.1869</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xue, Q., Wang, K., Pei, F., Zhu, H., Jin, D., Tao, T., &amp; Ji, Q. (2015). The survey of the prevalence of primary osteoarthritis in the population aged 40 years and over in China. Chin J Orthop, 35(12), 1206-1212.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yang, Y., Wang, J., Zhang, X., Dong, L., Liu, A., &amp; Li, C. (2021). The effect of continuous passive motion in patients treated with total knee arthroplasty for osteoarthritis: A systematic review and meta-analysis of randomized controlled trials. American Journal of Physical Medicine &amp; Rehabilitation, 100(12), 1160-1169. https://doi.org/10.1097/PHM.0000000000001718</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yoshikawa, K., Mutsuzaki, H., Sano, A., Koseki, K., Fukaya, T., Mizukami, M., &amp; Yamazaki, M. (2018). Training with hybrid assistive limb for walking function after total knee arthroplasty. Journal of Orthopaedic Surgery and Research, 13(1), 163. https://doi.org/10.1186/s13018-018-0875-1</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yoshioka, T., Kubota, S., Sugaya, H., Arai, N., Hyodo, K., Kanamori, A., &amp; Yamazaki, M. (2021). Feasibility and efficacy of knee extension training using a single-joint hybrid assistive limb, versus conventional rehabilitation during the early postoperative period after total knee arthroplasty. Journal of Rural Medicine, 16(1), 22-28. https://doi.org/10.2185/jrm.2020-024</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang, X., Yue, Z., &amp; Wang, J. (2017). Robotics in lower-limb rehabilitation after stroke. Behavioural Neurology, 2017, 1-13. https://doi.org/10.1155/2017/3731802</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

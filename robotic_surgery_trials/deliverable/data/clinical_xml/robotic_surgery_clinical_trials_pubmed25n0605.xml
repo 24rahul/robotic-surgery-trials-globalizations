@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">18680139</PMID>
+      <DateCompleted>
+        <Year>2008</Year>
+        <Month>11</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2016</Year>
+        <Month>11</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1478-596X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>4</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2008</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The international journal of medical robotics + computer assisted surgery : MRCAS</Title>
+          <ISOAbbreviation>Int J Med Robot</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Fetus-supporting flexible manipulator with balloon-type stabilizer for endoscopic intrauterine surgery.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>214-23</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/rcs.200</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Minimally invasive endoscopic fetal surgery enables intrauterine intervention with reduced risk to the mother and fetus. A novel surgical manipulator is described for stabilizing the fetus and restraining it from floating free during endoscopic intrauterine surgery.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We designed and fabricated a prototype fetus-supporting manipulator equipped with flexible joint and bending mechanisms and a soft balloon stabilizer. The flexible joint and bending mechanisms enable the stabilizer to reach the target sites within the confined space of the uterus under the guidance of an ultrasound device. The balloon stabilizer could be inserted into the uterus through a small incision.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The accuracy evaluation showed that the maximum error of the bending mechanism was as small as 7 mm and the standard deviation of the joint mechanism was just 1.6 degrees. In the experiments using a fetus model, the manipulator could be well controlled with guidance from ultrasound images and its bending mechanism with the balloon stabilizer could be clearly visualized while stabilizing the fetus model.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The manipulator has the potential to be used in minimally invasive intrauterine surgery, although further improvements and experiments remain to be carried out.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Liao</LastName>
+            <ForeName>Hongen</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Graduate School of Engineering, The University of Tokyo, Japan. liao@bmpe.t.u-tokyo.ac.jp</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Suzuki</LastName>
+            <ForeName>Hirokazu</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Matsumiya</LastName>
+            <ForeName>Kiyoshi</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Masamune</LastName>
+            <ForeName>Ken</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dohi</LastName>
+            <ForeName>Takeyoshi</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chiba</LastName>
+            <ForeName>Toshio</ForeName>
+            <Initials>T</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Int J Med Robot</MedlineTA>
+        <NlmUniqueID>101250764</NlmUniqueID>
+        <ISSNLinking>1478-5951</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D002404" MajorTopicYN="N">Catheterization</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004622" MajorTopicYN="N">Embryo, Mammalian</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019544" MajorTopicYN="N">Equipment Failure Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020669" MajorTopicYN="Y">Fetoscopes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005332" MajorTopicYN="N">Fetoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007103" MajorTopicYN="N">Immobilization</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008591" MajorTopicYN="N">Meningomyelocele</DescriptorName>
+          <QualifierName UI="Q000196" MajorTopicYN="N">embryology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="N">Surgery, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014463" MajorTopicYN="N">Ultrasonography</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2008</Year>
+          <Month>8</Month>
+          <Day>6</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2008</Year>
+          <Month>12</Month>
+          <Day>17</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2008</Year>
+          <Month>8</Month>
+          <Day>6</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">18680139</ArticleId>
+        <ArticleId IdType="doi">10.1002/rcs.200</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">18684288</PMID>
+      <DateCompleted>
+        <Year>2008</Year>
+        <Month>10</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2015</Year>
+        <Month>11</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1540-8159</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>31</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2008</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Pacing and clinical electrophysiology : PACE</Title>
+          <ISOAbbreviation>Pacing Clin Electrophysiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Remote magnetic navigation-assisted catheter ablation enhances catheter stability and ablation success with lower catheter temperatures.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>893-8</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1540-8159.2008.01105.x</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">It has been suggested that remote magnetic navigation (RMN) may provide enhanced catheter stability and substrate contact to aid in ablation. To date, no study has examined this claim. Accordingly, we compared the characteristics of the successful ablation of atrioventricular reentry tachycardia (AVNRT) using RMN with a matched population ablated using a conventional (CON) manual approach.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Sixteen patients who underwent RMN-assisted ablation of typical AVNRT were matched with 16 patients who had a CON-AVNRT ablation.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">All patients had successful slow pathway modification without complication. The mean catheter temperature achieved with the successful ablation was significantly lower with RMN than with CON (42 +/- 7 degrees C vs 47 +/- 3 degrees C, P &lt;or= 0.05). Time to junctional tachycardia (JT) was significantly earlier (5.7 +/- 4.1 s vs 11.2 +/- 8.9 s, P &lt;or= 0.05) and variation in catheter temperature with the successful ablation (0.89 +/- 0.45 vs 1.45 +/- 0.49, P &lt; 0.01) was significantly reduced in the RMN group than in the CON group. There was no significant difference between RMN and CON in terms of the total number of lesions and the mean power achieved during the successful lesion.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Although the construction of the ablation catheters is similar, ablations with RMN catheters resulted in a lower mean temperature, earlier time to JT, and less variability of temperature during ablation, suggesting greater catheter stability. This study indicates that ablation with RMN can achieve success with lower catheter temperatures.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Davis</LastName>
+            <ForeName>Darryl R</ForeName>
+            <Initials>DR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, University of Ottawa Heart Institute, Ottawa, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tang</LastName>
+            <ForeName>Anthony S L</ForeName>
+            <Initials>AS</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gollob</LastName>
+            <ForeName>Michael H</ForeName>
+            <Initials>MH</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lemery</LastName>
+            <ForeName>Robert</ForeName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Green</LastName>
+            <ForeName>Martin S</ForeName>
+            <Initials>MS</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Birnie</LastName>
+            <ForeName>David H</ForeName>
+            <Initials>DH</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D018848">Controlled Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Pacing Clin Electrophysiol</MedlineTA>
+        <NlmUniqueID>7803944</NlmUniqueID>
+        <ISSNLinking>0147-8389</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D017115" MajorTopicYN="N">Catheter Ablation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008280" MajorTopicYN="N">Magnetics</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013611" MajorTopicYN="N">Tachycardia, Atrioventricular Nodal Reentry</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017216" MajorTopicYN="N">Telemedicine</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2008</Year>
+          <Month>8</Month>
+          <Day>8</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2008</Year>
+          <Month>10</Month>
+          <Day>31</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2008</Year>
+          <Month>8</Month>
+          <Day>8</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">18684288</ArticleId>
+        <ArticleId IdType="pii">PACE1105</ArticleId>
+        <ArticleId IdType="doi">10.1111/j.1540-8159.2008.01105.x</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">18704439</PMID>
+      <DateCompleted>
+        <Year>2009</Year>
+        <Month>09</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1433-8726</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>27</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2009</Year>
+              <Month>Feb</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>World journal of urology</Title>
+          <ISOAbbreviation>World J Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A prospective comparison of laparoscopic and robotic radical nephrectomy for T1-2N0M0 renal cell carcinoma.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>89-94</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00345-008-0321-9</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">We prospectively evaluated the safety, feasibility, and efficiency of robotic radical nephrectomy (RRN) for localized renal tumors (T1-2N0M0) and compared this with laparoscopic radical nephrectomy (LRN).</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Between October 2006 to August 2007, a prospective data analysis of 15 cases of renal cell carcinoma (RCC) stage T1-2N0M0, undergoing RRN was done. These patients were compared with a contemporary cohort of 15 patients of RCC with clinical stage T1-2N0M0, undergoing LRN. To keep comparison robust, all cases were performed by a single surgeon. Demographic, intra-operative, post-operative outcomes, pathological characteristics and follow-up data of the two groups were recorded and analyzed statistically.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Patients in group A (RRN) experienced significantly (P = 0.001) long operating time than group B (LRN). However, mean estimated blood loss, intra-operative and post-operative complications, blood transfusion rate, analgesic requirement, hospital stay and convalescence were comparable in two groups (P &lt; 0.05). There was one conversion to open surgery in group A, and none in group B. The mean follow-up was comparable in two groups (8.3 and 9.1 months, respectively, in group A and B, P = 0.09). There were no local, port-site or distal recurrences in either group.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Robotic radical nephrectomy is a safe, feasible and effective for performing radical nephrectomy for localized RCC. Both groups (RRN and LRN) had comparable intra-operative, peri-operative, post-operative and oncological outcomes except for longer operating time with increased cost for RRN. In this comparative study, there were no outstanding benefits of RRN observed over LRN for localized RCC.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hemal</LastName>
+            <ForeName>Ashok K</ForeName>
+            <Initials>AK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, All India Institute of Medical Sciences, New Delhi, India. ahemal@wfubmc.edu</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kumar</LastName>
+            <ForeName>Anup</ForeName>
+            <Initials>A</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2008</Year>
+          <Month>08</Month>
+          <Day>13</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>World J Urol</MedlineTA>
+        <NlmUniqueID>8307716</NlmUniqueID>
+        <ISSNLinking>0724-4983</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D002292" MajorTopicYN="N">Carcinoma, Renal Cell</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005240" MajorTopicYN="N">Feasibility Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007680" MajorTopicYN="N">Kidney Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009392" MajorTopicYN="N">Nephrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2007</Year>
+          <Month>12</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2008</Year>
+          <Month>07</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2008</Year>
+          <Month>8</Month>
+          <Day>16</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2008</Year>
+          <Month>8</Month>
+          <Day>16</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">18704439</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00345-008-0321-9</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>BJU Int. 2005 Aug;96(3):244-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16042710</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2002 Sep;20(4):219-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12215849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2002 Jun;167(6):2380-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11992042</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urol Clin North Am. 2004 Nov;31(4):731-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15474599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2002 Mar;167(3):1257-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11832709</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 1963 Jan;89:37-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">13974490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Urol. 2007 Mar;17(2):88-92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17285016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer. 2001 Oct 1;92(7):1843-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11745257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Transplantation. 2002 May 15;73(9):1474-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12023627</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Urol. 2006 Jun;24(2):198-201</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16758250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2004 Dec;172(6 Pt 1):2172-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15538225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2007 Mar;177(3):862-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17296361</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2005 Jun;65(6):1086-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15913733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Urol. 2004 Mar;14(2):89-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15075836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endourol. 2004 Sep;18(7):611-9; discussion 619</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15597646</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2003 Feb;43(2):106-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12565766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2007 May;99(5 Pt B):1251-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17441919</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

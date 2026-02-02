@@ -1,0 +1,2716 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">31591657</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>06</Month>
+        <Day>07</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-2218</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>34</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>08</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Surgical endoscopy</Title>
+          <ISOAbbreviation>Surg Endosc</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Conversion to open surgery during minimally invasive esophagectomy portends worse short-term outcomes: an analysis of the National Cancer Database.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>3470-3478</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00464-019-07124-y</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE">The objectives were to determine factors associated with conversion to open surgery in patients with esophageal cancer who underwent minimally invasive esophagectomy (MIE, including laparo-thoracoscopic and robotic) and the impact of conversion to open surgery on patient outcomes.</AbstractText>
+          <AbstractText Label="METHODS">We included patients from the National Cancer Database with esophageal and gastroesophageal junction cancer who underwent MIE from 2010 to 2015. Patient-, tumor-, and facility-related characteristics as well as short-term and oncologic outcomes were compared between patients who were converted to open surgery and those who underwent successful MIE without conversion to open surgery. Multivariable logistic regression models were used to analyze risk factors for conversion to open surgery from attempted MIE.</AbstractText>
+          <AbstractText Label="RESULTS">7306 patients underwent attempted MIE. Of these patients, 82 of 1487 (5.2%) robotic-assisted esophagectomies were converted to open, compared to 691 of 5737 (12.0%) laparo-thoracoscopic esophagectomies (p &lt; 0.001). Conversion rates decreased significantly over the study period (p<sub>trend</sub> = 0.010). Patient age, tumor size, and nodal involvement were independently associated with conversion. Facility minimally invasive cumulative volume and robotic approach were associated with decreased conversion rates. Patients whose MIEs were converted had increased 90-day mortality [Odds Ratio (OR) 1.49; 95% Confidence Interval (CI) 1.10, 2.02], prolonged hospital stay (OR 1.39; 95% CI 1.17, 1.66), and higher rates of unplanned readmission (OR 1.67; 95% CI 1.27, 2.20). No significant differences were found in surgical margins or number of lymph nodes harvested.</AbstractText>
+          <AbstractText Label="CONCLUSION">Patients undergoing attempted MIE requiring conversion to open surgery had significantly worse short-term outcomes including postoperative mortality. Patient factors and hospital experience contribute to conversion rates. These findings should inform surgeons and patients considering esophagectomy for cancer.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Halpern</LastName>
+            <ForeName>Alison L</ForeName>
+            <Initials>AL</Initials>
+            <Identifier Source="ORCID">0000-0002-3317-5216</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Cardiothoracic Surgery, Section of General Thoracic Surgery, Department of Surgery, University of Colorado Denver, Aurora, CO, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Friedman</LastName>
+            <ForeName>Chloe</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Surgical Oncology, Department of Surgery, University of Colorado Denver, Aurora, CO, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Torphy</LastName>
+            <ForeName>Robert J</ForeName>
+            <Initials>RJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Surgical Oncology, Department of Surgery, University of Colorado Denver, Aurora, CO, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Al-Musawi</LastName>
+            <ForeName>Mohammed H</ForeName>
+            <Initials>MH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cardiothoracic Surgery, Section of General Thoracic Surgery, Department of Surgery, University of Colorado Denver, Aurora, CO, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mitchell</LastName>
+            <ForeName>John D</ForeName>
+            <Initials>JD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cardiothoracic Surgery, Section of General Thoracic Surgery, Department of Surgery, University of Colorado Denver, Aurora, CO, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Scott</LastName>
+            <ForeName>Christopher D</ForeName>
+            <Initials>CD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cardiothoracic Surgery, Section of General Thoracic Surgery, Department of Surgery, University of Colorado Denver, Aurora, CO, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Meguid</LastName>
+            <ForeName>Robert A</ForeName>
+            <Initials>RA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cardiothoracic Surgery, Section of General Thoracic Surgery, Department of Surgery, University of Colorado Denver, Aurora, CO, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Surgical Outcomes and Applied Research (SOAR), University of Colorado Denver, Aurora, CO, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McCarter</LastName>
+            <ForeName>Martin D</ForeName>
+            <Initials>MD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Surgical Oncology, Department of Surgery, University of Colorado Denver, Aurora, CO, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Weyant</LastName>
+            <ForeName>Michael J</ForeName>
+            <Initials>MJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cardiothoracic Surgery, Section of General Thoracic Surgery, Department of Surgery, University of Colorado Denver, Aurora, CO, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gleisner</LastName>
+            <ForeName>Ana L</ForeName>
+            <Initials>AL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Surgical Oncology, Department of Surgery, University of Colorado Denver, Aurora, CO, USA. ana.gleisner@ucdenver.edu.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Surgical Outcomes and Applied Research (SOAR), University of Colorado Denver, Aurora, CO, USA. ana.gleisner@ucdenver.edu.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>University of Colorado School of Medicine, 12631 E. 17th Avenue, MS C313, Aurora, CO, 80045, USA. ana.gleisner@ucdenver.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>10</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Surg Endosc</MedlineTA>
+        <NlmUniqueID>8806653</NlmUniqueID>
+        <ISSNLinking>0930-2794</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="N">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061887" MajorTopicYN="N">Conversion to Open Surgery</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016208" MajorTopicYN="N">Databases, Factual</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004938" MajorTopicYN="N">Esophageal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016629" MajorTopicYN="N">Esophagectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008198" MajorTopicYN="N">Lymph Nodes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000072662" MajorTopicYN="N">Margins of Excision</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019060" MajorTopicYN="N">Minimally Invasive Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+          <QualifierName UI="Q000639" MajorTopicYN="N">trends</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016017" MajorTopicYN="N">Odds Ratio</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010359" MajorTopicYN="N">Patient Readmission</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012044" MajorTopicYN="N">Regression Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014481" MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Conversion</Keyword>
+        <Keyword MajorTopicYN="N">Esophageal cancer</Keyword>
+        <Keyword MajorTopicYN="N">Minimally invasive esophagectomy</Keyword>
+        <Keyword MajorTopicYN="N">NCDB</Keyword>
+        <Keyword MajorTopicYN="N">Outcomes</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2019</Year>
+          <Month>05</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2019</Year>
+          <Month>09</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>10</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>10</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31591657</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00464-019-07124-y</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00464-019-07124-y</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ann Thorac Surg. 2018 May;105(5):1476-1482</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29373825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Esophagus. 2016 May;29(4):326-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25716873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2017 Nov;266(5):839-846</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28796016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Surg. 2014 Jun;218(6):1130-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24698488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Esophagus. 2012 Jul;25(5):403-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21899652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Epidemiol Biomarkers Prev. 2016 Jan;25(1):16-27</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26667886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Surg. 2016 Jan;25:69-75</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26602969</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 2010 Jun;147(6):830-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20045162</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Thorac Surg. 2016 Aug;102(2):416-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27157326</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Laparoendosc Adv Surg Tech A. 2014 Feb;24(2):89-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24401141</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Visc Med. 2018 Feb;34(1):10-15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29594164</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Gastrointest Surg. 2013 Aug;17(8):1346-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23690208</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2019 Jan 10;380(2):152-162</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30625052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Thorac Dis. 2019 Apr;11(Suppl 5):S777-S785</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31080658</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2012 Jul;256(1):95-103</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22668811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2017 Aug;266(2):232-236</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28187044</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 2004 Jun;135(6):569-75</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15179361</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Epidemiol. 1992 Jun;45(6):613-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1607900</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Cardiothorac Surg. 2018 May 23;13(1):52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29792203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Thorac Surg. 2016 Apr;101(4):1281-8; discussion 1288-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26704412</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2012 May 19;379(9829):1887-92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22552194</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2015 Apr;261(4):702-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25575253</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Gastroenterol. 2015 Dec 7;21(45):12873-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26668512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>CA Cancer J Clin. 2015 Mar;65(2):87-108</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25651787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Esophagus. 2017 Oct 1;30(10):1-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28859385</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">36730634</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>03</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1536-3732</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>34</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <MedlineDate>2023 Mar-Apr 01</MedlineDate>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of craniofacial surgery</Title>
+          <ISOAbbreviation>J Craniofac Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Advances in Robot-Assisted Surgery for Facial Bone Contouring Surgery.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>813-816</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/SCS.0000000000009128</ELocationID>
+        <Abstract>
+          <AbstractText>Since our team reported the application of robot-assisted surgery in facial contouring surgery in 2020, further clinical trials with large samples have been conducted. This paper will report the interim results of a single-center, large-sample randomized controlled trial of the first robot developed by our team for facial contouring surgery. Meanwhile, this research field will be systematically reviewed and prospected.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 by Mutaz B. Habal, MD.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Li</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Zhijie</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Wenqing</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sun</LastName>
+            <ForeName>Mengzhe</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Ziwei</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Byeong Seop</ForeName>
+            <Initials>BS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yan</LastName>
+            <ForeName>Yingjie</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Xiaojun</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aung</LastName>
+            <ForeName>Zin Mar</ForeName>
+            <Initials>ZM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Xiangqi</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Xuetong</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Xing</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Xianxian</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Bingshun</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biostatistics, Clinical Research Institute, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chai</LastName>
+            <ForeName>Gang</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Haisong</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Plastic and Reconstructive Surgery, Shanghai 9th People's Hospital, School of Medicine, Shanghai Jiao Tong University.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Craniofac Surg</MedlineTA>
+        <NlmUniqueID>9010410</NlmUniqueID>
+        <ISSNLinking>1049-2275</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005145" MajorTopicYN="N">Face</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019637" MajorTopicYN="Y">Orthopedic Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005147" MajorTopicYN="N">Facial Bones</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors report no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>08</Month>
+          <Day>31</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>09</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>2</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>3</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>2</Month>
+          <Day>2</Day>
+          <Hour>14</Hour>
+          <Minute>54</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">36730634</ArticleId>
+        <ArticleId IdType="doi">10.1097/SCS.0000000000009128</ArticleId>
+        <ArticleId IdType="pii">00001665-990000000-00482</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Park S. Facial Bone Contouring Surgery: A Practical Guide, 1 ed. Springer; 2018</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee TS, Park S. Surgical tip for prevention of lip injury during orthognathic and facial bone contouring surgery. J Craniofac Surg 2017;28:E667–E668</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kwoh YS, Hou J, Jonckheere EA, et al. A robot with improved absolute positioning accuracy for CT guided stereotactic brain surgery. IEEE Trans Biomed Eng 1988;35:153–160</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yang GZ, McNutt M. Robotics takes off. Science 2016;352:1255</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Svoboda E. Your robot surgeon will see you now. Nature 2019;573:S110–S111</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ramirez PT, Frumovitz M, Pareja R, et al. Minimally invasive versus abdominal radical hysterectomy for cervical cancer. N Engl J Med 2018;379:1895–1904</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lin L, Shi Y, Tan A, et al. Mandibular angle split osteotomy based on a novel augmented reality navigation using specialized robot-assisted arms--A feasibility study. J Craniomaxillofac Surg 2016;44:215–223</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhou C, Zhu M, Shi Y, et al. Robot-assisted surgery for mandibular angle split osteotomy using augmented reality: preliminary results on clinical animal experiment. Aesthetic Plast Surg 2017;41:1228–1236</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shi Y, Lin L, Zhou C, et al. A study of an assisting robot for mandible plastic surgery based on augmented reality. Minim Invasive Ther Allied Technol 2017;26:23–30</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lin L, Xu C, Shi Y, et al. Preliminary clinical experience of robot-assisted surgery in treatment with genioplasty. Sci Rep 2021;11:6365</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu C, Lin L, Zhou C, et al. A compact surgical robot system for craniomaxillofacial surgery and its preliminary study. J Craniofac Surg 2021;32:101–107</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lin L, Gao Y, Chai G, et al. Electromagnetic navigation in craniofacial surgery based on automatic registration of dental splints. J Craniofac Surg 2020;31:393–396</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sun MZ, Lin L, Chen XJ, et al. Robot-assisted mandibular angle osteotomy using electromagnetic navigation. Ann Transl Med 2021;9:567</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lin L, Sun M, Xu C, et al. Assessment of robot-assisted mandibular contouring surgery in comparison with traditional surgery: a prospective, single-center, randomized controlled trial. Aesthet Surg J 2022;42:567–579</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aung ZM, Chen X, Xu C, et al. Model experimental study of man-machine interactive robot-assisted craniotomy. J Craniofac Surg 2021;32:925–930</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu C, Lin L, Aung ZM, et al. A Preliminary study on animal experiments of robot-assisted craniotomy. World Neurosurg 2021;149:e748–e757</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu C, Lin L, Aung ZM, et al. Research on spatial motion safety constraints and cooperative control of robot-assisted craniotomy: Beagle model experiment verification. Int J Med Robot Comp 2021;17:e2231</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cutting C, Bookstein F, Taylor R Taylor RH, Lavallee S, Burdea G, Mosges R. Applications of simulation, morphometrics and robotics in craniofacial surgery,” in Computer-Integrated Surgery. Cambridge, MA: MIT Press; 1996:641–662.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Klein M, Lueth T, Hein A, et al. Robot assisted insertion of craniofacial implants - clinical experience. CARS 2001;1230:133–138.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hein A, Klein M, Lueth TC, et al. MICCAI ‘01: Proceedings of the 4th International Conference on Medical Image Computing and Computer-Assisted Intervention. October 2001:591–598</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hein A, Lueth TC. Robot control in maxillofacial surgery. Lect Notes Contr Inf 2000;250:173–182</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Albrecht J, Lueth TC, Hein A, et al. Measurement of the slice distance accuracy of the mobile CT tomoscan. CARS 2000;1214:651–655</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hein A, Lueth TC. Image-based control of interactive robotics systems. Lect Notes Comput Sc 1999;1679:1125–1132</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lueth TC, Hein A, Albrecht J, et al. A surgical robot system for maxillofacial surgery. IECON ‘98. Proceedings of the 24th Annual Conference of the IEEE Industrial Electronics Society (Cat. No. 98CH36200), 1998;4:2470–2475</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Eggers G, Wirtz CW, Engel D, et al. Robot-assisted craniotomy. Minim Invas Neurosur 2005;48:154–158</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Korb W, Boesecke R, Eggers G, et al. Safety of surgical robots in clinical trials. Perspective Image-Guided Surgery 2004:391–396</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Knoop H, Raczkowsky J, Peters H, et al. Robot-assisted milling of complex trajectories. Int Congr 2004;1268:1337–1337</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Eggers G, Dauber S, Korb W, et al. Image data acquisition and segmentation for accurate modeling of the calvarium. Proc SPIE 2004;5367:829–836</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Raczkowsky J, Däuber S, Engel D, et al. Karlsruhe surgical robotics research. 2003.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Korb W, Engel D, Boesecke R, et al. Risk analysis for a reliable and safe surgical robot system. Int Congr Ser 2003;1256:766–770</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Korb W, Engel D, Boesecke R, et al. Development and first patient trial of a surgical robot for complex trajectory milling. Comput Aided Surg 2003;8:247–256</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Engel D, Korb W, Raczkowsky J, et al. Location decision for a robot milling complex trajectories in craniofacial surgery. Int Congr Ser 2003;1256:760–765</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Weihe S, Engel D, Wehmoller M, et al. Single-step robot guided bone resection and individual reconstruction of the skull. CARS . 2002:86-91</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Engel D, Raczkowsky J, Woern H Sensor-aided milling with a surgical robot system. CARS . 2002:212-217</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Engel D, Raczkowsky J, Worn H A safe robot system for craniofacial surgery. In IEEE International Conference on Robotics and Automation, 2001 Proceedings . 2001</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Engel D, Raczkowsky J, Woern H. A supervising system for robot application in surgery. Lect Notes Comput Sci 2001;2208:1308–1309</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Abegg F, Engel D, Worn H. A robust algorithm for segmenting deformable linear objects from video image sequences. Proceedings 15th International Conference on Pattern Recognition. ICPR-2000 2000;4:756–759</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cunha-Cruz V, Follmann A, Popovic A, et al. Robot- and computer-assisted craniotomy (CRANIO): from active systems to synergistic man-machine interaction. Proc Inst Mech Eng H 2010;224:441–452</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fieten L, Schmieder K, Engelhardt M, et al. Fast and accurate registration of cranial CT images with A-mode ultrasound. Int J Comput Assist Radiol Surg 2009;4:225–237</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wu T, Engelhardt M, Fieten L, et al. Anatomically constrained deformation for design of cranial implant: Methodology and validation. Med Image Comput Comput Assist Interv 2006;4190:9–16</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Engelhardt M, Bast P, Jeblink N, et al. Analysis of surgical management of calvarial tumours and first results of a newly designed robotic trepanation system. Minim Invasive Neurosurg 2006;49:98–103</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bast P, Popovic A, Wu T, et al. Robot- and computer-assisted craniotomy: resection planning, implant modelling and robot safety. Int J Med Robot 2006;2:168–178</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Popovic A, Heger S, Engelhardt M, et al. Efficient non-invasive registration with A-mode ultrasound in skull surgery. CARS 2005;1281:821–826</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Engelhardt M, Bast P, Lauer W, et al. Manual vs. robotic milling parameters for development of a new robotic system in cranial surgery. Int Congr 2004;1268:533–538</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Popovic A, Engelhardt M, Wu T, et al. CRANIO—computer-assisted planning for navigated and robot-assisted surgery on the skull. Int Congr Ser 2003;1256:1269–1275</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brandt G, Radermacher K, Zimolong A, et al. CRIGOS—development of a compact robot system for image-guided orthopedic surgery. Orthopade 2000;29:645–649</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gui H, Zhang S, Luan N, et al. A novel system for navigation-and robot-assisted craniofacial surgery: establishment of the principle prototype. The J Craniofac Surg 2015;26:e746–e749</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xia T, Baird C, Jallo G, et al. An integrated system for planning, navigation and robotic assistance for skull base surgery. Int J Med Robot 2008;4:321–330</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Duan X, Gao L, Wang Y, et al. Modelling and experiment based on a navigation system for a cranio-maxillofacial surgical robot. J Healthc Eng 2018;2018:4670852</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhu JH, Wang J, Wang YG, et al. Performance of robotic assistance for skull base biopsy: a phantom study. J Neurol Surg B Skull Base 2017;78:385–392</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Syed AA, Duan XG, Kong XZ, et al. 6-DOF Maxillofacial surgical robotic manipulator controlled by Haptic device. International Conference on Ubiquitous Robots and Ambient Intelligence IEEE 2013:363-368</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Duan XG, Wang YG, Kong XZ, et al. Mechanical design and kinematic analysis of a medical robot assisted maxillofacial surgery. Icme International Conference on Complex Medical Engineering IEEE 2013</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kong XZ, Duan XG, Wang YG Development of a Maxillofacial Multi-arm Surgery Robot. IEEE International Conference on Robotics &amp; Biomimetics IEEE 2012</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Weber S, Gavaghan K, Wimmer W, et al. Instrument flight to the inner ear. Sci Robot 2017;2:eaal4916</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Baek KW, Deibel W, Marinov D, et al. Clinical applicability of robot-guided contact-free laser osteotomy in cranio-maxillo-facial surgery: in-vitro simulation and in-vivo surgery in minipig mandibles. Br J Oral Maxillofac Surg 2015;53:976–981</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Holzinger D, Ureel M, Wilken T, et al. First-in-man application of a cold ablation robot guided laser osteotome in midface osteotomies. J Craniomaxillofac Surg 2021;49:531–537</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Woo SY, Lee SJ, Yoo JY, et al. Autonomous bone reposition around anatomical landmark for robot-assisted orthognathic surgery. J Craniomaxillofac Surg 2017;45:1980–1988</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ma Q, Kobayashi E, Wang J, et al. Development and preliminary evaluation of an autonomous surgical system for oral and maxillofacial surgery. Int J Med Robot 2019;15:e1997</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ma Q, Kobayashi E, Fan B, et al. Automatic 3D landmarking model using patch-based deep neural networks for CT image of oral and maxillofacial surgery. Int J Med Robot 2020;16:e2093</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37291043</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1097-6841</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>133</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of prosthetic dentistry</Title>
+          <ISOAbbreviation>J Prosthet Dent</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Accuracy of an autonomous dental implant robotic system versus static guide-assisted implant surgery: A retrospective clinical study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>771-779</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0022-3913(23)00284-6</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.prosdent.2023.04.027</ELocationID>
+        <Abstract>
+          <AbstractText Label="STATEMENT OF PROBLEM" NlmCategory="BACKGROUND">The accuracy of implant placement is a prerequisite for prosthetically driven implant surgery and is necessary to ensure the long-term stability of dental implants. Imprecise implant position may bring difficulties for restoration, damage anatomic structures, affect peri-implant tissues, and lead to ultimate implant failure.</AbstractText>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The purpose of this retrospective clinical study was to compare the accuracy of implants placed with an autonomous dental implant robotic (ADIR) system with those placed with static computer assisted implant surgery (sCAIS).</AbstractText>
+          <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">Thirty-nine participants were enrolled in this retrospective study: 20 participants had received implant surgery with the ADIR system and 19 participants had implants placed with sCAIS. The preoperative plans and postoperative cone beam computed tomography (CBCT) scans after implant placement were matched during the study. The coronal, apical, and angular deviations were measured and analyzed. A linear regression model was established to analyze the source of deviation. MANOVA was used to compare differences in the major outcome variables (α=.05).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 60 implants were placed in 39 participants (30 in each of the 2 groups). The mean ±standard deviation coronal, apical, and angular deviation of the ADIR system group and sCAIS group were 0.43 ±0.18 mm versus 1.31 ±0.62 mm (P&lt;.001), 0.56 ±0.18 mm versus 1.47 ±0.65 mm (P&lt;.001), and 1.48 ±0.59 degrees versus 2.42 ±1.55 degrees (P=.003), respectively. In addition, there was no significant difference in accuracy in the different implant regions (anterior, premolar, molar, maxilla, mandible) (P&gt;.05). No complications were observed.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The accuracy of the implant position using the ADIR system was significantly higher than with sCAIS, suggesting that the ADIR system can achieve minimally invasive and excellent accuracy. In addition, implant regions had no significant influence on the accuracy of implant placement. (Keywords: Robotic system, Implant surgery, Static guide, Autonomous, Accuracy).</AbstractText>
+          <CopyrightInformation>Copyright © 2023 Editorial Council for The Journal of Prosthetic Dentistry. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Jia</LastName>
+            <ForeName>Shasha</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Post-Graduate, Department of Oral Implantology, The Affiliated Hospital of Qingdao University, Qingdao, PR China; Post-Graduate, Oral and Maxillofacial Surgery Teaching and Research Section, School of Stomatology, Qingdao University, Qingdao, PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Guowei</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Associate Professor, Department of Stomatology, No. 971 Hospital of the Chinese Navy, Qingdao, Shandong, PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Yimin</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Professor, State Key Laboratory of Military Stomatology &amp; National Clinical Research Center for Oral Diseases &amp; Shaanxi Key Laboratory of Stomatology, Digital Dentistry, Center, School of Stomatology, The Fourth Military Medical University, Xi'an, PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Xiaojing</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Associate Professor, Department of Oral Implantology, The Affiliated Hospital of Qingdao University, Qingdao, PR China; Associate Professor, Oral and Maxillofacial Surgery Teaching and Research Section, School of Stomatology, Qingdao University, Qingdao, PR China. Electronic address: wangxj_amy@yahoo.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>06</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Prosthet Dent</MedlineTA>
+        <NlmUniqueID>0376364</NlmUniqueID>
+        <ISSNLinking>0022-3913</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015921">Dental Implants</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003758" MajorTopicYN="Y">Dental Implantation, Endosseous</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054893" MajorTopicYN="Y">Cone-Beam Computed Tomography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="Y">Surgery, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015921" MajorTopicYN="N">Dental Implants</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>12</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2023</Year>
+          <Month>04</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>04</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>14</Day>
+          <Hour>11</Hour>
+          <Minute>17</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>6</Month>
+          <Day>9</Day>
+          <Hour>1</Hour>
+          <Minute>9</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>6</Month>
+          <Day>8</Day>
+          <Hour>21</Hour>
+          <Minute>59</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37291043</ArticleId>
+        <ArticleId IdType="pii">S0022-3913(23)00284-6</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.prosdent.2023.04.027</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">39012279</PMID>
+      <DateCompleted>
+        <Year>2024</Year>
+        <Month>09</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1557-3265</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>30</Volume>
+            <Issue>18</Issue>
+            <PubDate>
+              <Year>2024</Year>
+              <Month>Sep</Month>
+              <Day>13</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Clinical cancer research : an official journal of the American Association for Cancer Research</Title>
+          <ISOAbbreviation>Clin Cancer Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Interim Phase II Results Using Panitumumab-IRDye800CW during Transoral Robotic Surgery in Patients with Oropharyngeal Cancer.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>4016-4028</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1158/1078-0432.CCR-24-0940</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="UNASSIGNED">The incidence of oropharyngeal squamous cell carcinoma (OPSCC) has continually increased during the past several decades. Using transoral robotic surgery (TORS) significantly improves functional outcomes relative to open surgery for OPSCC. However, TORS limits tactile feedback, which is often the most important element of cancer surgery. Fluorescence-guided surgery (FGS) strategies to aid surgeon assessment of malignancy for resection are in various phases of clinical research but exhibit the greatest potential impact for improving patient care when the surgeon receives limited tactile feedback, such as during TORS. Here, we assessed the feasibility of intraoperative fluorescence imaging using panitumumab-IRDye800CW (PAN800) during TORS in patients with OPSCC.</AbstractText>
+          <AbstractText Label="PATIENTS AND METHODS" NlmCategory="UNASSIGNED">Twelve consecutive patients with OPSCC were enrolled as part of a nonrandomized, prospective, phase II FGS clinical trial using PAN800. TORS was performed with an integrated robot camera for surgeon assessment of fluorescence. Intraoperative and ex vivo fluorescence signals in tumors and normal tissue were quantified and correlated with histopathology.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="UNASSIGNED">Intraoperative robot fluorescence views delineated OPSCC from normal tissue throughout the TORS procedure (10.7 mean tumor-to-background ratio), including in tumors with low expression of the molecular target. Tumor-specific fluorescence was consistent with surgeon-defined tumor borders requiring resection. Intraoperative robot fluorescence imaging revealed an OPSCC fragment initially overlooked during TORS based on brightfield views, further substantiating the clinical benefit of this FGS approach.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="UNASSIGNED">The results from this patient with OPSCC cohort support further clinical assessment of FGS during TORS to aid resection of solid tumors.</AbstractText>
+          <CopyrightInformation>©2024 American Association for Cancer Research.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Stone</LastName>
+            <ForeName>Logan D</ForeName>
+            <Initials>LD</Initials>
+            <Identifier Source="ORCID">0000-0002-5802-8888</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Kasten</LastName>
+            <ForeName>Benjamin B</ForeName>
+            <Initials>BB</Initials>
+            <Identifier Source="ORCID">0000-0001-9918-0379</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rao</LastName>
+            <ForeName>Shilpa</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0002-3679-4127</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gonzalez</LastName>
+            <ForeName>Manuel L</ForeName>
+            <Initials>ML</Initials>
+            <Identifier Source="ORCID">0000-0002-2479-1519</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, University of Miami, Miami, Florida.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stevens</LastName>
+            <ForeName>Todd M</ForeName>
+            <Initials>TM</Initials>
+            <Identifier Source="ORCID">0000-0002-2313-463X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, University of Kansas Medical Center, Kansas City, Kansas.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Diana</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">0000-0002-3751-9514</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Carroll</LastName>
+            <ForeName>William</ForeName>
+            <Initials>W</Initials>
+            <Identifier Source="ORCID">0000-0002-5768-1826</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Greene</LastName>
+            <ForeName>Benjamin</ForeName>
+            <Initials>B</Initials>
+            <Identifier Source="ORCID">0000-0003-3973-9753</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moore</LastName>
+            <ForeName>Lindsay S</ForeName>
+            <Initials>LS</Initials>
+            <Identifier Source="ORCID">0000-0002-2623-8602</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fuson</LastName>
+            <ForeName>Andrew</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0003-0664-5910</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>James</LastName>
+            <ForeName>Sherin</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0002-1036-5842</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hartman</LastName>
+            <ForeName>Yolanda E</ForeName>
+            <Initials>YE</Initials>
+            <Identifier Source="ORCID">0009-0005-0948-6101</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McCammon</LastName>
+            <ForeName>Susan</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0002-1397-0159</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Panuganti</LastName>
+            <ForeName>Bharat</ForeName>
+            <Initials>B</Initials>
+            <Identifier Source="ORCID">0000-0003-1149-9532</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nabell</LastName>
+            <ForeName>Lisle M</ForeName>
+            <Initials>LM</Initials>
+            <Identifier Source="ORCID">0000-0003-0648-5718</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Hematology/Oncology, Department of Medicine, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Yufeng</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0003-4704-9365</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Medicine, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Mei</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0002-1909-4751</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Medicine, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bailey</LastName>
+            <ForeName>Luke</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">0009-0009-8555-7900</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rosenthal</LastName>
+            <ForeName>Eben L</ForeName>
+            <Initials>EL</Initials>
+            <Identifier Source="ORCID">0000-0003-0294-5203</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology-Head and Neck Surgery, Vanderbilt University, Nashville, Tennessee.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jeyarajan</LastName>
+            <ForeName>Harishanker</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">0000-0001-7277-2024</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Thomas</LastName>
+            <ForeName>Carissa M</ForeName>
+            <Initials>CM</Initials>
+            <Identifier Source="ORCID">0000-0003-0765-5731</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Warram</LastName>
+            <ForeName>Jason M</ForeName>
+            <Initials>JM</Initials>
+            <Identifier Source="ORCID">0000-0001-5230-0011</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R37 CA245157</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D017427">Clinical Trial, Phase II</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Clin Cancer Res</MedlineTA>
+        <NlmUniqueID>9502500</NlmUniqueID>
+        <ISSNLinking>1078-0432</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>6A901E312A</RegistryNumber>
+          <NameOfSubstance UI="D000077544">Panitumumab</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D007211">Indoles</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C562366">IRDye 800CW</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001557">Benzenesulfonates</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000077544" MajorTopicYN="Y">Panitumumab</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009959" MajorTopicYN="Y">Oropharyngeal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007211" MajorTopicYN="Y">Indoles</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061848" MajorTopicYN="N">Optical Imaging</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025321" MajorTopicYN="N">Surgery, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001557" MajorTopicYN="N">Benzenesulfonates</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>03</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2024</Year>
+          <Month>05</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>07</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>9</Month>
+          <Day>14</Day>
+          <Hour>10</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>7</Month>
+          <Day>16</Day>
+          <Hour>12</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>7</Month>
+          <Day>16</Day>
+          <Hour>10</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39012279</ArticleId>
+        <ArticleId IdType="pii">746432</ArticleId>
+        <ArticleId IdType="doi">10.1158/1078-0432.CCR-24-0940</ArticleId>
+        <ArticleId IdType="pmc">PMC11398989</ArticleId>
+        <ArticleId IdType="mid">NIHMS2011576</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>J Clin Oncol. 2023 Jan 10;41(2):276-284</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36070540</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Clin Oncol. 2017 Jun;14(6):347-364</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28094261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Oncol. 2021 May;22(5):e186-e195</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33765422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Oncol. 2020 Jan 10;9:1476</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31998640</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Nucl Med. 2022 Nov;63(11):1693-1700</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35332092</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Clin Oncol. 2022 Jan;19(1):9-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34493858</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oral Surg Oral Med Oral Pathol Oral Radiol. 2021 Jul;132(1):18-25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33744203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Imaging Biol. 2021 Feb;23(1):109-116</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32880818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Gastroenterol Hepatol. 2020 Aug;5(8):753-764</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32416764</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oral Oncol. 2023 Oct;145:106467</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37454544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Oral Maxillofac Surg. 2003 Aug;41(4):224-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12946663</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adv Cancer Res. 2021;152:67-102</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34353444</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Res. 2018 Sep 1;78(17):5144-5154</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29967260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Theranostics. 2018 Mar 28;8(9):2488-2495</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29721094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Commun. 2023 Aug 16;14(1):4952</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37587149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Oncol. 2022 Jan 10;40(2):138-149</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34699271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Transl Biophotonics. 2019 Dec;1(1-2):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32656529</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Oncol. 2022 Nov 09;12:992348</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36439459</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oral Oncol. 2019 Jan;88:58-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30616798</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Nucl Med. 2022 Aug;63(8):1162-1168</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35027369</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Biomed Opt. 2023 May;28(5):050901</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37193364</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Thorac Cardiovasc Surg. 2023 Dec;166(6):e468-e478</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37019717</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Robot Surg. 2021 Feb;15(1):1-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32749569</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Otolaryngol Clin North Am. 2020 Dec;53(6):995-1003</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32854946</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oral Oncol. 2018 Dec;87:82-88</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30527249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2017 Jul;266(1):36-47</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28045715</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Head Neck. 2020 May;42(5):1089-1104</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32068940</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2019 Nov;26(12):4070-4080</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31385128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Head Neck. 2022 Jan;44(1):143-157</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34747531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncol Lett. 2017 Feb;13(2):912-920</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28356978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Commun. 2019 Nov 6;10(1):5044</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31695030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurooncol. 2019 Feb;141(3):479-486</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30644008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Laryngoscope. 2012 Aug;122(8):1701-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22752997</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Pharm Biopharm. 2020 Jul;152:123-143</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32437752</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Theranostics. 2021 May 24;11(15):7188-7198</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34158844</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Natl Cancer Inst. 2008 Feb 20;100(4):261-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18270337</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>HNO. 1994 Feb;42(2):104-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8163394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2012 Nov;19(12):3879-87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22669455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Nucl Med. 2019 Jun;60(6):758-763</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30733319</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ Open. 2016 Nov 14;6(11):e012799</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28137831</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oral Oncol. 2023 Dec;147:106610</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37951118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Head Neck. 2013 Sep;35(9):1362-70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22941934</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Otolaryngol. 2018 Mar - Apr;39(2):220-222</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29128262</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Cancer Res. 2017 Aug 15;23(16):4744-4752</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28446503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Imaging Biol. 2023 Feb;25(1):85-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34101106</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Theranostics. 2021 May 21;11(15):7130-7143</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34158840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAMA Surg. 2022 Jul 1;157(7):573-580</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35544130</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Theranostics. 2018 Oct 22;8(19):5336-5347</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30555550</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Head Neck. 2015 Nov;37(11):1618-24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24955923</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40074689</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>12</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1759-7714</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>16</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Thoracic cancer</Title>
+          <ISOAbbreviation>Thorac Cancer</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of Early Functional Recovery Following Triportal Robot-Assisted and Uniportal Video-Assisted Segmentectomy in Patients With Early-Stage Non-Small Cell Lung Cancer: A Propensity Score-Matched Analysis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e70041</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/1759-7714.70041</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Robot-assisted thoracoscopic surgery (RATS) is more precise and flexible than video-assisted thoracoscopic surgery (VATS) for early-stage non-small cell lung cancer (NSCLC) treatment. This study compared the early postoperative functional recovery of patients who underwent triportal RATS with that of patients who underwent uniportal video-assisted thoracic surgery (UVATS) for segmentectomy.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This observational, prospective study included 172 patients with clinical stage I or II peripheral NSCLC who underwent RATS or UVATS segmentectomy. Propensity score matching (PSM) was used to balance differences between groups. The functional recovery data were collected during the first 4 weeks after discharge via portable devices and questionnaires (EORTC QLQ-C30, Christensen Fatigue Scale, MD Anderson Symptom Inventory, and Leicester Cough Questionnaire).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">After PSM, the baseline characteristics were consistent between the groups. RATS was associated with shorter operation time and lower total drainage volume compared to UVATS. However, RATS was associated with more cases of severe postoperative pain. Despite this, patients who underwent RATS recovered well, showed good short-term outcomes in fatigue and physical function, and experienced few postoperative adverse events. The differences in average daily step count and sleep duration were not significant. In terms of global health status (GHS), RATS was slightly but nonsignificantly advantageous.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In the enhanced recovery after surgery (ERAS) pathway, triportal RATS has potential benefits in terms of perioperative and early postoperative functional recovery after segmentectomy.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">Biomedical Research Ethics Committee of Shandong Province: 2022-580; Chinese Clinical Trial Registry: ChiCTR2300067977.</AbstractText>
+          <CopyrightInformation>© 2025 The Author(s). Thoracic Cancer published by John Wiley &amp; Sons Australia, Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Yan-Cheng</ForeName>
+            <Initials>YC</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0009-0001-4889-9479</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Shandong First Medical University, Jinan, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Diao</LastName>
+            <ForeName>Hai-Xiao</ForeName>
+            <Initials>HX</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Clinical Research Center for Cancer, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Lin</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Shandong First Medical University, Jinan, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peng</LastName>
+            <ForeName>Zhong-Min</ForeName>
+            <Initials>ZM</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-3067-5610</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Shandong First Medical University, Jinan, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>2019JZZY021002</GrantID>
+            <Agency>Major Scientific and Technological Innovation Project of Shandong Province</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D064888">Observational Study</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Singapore</Country>
+        <MedlineTA>Thorac Cancer</MedlineTA>
+        <NlmUniqueID>101531441</NlmUniqueID>
+        <ISSNLinking>1759-7706</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002289" MajorTopicYN="Y">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008175" MajorTopicYN="Y">Lung Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020775" MajorTopicYN="Y">Thoracic Surgery, Video-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057216" MajorTopicYN="Y">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020127" MajorTopicYN="N">Recovery of Function</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011013" MajorTopicYN="N">Pneumonectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">non‐small cell lung cancer</Keyword>
+        <Keyword MajorTopicYN="N">postoperative recovery</Keyword>
+        <Keyword MajorTopicYN="N">robot‐assisted thoracoscopic surgery</Keyword>
+        <Keyword MajorTopicYN="N">segmentectomy</Keyword>
+        <Keyword MajorTopicYN="N">uniportal video‐assisted thoracic surgery</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>13</Day>
+          <Hour>0</Hour>
+          <Minute>34</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>13</Day>
+          <Hour>0</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>12</Day>
+          <Hour>23</Hour>
+          <Minute>23</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40074689</ArticleId>
+        <ArticleId IdType="doi">10.1111/1759-7714.70041</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Qual Life Res. 2019 Apr;28(4):991-1003</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30506178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2024 Apr;31(4):2470-2481</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38105381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2022 Feb 1;275(2):295-302</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33938492</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain. 2019 Oct;160(10):2350-2357</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31145215</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 2005 Dec;128(6):4041-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16354879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>CA Cancer J Clin. 2021 May;71(3):209-249</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33538338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thorax. 2003 Apr;58(4):339-43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12668799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2021 Aug 7;398(10299):535-554</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34273294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet Respir Med. 2018 Dec;6(12):915-924</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30442588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Oncol. 2022 Sep 16;12:1009298</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36185241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gait Posture. 2021 Jun;87:6-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33866152</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Cancer. 2021 May 3;21(1):498</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33941112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Digit Health. 2022 Aug 29;8:20552076221121162</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36060611</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2021 Dec 1;274(6):e1008-e1013</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31851005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Thorac Cardiovasc Surg. 2020 Nov;160(5):1363-1372</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32113718</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg Oncol. 2023 May;30(5):2757-2764</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36774436</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Innovations (Phila). 2019 Jun;14(3):263-271</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31050320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Cardiothorac Surg. 2008 Jul;34(1):174-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18490173</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2013 Sep 5;369(10):910-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24004118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 2017 Jan;151(1):193-203</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27780786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Natl Compr Canc Netw. 2024 May;22(4):249-274</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">38754467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Interact Cardiovasc Thorac Surg. 2018 Sep 1;27(3):379-383</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30165553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anaesthesia. 2022 May;77(5):555-561</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35261025</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Thorac Dis. 2022 Mar;14(3):689-698</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35399249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Cardiothorac Surg. 2019 Jan 1;55(1):91-115</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30304509</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pediatr Psychol. 2001 Apr-May;26(3):145-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11259516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pain Symptom Manage. 2002 Jul;24(1 Suppl):S38-47</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12204486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Natl Compr Canc Netw. 2022 May;20(5):497-530</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35545176</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Respirology. 2020 Nov;25 Suppl 2:49-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32734596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JCO Oncol Pract. 2020 Oct;16(10):e1151-e1160</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32539654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Treat Options Oncol. 2019 Feb 11;20(2):16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30741372</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncologist. 2020 Apr;25(4):e722-e732</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32297435</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Thorac Surg. 1995 Sep;60(3):615-22; discussion 622-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7677489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2022 Apr 23;399(10335):1607-1617</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35461558</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 2023 Jun;163(6):1576-1588</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">36621757</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Transl Lung Cancer Res. 2021 Dec;10(12):4549-4557</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35070760</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lung Cancer. 2016 Nov;101:28-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27794405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain. 2011 Oct;152(10):2399-2404</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21856077</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Transl Lung Cancer Res. 2020 Apr;9(2):306-315</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32420070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhongguo Fei Ai Za Zhi. 2019 Dec 20;22(12):767-771</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31874672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Med. 2023 Sep 27;12(19):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">37834873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Oncol. 2022 May 27;12:858242</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35692744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Epidemiol. 2004 Dec;57(12):1288-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15617955</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Thorac Dis. 2020 May;12(5):2343-2351</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32642139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Transl Lung Cancer Res. 2020 Aug;9(4):971-987</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32953478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">40082987</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>03</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1749-799X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>20</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Mar</Month>
+              <Day>14</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of orthopaedic surgery and research</Title>
+          <ISOAbbreviation>J Orthop Surg Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robot-assisted total knee arthroplasty is more precise than conventional total knee arthroplasty in restoring knee, but not ankle alignment: a retrospective study based on imaging data.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>281</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13018-025-05678-3</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Knee osteoarthritis often leads to varus deformity, disrupting lower limb alignment and potentially causing ankle osteoarthritis. While total knee arthroplasty (TKA) can correct knee alignment and improve ankle alignment, the impact of different alignment strategies on the ankle remains unclear. This study investigates whether robot-assisted functional alignment (RA-FA) offers advantages over conventional mechanical alignment (CM-MA) in correcting ankle alignment, addressing the paucity of evidence on the impact of alignment strategies on distal joint biomechanics.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A retrospective analysis was conducted on radiographic data from 202 patients with primary knee osteoarthritis who underwent TKA. Patients were divided into two groups based on the surgical approach: CM-MA group and RA-FA group, with 101 patients in each group. Using preoperative and postoperative full-length lower limb X-rays, multiple coronal radiographic parameters of the knee and ankle joints were measured. The correlation between knee and ankle alignments was assessed. Patients were further subgrouped based on the type of knee varus deformity, and differences in alignment correction between CM-MA and RA-FA within these subgroups were analyzed.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Preoperatively, there were no significant differences in radiographic parameters of the knee and ankle between the two groups. Postoperatively, the RA-FA group showed superior correction in HKA and mLDFA compared to the CM-MA group. However, no statistically significant differences were observed between the two groups regarding ankle alignment correction. Subgroup analysis revealed that RA-FA was more effective in correcting knee alignment in specific subgroups. Nevertheless, even in these subgroups, RA-FA did not demonstrate a significant advantage over CM-MA in correcting ankle alignment.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This study highlights the close relationship between knee and ankle alignments and confirms that TKA can improve ankle alignment. While RA-FA allows for more precise adjustments in femoral osteotomy and implant positioning, it does not significantly improve ankle alignment compared to CM-MA. Future studies should investigate the long-term effects of TKA on ankle alignment and evaluate whether other alignment strategies or different types of prostheses may influence the prognosis of the ankle or more distal joints such as the subtalar joint.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Hongxu</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, Peking University China-Japan Friendship School of Clinical Medicine, Beijing, 100029, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Haoyang</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, Peking University China-Japan Friendship School of Clinical Medicine, Beijing, 100029, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Yu</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, Peking University China-Japan Friendship School of Clinical Medicine, Beijing, 100029, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Bailiang</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, Center for Osteonecrosis and Joint Preserving &amp; Reconstruction, China-Japan Friendship Hospital, Yinghua East Street, Chaoyang District, Beijing, 100029, Mainland, China. wang_orthopaedic@126.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ma</LastName>
+            <ForeName>Jinhui</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedic Surgery, Center for Osteonecrosis and Joint Preserving &amp; Reconstruction, China-Japan Friendship Hospital, Yinghua East Street, Chaoyang District, Beijing, 100029, Mainland, China. 1402317340@qq.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>NO. ZRJY2021-TD01</GrantID>
+            <Agency>Elite Medical Professionals project of China-Japan Friendship Hospital</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>52373273</GrantID>
+            <Agency>National Natural Science Foundation of China</Agency>
+            <Country />
+          </Grant>
+          <Grant>
+            <GrantID>2023JYY388</GrantID>
+            <Agency>Education and teaching reform research project of Capital Medical University</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>14</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Orthop Surg Res</MedlineTA>
+        <NlmUniqueID>101265112</NlmUniqueID>
+        <ISSNLinking>1749-799X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019645" MajorTopicYN="Y">Arthroplasty, Replacement, Knee</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000843" MajorTopicYN="Y">Ankle Joint</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020370" MajorTopicYN="Y">Osteoarthritis, Knee</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007719" MajorTopicYN="Y">Knee Joint</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011859" MajorTopicYN="N">Radiography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017760" MajorTopicYN="N">Bone Malalignment</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Ankle</Keyword>
+        <Keyword MajorTopicYN="N">Functional alignment</Keyword>
+        <Keyword MajorTopicYN="N">Knee osteoarthritis</Keyword>
+        <Keyword MajorTopicYN="N">Robot assist</Keyword>
+        <Keyword MajorTopicYN="N">Total knee arthroplasty</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Ethics approval and consent to participate: This study has been approved by the Ethics Committee of China-Japan Friendship Hospital (Ethical Review Number: 2023-KY-089). Consent for publication: Written informed consent for publication was obtained from the patients themselves. Competing interests: The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2025</Year>
+          <Month>01</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>03</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>14</Day>
+          <Hour>11</Hour>
+          <Minute>24</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>14</Day>
+          <Hour>11</Hour>
+          <Minute>23</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>3</Month>
+          <Day>14</Day>
+          <Hour>0</Hour>
+          <Minute>58</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40082987</ArticleId>
+        <ArticleId IdType="doi">10.1186/s13018-025-05678-3</ArticleId>
+        <ArticleId IdType="pii">10.1186/s13018-025-05678-3</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ramazanian T, Yan S, Rouzrokh P, Wyles CC, TJ OB, Taunton MJ, et al. Distribution and correlates of Hip-Knee-Ankle angle in early osteoarthritis and preoperative total knee arthroplasty patients. J Arthroplasty. 2022;37(6S):S170–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.arth.2021.12.009</ArticleId>
+            <ArticleId IdType="pubmed">35210147</ArticleId>
+            <ArticleId IdType="pmcid">9117418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu Y, Xing Z, Wu B, Chen N, Wu T, Cai Z, et al. Association of MRI-based knee osteoarthritis structural phenotypes with short-term structural progression and subsequent total knee replacement. J Orthop Surg Res. 2024;19(1):699.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13018-024-05194-w</ArticleId>
+            <ArticleId IdType="pubmed">39468567</ArticleId>
+            <ArticleId IdType="pmcid">11520466</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang J, Li X, Liu P, Liu X, Li L, Zhang M. The impact of patellofemoral joint diseases on functional outcomes and prosthesis survival in patients undergoing unicompartmental knee arthroplasty: a systematic review and meta-analysis. J Orthop Surg Res. 2024;19(1):840.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13018-024-05273-y</ArticleId>
+            <ArticleId IdType="pubmed">39696549</ArticleId>
+            <ArticleId IdType="pmcid">11656892</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang CB, Jeong JH, Chang MJ, Yoon C, Song MK, Kang S-B. Concomitant ankle osteoarthritis is related to increased ankle pain and a worse clinical outcome following total knee arthroplasty. JBJS. 2018;100(9):735–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2106/JBJS.17.00883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nakasa T, Ikuta Y, Sumii J, Nekomoto A, Adachi N. High-stress distribution in the lateral region of the subtalar joint in the patient with chronic lateral ankle instability. Arch Orthop Trauma Surg. 2022;142(7):1579–87.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00402-021-04078-6</ArticleId>
+            <ArticleId IdType="pubmed">34286364</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li X, Lai J, Yang X, Xu H, Xiang S. Intra-articular injection of Vancomycin after arthrotomy closure following gentamicin-impregnated bone cementation in primary total knee arthroplasty provides a high intra-articular concentration while avoiding systemic toxicity: a prospective study. J Orthop Surg Res. 2024;19(1):856.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13018-024-05357-9</ArticleId>
+            <ArticleId IdType="pubmed">39702402</ArticleId>
+            <ArticleId IdType="pmcid">11656557</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao C, Liao Q, Yang D, Yang M, Xu P. Advances in perioperative pain management for total knee arthroplasty: a review of multimodal analgesic approaches. J Orthop Surg Res. 2024;19(1):843.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13018-024-05324-4</ArticleId>
+            <ArticleId IdType="pubmed">39696522</ArticleId>
+            <ArticleId IdType="pmcid">11658298</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao F, Ma J, Sun W, Guo W, Li Z, Wang W. Radiographic assessment of knee-ankle alignment after total knee arthroplasty for varus and valgus knee osteoarthritis. Knee. 2017;24(1):107–15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.knee.2016.09.023</ArticleId>
+            <ArticleId IdType="pubmed">27856127</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oussedik S, Abdel MP, Victor J, Pagnano MW, Haddad FS. Alignment in total knee arthroplasty. Bone Joint J. 2020;102–b(3):276–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1302/0301-620X.102B3.BJJ-2019-1729</ArticleId>
+            <ArticleId IdType="pubmed">32114811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hirschmann MT, Moser LB, Amsler F, Behrend H, Leclerq V, Hess S. Functional knee phenotypes: a novel classification for phenotyping the coronal lower limb alignment based on the native alignment in young non-osteoarthritic patients. Knee Surg Sports Traumatol Arthrosc. 2019;27(5):1394–402.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00167-019-05509-z</ArticleId>
+            <ArticleId IdType="pubmed">30976825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang CB, Jeong JH, Chang MJ, Yoon C, Song MK, Kang SB. Concomitant ankle osteoarthritis is related to increased ankle pain and a worse clinical outcome following total knee arthroplasty. J Bone Joint Surg Am. 2018;100(9):735–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2106/JBJS.17.00883</ArticleId>
+            <ArticleId IdType="pubmed">29715221</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rühling M, Kirschbaum SM, Perka C, Graef F. Increased ankle pain after total knee arthroplasty is associated with a preoperative lateralized gait and Talar tilt, but not with ankle laxity or the range of motion of the subtalar joint. Bone Joint J. 2023;105–b(11):1159–67.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1302/0301-620X.105B11.BJJ-2023-0419.R1</ArticleId>
+            <ArticleId IdType="pubmed">37907076</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jin G, Fan Y, Jiang L, Chen Z, Wang C. MAKO robot-assisted total knee arthroplasty cannot reduce the aggravation of ankle varus incongruence after Genu varus correction &gt;/= 10 degrees: a radiographic assessment. BMC Musculoskelet Disord. 2023;24(1):492.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12891-023-06597-2</ArticleId>
+            <ArticleId IdType="pubmed">37322501</ArticleId>
+            <ArticleId IdType="pmcid">10268520</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Migliorini F, Pilone M, Schäfer L, Simeone F, Bell A, Maffulli N. Functional alignment in robotic-assisted total knee arthroplasty: a systematic review. Arch Orthop Trauma Surg. 2024;144(4):1741–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00402-023-05195-0</ArticleId>
+            <ArticleId IdType="pubmed">38337093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jeffrey M, Marchand P, Kouyoumdjian P, Coulomb R. Short-term functional outcomes of robotic-assisted TKA are better with functional alignment compared to adjusted mechanical alignment. SICOT J. 2024;10:2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1051/sicotj/2024002</ArticleId>
+            <ArticleId IdType="pubmed">38240728</ArticleId>
+            <ArticleId IdType="pmcid">10798231</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Van de Graaf VA, Chen DB, Allom RJ, Wood JA, MacDessi SJ. Functional alignment in total knee arthroplasty best achieves balanced gaps and minimal bone resections: an analysis comparing mechanical, kinematic and functional alignment strategies. Knee Surg Sports Traumatol Arthrosc. 2023;31(11):5118–27.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00167-023-07567-w</ArticleId>
+            <ArticleId IdType="pubmed">37789215</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee JH, Kwon SC, Hwang JH, Lee JK, Kim JI. Functional alignment maximises advantages of robotic arm-assisted total knee arthroplasty with better patient-reported outcomes compared to mechanical alignment. Knee Surg Sports Traumatol Arthrosc. 2024;32(4):896–906.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ksa.12120</ArticleId>
+            <ArticleId IdType="pubmed">38454836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clark G, Steer R, Wood D. Functional alignment achieves a more balanced total knee arthroplasty than either mechanical alignment or kinematic alignment prior to soft tissue releases. Knee Surg Sports Traumatol Arthrosc. 2023;31(4):1420–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00167-022-07156-3</ArticleId>
+            <ArticleId IdType="pubmed">36116071</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shichman I, Ben-Ari E, Sissman E, Oakley C, Schwarzkopf R. Effect of total knee arthroplasty on coronal alignment of the ankle joint. J Arthroplasty. 2022;37(5):869–73.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.arth.2022.01.059</ArticleId>
+            <ArticleId IdType="pubmed">35093550</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xie K, Han X, Jiang X, Ai S, Dai K, Yu Z, et al. The effect of varus knee deformities on the ankle alignment in patients with knee osteoarthritis. J Orthop Surg Res. 2019;14(1):134.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13018-019-1191-0</ArticleId>
+            <ArticleId IdType="pubmed">31092268</ArticleId>
+            <ArticleId IdType="pmcid">6521394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xing P, Qu J, Feng S, Guo J, Huang T. Comparison of the efficacy of robot-assisted total knee arthroplasty in patients with knee osteoarthritis with varying severity deformity. J Orthop Surg Res. 2024;19(1):872.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13018-024-05372-w</ArticleId>
+            <ArticleId IdType="pubmed">39719605</ArticleId>
+            <ArticleId IdType="pmcid">11668079</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shih HT, Liao WJ, Tu KC, Lee CH, Tang SC, Wang SP. Poor correction capacity of preexisting ankle Valgus deformity after total knee arthroplasty. J Clin Med. 2021;10(16).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Koo TK, Li MY. A guideline of selecting and reporting intraclass correlation coefficients for reliability research. J Chiropr Med. 2016;15(2):155–63.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jcm.2016.02.012</ArticleId>
+            <ArticleId IdType="pubmed">27330520</ArticleId>
+            <ArticleId IdType="pmcid">4913118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao F, Ma J, Sun W, Guo W, Li Z, Wang W. The influence of knee malalignment on the ankle alignment in varus and valgus gonarthrosis based on radiographic measurement. Eur J Radiol. 2016;85(1):228–32.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejrad.2015.11.021</ArticleId>
+            <ArticleId IdType="pubmed">26724670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang CB, Chung CY, Park MS, Choi JH, Kim JS, Lee KM. Aggravation of ankle Varus incongruency following total knee replacement correcting &gt;/=10 degrees of Genu varum deformity: A radiographic assessment. J Arthroplasty. 2020;35(11):3305–10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.arth.2020.06.027</ArticleId>
+            <ArticleId IdType="pubmed">32646678</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harvey J, Eltayeb M, Moulder EH, Muir RL, Sharma HK. Compensatory mechanisms for proximal &amp; distal joint alignment &amp; gait in varus knee osteoarthritis treated with high tibial osteotomy: A systematic review. J Orthop. 2024;54:148–57.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jor.2024.02.022</ArticleId>
+            <ArticleId IdType="pubmed">38586600</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Migliorini F, Maffulli N, Schafer L, Schneider J, Nobili AM, Kammer D, et al. Robotic-assisted total knee arthroplasty in clinical practice: protocol for a randomised controlled trial. J Orthop Surg Res. 2023;18(1):623.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13018-023-04101-z</ArticleId>
+            <ArticleId IdType="pubmed">37626412</ArticleId>
+            <ArticleId IdType="pmcid">10464371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoshimoto K, Noguchi M, Yamada A, Nasu Y. Compensatory function of the subtalar joint for lower extremity malalignment. Adv Orthop. 2019;2019:7656878.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2019/7656878</ArticleId>
+            <ArticleId IdType="pubmed">30918725</ArticleId>
+            <ArticleId IdType="pmcid">6408994</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De Vecchis M, Bowd JB, Wilson C, Whatling GM, Holt CA, Williams DE. Hip, knee and ankle kinematics improve after total knee replacement but do not return to normal. Osteoarthr Cartil. 2021;29:S184–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.joca.2021.02.252</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hang XU, Xiaotong LI, Xinxin F, Lun AN, Yuanyuan SHI, Yu Z, et al. Biomechanical analysis of gait improvement after total knee arthroplasty. J Xuzhou Med Univ. 2021;41(9):635–9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Takenaka T, Ikoma K, Ohashi S, Arai Y, Hara Y, Ueshima K, et al. Hindfoot alignment at one year after total knee arthroplasty. Knee Surg Sports Traumatol Arthrosc. 2016;24(8):2442–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00167-015-3916-x</ArticleId>
+            <ArticleId IdType="pubmed">26704801</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mullaji A, Shetty GM. Persistent hindfoot valgus causes lateral deviation of weightbearing axis after total knee arthroplasty. Clin Orthop Relat Res. 2011;469(4):1154–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11999-010-1703-z</ArticleId>
+            <ArticleId IdType="pubmed">21120711</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miyazaki K, Maeyama A, Matsunaga T, Ishimatsu T, Yamamoto T. Pathophysiology of abnormal compensation ability of the subtalar joint in the varus knee. J Orthop Sci. 2024;29(5):1259–64.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jos.2023.09.009</ArticleId>
+            <ArticleId IdType="pubmed">37852899</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Norton AA, Callaghan JJ, Amendola A, Phisitkul P, Wongsak S, Liu SS, et al. Correlation of knee and hindfoot deformities in advanced knee OA: compensatory hindfoot alignment and where it occurs. Clin Orthop Relat Res. 2015;473(1):166–74.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11999-014-3801-9</ArticleId>
+            <ArticleId IdType="pubmed">25024033</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hayashi K, Tanaka Y, Kumai T, Sugimoto K, Takakura Y. Correlation of compensatory alignment of the subtalar joint to the progression of primary osteoarthritis of the ankle. Foot Ankle Int. 2008;29(4):400–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3113/FAI.2008.0400</ArticleId>
+            <ArticleId IdType="pubmed">18442455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang B, Saltzman CL, Chalayon O, Barg A. Does the subtalar joint compensate for ankle malalignment in end-stage ankle arthritis? Clin Orthop Relat Res. 2015;473(1):318–25.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11999-014-3960-8</ArticleId>
+            <ArticleId IdType="pubmed">25315275</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krähenbühl N, Siegler L, Deforth M, Zwicky L, Hintermann B, Knupp M. Subtalar joint alignment in ankle osteoarthritis. Foot Ankle Surg. 2019;25(2):143–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.fas.2017.10.004</ArticleId>
+            <ArticleId IdType="pubmed">29409290</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Choudhury AK, Bansal S, Pranav J, Raja BS, Gupta T, Paul S, et al. Increased medial Talar Tilt May incite ankle pain and predispose ankle osteoarthritis after correction of severity of knee varus deformity among patients undergoing bilateral total knee arthroplasty: a prospective observation. Knee Surg Relat Res. 2024;36(1):7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s43019-024-00212-x</ArticleId>
+            <ArticleId IdType="pubmed">38268011</ArticleId>
+            <ArticleId IdType="pmcid">10807238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stanish WD, Curwin S, Mandel S, Tendinitis. Its etiology and treatment. Oxford University Press; 2000. 31 Oct 2023.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hadi H, Jabal Ameli M, Bagherifard A, Behrouzi A, Safi F, Azimi A, et al. The effect of total knee arthroplasty on hindfoot alignment in patients with severe Genu varum and Genu Valgum. Arch Bone Jt Surg. 2020;8(3):413–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32766401</ArticleId>
+            <ArticleId IdType="pmcid">7358230</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

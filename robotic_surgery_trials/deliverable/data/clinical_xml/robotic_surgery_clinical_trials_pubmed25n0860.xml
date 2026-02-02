@@ -1,0 +1,888 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">26947602</PMID>
+      <DateCompleted>
+        <Year>2018</Year>
+        <Month>01</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>11</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1873-7560</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>70</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>09</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>European urology</Title>
+          <ISOAbbreviation>Eur Urol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Exploratory Decision-Tree Modeling of Data from the Randomized REACTT Trial of Tadalafil Versus Placebo to Predict Recovery of Erectile Function After Bilateral Nerve-Sparing Radical Prostatectomy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>529-37</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.eururo.2016.02.036</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0302-2838(16)00214-1</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Understanding predictors for the recovery of erectile function (EF) after nerve-sparing radical prostatectomy (nsRP) might help clinicians and patients in preoperative counseling and expectation management of EF rehabilitation strategies.</AbstractText>
+          <AbstractText Label="OBJECTIVE">To describe the effect of potential predictors on EF recovery after nsRP by post hoc decision-tree modeling of data from A Study of Tadalafil After Radical Prostatectomy (REACTT).</AbstractText>
+          <AbstractText Label="DESIGN, SETTING, AND PARTICIPANTS">Randomized double-blind double-dummy placebo-controlled trial in 423 men aged &lt;68 yr with adenocarcinoma of the prostate (Gleason ≤7, normal preoperative EF) who underwent nsRP at 50 centers from nine European countries and Canada.</AbstractText>
+          <AbstractText Label="INTERVENTION">Postsurgery 1:1:1 randomization to 9-mo double-blind treatment with tadalafil 5mg once a day (OaD), tadalafil 20mg on demand, or placebo, followed by a 6-wk drug-free-washout, and a 3-mo open-label tadalafil OaD treatment.</AbstractText>
+          <AbstractText Label="OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS">Three decision-tree models, using the International Index of Erectile Function-Erectile Function (IIEF-EF) domain score at the end of double-blind treatment, washout, and open-label treatment as response variable. Each model evaluated the association between potential predictors: presurgery IIEF domain and IIEF single-item scores, surgical approach, nerve-sparing score (NSS), and postsurgery randomized treatment group.</AbstractText>
+          <AbstractText Label="RESULTS AND LIMITATIONS">The first decision-tree model (n=422, intention-to-treat population) identified high presurgery sexual desire (IIEF item 12: ≥3.5 and &lt;3.5) as the key predictor for IIEF-EF at the end of double-blind treatment (mean IIEF-EF: 14.9 and 11.1), followed by high confidence to get and maintain an erection (IIEF item 15: ≥3.5 and &lt;3.5; IIEF-EF: 15.4 and 7.1). For patients meeting these criteria, additional non-IIEF-related predictors included robot-assisted laparoscopic surgery (yes or no; IIEF-EF: 19.3 and 12.6), quality of nerve sparing (NSS: &lt;2.5 and ≥2.5; IIEF-EF: 14.3 and 10.5), and treatment with tadalafil OaD (yes and no; IIEF-EF: 17.6 and 14.3). Additional analyses after washout and open-label treatment identified high presurgery intercourse satisfaction as the key predictor.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Exploratory decision-tree analyses identified high presurgery sexual desire, confidence, and intercourse satisfaction as key predictors for EF recovery. Patients meeting these criteria might benefit the most from conserving surgery and early postsurgery EF rehabilitation. Strategies for improving EF after surgery should be discussed preoperatively with all patients; this information may support expectation management for functional recovery on an individual patient level.</AbstractText>
+          <AbstractText Label="PATIENT SUMMARY">Understanding how patient characteristics and different treatment options affect the recovery of erectile function (EF) after radical surgery for prostate cancer might help physicians select the optimal treatment for their patients. This analysis of data from a clinical trial suggested that high presurgery sexual desire, sexual confidence, and intercourse satisfaction are key factors predicting EF recovery. Patients meeting these criteria might benefit the most from conserving surgery (robot-assisted surgery, perfect nerve sparing) and postsurgery medical rehabilitation of EF.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION">ClinicalTrials.gov, NCT01026818.</AbstractText>
+          <CopyrightInformation>Copyright © 2016. Published by Elsevier B.V.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Montorsi</LastName>
+            <ForeName>Francesco</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Vita Salute San Raffaele University, Milan, Italy. Electronic address: napoli.patrizia@hsr.it.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oelke</LastName>
+            <ForeName>Matthias</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology and Urological Oncology, Hanover Medical School, Hanover, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Henneges</LastName>
+            <ForeName>Carsten</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Global Statistical Sciences, EU Statistics, Lilly Deutschland GmbH, Bad Homburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brock</LastName>
+            <ForeName>Gerald</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Division of Urology, University of Western Ontario, London, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Salonia</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Vita Salute San Raffaele University, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>d'Anzeo</LastName>
+            <ForeName>Gianluca</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Therapeutic Area Men's Health, Eli Lilly SpA, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rossi</LastName>
+            <ForeName>Andrea</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Therapeutic Area Men's Health, Eli Lilly SpA, Florence, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mulhall</LastName>
+            <ForeName>John P</ForeName>
+            <Initials>JP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Memorial Sloan Kettering Cancer Center, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Büttner</LastName>
+            <ForeName>Hartwig</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biomedicines BU, Lilly Deutschland GmbH, Bad Homburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT01026818</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>P30 CA008748</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2016</Year>
+          <Month>03</Month>
+          <Day>03</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Eur Urol</MedlineTA>
+        <NlmUniqueID>7512719</NlmUniqueID>
+        <ISSNLinking>0302-2838</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D058986">Phosphodiesterase 5 Inhibitors</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>742SXX0ICT</RegistryNumber>
+          <NameOfSubstance UI="D000068581">Tadalafil</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Urol. 2016 Sep;196(3):858. doi: 10.1016/j.juro.2016.06.065</RefSource>
+          <PMID Version="1">27597100</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000230" MajorTopicYN="N">Adenocarcinoma</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003075" MajorTopicYN="N">Coitus</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003663" MajorTopicYN="Y">Decision Trees</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007172" MajorTopicYN="N">Erectile Dysfunction</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000523" MajorTopicYN="N">psychology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059351" MajorTopicYN="N">Organ Sparing Treatments</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010410" MajorTopicYN="N">Penile Erection</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058986" MajorTopicYN="N">Phosphodiesterase 5 Inhibitors</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057234" MajorTopicYN="N">Preoperative Period</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="N">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="N">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020127" MajorTopicYN="N">Recovery of Function</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020377" MajorTopicYN="N">Self Efficacy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019529" MajorTopicYN="N">Sexuality</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000068581" MajorTopicYN="N">Tadalafil</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Clinical trials</Keyword>
+        <Keyword MajorTopicYN="N">Decision-tree analysis</Keyword>
+        <Keyword MajorTopicYN="N">Erectile dysfunction</Keyword>
+        <Keyword MajorTopicYN="N">Nerve-sparing radical prostatectomy</Keyword>
+        <Keyword MajorTopicYN="N">Phosphodiesterase type 5 inhibitors</Keyword>
+        <Keyword MajorTopicYN="N">Predictors</Keyword>
+        <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+        <Keyword MajorTopicYN="N">Rehabilitation</Keyword>
+        <Keyword MajorTopicYN="N">Tadalafil</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>06</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2016</Year>
+          <Month>02</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2016</Year>
+          <Month>3</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2016</Year>
+          <Month>3</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>1</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26947602</ArticleId>
+        <ArticleId IdType="pii">S0302-2838(16)00214-1</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.eururo.2016.02.036</ArticleId>
+        <ArticleId IdType="pmc">PMC5478190</ArticleId>
+        <ArticleId IdType="mid">NIHMS863213</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Eur Urol. 2008 Oct;54(4):924-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18640769</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Med. 2010 Jul;7(7):2521-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20487236</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2009 Aug;104(4):534-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19281468</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Urol. 2013 Jun;189(6):2229-36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23219537</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2015 Aug;68(2):216-25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25770484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2009 Apr;73(4):756-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19193420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Impot Res. 2008 Sep-Oct;20(5):479-86</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18650827</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Med. 2011 May;8(5):1503-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21324093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 1999 Aug;54(2):346-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10443736</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2015 Aug;116(2):241-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25560809</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Med. 2011 Jan;8(1):255-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20727065</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2009 Feb;55(2):334-47</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18986755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2012 Feb;109(4):596-602</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21851544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2014 Mar;65(3):610-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23245815</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 2014 Jul;84(1):158-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24824411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urology. 1997 Jun;49(6):822-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9187685</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer. 2009 Jul 1;115(13 Suppl):3150-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19544544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2014 Mar;65(3):521-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24287319</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Med. 2011 Apr;8(4):1210-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21269392</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Urol. 2014 Mar;65(3):587-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24169081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Impot Res. 2015 Jan-Feb;27(1):1-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25056808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BJU Int. 2012 Aug;110(3):422-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22182202</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sex Med. 2011 Jun;8(6):1805-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21426493</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Med Res Opin. 2015 Feb;31(2):367-78</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25068906</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">26963737</PMID>
+      <DateCompleted>
+        <Year>2018</Year>
+        <Month>01</Month>
+        <Day>02</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>01</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1362-301X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>30</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2016</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Brain injury</Title>
+          <ISOAbbreviation>Brain Inj</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The effects of neuromuscular facilitation techniques on osteoporosis of hemiplegia limbs and serum leptin level in patients or rats with cerebral infarction.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>474-479</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText Label="PRIMARY OBJECTIVE">This study was to investigate the effect of proprioceptive neuromuscular facilitation techniques (NFT) on osteoporosis and serum leptin level in cerebral infarction patients or rats.</AbstractText>
+          <AbstractText Label="RESEARCH DESIGN">Forty cerebral infarction rats were randomly grouped into control, sham operation, conventional treatment (CT) group and CT+NFT group. Fifty-two stroke patients with hemiplegia were included in this study.</AbstractText>
+          <AbstractText Label="METHODS AND PROCEDURES">The bone mineral densities (BMD) of proximal hemiplegia limbs and serum ALP, BALP, BGP, IL-6 and leptin levels were detected using commercial kits.</AbstractText>
+          <AbstractText Label="MAIN OUTCOMES AND RESULTS">In cerebral infarction rats, the BMD, BGP, BALP, ALP and leptin concentrations in the CT+NFT group was higher compared with the control and CT group, while serum IL-6 level was more reduced by CT+NFT than control and CT. In cerebral infarction patients, both CT and CT+NFT increased the BMD, ALP, BGP and leptin levels. In addition, compared with CT, the BMD, ALP, BGP and leptin levels were markedly increased by CT+NFT. C Conclusion: NFC elevated the BMD of hemiplegia limbs, serum ALP, BGP, IL-6 and leptin levels and, thus, alleviated osteoporosis in rats and patients with cerebral infarction.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Si</LastName>
+            <ForeName>Zhihua</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>a Department of Neurology.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Ke</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>b Department of Emergency Internal Medicine , Qianfoshan Hospital Affiliated to Shandong University , Jinan , Shandong , PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Congcong</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>c Shandong University School of Medicine , Jinan , Shandong , PR China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jia</LastName>
+            <ForeName>Likun</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>a Department of Neurology.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Xiuqing</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>a Department of Neurology.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Aihua</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>a Department of Neurology.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2016</Year>
+          <Month>03</Month>
+          <Day>10</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Brain Inj</MedlineTA>
+        <NlmUniqueID>8710358</NlmUniqueID>
+        <ISSNLinking>0269-9052</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D020738">Leptin</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000704" MajorTopicYN="N">Analysis of Variance</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015519" MajorTopicYN="N">Bone Density</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002544" MajorTopicYN="N">Cerebral Infarction</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006429" MajorTopicYN="N">Hemiplegia</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020738" MajorTopicYN="N">Leptin</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D052580" MajorTopicYN="N">Muscle Stretching Exercises</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010024" MajorTopicYN="N">Osteoporosis</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+          <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015898" MajorTopicYN="N">Tomography Scanners, X-Ray Computed</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cerebral infarction</Keyword>
+        <Keyword MajorTopicYN="N">bone density</Keyword>
+        <Keyword MajorTopicYN="N">leptin</Keyword>
+        <Keyword MajorTopicYN="N">osteoporosis</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2016</Year>
+          <Month>3</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>1</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2016</Year>
+          <Month>3</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26963737</ArticleId>
+        <ArticleId IdType="doi">10.3109/02699052.2016.1140809</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">26964911</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>12</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2017</Year>
+        <Month>04</Month>
+        <Day>06</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1097-685X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>151</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of thoracic and cardiovascular surgery</Title>
+          <ISOAbbreviation>J Thorac Cardiovasc Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Evaluation of robotic cardiac surgery simulation training: A randomized controlled trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1498-1505.e2</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jtcvs.2016.02.016</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0022-5223(16)00234-8</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To compare the currently available simulation training modalities used to teach robotic surgery.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Forty surgical trainees completed a standardized robotic 10-cm dissection of the internal thoracic artery and placed 3 sutures of a mitral valve annuloplasty in porcine models and were then randomized to a wet lab, a dry lab, a virtual reality lab, or a control group that received no additional training. All groups trained to a level of proficiency determined by 2 expert robotic cardiac surgeons. All assessments were evaluated using the Global Evaluative Assessment of Robotic Skills in a blinded fashion.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Wet lab trainees showed the greatest improvement in time-based scoring and the objective scoring tool compared with the experts (mean, 24.9 ± 1.7 vs 24.9 ± 2.6; P = .704). The virtual reality lab improved their scores and met the level of proficiency set by our experts for all primary outcomes (mean, 24.9 ± 1.7 vs 22.8 ± 3.7; P = .103). Only the control group trainees were not able to meet the expert level of proficiency for both time-based scores and the objective scoring tool (mean, 24.9 ± 1.7 vs 11.0 ± 4.5; P &lt; .001). The average duration of training was shortest for the dry lab and longest for the virtual reality simulation (1.6 hours vs 9.3 hours; P &lt; .001).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We have completed the first randomized controlled trial to objectively compare the different training modalities of robotic surgery. Our data demonstrate the significant benefits of wet lab and virtual reality robotic simulation training and highlight key differences in current training methods. This study can help guide training programs in investing resources in cost-effective, high-yield simulation exercises.</AbstractText>
+          <CopyrightInformation>Copyright © 2016 The American Association for Thoracic Surgery. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Valdis</LastName>
+            <ForeName>Matthew</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cardiac Surgery, Department of Surgery, Western University, London Health Sciences Centre, London, Ontario, Canada. Electronic address: matthew.valdis@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chu</LastName>
+            <ForeName>Michael W A</ForeName>
+            <Initials>MW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cardiac Surgery, Department of Surgery, Western University, London Health Sciences Centre, London, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schlachta</LastName>
+            <ForeName>Christopher</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of General Surgery, Department of Surgery, Western University, London Health Sciences Centre, London, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kiaii</LastName>
+            <ForeName>Bob</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cardiac Surgery, Department of Surgery, Western University, London Health Sciences Centre, London, Ontario, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2016</Year>
+          <Month>02</Month>
+          <Day>13</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Thorac Cardiovasc Surg</MedlineTA>
+        <NlmUniqueID>0376343</NlmUniqueID>
+        <ISSNLinking>0022-5223</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>J Thorac Cardiovasc Surg. 2016 Jun;151(6):1506-7. doi: 10.1016/j.jtcvs.2016.02.033</RefSource>
+          <PMID Version="1">26988267</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002983" MajorTopicYN="N">Clinical Competence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004210" MajorTopicYN="N">Dissection</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008323" MajorTopicYN="N">Mammary Arteries</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058386" MajorTopicYN="N">Mitral Valve Annuloplasty</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="Y">economics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009864" MajorTopicYN="N">Ontario</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="N">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000066908" MajorTopicYN="N">Simulation Training</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013536" MajorTopicYN="N">Suture Techniques</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013552" MajorTopicYN="N">Swine</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013903" MajorTopicYN="N">Thoracic Surgery</DescriptorName>
+          <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014584" MajorTopicYN="N">User-Computer Interface</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">dry lab</Keyword>
+        <Keyword MajorTopicYN="N">randomized controlled trial</Keyword>
+        <Keyword MajorTopicYN="N">robotic cardiac surgery</Keyword>
+        <Keyword MajorTopicYN="N">simulation training</Keyword>
+        <Keyword MajorTopicYN="N">virtual reality</Keyword>
+        <Keyword MajorTopicYN="N">wet lab</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>07</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2016</Year>
+          <Month>02</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2016</Year>
+          <Month>3</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2016</Year>
+          <Month>3</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>12</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26964911</ArticleId>
+        <ArticleId IdType="pii">S0022-5223(16)00234-8</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jtcvs.2016.02.016</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

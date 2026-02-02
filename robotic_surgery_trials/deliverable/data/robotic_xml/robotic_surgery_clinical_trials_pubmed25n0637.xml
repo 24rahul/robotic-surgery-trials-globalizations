@@ -1,0 +1,2348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">19709630</PMID>
+      <DateCompleted>
+        <Year>2009</Year>
+        <Month>09</Month>
+        <Day>21</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1097-4199</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>63</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2009</Year>
+              <Month>Aug</Month>
+              <Day>27</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Neuron</Title>
+          <ISOAbbreviation>Neuron</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Synaptotagmin has an essential function in synaptic vesicle positioning for synchronous release in addition to its role as a calcium sensor.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>482-96</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuron.2009.07.028</ELocationID>
+        <Abstract>
+          <AbstractText>A multitude of synaptic proteins interact at the active zones of nerve terminals to achieve the high temporal precision of neurotransmitter release in synchrony with action potentials. Though synaptotagmin has been recognized as the Ca2+ sensor for synchronous release, it may have additional roles of action. We address this question at the calyx of Held, a giant presynaptic terminal, that allows biophysical dissection of multiple roles of molecules in synaptic transmission. Using high-level expression recombinant adenoviruses, in conjunction with a stereotactic surgery in postnatal day 1 rats, we overcame the previous inability to molecular perturb the calyx by overexpression of a mutated synaptotagmin. We report that this mutation leaves intrinsic Ca2+ sensitivity of vesicles intact while it destabilizes the readily releasable pool of vesicles and loosens the tight coupling between Ca2+ influx and release, most likely by interfering with the correct positioning of vesicles with respect to Ca2+ channels.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Young</LastName>
+            <ForeName>Samuel M</ForeName>
+            <Initials>SM</Initials>
+            <Suffix>Jr</Suffix>
+            <AffiliationInfo>
+              <Affiliation>Department of Membrane Biophysics, Max Planck Institute for Biophysical Chemistry, Am Fassberg 11, D-37077 Goettingen, Germany. syoung@gwdg.de</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Neher</LastName>
+            <ForeName>Erwin</ForeName>
+            <Initials>E</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Neuron</MedlineTA>
+        <NlmUniqueID>8809320</NlmUniqueID>
+        <ISSNLinking>0896-6273</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D050861">Synaptotagmin II</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C494264">Syt2 protein, rat</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>SY7Q814VUP</RegistryNumber>
+          <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Neuron. 2009 Aug 27;63(4):419-21. doi: 10.1016/j.neuron.2009.08.001</RefSource>
+          <PMID Version="1">19709623</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000831" MajorTopicYN="N">Animals, Newborn</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020013" MajorTopicYN="N">Calcium Signaling</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017729" MajorTopicYN="N">Presynaptic Terminals</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013572" MajorTopicYN="N">Synaptic Vesicles</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D050861" MajorTopicYN="N">Synaptotagmin II</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2009</Year>
+          <Month>03</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2009</Year>
+          <Month>06</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2009</Year>
+          <Month>07</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>8</Month>
+          <Day>28</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>8</Month>
+          <Day>28</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19709630</ArticleId>
+        <ArticleId IdType="pii">S0896-6273(09)00583-2</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.neuron.2009.07.028</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">19715530</PMID>
+      <DateCompleted>
+        <Year>2009</Year>
+        <Month>12</Month>
+        <Day>01</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2012</Year>
+        <Month>02</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2146-8427</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>7</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2009</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Experimental and clinical transplantation : official journal of the Middle East Society for Organ Transplantation</Title>
+          <ISOAbbreviation>Exp Clin Transplant</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Optimization of delivery of adeno-associated virus mediated gene transfer to a transplanted heart in a rat model.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>184-7</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To optimize transgene expression levels after Adeno-associated virus (AAV)-mediated gene transfer, different delivery methods were compared in a transplant setting.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Heterotopic abdominal heart transplants were performed in male Lewis rats (250-280 g). According to the vector application method, animals were divided into 3 groups: group 0.35 mL, containing saline solution AAV2/9-LacZ (2 x 10(11) vector genome) was injected directly into the myocardium (apex) immediately after reperfusion. Group 0.3 mL contained a cardioplegic solution AAV2/9-LacZ vectors (3 x 10(12) vector genome), which was rapidly injected into the aortic root, with the pulmonary trunk clamped. Before transplant the transfected heart was incubated for 25 minutes in iced cardioplegia. A reperfusion system was applied in group 5 mL. For 25 minutes, a cold solution of cardioplegia and AAV2/9-LacZ vectors (5 x 10(12) vector genome) was recirculated through the donor heart. Transplanted grafts were explanted after 3 weeks. To detect and to measure marker gene expression, X-gal staining was performed.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">In groups 0.35 mL and 0.3 mL, higher transfection efficiency was observed compared to group 5 mL (P &lt; .05). While positive-stained myocardia were detected around the injection site in group 0.35 mL, the expression pattern was much more homogenous in group 0.3 mL.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Results demonstrate that intracoronary injection of the vectors with the pulmonary trunk clamped leads to the highest and most homogenous distribution of transgene expression in the graft.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Xiaofeng</LastName>
+            <ForeName>Jiang</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiac Surgery, Ludwig-Maximilians-University of Munich, Munich, Germany. Xiaofeng.Jiang@med.uni-muenchen.de</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Burdorf</LastName>
+            <ForeName>Lars</ForeName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hinkel</LastName>
+            <ForeName>Rabea</ForeName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gheith</LastName>
+            <ForeName>Christian</ForeName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Reichart</LastName>
+            <ForeName>Bruno</ForeName>
+            <Initials>B</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brandl</LastName>
+            <ForeName>Ulrike</ForeName>
+            <Initials>U</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schmoeckel</LastName>
+            <ForeName>Michael</ForeName>
+            <Initials>M</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Turkey</Country>
+        <MedlineTA>Exp Clin Transplant</MedlineTA>
+        <NlmUniqueID>101207333</NlmUniqueID>
+        <ISSNLinking>1304-0855</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D002314">Cardioplegic Solutions</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.2.1.23</RegistryNumber>
+          <NameOfSubstance UI="D001616">beta-Galactosidase</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002314" MajorTopicYN="N">Cardioplegic Solutions</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000229" MajorTopicYN="N">Dependovirus</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017930" MajorTopicYN="N">Genes, Reporter</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005822" MajorTopicYN="Y">Genetic Vectors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006324" MajorTopicYN="N">Heart Arrest, Induced</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016027" MajorTopicYN="Y">Heart Transplantation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007267" MajorTopicYN="N">Injections</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D023421" MajorTopicYN="N">Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009206" MajorTopicYN="N">Myocardium</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011917" MajorTopicYN="N">Rats, Inbred Lew</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014161" MajorTopicYN="Y">Transduction, Genetic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016042" MajorTopicYN="N">Transplantation, Heterotopic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001616" MajorTopicYN="N">beta-Galactosidase</DescriptorName>
+          <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2009</Year>
+          <Month>12</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19715530</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">19716023</PMID>
+      <DateCompleted>
+        <Year>2009</Year>
+        <Month>10</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>02</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0194-5998</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>141</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2009</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery</Title>
+          <ISOAbbreviation>Otolaryngol Head Neck Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Transantral robotic access to the pituitary gland.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>413-5</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.otohns.2009.05.028</ELocationID>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kupferman</LastName>
+            <ForeName>Michael</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Head and Neck Surgery, MD Anderson Cancer Center, Houston, TX 77030, USA. mekupfer@mdanderson.org</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Demonte</LastName>
+            <ForeName>Franco</ForeName>
+            <Initials>F</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Holsinger</LastName>
+            <ForeName>F Christopher</ForeName>
+            <Initials>FC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hanna</LastName>
+            <ForeName>Ehab</ForeName>
+            <Initials>E</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Otolaryngol Head Neck Surg</MedlineTA>
+        <NlmUniqueID>8508176</NlmUniqueID>
+        <ISSNLinking>0194-5998</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D002102" MajorTopicYN="N">Cadaver</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004724" MajorTopicYN="N">Endoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010911" MajorTopicYN="N">Pituitary Neoplasms</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012658" MajorTopicYN="N">Sella Turcica</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2008</Year>
+          <Month>12</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2009</Year>
+          <Month>05</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2009</Year>
+          <Month>05</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2009</Year>
+          <Month>10</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19716023</ArticleId>
+        <ArticleId IdType="pii">S0194-5998(09)00418-5</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.otohns.2009.05.028</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">19716594</PMID>
+      <DateCompleted>
+        <Year>2009</Year>
+        <Month>11</Month>
+        <Day>23</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2009</Year>
+        <Month>11</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1527-9995</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>74</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2009</Year>
+              <Month>Nov</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Urology</Title>
+          <ISOAbbreviation>Urology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Single-port laparoscopic abdominal sacral colpopexy: initial experience and comparative outcomes.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1008-12</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.urology.2009.02.086</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To determine the efficacy and safety of single-port laparoscopic abdominal sacral colpopexy (ASC) for the treatment of female pelvic organ prolapse (POP).</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A retrospective cohort study was performed to assess perioperative outcomes among women who were treated for symptomatic POP with laparoscopic, robotic, or single-port laparoscopic ASC. All patients underwent preoperative history and physical examination including POP quantification (POP-Q) staging and urodynamics. ASC with or without anti-incontinence surgery was performed via the aforementioned approaches. Demographic and perioperative data were obtained. Patients were followed up postoperatively at 3 and 6 months with POP-Q evaluation. Statistical analysis was performed.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">From October 2005 to July 2008, 30 female patients with symptomatic Stage II (6 patients), Stage III (23 patients), or Stage IV (1 patient) POP were treated with laparoscopic (10), robotic (10), or single-port laparoscopic (10) ASC. Mean age of the entire cohort was 61.1 years. Mean body mass index was 26.7 kg/m(2). Seventeen patients demonstrated stress urinary incontinence and underwent concomitant sling placement. No intraoperative complications were encountered. No significant difference was noted in the 3 cohorts with respect to operative time, blood loss, mean visual analog pain score at discharge, or duration of hospitalization. At 6 months following surgery, 27 patients underwent follow-up POP-Q, with all patients demonstrating excellent apical support and prolapse reduction.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Single-port laparoscopic ASC offers comparable efficacy and superior cosmesis compared to alternative approaches. Long-term follow-up is needed to confirm durability of repair.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>White</LastName>
+            <ForeName>Wesley M</ForeName>
+            <Initials>WM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sections of Laparoscopic and Robotic Urology and Female Urology, Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, Ohio 44195 , USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goel</LastName>
+            <ForeName>Raj K</ForeName>
+            <Initials>RK</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Swartz</LastName>
+            <ForeName>Mia A</ForeName>
+            <Initials>MA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moore</LastName>
+            <ForeName>Courtenay</ForeName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rackley</LastName>
+            <ForeName>Raymond R</ForeName>
+            <Initials>RR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kaouk</LastName>
+            <ForeName>Jihad H</ForeName>
+            <Initials>JH</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2009</Year>
+          <Month>08</Month>
+          <Day>29</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Urology</MedlineTA>
+        <NlmUniqueID>0366151</NlmUniqueID>
+        <ISSNLinking>0090-4295</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Urology. 2009 Nov;74(5):1012; author reply 1012. doi: 10.1016/j.urology.2009.03.055</RefSource>
+          <PMID Version="1">19883813</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014596" MajorTopicYN="N">Uterine Prolapse</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014621" MajorTopicYN="N">Vagina</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2008</Year>
+          <Month>10</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2009</Year>
+          <Month>02</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2009</Year>
+          <Month>02</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2009</Year>
+          <Month>12</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19716594</ArticleId>
+        <ArticleId IdType="pii">S0090-4295(09)00760-2</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.urology.2009.02.086</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">19718755</PMID>
+      <DateCompleted>
+        <Year>2010</Year>
+        <Month>01</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2009</Year>
+        <Month>11</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1531-4995</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>119</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>2009</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Laryngoscope</Title>
+          <ISOAbbreviation>Laryngoscope</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of extratemporal and intratemporal facial nerve injury models.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>2324-30</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/lary.20627</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES/HYPOTHESIS" NlmCategory="OBJECTIVE">The purpose of this study was to compare functional recovery and motor nerve conduction following a distal extratemporal crush injury of the facial nerve to a more proximal intratemporal crush injury.</AbstractText>
+          <AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">Prospective, controlled animal study.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Adult male Sprague-Dawley rats were divided into four experimental groups: 1) extratemporal crush, 2) extratemporal sham-operated, 3) intratemporal crush, and 4) intratemporal sham-operated. Each group had an n of 4-9. The facial nerve was crushed near its exit from the stylomastoid foramen for extratemporal facial nerve injuries and within the facial canal in the temporal bone for intratemporal facial nerve injuries. Recovery times for the return of facial nerve functional parameters were compared between the two injury models. Motor nerve conduction studies were also done weekly to quantify the changes in peak amplitude and latency of evoked response.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Rats receiving the extratemporal facial nerve injury recovered full facial function by approximately 2 weeks postoperative (wpo) and displayed normal peak amplitude and latency recordings by 4 wpo. In comparison, rats receiving the intratemporal facial nerve injury failed to reach complete functional recovery at the end of 8 wpo. Although latency of evoked response returned to normal by 2 weeks following the intratemporal injury, peak amplitude remained approximately 70% below normal at the end of 8 wpo.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">An intratemporal crush of the facial nerve leads to significantly delayed functional recovery and decreased motor nerve conduction as compared to an extratemporal crush, indicating that the location of injury strongly influences the recovery outcome.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Sharma</LastName>
+            <ForeName>Nijee</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Neuroscience Program, Loyola University Chicago, Stritch School of Medicine, Maywood, Illinois, USA. nijeesharma@gmail.com</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cunningham</LastName>
+            <ForeName>Kelly</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Porter</LastName>
+            <ForeName>Ryan G</ForeName>
+            <Initials>RG</Initials>
+            <Suffix>Sr</Suffix>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Marzo</LastName>
+            <ForeName>Sam J</ForeName>
+            <Initials>SJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jones</LastName>
+            <ForeName>Kathryn J</ForeName>
+            <Initials>KJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Foecking</LastName>
+            <ForeName>Eileen M</ForeName>
+            <Initials>EM</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Laryngoscope</MedlineTA>
+        <NlmUniqueID>8607378</NlmUniqueID>
+        <ISSNLinking>0023-852X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006259" MajorTopicYN="N">Craniocerebral Trauma</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004576" MajorTopicYN="N">Electromyography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005154" MajorTopicYN="N">Facial Nerve</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020220" MajorTopicYN="N">Facial Nerve Injuries</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009431" MajorTopicYN="N">Neural Conduction</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020127" MajorTopicYN="N">Recovery of Function</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013701" MajorTopicYN="N">Temporal Bone</DescriptorName>
+          <QualifierName UI="Q000293" MajorTopicYN="Y">injuries</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2010</Year>
+          <Month>1</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19718755</ArticleId>
+        <ArticleId IdType="doi">10.1002/lary.20627</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">19719734</PMID>
+      <DateCompleted>
+        <Year>2009</Year>
+        <Month>12</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2009</Year>
+        <Month>09</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1600-0501</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>20</Volume>
+            <Issue>10</Issue>
+            <PubDate>
+              <Year>2009</Year>
+              <Month>Oct</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Clinical oral implants research</Title>
+          <ISOAbbreviation>Clin Oral Implants Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Bio-degradation of a resorbable collagen membrane (Bio-Gide) applied in a double-layer technique in rats.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1116-23</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1600-0501.2009.01740.x</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to evaluate histologically the bio-degradation of two layers of Bio-Gide((R)) (BG) membrane, as compared with that of a single layer.</AbstractText>
+          <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">Two circular calvarial bony defects, 5 mm in diameter, were made in 24 Wistar rats. BG membrane, labeled with biotin, was cut into 5-mm-diameter disks, and placed in defects either as a mono-layer membrane (MLM) or as a double-layer membrane (DLM). Rats were sacrificed after 4 or 9 weeks and histology was performed. Membranes were stained with horseradish peroxidase-conjugated streptavidin and aminoethyl carbazole as a substrate for detection of biotinylated collagen. The area of collagen and thickness of the residual membranes were measured by image analysis software. Statistical analysis was performed using the non-parametric Wilcoxon's signed-ranks test.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">At 4-week collagen area per measurement window within the DLM sites (0.09+/-0.05 mm(2)) was significantly greater (P&lt;0.01) than that in the MLM sites (0.047+/-0.034 mm(2)). At 9 weeks, the collagen area was also greater in the DLM sites (0.037+/-0.026 mm(2)) compared with that of the MLM sites (0.025+/-0.016 mm(2)); however, this difference did not reach statistical significance. The rate of membrane degradation, calculated as percent membrane lost compared with baseline, was similar for the DLM and MLM at both time points ( approximately 60% at 4 weeks and approximately 80% at 9 weeks). In addition, the residual DLM thickness at 4 weeks (475.5+/-73.77 mum) was significantly (P&lt;0.01) greater than that of MLM (262.38+/-48.01 mum). At 9 weeks, membrane thickness was also greater in the DLM sites (318.22+/-70.45 mum) compared with that of the MLM sites (183.32+/-26.72 mum); however, this difference did not reach statistical significance. The reduction in thickness between 4 and 9 weeks was 30% for MLM and 33% for DLM.</AbstractText>
+          <AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">The use of a double layer of BG membrane results in a barrier of increased collagen area and thickness, compared with application of a single layer.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kozlovsky</LastName>
+            <ForeName>Avital</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Periodontology, The Maurice and Gabriela Goldschleger School of Dental Medicine, Tel Aviv University, Tel Aviv, Israel. kavital@post.tau.ac.il</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aboodi</LastName>
+            <ForeName>Guy</ForeName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moses</LastName>
+            <ForeName>Ofer</ForeName>
+            <Initials>O</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tal</LastName>
+            <ForeName>Haim</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Artzi</LastName>
+            <ForeName>Zvi</ForeName>
+            <Initials>Z</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Weinreb</LastName>
+            <ForeName>Miron</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nemcovsky</LastName>
+            <ForeName>Carlos E</ForeName>
+            <Initials>CE</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2009</Year>
+          <Month>08</Month>
+          <Day>30</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Denmark</Country>
+        <MedlineTA>Clin Oral Implants Res</MedlineTA>
+        <NlmUniqueID>9105713</NlmUniqueID>
+        <ISSNLinking>0905-7161</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C106416">Bio-Gide</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001672">Biocompatible Materials</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D008567">Membranes, Artificial</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>9007-34-5</RegistryNumber>
+          <NameOfSubstance UI="D003094">Collagen</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D020341" MajorTopicYN="Y">Absorbable Implants</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001672" MajorTopicYN="N">Biocompatible Materials</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001861" MajorTopicYN="N">Bone Regeneration</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003094" MajorTopicYN="N">Collagen</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003399" MajorTopicYN="N">Craniotomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D048091" MajorTopicYN="N">Guided Tissue Regeneration</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008567" MajorTopicYN="N">Membranes, Artificial</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012886" MajorTopicYN="N">Skull</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014945" MajorTopicYN="N">Wound Healing</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>2</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2009</Year>
+          <Month>12</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19719734</ArticleId>
+        <ArticleId IdType="pii">CLR1740</ArticleId>
+        <ArticleId IdType="doi">10.1111/j.1600-0501.2009.01740.x</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">19720558</PMID>
+      <DateCompleted>
+        <Year>2011</Year>
+        <Month>03</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>12</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1879-0593</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>45</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2009</Year>
+              <Month>Nov</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Oral oncology</Title>
+          <ISOAbbreviation>Oral Oncol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Endocultivation: 3D printed customized porous scaffolds for heterotopic bone induction.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e181-8</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.oraloncology.2009.07.004</ELocationID>
+        <Abstract>
+          <AbstractText>The aim of this study was to evaluate the ability of computer assisted designed (CAD) synthetic hydroxyapatite and tricalciumphosphate blocks to serve as precise scaffolds for intramuscular bone induction in a rat model. A central channel to allow for vessel pedicle or nerve integration was added. Natural bovine hydroxyapatite blocks served as controls to evaluate and compare biocompatibility of the new matrices. Individually designed 3D-printed rounded and porous hydroxyapatite (HA) and tricalcium phosphate (TCP) blocks were placed in pouches in the Musculus latissimus dorsi in 12 Lewis rats bilaterally. Bovine hydroxyapatite blocks with and without a central channel served as controls. Simultaneously, 200 microg rhBMP-2 in 1 ml sodium chloride was injected on both sides. For 8 weeks, bone generation was monitored by computer tomography and fluorescence labeling. The increase rates of bone density in CT examinations were higher in the HA groups (184-220 HU 8 weeks after implantation) compared to the TCP group (18 HU; p&lt;0.0001). Microradiography and fluorescence microscopy 8 weeks after implantation showed new bone formation for all materials tested. For all scaffolds, toluidine staining revealed vital bone directly on the scaffold materials but also in the gaps between. It can be concluded from our data that the specially shaped hydroxyapatite and tricalcium phosphate blocks tested against the bovine hydroxyapatite blocks showed good biocompatibility and osteoinductivity in vivo. Further studies should explore if the stability of the individually designed blocks is sufficient to cultivate larger replacements without an external matrix for support.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Becker</LastName>
+            <ForeName>Stephan T</ForeName>
+            <Initials>ST</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Oral and Maxillofacial Surgery, Christian-Albrechts-University Kiel, Germany. becker@mkg.uni-kiel.de</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bolte</LastName>
+            <ForeName>Hendrik</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Krapf</LastName>
+            <ForeName>Oliver</ForeName>
+            <Initials>O</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Seitz</LastName>
+            <ForeName>Hermann</ForeName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Douglas</LastName>
+            <ForeName>Timothy</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sivananthan</LastName>
+            <ForeName>Sureshan</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wiltfang</LastName>
+            <ForeName>Jörg</ForeName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sherry</LastName>
+            <ForeName>Eugene</ForeName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Warnke</LastName>
+            <ForeName>Patrick H</ForeName>
+            <Initials>PH</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D023362">Evaluation Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2009</Year>
+          <Month>08</Month>
+          <Day>31</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Oral Oncol</MedlineTA>
+        <NlmUniqueID>9709118</NlmUniqueID>
+        <ISSNLinking>1368-8375</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001672">Biocompatible Materials</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018786">Bone Substitutes</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D002130">Calcium Phosphates</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>91D9GV0Z28</RegistryNumber>
+          <NameOfSubstance UI="D017886">Durapatite</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>K4C08XP666</RegistryNumber>
+          <NameOfSubstance UI="C018392">tricalcium phosphate</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001672" MajorTopicYN="N">Biocompatible Materials</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015519" MajorTopicYN="N">Bone Density</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018786" MajorTopicYN="N">Bone Substitutes</DescriptorName>
+          <QualifierName UI="Q000592" MajorTopicYN="Y">standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002130" MajorTopicYN="N">Calcium Phosphates</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002417" MajorTopicYN="N">Cattle</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017076" MajorTopicYN="N">Computer-Aided Design</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017886" MajorTopicYN="N">Durapatite</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008852" MajorTopicYN="N">Microradiography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008856" MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010012" MajorTopicYN="N">Osteogenesis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011917" MajorTopicYN="N">Rats, Inbred Lew</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D023822" MajorTopicYN="N">Tissue Engineering</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054457" MajorTopicYN="N">Tissue Scaffolds</DescriptorName>
+          <QualifierName UI="Q000592" MajorTopicYN="Y">standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2009</Year>
+          <Month>06</Month>
+          <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2009</Year>
+          <Month>07</Month>
+          <Day>01</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2009</Year>
+          <Month>07</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>2</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2011</Year>
+          <Month>3</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19720558</ArticleId>
+        <ArticleId IdType="pii">S1368-8375(09)00844-6</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.oraloncology.2009.07.004</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">19723997</PMID>
+      <DateCompleted>
+        <Year>2009</Year>
+        <Month>09</Month>
+        <Day>22</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>31</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1535-1386</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>91</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2009</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of bone and joint surgery. American volume</Title>
+          <ISOAbbreviation>J Bone Joint Surg Am</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Treatment of a segmental nerve defect in the rat with use of bioabsorbable synthetic nerve conduits: a comparison of commercially available conduits.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>2194-204</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.2106/JBJS.H.01301</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The use of biodegradable synthetic nerve conduits for the reconstruction of segmental nerve defects has been extensively reported in both animal and human studies, with a majority of studies evaluating sensory nerve recovery. However, few studies have compared these nerve conduits for functional motor recovery. The purpose of this study was to compare three commercially available, synthetic, bioabsorbable nerve conduits and autograft with respect to compound muscle action potentials, maximum isometric tetanic force, wet muscle weight, and nerve histomorphometry.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Eighty Lewis rats were divided into four groups according to the type of repair of a 10-mm excision of the sciatic nerve: group I had a reversed autograft; group II, a poly-DL-lactide-epsilon-caprolactone conduit; group III, a type-I collagen conduit; and group IV, a polyglycolic acid conduit. All results were compared with the contralateral side. At twelve weeks, the rats underwent bilateral measurements of the compound muscle action potentials of the tibialis anterior and flexor digiti quinti brevis muscles, isometric tetanic force and muscle weight of the tibialis anterior, and peroneal nerve histomorphometry.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">At twelve weeks, no difference in the percentage of recovery between the autograft and the poly-DL-lactide-epsilon-caprolactone conduit was observed with respect to compound muscle action potentials, isometric muscle force, muscle weight, and axon count measurements. The poly-DL-lactide-epsilon-caprolactone and collagen conduits remained structurally stable at twelve weeks, while the polyglycolic acid conduits had completely collapsed. The polyglycolic acid conduit had the poorest results, with a recovery rate of 15% for compound muscle action potentials and 29% for muscle force.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The functional outcome in this rat model was similar for the autograft and the poly-DL-lactide-epsilon-caprolactone conduits when they were used to reconstruct a 10-mm sciatic nerve defect. Functional recovery following the use of the polyglycolic acid conduit was the poorest.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Shin</LastName>
+            <ForeName>Richard H</ForeName>
+            <Initials>RH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Microvascular Research Laboratory, Mayo Clinic, Rochester, MN 55905, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Friedrich</LastName>
+            <ForeName>Patricia F</ForeName>
+            <Initials>PF</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Crum</LastName>
+            <ForeName>Brian A</ForeName>
+            <Initials>BA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bishop</LastName>
+            <ForeName>Allen T</ForeName>
+            <Initials>AT</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shin</LastName>
+            <ForeName>Alexander Y</ForeName>
+            <Initials>AY</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Bone Joint Surg Am</MedlineTA>
+        <NlmUniqueID>0014030</NlmUniqueID>
+        <ISSNLinking>0021-9355</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001672">Biocompatible Materials</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D024042">Collagen Type I</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011091">Polyesters</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>26009-03-0</RegistryNumber>
+          <NameOfSubstance UI="D011100">Polyglycolic Acid</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>70524-20-8</RegistryNumber>
+          <NameOfSubstance UI="C062968">lactide-caprolactone copolymer</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D020341" MajorTopicYN="N">Absorbable Implants</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001672" MajorTopicYN="N">Biocompatible Materials</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D024042" MajorTopicYN="N">Collagen Type I</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D048091" MajorTopicYN="N">Guided Tissue Regeneration</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009416" MajorTopicYN="Y">Nerve Regeneration</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011091" MajorTopicYN="N">Polyesters</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011100" MajorTopicYN="N">Polyglycolic Acid</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011917" MajorTopicYN="N">Rats, Inbred Lew</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020127" MajorTopicYN="N">Recovery of Function</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012584" MajorTopicYN="N">Sciatic Nerve</DescriptorName>
+          <QualifierName UI="Q000293" MajorTopicYN="N">injuries</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+          <QualifierName UI="Q000637" MajorTopicYN="N">transplantation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054457" MajorTopicYN="Y">Tissue Scaffolds</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014182" MajorTopicYN="N">Transplantation, Autologous</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>3</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19723997</ArticleId>
+        <ArticleId IdType="pii">91/9/2194</ArticleId>
+        <ArticleId IdType="doi">10.2106/JBJS.H.01301</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">19726014</PMID>
+      <DateCompleted>
+        <Year>2010</Year>
+        <Month>09</Month>
+        <Day>21</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1743-1328</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>32</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2010</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Neurological research</Title>
+          <ISOAbbreviation>Neurol Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Toll-like receptor-4 and cytokine cascade in stroke after exercise.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>123-6</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1179/016164109X12464612122812</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">As part of the innate immune system, activation of Toll-like receptor-4 by inflammatory mediators causes the release of inflammatory cytokines, leading to cellular damage. Exercise for 3 weeks has been shown to provide neuroprotection against ischemia/reperfusion insults by decreasing inflammation. This study explores the expression of Toll-like receptor-4 in brain parenchyma during an ischemic stroke after exercise, in association with brain injury.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Adult male Sprague-Dawley rats were studied in four groups (control, exercise, stroke and stroke after exercise). Exercise consisted of 30 minutes of treadmill running daily for 3 weeks. Using an intraluminal filament, a stroke was induced by 2 hour middle cerebral artery occlusion. Nissl staining was used to determine brain infarct volume. Brain Toll-like receptor-4 messenger RNA expression and protein levels were determined by real time reverse transcriptase polymerase chain reaction and Western blot, respectively.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Exercise significantly (p&lt;0.05) decreased Toll-like receptor-4 messenger RNA and protein expression, in association with significantly (p&lt;0.05) reduced brain infarct volume. The stroke group had significantly (p&lt;0.05) increased levels of Toll-like receptor-4 expression compared to the control, whereas the exercise/stroke group was significantly (p&lt;0.05) attenuated.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Exercise reduced Toll-like receptor-4 expression within brain tissue in response to ischemia/reperfusion insult. This is the first paper, to our knowledge, indicating the correlation between exercise, Toll-like receptor-4 expression and reduced brain infarct volume.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zwagerman</LastName>
+            <ForeName>Nathan</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Wayne State University School of Medicine, Detroit, MI, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Plumlee</LastName>
+            <ForeName>Chuck</ForeName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guthikonda</LastName>
+            <ForeName>Murali</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ding</LastName>
+            <ForeName>Yuchuan</ForeName>
+            <Initials>Y</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2009</Year>
+          <Month>09</Month>
+          <Day>01</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Neurol Res</MedlineTA>
+        <NlmUniqueID>7905298</NlmUniqueID>
+        <ISSNLinking>0161-6412</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C495347">Tlr4 protein, rat</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D051197">Toll-Like Receptor 4</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020520" MajorTopicYN="N">Brain Infarction</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016207" MajorTopicYN="N">Cytokines</DescriptorName>
+          <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005080" MajorTopicYN="N">Exercise Test</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020244" MajorTopicYN="N">Infarction, Middle Cerebral Artery</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019194" MajorTopicYN="N">Ischemic Preconditioning</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010805" MajorTopicYN="Y">Physical Conditioning, Animal</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011897" MajorTopicYN="N">Random Allocation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020521" MajorTopicYN="N">Stroke</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051197" MajorTopicYN="N">Toll-Like Receptor 4</DescriptorName>
+          <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2010</Year>
+          <Month>9</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19726014</ArticleId>
+        <ArticleId IdType="pii">ner1982</ArticleId>
+        <ArticleId IdType="doi">10.1179/016164109X12464612122812</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">19726977</PMID>
+      <DateCompleted>
+        <Year>2010</Year>
+        <Month>01</Month>
+        <Day>15</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2010</Year>
+        <Month>11</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1530-0293</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>38</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2010</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Critical care medicine</Title>
+          <ISOAbbreviation>Crit Care Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Administration of human protein C improves survival in an experimental model of sepsis.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>209-16</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/CCM.0b013e3181b4a972</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Study the effect of human protein C (PC) concentrate administration on organ damage and survival in septic rats.</AbstractText>
+          <AbstractText Label="DESIGN" NlmCategory="METHODS">Animal study.</AbstractText>
+          <AbstractText Label="SETTING" NlmCategory="METHODS">University laboratory.</AbstractText>
+          <AbstractText Label="SUBJECTS" NlmCategory="METHODS">Male Wistar rats.</AbstractText>
+          <AbstractText Label="INTERVENTIONS" NlmCategory="METHODS">Cecal ligation and puncture (CLP) was performed in 210 rats. Rats were randomly assigned to receive either human protein C (PC) IV 1, 7, and 13 hrs after CLP (CLP+PC) or placebo (CLP). Septic animals were again randomized in a survival group (CLP: n = 50 and CLP+PC: n = 40) that was monitored for 60 hrs and time groups (CLP: n = 60 and CLP+PC: n = 60) that were killed at 6, 12, 24, 36, 48, and 60 hrs after CLP. Brain, heart, lung, liver, kidney, gastric, and colon tissue were removed and postfixed in paraffin sections.</AbstractText>
+          <AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">PC infusion increased PC serum levels in early sepsis (median 7.25) compared with late sepsis (median 2, p = .001). Activated protein C/a1-antitrypsin complex levels in the CLP+PC group were significantly increased in late sepsis (60 hrs after CLP) compared with early sepsis (6, 12, and 24 hrs after CLP, p = .009, p = .004, and p = .008, respectively) and to late septic CLP and normal rats (p = .005 and p = .007, respectively). Their IL-6 and tumor necrosis factor a plasma levels were decreased (by 27% and 25%, respectively) at 6 hrs compared with placebo (p = .008 and p = .016). Their serum PC levels were also decreased in CLP+PC survivors compared with nonsurvivors of the same group (median = 1.5 vs. median = 7, p = .001). Apoptosis was reduced in brain (10% vs. 77.8%, p &lt; .001), stomach (66.7% vs. 100%, p &lt; .002) and intestine (33.3% vs. 85.2%, p &lt; .001) compared with placebo. Finally, the survival of septic rats treated with human PC was significantly increased compared with placebo (75% vs. 54%, p = .033).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Human Protein C administration increased survival in septic rats, decreased plasma inflammatory cytokines levels and tissue injury in vital organs.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Messaris</LastName>
+            <ForeName>Evangelos</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Surgical Research, First Department of Propaedeutic Surgery, Athens University Medical School, Hippokratio General Hospital, Athens, Greece.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Betrosian</LastName>
+            <ForeName>Alex P</ForeName>
+            <Initials>AP</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Memos</LastName>
+            <ForeName>Nikolaos</ForeName>
+            <Initials>N</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chatzigianni</LastName>
+            <ForeName>Emmy</ForeName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Boutsikou</LastName>
+            <ForeName>Maria</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Economou</LastName>
+            <ForeName>Venetia</ForeName>
+            <Initials>V</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dontas</LastName>
+            <ForeName>Ismene</ForeName>
+            <Initials>I</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Theodossiades</LastName>
+            <ForeName>George</ForeName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Konstadoulakis</LastName>
+            <ForeName>Manousos M</ForeName>
+            <Initials>MM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Douzinas</LastName>
+            <ForeName>Emmanuel E</ForeName>
+            <Initials>EE</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Crit Care Med</MedlineTA>
+        <NlmUniqueID>0355501</NlmUniqueID>
+        <ISSNLinking>0090-3493</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011486">Protein C</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Crit Care Med. 2010 Jan;38(1):329-30. doi: 10.1097/CCM.0b013e3181b9d4b4</RefSource>
+          <PMID Version="1">20023488</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002432" MajorTopicYN="N">Cecum</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016009" MajorTopicYN="N">Chi-Square Distribution</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016207" MajorTopicYN="N">Cytokines</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004797" MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005434" MajorTopicYN="N">Flow Cytometry</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007150" MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020287" MajorTopicYN="N">In Situ Nick-End Labeling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053208" MajorTopicYN="N">Kaplan-Meier Estimate</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008026" MajorTopicYN="N">Ligation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011336" MajorTopicYN="N">Probability</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011486" MajorTopicYN="N">Protein C</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011897" MajorTopicYN="N">Random Allocation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018805" MajorTopicYN="N">Sepsis</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018709" MajorTopicYN="N">Statistics, Nonparametric</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015996" MajorTopicYN="N">Survival Rate</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2010</Year>
+          <Month>1</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19726977</ArticleId>
+        <ArticleId IdType="doi">10.1097/CCM.0b013e3181b4a972</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">19727970</PMID>
+      <DateCompleted>
+        <Year>2010</Year>
+        <Month>04</Month>
+        <Day>02</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>02</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1873-4626</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>13</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>2009</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of gastrointestinal surgery : official journal of the Society for Surgery of the Alimentary Tract</Title>
+          <ISOAbbreviation>J Gastrointest Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Sleeve gastrectomy provides a better control of diabetes by decreasing ghrelin in the diabetic Goto-Kakizaki rats.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>2302-8</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11605-009-0997-1</ELocationID>
+        <Abstract>
+          <AbstractText Label="AIM" NlmCategory="OBJECTIVE">Sleeve gastrectomy (SG) and modified duodenal jejunal bypass (MDJB) were compared as procedures for glucose control. We aim to form the initial conclusions with respect to the possibility of (1) whether gastric fundus exclusion is essential for the control of diabetes and (2) application as a low morbidity procedure.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">SG and MDJB were performed on 10- to 12-week-old Goto-Kakizaki rats that spontaneously develop type 2 diabetes. Rats were observed for 36 weeks after surgery, and glucose, insulin, glucagons-like peptide-1 (GLP-1), glucose tolerate, insulin sensitivity, cholesterol, triglycerides, and free fatty acid levels were measured.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Apart from distinct weight loss of SG and MDJB after 1 month compared with sham-operated rats (P &lt; 0.001), SG showed strikingly improved blood glucose levels and significantly decreased Ghrelin secretion (P &lt; 0.001). Furthermore, SG resulted in a shorter operative time (P &lt; 0.01) and postoperative recovery time (P &lt; 0.01) than MDJB group.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">SG shows better control in terms of glucose tolerance and other measurements. This study provides direct evidence that SG possesses better improvement of diabetes by reduction of Ghrelin.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Feng</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of General Surgery, Qilu Hospital of Shandong University, 107#, Wenhua Xi Road, Jinan, 250012 Shandong, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Guangyong</ForeName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Jianwei</ForeName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ding</LastName>
+            <ForeName>Xiangjiu</ForeName>
+            <Initials>X</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cheng</LastName>
+            <ForeName>Zhiqiang</ForeName>
+            <Initials>Z</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Sanyuan</ForeName>
+            <Initials>S</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2009</Year>
+          <Month>09</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>J Gastrointest Surg</MedlineTA>
+        <NlmUniqueID>9706084</NlmUniqueID>
+        <ISSNLinking>1091-255X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D054439">Ghrelin</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D050110" MajorTopicYN="N">Bariatric Surgery</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003921" MajorTopicYN="N">Diabetes Mellitus, Experimental</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003924" MajorTopicYN="N">Diabetes Mellitus, Type 2</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004386" MajorTopicYN="N">Duodenum</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005743" MajorTopicYN="N">Gastrectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015390" MajorTopicYN="N">Gastric Bypass</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054439" MajorTopicYN="N">Ghrelin</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007583" MajorTopicYN="N">Jejunum</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2009</Year>
+          <Month>07</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2009</Year>
+          <Month>08</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>9</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2010</Year>
+          <Month>4</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19727970</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11605-009-0997-1</ArticleId>
+        <ArticleId IdType="pii">S1091-255X(23)08140-4</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Surg Obes Relat Dis. 2009 Mar-Apr;5(2):212-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19136315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diabetes Metab Res Rev. 2008 Jul-Aug;24(5):343-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18350524</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Physiol Endocrinol Metab. 2005 Feb;288(2):E447-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15454396</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Clin North Am. 2001 Oct;81(5):1145-79</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11589250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2005 Aug;15(7):1024-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16105401</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dig Dis Sci. 2007 Mar;52(3):643-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17268838</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inflammopharmacology. 2005;13(1-3):45-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16259727</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Obes Relat Dis. 2007 Mar-Apr;3(2):195-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17386401</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2007 Jul;17(7):957-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17894157</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 1998 Jun;8(3):253-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9678192</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2006 Nov;16(11):1425-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17132406</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diabetes Care. 1998 Sep;21(9):1414-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9727886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Clin Nutr Metab Care. 2007 Jul;10(4):463-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17563465</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2004 Jun 17;350(25):2542-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15201408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2000 Oct;232(4):515-29</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10998650</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diabetes Metab. 2000 Nov;26(5):363-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11119015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Clin Nutr. 1992 Feb;55(2 Suppl):582S-585S</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1733132</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Biochem Biophys. 2007;48(2-3):97-102</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17709879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 1996 Mar;119(3):261-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8619180</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Genet. 1996 Jan;12(1):31-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8528247</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diabetes Care. 2002 Feb;25(2):358-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11815510</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Gastrointest Surg. 1997 May-Jun;1(3):213-20; discussion 220</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9834350</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Clin Pharmacol Ther. 2007 Aug;45(8):455-68</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17725179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2004 Jun 17;350(25):2549-57</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15201411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2004 Jan;239(1):1-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14685093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2002 May;16(5):736-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11997813</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 1994 May;4(2):161-168</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10742775</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2000 Jun;10(3):233-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10929154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Endocrinol Metab. 2002 Aug;87(8):3555-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12161474</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 1995 Sep;222(3):339-50; discussion 350-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7677463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2008 Sep;18(9):1077-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18521701</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2002 Nov;236(5):554-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12409659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 1998 Sep;22(9):936-46</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9717419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obes Surg. 2008 Jan;18(1):97-108</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18066699</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 1998 Sep;22(9):947-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9717420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Public Health. 2007 Jul 30;7:186</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17663782</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Surg. 1998 Sep;22(9):987-92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9717426</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surgery. 2007 Jul;142(1):74-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17630003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Endocr Rev. 2002 Apr;23(2):201-29</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11943743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

@@ -1,0 +1,1635 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39447881</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1527-9995</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>196</Volume>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Feb</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Urology</Title>
+          <ISOAbbreviation>Urology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Trends and Safety of Same-day Discharge for Robot-assisted Laparoscopic Prostatectomy: A Comparison Between the Pre-pandemic and Pandemic Periods From the National Cancer Database.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>165-173</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0090-4295(24)00932-4</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.urology.2024.10.049</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To assess and compare the use of same-day discharge (SDD) for robot-assisted laparoscopic prostatectomy (RALP) between the "Pre-pandemic" and "Pandemic" periods and investigate SDD impact on mortality and readmissions.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">We examined data from the National Cancer Database on men receiving RALP in the "Pre-pandemic" (2018-2019) and "Pandemic" (2020) periods. We analyzed the differences in patient and hospital characteristics between SDD and non-SDD patients. Multivariable logistic regression analysis was performed to evaluate the likelihood of SDD during "Pandemic" versus "Pre-pandemic" periods. Inverse probability treatment weighting (IPTW) was utilized to assess the impact of SDD on 30-day mortality, 90-day mortality, and 30-day readmissions, adjusting for patient and hospital characteristics.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Out of 111,117 men, 8997 (8%) received SDD. Patients with more comorbidities, non-private insurance, and high-risk prostate cancer reported lower SDD rates (P &lt;.001). Higher SDD rates were observed at academic facilities and those in the top RALP volume quartile (P &lt;.001). Patients who underwent RALP during the "Pandemic" period had increased odds of SDD compared to those receiving RALP in the "Pre-pandemic" period (aOR 1.37; 95%CI 1.31-1.45; P &lt;.001). When comparing SDD and non-SDD patient outcomes, after IPTW adjustment, there was no difference in the odds of 30-day mortality (aOR 0.98; 95%CI 0.47-2.01; P = .95), 90-day mortality (aOR 1.09; 95%CI 0.60-1.97; P = .76), or 30-day readmissions (aOR 0.90; 95%CI 0.76-1.06, P = .21).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">SDD for RALP increased steadily after pandemic. Identifying factors and necessary resources to standardize SDD for RALP will be crucial for its widespread adoption in the coming years.</AbstractText>
+          <CopyrightInformation>Copyright © 2024 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Dagnino</LastName>
+            <ForeName>Filippo</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Department of Urology, Humanitas Research Hospital-IRCCS, Milan, Italy; Department of Biomedical Sciences, Humanitas University, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Labban</LastName>
+            <ForeName>Muhieddine</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, MA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Berk</LastName>
+            <ForeName>Brittany</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, MA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Qian</LastName>
+            <ForeName>Zhiyu</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, MA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stelzl</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Department of Urology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zurl</LastName>
+            <ForeName>Hanna</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Department of Urology, Medical University of Graz, Graz, Austria.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Korn</LastName>
+            <ForeName>Stephan</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Department of Urology, Medical University of Vienna, Vienna, Austria.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lughezzani</LastName>
+            <ForeName>Giovanni</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Humanitas Research Hospital-IRCCS, Milan, Italy; Department of Biomedical Sciences, Humanitas University, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Buffi</LastName>
+            <ForeName>Nicolò M</ForeName>
+            <Initials>NM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Humanitas Research Hospital-IRCCS, Milan, Italy; Department of Biomedical Sciences, Humanitas University, Milan, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cole</LastName>
+            <ForeName>Alexander P</ForeName>
+            <Initials>AP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, MA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kibel</LastName>
+            <ForeName>Adam S</ForeName>
+            <Initials>AS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology Brigham and Women's Hospital, Harvard Medical School, Boston, MA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Trinh</LastName>
+            <ForeName>Quoc-Dien</ForeName>
+            <Initials>QD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology Brigham and Women's Hospital, Harvard Medical School, Boston, MA; Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, MA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Niknejad</LastName>
+            <ForeName>Kathy G</ForeName>
+            <Initials>KG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology Brigham and Women's Hospital, Harvard Medical School, Boston, MA. Electronic address: kniknejad@bwh.harvard.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>22</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Urology</MedlineTA>
+        <NlmUniqueID>0366151</NlmUniqueID>
+        <ISSNLinking>0090-4295</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011468" MajorTopicYN="Y">Prostatectomy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011471" MajorTopicYN="Y">Prostatic Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010351" MajorTopicYN="Y">Patient Discharge</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016208" MajorTopicYN="Y">Databases, Factual</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014481" MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086382" MajorTopicYN="Y">COVID-19</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010359" MajorTopicYN="Y">Patient Readmission</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="N">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058873" MajorTopicYN="N">Pandemics</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>Declaration of Competing Interest Dr. Alexander P. Cole reports research funding from the Bruce A Beal and Robert L Beal surgical fellowship of the BWH Department of Surgery, from the Prostate Cancer Foundation and American Cancer Society (#23YOUN25) and from a Physician Research Award from the Department of Defense Congressionally Directed Medical Research Program (#PC220342). Dr. Quoc-Dien Trinh reports consulting fees from Astellas, Bayer, Intuitive Surgical, Janssen, Novartis, Pfizer, and research funding from the American Cancer Society, Pfizer Global Medical Grants (Prostate Cancer Disparities #63354905), and a Health Disparity Research Award from the Department of Defense Congressionally Directed Medical Research Program (#PC220551). The other authors have no conflict of interest to declare.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>07</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>20</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>25</Day>
+          <Hour>0</Hour>
+          <Minute>21</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>24</Day>
+          <Hour>19</Hour>
+          <Minute>27</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39447881</ArticleId>
+        <ArticleId IdType="pii">S0090-4295(24)00932-4</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.urology.2024.10.049</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39510213</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1527-9995</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>196</Volume>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Feb</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Urology</Title>
+          <ISOAbbreviation>Urology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A Cohort Study Comparing Cost-Efficiency of Abdominal and Robotic Sacrocolpopexy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>110-114</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S0090-4295(24)00975-0</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.urology.2024.10.073</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To compare cost and reimbursement of robotic and abdominal sacrocolpopexy procedures to evaluate which approach may minimize costs while improving the hospital profit margin.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We performed an IRB-exempt retrospective cohort study investigating all patients who underwent robotic or abdominal sacrocolpopexy at our hospital between July 1, 2018 and May 31, 2022. Patient demographic, procedural, and postoperative course data were extracted via chart review including duration of procedure, time in operating room, complications, and length of hospital stay. The billing department provided information on estimated cost of stay and reimbursement rates.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 203 robotic and 291 abdominal cases were included in analysis. The groups had significant differences in demographics, including race and insurance status. Abdominal procedures were associated with lower costs ($7675.99 vs 8747.48, P &lt;.0001) and higher reimbursement rates ($ 16,210.48 vs $ 10,102.28, P &lt;.0001), with the total collected (reimbursement minus cost), or profit margin, differing significantly ($8534.50 vs $1354.80, P &lt;.0001). Discrepancies in reimbursement and profit remained after controlling for secondary procedures. Abdominal cases also had shorter average duration (129.9 vs 168.4 minutes, P &lt;.0001). Abdominal sacrocolpopexy was associated with higher estimated blood loss (109.2 vs 97.9, P &lt;.0001) and longer hospital stay (26.3 vs 15.9 hours, P &lt;.0001).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Despite longer hospital stays and slightly higher estimated blood loss, abdominal sacrocolpopexy appears to have lower costs and higher reimbursement rates than robotic sacrocolpopexy, with a higher profit margin for the hospital.</AbstractText>
+          <CopyrightInformation>Copyright © 2024 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Korn</LastName>
+            <ForeName>Electra</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics &amp; Gynecology, Mount Sinai South Nassau, Oceanside, NY. Electronic address: electra.korn@umassmemorial.org.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Welton</LastName>
+            <ForeName>Chava</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics &amp; Gynecology, Mount Sinai South Nassau, Oceanside, NY.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Garely</LastName>
+            <ForeName>Alan</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics &amp; Gynecology, Mount Sinai South Nassau, Oceanside, NY; Division of Urogynecology, Mount Sinai South Nassau, Oceanside, NY.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Govindarajulu</LastName>
+            <ForeName>Usha</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Population Health Science and Policy, Icahn School of Medicine at Mount Sinai, New York, NY.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rahimi</LastName>
+            <ForeName>Salma</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics &amp; Gynecology, Mount Sinai South Nassau, Oceanside, NY; Division of Urogynecology, Mount Sinai South Nassau, Oceanside, NY.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Urology</MedlineTA>
+        <NlmUniqueID>0366151</NlmUniqueID>
+        <ISSNLinking>0090-4295</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056887" MajorTopicYN="Y">Pelvic Organ Prolapse</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003362" MajorTopicYN="N">Cost-Benefit Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013509" MajorTopicYN="N">Gynecologic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000005" MajorTopicYN="N">Abdomen</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>Declaration of Competing Interest The authors have no conflict of interest to declare.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>09</Month>
+          <Day>04</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>31</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>20</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>13</Day>
+          <Hour>14</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>7</Day>
+          <Hour>19</Hour>
+          <Minute>39</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39510213</ArticleId>
+        <ArticleId IdType="pii">S0090-4295(24)00975-0</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.urology.2024.10.073</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39528346</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1554-527X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>43</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of orthopaedic research : official publication of the Orthopaedic Research Society</Title>
+          <ISOAbbreviation>J Orthop Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of effects of intra-articular diclofenac etalhyaluronate and hyaluronic acid in a monoiodoacetate rat osteoarthritis model.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>557-566</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/jor.26012</ELocationID>
+        <Abstract>
+          <AbstractText>Diclofenac etalhyaluronate (DF-HA) sustained diclofenac release with the effects of hyaluronic acid (HA), offering long-term analgesia in osteoarthritis. In this study, the effects of DF-HA on pain improvement and osteoarthritis were evaluated in a rat knee monoiodoacetate-induced osteoarthritis model compared to HA. Eight rats per group had been injected with monoiodoacetate (2.0 mg) or saline in the right knee for 4 weeks and were injected with either DF-HA (1.25 mg/kg; 0.5 mg), HA (0.5 mg), vehicle which was a substrate without DF-HA (50 μL), or saline and followed for 4 weeks. Mechanical plantar skin sensitivity was assessed weekly using the von Frey assay. Osteoarthritis changes were monitored with Larsen scores via CT imaging at every 2 weeks. The articular cartilage was analyzed using OARSI scores through H&amp;E, Safranin-O staining at 8 weeks. The percentage of Iba-1 positive microglia in the spinal dorsal horn and of FG + CGRP-labeled cells among FG-positive cells in the dorsal root ganglion were evaluated by immunohistochemical staining. TNF-α and IL-6 mRNA expression levels in the knee synovium were evaluated by PCR. The DF-HA showed significantly improved pain hypersensitivity compared with the HA at 6-8 weeks. The percentage of Iba-1-positive microglia was significantly lower than that in the vehicle and the percentage of FG + CGRP/FG was significantly lower than that in the HA. OARSI scores did not differ among treatment groups, Larsen scores indicated lower in the DF-HA than in the vehicle. DF-HA was as effective as HA in joint protection and significantly improved inflammatory pain compared to HA.</AbstractText>
+          <CopyrightInformation>© 2024 Orthopaedic Research Society.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Tokeshi</LastName>
+            <ForeName>Soichiro</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-5756-8420</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, Graduate School of Medicine, Chiba University, Chuo-ku, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Suzuki-Narita</LastName>
+            <ForeName>Miyako</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-6427-3807</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioenvironmental Medicine, Graduate School of Medicine, Chiba University, Chuo‑ku, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tajiri</LastName>
+            <ForeName>Ikuko</ForeName>
+            <Initials>I</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-2627-091X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, Graduate School of Medicine, Chiba University, Chuo-ku, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Inage</LastName>
+            <ForeName>Kazuhide</ForeName>
+            <Initials>K</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-0540-4613</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, Graduate School of Medicine, Chiba University, Chuo-ku, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Takeuchi</LastName>
+            <ForeName>Jun</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0009-0002-6989-3874</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Medical Affairs, Seikagaku Corporation, Chiyoda-ku, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Arai</LastName>
+            <ForeName>Takahito</ForeName>
+            <Initials>T</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-2663-8745</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, Graduate School of Medicine, Chiba University, Chuo-ku, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kawarai</LastName>
+            <ForeName>Yuya</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-3321-9389</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, Graduate School of Medicine, Chiba University, Chuo-ku, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Terakawa</LastName>
+            <ForeName>Hiroakira</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, Graduate School of Medicine, Chiba University, Chuo-ku, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ohtori</LastName>
+            <ForeName>Seiji</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-5738-6184</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, Graduate School of Medicine, Chiba University, Chuo-ku, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Orita</LastName>
+            <ForeName>Sumihisa</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-2676-5469</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopedic Surgery, Graduate School of Medicine, Chiba University, Chuo-ku, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Frontier Medical Engineering, Chiba University, Inage‑ku, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <Agency>Seikagaku Corporation</Agency>
+            <Country />
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Orthop Res</MedlineTA>
+        <NlmUniqueID>8404726</NlmUniqueID>
+        <ISSNLinking>0736-0266</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>9004-61-9</RegistryNumber>
+          <NameOfSubstance UI="D006820">Hyaluronic Acid</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>WF5188V710</RegistryNumber>
+          <NameOfSubstance UI="D019807">Iodoacetic Acid</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>144O8QL0L1</RegistryNumber>
+          <NameOfSubstance UI="D004008">Diclofenac</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006820" MajorTopicYN="Y">Hyaluronic Acid</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019807" MajorTopicYN="Y">Iodoacetic Acid</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004008" MajorTopicYN="Y">Diclofenac</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="Y">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007270" MajorTopicYN="N">Injections, Intra-Articular</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020370" MajorTopicYN="N">Osteoarthritis, Knee</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000894" MajorTopicYN="N">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">diclofenac etalhyaluronate</Keyword>
+        <Keyword MajorTopicYN="N">hyaluronic acid</Keyword>
+        <Keyword MajorTopicYN="N">monoiodoacetate rat model</Keyword>
+        <Keyword MajorTopicYN="N">osteoarthritis</Keyword>
+        <Keyword MajorTopicYN="N">pain</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2024</Year>
+          <Month>08</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>05</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2024</Year>
+          <Month>10</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>8</Day>
+          <Hour>19</Hour>
+          <Minute>53</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>13</Day>
+          <Hour>13</Hour>
+          <Minute>54</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>11</Month>
+          <Day>11</Day>
+          <Hour>21</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39528346</ArticleId>
+        <ArticleId IdType="doi">10.1002/jor.26012</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Vina ER, Kwoh CK. Epidemiology of osteoarthritis: literature update. Curr Opin Rheumatol. 2018;30(2):160‐167.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Williams JM, Felten DL, Peterson RG, O'connor BL. Effects of surgically induced instability on rat knee articular cartilage. J Anat. 1982;134(1):103‐109.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Stoop R, Buma P, Van Der Kraan PM, et al. Differences in type II collagen degradation between peripheral and central cartilage of rat stifle joints after cranial cruciate ligament transection. Arthritis Rheum. 2000;43(9):2121‐2131.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Janusz MJ, Bendele AM, Brown KK, Taiwo YO, Hsieh L, Heitmeyer SA. Induction of osteoarthritis in the rat by surgical tear of the meniscus: inhibition of joint damage by a matrix metalloproteinase inhibitor. Osteoarthritis Cartilage. 2002;10(10):785‐791.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dunham J, Hoedt‐Schmidt S, Kalbhen DA. Prolonged effect of iodoacetate on articular cartilage and its modification by an anti‐rheumatic drug. Int J Exp Pathol. 1993;74(3):283‐289.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Guzman RE, Evans MG, Bove S, Morenko B, Kilgore K. Mono‐iodoacetate‐induced histologic changes in subchondral bone and articular cartilage of rat femorotibial joints: an animal model of osteoarthritis. Toxicol Pathol. 2003;31(6):619‐624.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Orita S, Ishikawa T, Miyagi M, et al. Pain‐related sensory innervation in monoiodoacetate‐induced osteoarthritis in rat knees that gradually develops neuronal injury in addition to inflammatory pain. BMC Musculoskelet Disord. 2011;12(1):134.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>DeLeo JA, Yezierski RP. The role of neuroinflammation and neuroimmune activation in persistent pain. Pain. 2001;90:1‐6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Orita S, Ishikawa T, Miyagi M, et al. Pain‐related sensory innervation in monoiodoacetate‐induced osteoarthritis in rat knees that gradually develops neuronal injury in addition to inflammatory pain. BMC Musculoskelet Disord. 2011;12(1):134.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>DeLeo JA, Yezierski RP. The role of neuroin ammation and neuroimmune activation in persistent pain. Pain. 2001;90:1‐6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsuda M, Inoue K, Salter MW. Neuropathic pain and spinal microglia: a big problem from molecules in ‘small’ glia. Trends Neurosci. 2005;28(2):101‐107.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kisukeda T, Onaya J, Yoshioka K. Effect of diclofenac etalhyaluronate (SI‐613) on the production of high molecular weight sodium hyaluronate in human synoviocytes. BMC Musculoskelet Disord. 2019;20(1):201.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yoshioka K, Kisukeda T, Zuinen R, Yasuda Y, Miyamoto K. Pharmacological effects of N‐[2‐[[2‐[2‐[(2,6‐dichlorophenyl)amino]phenyl]acetyl]oxy]ethyl]hyaluronamide (diclofenac Etalhyaluronate, SI‐613), a novel sodium hyaluronate derivative chemically linked with diclofenac. BMC Musculoskelet Disord. 2018;19(1):157.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bodden J, Joseph GB, Schirò S, et al. Opioid users show worse baseline knee osteoarthritis and faster progression of degenerative changes: a retrospective case‐control study based on data from the osteoarthritis initiative (OAI). Arthritis Res Ther. 2021;23(1):146.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schaffer D, Florin T, Eagle C, et al. Risk of serious NSAID‐related gastrointestinal events during long‐term exposure: a systematic review. Med J Aust. 2006;185(9):501‐506.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kanno K, Suzuki‐Narita M, Kawarai Y, et al. Analgesic effects and arthritic changes following tramadol administration in a rat hip osteoarthritis model. J Orthop Res. 2022;40(8):1770‐1777.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fujii T, Takana K, Orita S, et al. Progressive change in joint degeneration in patients with knee or hip osteoarthritis treated with fentanyl in a randomized trial. Yonsei Med J. 2014;55(5):1379.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schnitzer TJ, Easton R, Pang S, et al. Effect of tanezumab on joint pain, physical function, and patient global assessment of osteoarthritis among patients with osteoarthritis of the hip or knee: a randomized clinical trial. JAMA. 2019;322(1):37.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Arai T, Suzuki‐Narita M, Takeuchi J, et al. Analgesic effects and arthritic changes following intra‐articular injection of diclofenac etalhyaluronate in a rat knee osteoarthritis model. BMC Musculoskelet Disord. 2022;23(1):960.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim G, Inage K, Shiga Y, et al. Bone union‐promoting effect of romosozumab in a rat posterolateral lumbar fusion model. J Orthop Res. 2022;40(11):2576‐2585.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Udo M, Muneta T, Tsuji K, et al. Monoiodoacetic acid induces arthritis and synovitis in rats in a dose‐ and time‐dependent manner: proposed model‐specific scoring systems. Osteoarthritis Cartilage. 2016;24(7):1284‐1291.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Okumura N, Kawasaki T, Kubo M, et al. Effects of malalignment and disease activity on osteophyte formation in knees of rheumatoid arthritis patients. J Orthop Surg (Hong Kong). 2020;28(1):230949902091185.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pritzker KPH, Gay S, Jimenez SA, et al. Osteoarthritis cartilage histopathology: grading and staging. Osteoarthritis Cartilage. 2006;14(1):13‐29.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mabey T. Cytokines as biochemical markers for knee osteoarthritis. World J Orthop. 2015;6(1):95.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yasuda T. Hyaluronan inhibits akt, leading to nuclear Factor‐κB Down‐Regulation in Lipopolysaccharide‐Stimulated U937 macrophages. J Pharmacol Sci. 2011;115(4):509‐515.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gauldie J, Richard C, Harnish D, et al. Interferon f32/B‐cell stimulatory factor type 2 shares identity with monocyte‐derived hepatocyte‐stimulating factor and regulates the major acute phase protein response in liver cells. Proc Natl Acad Sci USA. 1987;84(20):7251‐7255.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee KM, Jeon SM, Cho HJ. Tumor necrosis factor receptor 1 induces interleukin‐6 upregulation through NF‐kappaB in a rat neuropathic pain model. Eur J Pain. 2009;13(8):794‐806.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tanabe K, Matsushima‐Nishiwaki R, Yamaguchi S, Iida H, Dohi S, Kozawa O. Mechanisms of tumor necrosis factor‐α‐induced interleukin‐6 synthesis in glioma cells. J Neuroinflammation. 2010;7(1):16.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nishida Y, Kano K, Nobuoka Y, Seo T. Efficacy and safety of Diclofenac–Hyaluronate conjugate (Diclofenac Etalhyaluronate) for knee osteoarthritis: a randomized phase III trial in Japan. Arthritis Rheum. 2021;73(9):1646‐1655.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nishida Y, Kano K, Osato T, Seo T. Open‐label phase 3 study of diclofenac conjugated to hyaluronate (diclofenac etalhyaluronate: ONO‐5704/SI‐613) for treatment of osteoarthritis: 1‐year follow‐up. BMC Musculoskelet Disord. 2021;22(1):233.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Miyamoto S, Nakamura J, Ohtori S, et al. Pain‐related behavior and the characteristics of dorsal‐root ganglia in a rat model of hip osteoarthritis induced by mono‐iodoacetate: pain indicators in a rat model of hip osteoarthritis. J Orthop Res. 2017;35(7):1424‐1430.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kawarai Y, Orita S, Nakamura J, et al. Changes in proinflammatory cytokines, neuropeptides, and microglia in an animal model of monosodium iodoacetate‐induced hip osteoarthritis. J Orthop Res. 2018;36(11):2978‐2986.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ma W, Quirion R. Does COX2‐dependent PGE2 play a role in neuropathic pain? Neurosci Lett. 2008;437(3):165‐169.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kaplan AA, Yurt KK, Deniz ÖG, Altun G. Peripheral nerve and diclofenac sodium: molecular and clinical approaches. J Chem Neuroanat. 2018;87:2‐11.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mohammadi R, Hirsaee M‐A, Amini K. Improvement of functional recovery of transected peripheral nerve by means of artery grafts filled with diclofenac. Int J Surg. 2013;11(3):259‐264.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kubo T, Kumai T, Ikegami H, Kano K, Nishii M, Seo T. Diclofenac–hyaluronate conjugate (diclofenac etalhyaluronate) intra‐articular injection for hip, ankle, shoulder, and elbow osteoarthritis: a randomized controlled trial. BMC Musculoskelet Disord. 2022;23(1):371.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yoh S, Kawarai Y, Hagiwara S, et al. Intra‐articular injection of monoiodoacetate induces diverse hip osteoarthritis in rats, depending on its dose. BMC Musculoskelet Disord. 2022;23(1):494.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Udo M, Muneta T, Tsuji K, et al. Monoiodoacetic acid induces arthritis and synovitis in rats in a dose‐ and time‐dependent manner: proposed model‐specific scoring systems. Osteoarthritis Cartilage. 2016;24(7):1284‐1291.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39921755</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1435-604X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>40</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Feb</Month>
+              <Day>08</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Lasers in medical science</Title>
+          <ISOAbbreviation>Lasers Med Sci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The effect of high-intensity versus photobiomodulation therapy (PBM) on the regeneration of the sciatic nerve following crush injury: an animal study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>81</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10103-025-04334-w</ELocationID>
+        <Abstract>
+          <AbstractText>The purpose of this research was to evaluate the therapeutics effects of photobiomodulation and high intensity laser therapy after a sciatic nerve crush injury. Following the crush injuries of sciatic nerve, 33 rats were randomly divided into three groups. The injured sciatic nerves of the rats in the control group were left to heal spontaneously, whereas HILT (120 J/session and 1064 nm) and photobiomodulation therapy (PBM) (2.4 J/session and 650 nm) were started immediately after surgery and performed once every 3 days (10 session in total) during the postoperative period. Electrophysiological evaluations were conducted before surgery and at the end of the healing period. The Sciatic Functional Index (SFI) was assessed before surgery and at the end of the healing period. The ratio of the inner axonal diameter to the total outer axonal diameter (g-ratio) and schwann cells per square micrometer were histomorphometrically evaluated. At the end of the 30-day healing period, significantly better SFI scores were noted in the HILT group compared with PBM (p=0.002) and control (p &lt; 0.001) groups. HILT exhibited positive effects on latency and duration values when compared PBM (p=0.002, p=0.014) and control (p=0.003, p &lt; 0.001) groups. The number of nerves with an optimum g-ratio was higher in the HILT group which indicates a better rate of myelination. Functional, histomorphometric, and electrophysiological investigations of the present study revealed that HILT seems to be a superior treatment modality for peripheral nerve regeneration.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bayburt</LastName>
+            <ForeName>Kemal Atakan</ForeName>
+            <Initials>KA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biruni University, Istanbul, Turkey. kbayburt@biruni.edu.tr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Diker</LastName>
+            <ForeName>Nurettin</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biruni University, Istanbul, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aydin</LastName>
+            <ForeName>Mehmet Serif</ForeName>
+            <Initials>MS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Istanbul Medipol University, Istanbul, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dolanmaz</LastName>
+            <ForeName>Dogan</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Bezmialem Vakif University, Istanbul, Turkey.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Lasers Med Sci</MedlineTA>
+        <NlmUniqueID>8611515</NlmUniqueID>
+        <ISSNLinking>0268-8921</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D028022" MajorTopicYN="Y">Low-Level Light Therapy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009416" MajorTopicYN="Y">Nerve Regeneration</DescriptorName>
+          <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012584" MajorTopicYN="Y">Sciatic Nerve</DescriptorName>
+          <QualifierName UI="Q000293" MajorTopicYN="N">injuries</QualifierName>
+          <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071576" MajorTopicYN="Y">Crush Injuries</DescriptorName>
+          <QualifierName UI="Q000532" MajorTopicYN="N">radiotherapy</QualifierName>
+          <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001369" MajorTopicYN="N">Axons</DescriptorName>
+          <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009409" MajorTopicYN="N">Nerve Crush</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Injuries</Keyword>
+        <Keyword MajorTopicYN="N">Laser biostimulation</Keyword>
+        <Keyword MajorTopicYN="N">Laser therapy</Keyword>
+        <Keyword MajorTopicYN="N">Nerve regeneration</Keyword>
+        <Keyword MajorTopicYN="N">Sciatic nerve</Keyword>
+      </KeywordList>
+      <CoiStatement>Compliance with ethical standards. Conflict of interests: The authors declare that they have no conflict of interest. Ethics approval and consent to participate: All procedures such as animal selection, management, surgical protocol and preparation were carried out at Animal Research Center Bezmialem Vakif University. All methods were performed in accordance with ARRIVE guideline 2.0 (Animal Research: Reporting of In Vivo Experiments) and regulations. This study was approved by the Institutional Review Board and Ethical Committee of Animal Research Center Bezmialem Vakif University (Date and No. of Papers: 2021/229).</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>01</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>8</Day>
+          <Hour>19</Hour>
+          <Minute>55</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>8</Day>
+          <Hour>19</Hour>
+          <Minute>54</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>8</Day>
+          <Hour>11</Hour>
+          <Minute>16</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39921755</ArticleId>
+        <ArticleId IdType="doi">10.1007/s10103-025-04334-w</ArticleId>
+        <ArticleId IdType="pii">10.1007/s10103-025-04334-w</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Jensen PH, Li J-Y, Dahlström A, Dotti CG (1999) Axonal transport of synucleins is mediated by all rate components. Eur J Neurosci 11:3369–3376. https://doi.org/10.1046/j.1460-9568.1999.00754.x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1046/j.1460-9568.1999.00754.x</ArticleId>
+            <ArticleId IdType="pubmed">10564344</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marchena JM, Padwa BL, Kaban LB (1998) Sensory abnormalities associated with mandibular fractures: incidence and natural history. J Oral Maxillofac Surg 56:822–825. https://doi.org/10.1016/S0278-2391(98)90003-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0278-2391(98)90003-9</ArticleId>
+            <ArticleId IdType="pubmed">9663571</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Houschyar KS, Momeni A, Pyles MN et al (2016) The role of current techniques and concepts in peripheral nerve repair. Plast Surg Int 2016:1–8. https://doi.org/10.1155/2016/4175293</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Luís AL, Amado S, Geuna S et al (2007) Long-term functional and morphological assessment of a standardized rat sciatic nerve crush injury with a non-serrated clamp. J Neurosci Methods 163:92–104. https://doi.org/10.1016/j.jneumeth.2007.02.017</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jneumeth.2007.02.017</ArticleId>
+            <ArticleId IdType="pubmed">17397932</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Varejão ASP, Meek MF, Ferreira AJA et al (2001) Functional evaluation of peripheral nerve regeneration in the rat: walking track analysis. J Neurosci Methods 108:1–9. https://doi.org/10.1016/S0165-0270(01)00378-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0165-0270(01)00378-8</ArticleId>
+            <ArticleId IdType="pubmed">11459612</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Varejão ASP, Cabrita AM, Meek MF et al (2004) Functional and morphological assessment of a standardized rat sciatic nerve crush injury with a non-serrated clamp. J Neurotrauma 21:1652–1670. https://doi.org/10.1089/neu.2004.21.1652</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/neu.2004.21.1652</ArticleId>
+            <ArticleId IdType="pubmed">15684656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martins RS, Siqueira MG, da Silva CF, Plese JPP (2006) Correlation between parameters of electrophysiological, histomorphometric and sciatic functional index evaluations after rat sciatic nerve repair. Arq Neuropsiquiatr 64:750–756. https://doi.org/10.1590/S0004-282X2006000500010</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1590/S0004-282X2006000500010</ArticleId>
+            <ArticleId IdType="pubmed">17057880</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geuna S, Raimondo S, Ronchi G et al (2009) Chapter 3 histology of the peripheral nerve and changes occurring during nerve regeneration. pp 27–46. https://doi.org/10.1016/S0074-7742(09)87003-7</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shen C-C, Yang Y-C, Liu B-S (2011) Large-area irradiated low-level laser effect in a biodegradable nerve guide conduit on neural regeneration of peripheral nerve injury in rats. Injury 42:803–813. https://doi.org/10.1016/j.injury.2011.02.005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.injury.2011.02.005</ArticleId>
+            <ArticleId IdType="pubmed">21397226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohammed IFR, Kaka LN (2007) Promotion of regenerative processes in injured peripheral nerve induced by low-level laser therapy. Photomed Laser Surg 25:107–111. https://doi.org/10.1089/pho.2006.1090</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/pho.2006.1090</ArticleId>
+            <ArticleId IdType="pubmed">17508846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Câmara CNdaS, Brito MVH, Silveira EL et al (2011) Histological analysis of low-intensity laser therapy effects in peripheral nerve regeneration in Wistar rats. Acta Cir Bras 26:12–18. https://doi.org/10.1590/S0102-86502011000100004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1590/S0102-86502011000100004</ArticleId>
+            <ArticleId IdType="pubmed">21271198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muniz XC, de Assis ACC, de Oliveira BSA et al (2021) Efficacy of low-level laser therapy in nerve injury repair—a new era in therapeutic agents and regenerative treatments. Neurol Sci 42:4029–4043</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10072-021-05478-7</ArticleId>
+            <ArticleId IdType="pubmed">34292450</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alayat MSM, Aly THA, Elsayed AEM, Fadil ASM (2017) Efficacy of pulsed nd:YAG laser in the treatment of patients with knee osteoarthritis: a randomized controlled trial. Lasers Med Sci 32:503–511. https://doi.org/10.1007/s10103-017-2141-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10103-017-2141-x</ArticleId>
+            <ArticleId IdType="pubmed">28078503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wyszyńska J, Bal-Bocheńska M (2018) Efficacy of high-intensity laser therapy in treating knee osteoarthritis: a first systematic review. Photomed Laser Surg 36:343–353. https://doi.org/10.1089/pho.2017.4425</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/pho.2017.4425</ArticleId>
+            <ArticleId IdType="pubmed">29688827</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pekyavas NO, Baltaci G (2016) Short-term effects of high-intensity laser therapy, manual therapy, and Kinesio taping in patients with subacromial impingement syndrome. Lasers Med Sci 31:1133–1141. https://doi.org/10.1007/s10103-016-1963-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10103-016-1963-2</ArticleId>
+            <ArticleId IdType="pubmed">27220527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alghadir A, Omar MTA, Al-Askar AB, Al-Muteri NK (2014) Effect of low-level laser therapy in patients with chronic knee osteoarthritis: a single-blinded randomized clinical study. Lasers Med Sci 29:749–755. https://doi.org/10.1007/s10103-013-1393-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10103-013-1393-3</ArticleId>
+            <ArticleId IdType="pubmed">23912778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gworys K, Gasztych J, Puzder A et al (2012) Influence of various laser therapy methods on knee joint pain and function in patients with knee osteoarthritis. Ortop Traumatol Rehabil 14:269–277. https://doi.org/10.5604/15093492.1002257</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5604/15093492.1002257</ArticleId>
+            <ArticleId IdType="pubmed">22764339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hegedűs B, Viharos L, Gervain M, Gálfi M (2009) The effect of low-level laser in knee osteoarthritis: a double-blind, randomized, placebo-controlled trial. Photomed Laser Surg 27:577–584. https://doi.org/10.1089/pho.2008.2297</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/pho.2008.2297</ArticleId>
+            <ArticleId IdType="pubmed">19530911</ArticleId>
+            <ArticleId IdType="pmcid">2957068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Navratil L, Dylevsky I, Mechanisms of the analgesic effect of therapeutic lasers in vivo (1997) Laser Ther 9:33–39. https://doi.org/10.5978/islsm.9.33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5978/islsm.9.33</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Angelova A, Ilieva EM (2016) Effectiveness of high intensity laser therapy for reduction of pain in knee osteoarthritis. Pain Res Manag 2016:1–11. https://doi.org/10.1155/2016/9163618</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2016/9163618</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Niemz MH (2007) Laser-tissue interactions. Springer Berlin Heidelberg, Berlin, Heidelberg</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-540-72192-5</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karaca B (2016) Effectiveness of high-intensity laser therapy in subacromial impingement syndrome. Photomed Laser Surg 34:223–228. https://doi.org/10.1089/pho.2015.4005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/pho.2015.4005</ArticleId>
+            <ArticleId IdType="pubmed">26890913</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ezzati K, Laakso E-L, Salari A et al (2020) The beneficial effects of high-intensity laser therapy and co-interventions on musculoskeletal pain management: a systematic review. J Lasers Med Sci 11:81–90. https://doi.org/10.15171/jlms.2020.14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.15171/jlms.2020.14</ArticleId>
+            <ArticleId IdType="pubmed">32099632</ArticleId>
+            <ArticleId IdType="pmcid">7008744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diker N, Aytac D, Helvacioglu F, Oguz Y (2020) Comparative effects of photobiomodulation therapy at wavelengths of 660 and 808 nm on regeneration of inferior alveolar nerve in rats following crush injury. Lasers Med Sci 35:413–420. https://doi.org/10.1007/s10103-019-02838-w</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10103-019-02838-w</ArticleId>
+            <ArticleId IdType="pubmed">31273571</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Abdelbasset WK, Nambi G, Elsayed SH et al (2020) Short-term clinical efficacy of the pulsed nd:YAG laser therapy on chronic nonspecific low back pain. Medicine 99:e22098. https://doi.org/10.1097/MD.0000000000022098</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MD.0000000000022098</ArticleId>
+            <ArticleId IdType="pubmed">32899089</ArticleId>
+            <ArticleId IdType="pmcid">7478657</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Akaltun MS, Altindag O, Turan N et al (2021) Efficacy of high intensity laser therapy in knee osteoarthritis: a double-blind controlled randomized study. Clin Rheumatol 40:1989–1995. https://doi.org/10.1007/s10067-020-05469-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10067-020-05469-7</ArticleId>
+            <ArticleId IdType="pubmed">33074393</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khullar SM, Brodin P, Messelt EB, Haanæs HR (1995) The effects of low level laser treatment on recovery of nerve conduction and motor function after compression injury in the rat sciatic nerve. Eur J Oral Sci 103:299–305. https://doi.org/10.1111/j.1600-0722.1995.tb00030.x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1600-0722.1995.tb00030.x</ArticleId>
+            <ArticleId IdType="pubmed">8521121</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gomes LEA, Dalmarco EM, André ES (2012) The brain-derived neurotrophic factor, nerve growth factor, neurotrophin-3, and induced nitric oxide synthase expressions after low-level laser therapy in an axonotmesis experimental model. Photomed Laser Surg 30. https://doi.org/10.1089/pho.2012.3242</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Monte-Raso VV, Barbieri CH, Mazzer N et al (2008) Is the sciatic functional index always reliable and reproducible? J Neurosci Methods 170:255–261. https://doi.org/10.1016/j.jneumeth.2008.01.022</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jneumeth.2008.01.022</ArticleId>
+            <ArticleId IdType="pubmed">18325595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barbosa RI, Marcolino AM, de Jesus Guirro RR et al (2010) Comparative effects of wavelengths of low-power laser in regeneration of sciatic nerve in rats following crushing lesion. Lasers Med Sci 25:423–430. https://doi.org/10.1007/s10103-009-0750-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10103-009-0750-8</ArticleId>
+            <ArticleId IdType="pubmed">20135336</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takhtfooladi MA, Sharifi D (2015) A comparative study of red and blue light-emitting diodes and low-level laser in regeneration of the transected sciatic nerve after an end to end neurorrhaphy in rabbits. Lasers Med Sci 30:2319–2324. https://doi.org/10.1007/s10103-015-1813-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10103-015-1813-7</ArticleId>
+            <ArticleId IdType="pubmed">26415928</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marcolino A, Barbosa R, das Neves L et al (2016) Assessment of functional recovery of sciatic nerve in rats submitted to low-level laser therapy with different fluences. An experimental study. J Hand Microsurg 5:49–53. https://doi.org/10.1007/s12593-013-0096-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s12593-013-0096-0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weiss L, Weiss J, Gaudino W et al (2004) Chap. 5 - Electromyography. In: Weiss L, Silver J, Weiss J (eds) Easy EMG. Butterworth-Heinemann, Edinburgh, pp 41–80. https://doi.org/10.1016/B978-0-7506-7431-750010-5</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Weiss L (2004) Chap. 6 - Injury to Peripheral nerves. In: Weiss L, Silver J, Weiss J (eds) Easy EMG. Butterworth-Heinemann, Edinburgh, pp 81–86. https://doi.org/10.1016/B978-0-7506-7431-750011-7</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Alayat MSM, Elsodany AM, El Fiky AAR (2014) Efficacy of high and low level laser therapy in the treatment of Bell’s palsy: a randomized double blind placebo-controlled trial. Lasers Med Sci 29:335–342. https://doi.org/10.1007/s10103-013-1352-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10103-013-1352-z</ArticleId>
+            <ArticleId IdType="pubmed">23709010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kheshie AR, Alayat MSM, Ali MME (2014) High-intensity versus low-level laser therapy in the treatment of patients with knee osteoarthritis: a randomized controlled trial. Lasers Med Sci 29:1371–1376. https://doi.org/10.1007/s10103-014-1529-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10103-014-1529-0</ArticleId>
+            <ArticleId IdType="pubmed">24487957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Capon A, Mordon S (2003) Can thermal lasers promote skin wound healing? Am J Clin Dermatol 4:1–12. https://doi.org/10.2165/00128071-200304010-00001</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2165/00128071-200304010-00001</ArticleId>
+            <ArticleId IdType="pubmed">12477368</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang X, Reddy DD, Nalawade SS et al (2017) Impact of heat on metabolic and hemodynamic changes in transcranial infrared laser stimulation measured by broadband near-infrared spectroscopy. Neurophotonics 5:1. https://doi.org/10.1117/1.NPh.5.1.011004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1117/1.NPh.5.1.011004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">39921831</PMID>
+      <DateCompleted>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>08</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2025</Year>
+        <Month>02</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1863-2491</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>19</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2025</Year>
+              <Month>Feb</Month>
+              <Day>08</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of robotic surgery</Title>
+          <ISOAbbreviation>J Robot Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparing the effect of laparoscopic and robotic stapling on clinical outcomes, efficiency, and costs of robot-assisted Roux-en-Y gastric bypass.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>65</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11701-025-02223-6</ELocationID>
+        <Abstract>
+          <AbstractText>Roux-en-Y gastric bypass (RYGB) is a commonly used surgery to successfully and durably treat obesity that is increasingly performed robotically. The anastomoses created during robot-assisted RYGB are usually stapled, either using laparoscopic or robotic staplers. This study aimed to compare the peri-operative efficiency, costs, and clinical outcomes of laparoscopic and robotic staplers in robot-assisted RYGB. This retrospective study analyzed patients who underwent robot-assisted RYGB (with or without hiatal hernia repair) with the Da Vinci Xi robotic system in a private practice in the United States. The gastric pouch and anastomoses were created either with robotic SureForm™ staplers or laparoscopic Endo GIA™ staplers; enterotomies and incisions were closed with sutures. The primary outcome was procedure time. The secondary outcomes were instrument exchanges and reloads used, stapling costs, length of stay, and complications within 3 months. Of the 105 patients included, 50 patients were treated with robotic staplers and 55 with laparoscopic staplers. None were lost to follow-up. Laparoscopic staplers were more efficient than robotic ones: they significantly reduced procedure times across all analyzed categories as well as the number of instrument exchanges and reloads needed per surgery. There was no difference in the length of hospital stay, and no complications were reported. The higher number of reloads and the higher unit cost resulted in higher total stapling costs for robotic compared to laparoscopic staplers. While robotic staplers in robot-assisted RYGB are safe and feasible, laparoscopic staplers improve efficiency, reduce resource use, and lower costs without compromising patient safety.</AbstractText>
+          <CopyrightInformation>© 2025. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hafermann</LastName>
+            <ForeName>Juliane O</ForeName>
+            <Initials>JO</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0009-0004-4595-7794</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Coreva Scientific GmbH &amp; Co. KG, Königswinter, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Phelps</LastName>
+            <ForeName>Jarrod D</ForeName>
+            <Initials>JD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Grinnell Regional Medical Center, UnityPoint Health, 210 4th Ave, Grinnell, IA, 50112, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tayash</LastName>
+            <ForeName>Mahmoud F El</ForeName>
+            <Initials>MFE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Grinnell Regional Medical Center, UnityPoint Health, 210 4th Ave, Grinnell, IA, 50112, USA. mahmoud.tayash@unitypoint.org.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2025</Year>
+          <Month>02</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Robot Surg</MedlineTA>
+        <NlmUniqueID>101300401</NlmUniqueID>
+        <ISSNLinking>1863-2483</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015390" MajorTopicYN="Y">Gastric Bypass</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065287" MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017792" MajorTopicYN="Y">Surgical Stapling</DescriptorName>
+          <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007902" MajorTopicYN="N">Length of Stay</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061646" MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Laparoscopic stapler</Keyword>
+        <Keyword MajorTopicYN="N">Robot-assisted surgery</Keyword>
+        <Keyword MajorTopicYN="N">Robotic stapler</Keyword>
+        <Keyword MajorTopicYN="N">Roux-en-Y gastric bypass</Keyword>
+        <Keyword MajorTopicYN="N">Surgical stapling</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations. Conflict of interest: Financial: JH is an employee of Coreva Scientific GmbH &amp; Co. KG, which received consultancy fees from Medtronic for analyzing and communicating the work presented here. MFT and JDP have no conflict of interest to declare. Non-financial: The authors have no relevant non-financial interests to disclose. Ethical approval: Not applicable. This was a retrospective observational study of anonymous data without any patient identifiers or other identifying information; therefore, no ethical approval was required.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2024</Year>
+          <Month>12</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2025</Year>
+          <Month>01</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>8</Day>
+          <Hour>19</Hour>
+          <Minute>54</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>8</Day>
+          <Hour>19</Hour>
+          <Minute>53</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2025</Year>
+          <Month>2</Month>
+          <Day>8</Day>
+          <Hour>11</Hour>
+          <Minute>19</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39921831</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11701-025-02223-6</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11701-025-02223-6</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Phelps NH, Singleton RK, Zhou B et al (2024) Worldwide trends in underweight and obesity from 1990 to 2022: a pooled analysis of 3663 population-representative studies with 222 million children, adolescents, and adults. Lancet 403(10431):1027–50. https://doi.org/10.1016/S0140-6736(23)02750-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0140-6736(23)02750-2</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cornier MA (2022) A review of current guidelines for the treatment of obesity. Am J Manag Care 28(15 Suppl):S288–S296. https://doi.org/10.37765/ajmc.2022.89292</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.37765/ajmc.2022.89292</ArticleId>
+            <ArticleId IdType="pubmed">36525676</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO). 8th IFSO Global Registry Report; 2023.  https://www.ifso.com/pdf/8th-ifso-registry-report-2023.pdf . Accessed 3 Jul 2024</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Leang YJ, Mayavel N, Yang WTW et al (2024) Robotic versus laparoscopic gastric bypass in bariatric surgery: a systematic review and meta-analysis on perioperative outcomes. Surg Obes Relat Dis 20(1):62–71. https://doi.org/10.1016/j.soard.2023.08.007</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.soard.2023.08.007</ArticleId>
+            <ArticleId IdType="pubmed">37730445</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li K, Zou J, Tang J, Di J, Han X, Zhang P (2016) Robotic versus laparoscopic bariatric surgery: a systematic review and meta-analysis. Obes Surg 26(12):3031–3044. https://doi.org/10.1007/s11695-016-2408-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11695-016-2408-5</ArticleId>
+            <ArticleId IdType="pubmed">27726045</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aiolfi A, Tornese S, Bonitta G, Rausa E, Micheletto G, Bona D (2019) Roux-en-Y gastric bypass: systematic review and Bayesian network meta-analysis comparing open, laparoscopic, and robotic approach. Surg Obes Relat Dis 15(6):985–994. https://doi.org/10.1016/j.soard.2019.03.006</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.soard.2019.03.006</ArticleId>
+            <ArticleId IdType="pubmed">31104958</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang L, Yao L, Yan P et al (2018) Robotic versus laparoscopic roux-en-y gastric bypass for morbid obesity: a systematic review and meta-analysis. Obes Surg 28(11):3691–3700. https://doi.org/10.1007/s11695-018-3458-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11695-018-3458-7</ArticleId>
+            <ArticleId IdType="pubmed">30178157</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bertoni MV, Marengo M, Garofalo F et al (2021) Robotic-assisted versus laparoscopic revisional bariatric surgery: a systematic review and meta-analysis on perioperative outcomes. Obes Surg 31(11):5022–5033. https://doi.org/10.1007/s11695-021-05668-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11695-021-05668-4</ArticleId>
+            <ArticleId IdType="pubmed">34410582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Caiazzo R, Bauvin P, Marciniak C et al (2023) Impact of robotic assistance on complications in bariatric surgery at expert laparoscopic surgery centers: a retrospective comparative study with propensity score. Ann Surg 278(4):489–496. https://doi.org/10.1097/SLA.0000000000005969</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLA.0000000000005969</ArticleId>
+            <ArticleId IdType="pubmed">37389476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sebastian R, Howell MH, Chang K-H et al (2019) Robot-assisted versus laparoscopic Roux-en-Y gastric bypass and sleeve gastrectomy: a propensity score-matched comparative analysis using the 2015–2016 MBSAQIP database. Surg Endosc 33(5):1600–1612. https://doi.org/10.1007/s00464-018-6422-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-018-6422-7</ArticleId>
+            <ArticleId IdType="pubmed">30225604</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kumar P, Yau HCV, Trivedi A, Yong D, Mahawar K (2020) Global variations in practices concerning Roux-en-Y Gastric Bypass-an Online Survey of 651 bariatric and metabolic surgeons with cumulative experience of 158,335 procedures. Obes Surg 30(11):4339–51. https://doi.org/10.1007/s11695-020-04796-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11695-020-04796-7</ArticleId>
+            <ArticleId IdType="pubmed">32592015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dang JT, Deprato A, Verhoeff K et al (2022) Variation of laparoscopic Roux-en-Y gastric bypass techniques: a survey of 518 bariatric surgeons. Obes Surg 32(7):2357–2365. https://doi.org/10.1007/s11695-022-06087-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11695-022-06087-9</ArticleId>
+            <ArticleId IdType="pubmed">35522385</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tejedor P, Sagias F, Flashman K, Kandala NL, Khan J (2020) The use of robotic or laparoscopic stapler in rectal cancer surgery: a systematic review and meta-analysis. J Robotic Surg 14(6):829–833. https://doi.org/10.1007/s11701-020-01126-y</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-020-01126-y</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zervos M, Song A, Li Y, Lee SH, Oh DS (2021) Clinical and economic outcomes of using robotic versus hand-held staplers during robotic lobectomy. Innovations (Phila) 16(5):470–476. https://doi.org/10.1177/15569845211040814</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/15569845211040814</ArticleId>
+            <ArticleId IdType="pubmed">34488486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hagen ME, Jung MK, Fakhro J et al (2018) Robotic versus laparoscopic stapling during robotic Roux-en-Y gastric bypass surgery: a case-matched analysis of costs and clinical outcomes. Surg Endosc 32(1):472–477. https://doi.org/10.1007/s00464-017-5707-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00464-017-5707-6</ArticleId>
+            <ArticleId IdType="pubmed">28726136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World Medical Association Declaration of Helsinki (2024) Ethical principles for medical research involving human participants. JAMA. https://doi.org/10.1001/jama.2024.21972</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jama.2024.21972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gutierrez M, Ditto R, Roy S (2019) Systematic review of operative outcomes of robotic surgical procedures performed with endoscopic linear staplers or robotic staplers. J Robotic Surg 13(1):9–21. https://doi.org/10.1007/s11701-018-0822-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-018-0822-5</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Phillips JD, Fay KA, Hasson RM, Millington TM, Finley DJ (2020) Robotic vs traditional stapler use in robotic portal anatomic lung resection. Mini-invasive Surg. https://doi.org/10.20517/2574-1225.2020.02</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.20517/2574-1225.2020.02</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koh FHX, Tan K-K, Lieske B, Tsang ML, Tsang CB, Koh DC (2014) Endowrist versus wrist: a case-controlled study comparing robotic versus hand-assisted laparoscopic surgery for rectal cancer. Surg Laparosc Endosc Percutan Tech 24(5):452–456. https://doi.org/10.1097/SLE.0b013e318290158d</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SLE.0b013e318290158d</ArticleId>
+            <ArticleId IdType="pubmed">25275815</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tejedor P, Sagias F, Nock D et al (2020) Advantages of using a robotic stapler in rectal cancer surgery. J Robotic Surg 14(2):365–370. https://doi.org/10.1007/s11701-019-00993-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11701-019-00993-4</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Atasoy D, Aytac E, Ozben V et al (2018) Robotic versus laparoscopic stapler use for rectal transection in robotic surgery for cancer. J Laparoendosc Adv Surg Tech A 28(5):501–505. https://doi.org/10.1089/lap.2017.0545</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/lap.2017.0545</ArticleId>
+            <ArticleId IdType="pubmed">29360006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guadagni S, Di Franco G, Gianardi D et al (2018) Control comparison of the New EndoWrist and traditional laparoscopic staplers for anterior rectal resection with the Da Vinci Xi: a case study. J Laparoendosc Adv Surg Tech A 28(12):1422–1427. https://doi.org/10.1089/lap.2018.0218</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/lap.2018.0218</ArticleId>
+            <ArticleId IdType="pubmed">29920142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Holzmacher JL, Luka S, Aziz M, Amdur RL, Agarwal S, Obias V (2017) The use of robotic and laparoscopic surgical stapling devices during minimally invasive colon and rectal surgery: a comparison. J Laparoendosc Adv Surg Tech A 27(2):151–155. https://doi.org/10.1089/lap.2016.0409</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/lap.2016.0409</ArticleId>
+            <ArticleId IdType="pubmed">27893300</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

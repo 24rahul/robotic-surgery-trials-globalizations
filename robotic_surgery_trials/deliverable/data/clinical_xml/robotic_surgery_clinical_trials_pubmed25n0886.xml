@@ -1,0 +1,993 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">27807349</PMID>
+      <DateCompleted>
+        <Year>2018</Year>
+        <Month>08</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2041-1723</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>7</Volume>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>10</Month>
+              <Day>27</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature communications</Title>
+          <ISOAbbreviation>Nat Commun</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Induced sensorimotor brain plasticity controls pain in phantom limb patients.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>13209</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/ncomms13209</ELocationID>
+        <Abstract>
+          <AbstractText>The cause of pain in a phantom limb after partial or complete deafferentation is an important problem. A popular but increasingly controversial theory is that it results from maladaptive reorganization of the sensorimotor cortex, suggesting that experimental induction of further reorganization should affect the pain, especially if it results in functional restoration. Here we use a brain-machine interface (BMI) based on real-time magnetoencephalography signals to reconstruct affected hand movements with a robotic hand. BMI training induces significant plasticity in the sensorimotor cortex, manifested as improved discriminability of movement information and enhanced prosthetic control. Contrary to our expectation that functional restoration would reduce pain, the BMI training with the phantom hand intensifies the pain. In contrast, BMI training designed to dissociate the prosthetic and phantom hands actually reduces pain. These results reveal a functional relevance between sensorimotor cortical plasticity and pain, and may provide a novel treatment with BMI neurofeedback.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Yanagisawa</LastName>
+            <ForeName>Takufumi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Functional Diagnostic Science, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroinformatics, ATR Computational Neuroscience Laboratories, 2-2-2 Hikaridai, Seika-cho, Kyoto 619-0288, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroinformatics, CiNet Computational Neuroscience Laboratories, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>JST PRESTO, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Clinical Neuroengineering, Osaka University, Global Center for Medical Engineering and Informactics, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fukuma</LastName>
+            <ForeName>Ryohei</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroinformatics, ATR Computational Neuroscience Laboratories, 2-2-2 Hikaridai, Seika-cho, Kyoto 619-0288, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroinformatics, CiNet Computational Neuroscience Laboratories, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Graduate School of Information Science, Nara Institute of Science and Technology, 8916-5 Takayamacho, Ikoma, Nara 630-0192, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Seymour</LastName>
+            <ForeName>Ben</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Engineering, University of Cambridge, Computational and Biological Learning Laboratory, Trumpington Street, Cambridge CB2 1PZ, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Institute for Information and Communications Technology, Center for Information and Neural Networks, 1-3 Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hosomi</LastName>
+            <ForeName>Koichi</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuromodulation and Neurosurgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kishima</LastName>
+            <ForeName>Haruhiko</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shimizu</LastName>
+            <ForeName>Takeshi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuromodulation and Neurosurgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yokoi</LastName>
+            <ForeName>Hiroshi</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering and Intelligent Systems, The University of Electro-Communications, 1-5-1 Chofugaoka, Chofu, Tokyo 182-8585, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hirata</LastName>
+            <ForeName>Masayuki</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroinformatics, CiNet Computational Neuroscience Laboratories, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Clinical Neuroengineering, Osaka University, Global Center for Medical Engineering and Informactics, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yoshimine</LastName>
+            <ForeName>Toshiki</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroinformatics, CiNet Computational Neuroscience Laboratories, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Clinical Neuroengineering, Osaka University, Global Center for Medical Engineering and Informactics, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kamitani</LastName>
+            <ForeName>Yukiyasu</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroinformatics, ATR Computational Neuroscience Laboratories, 2-2-2 Hikaridai, Seika-cho, Kyoto 619-0288, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Graduate School of Information Science, Nara Institute of Science and Technology, 8916-5 Takayamacho, Ikoma, Nara 630-0192, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Graduate School of Informatics, Kyoto University, Yoshidahonmachi, Sakyoku, Kyoto 606-8501, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Saitoh</LastName>
+            <ForeName>Youichi</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuromodulation and Neurosurgery, Osaka University Graduate School of Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2016</Year>
+          <Month>10</Month>
+          <Day>27</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Nat Commun</MedlineTA>
+        <NlmUniqueID>101528555</NlmUniqueID>
+        <ISSNLinking>2041-1723</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020516" MajorTopicYN="N">Brachial Plexus Neuropathies</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062207" MajorTopicYN="Y">Brain-Computer Interfaces</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015225" MajorTopicYN="N">Magnetoencephalography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058765" MajorTopicYN="N">Neurofeedback</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009473" MajorTopicYN="Y">Neuronal Plasticity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059408" MajorTopicYN="N">Pain Management</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010591" MajorTopicYN="N">Phantom Limb</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+          <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019736" MajorTopicYN="N">Prostheses and Implants</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066191" MajorTopicYN="N">Sensorimotor Cortex</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>11</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2016</Year>
+          <Month>09</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2016</Year>
+          <Month>11</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>8</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2016</Year>
+          <Month>11</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">27807349</ArticleId>
+        <ArticleId IdType="pii">ncomms13209</ArticleId>
+        <ArticleId IdType="doi">10.1038/ncomms13209</ArticleId>
+        <ArticleId IdType="pmc">PMC5095287</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Pain Med. 2014 Nov;15(11):1930-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24930826</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 1998 Nov;1(7):635-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10196573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2015 Aug;138(Pt 8):2140-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26072517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trends Cogn Sci. 2013 Jul;17(7):307-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23608362</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2001 Nov;124(Pt 11):2268-77</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11673327</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 1999 Jun;2(6):501-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10448212</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Neurosci. 2006 Nov;7(11):873-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17053811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Neurobiol. 1999 Dec;9(6):718-27</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10607637</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2014 Mar;137(Pt 3):757-69</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24480484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain. 2013 Jul;154(7):1065-72</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23623156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuron. 2014 Jun 18;82(6):1380-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24945777</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2013 Jun 25;110(26):10818-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23754426</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2012 Feb;135(Pt 2):596-614</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22232595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Neurosci. 2009 Mar;10(3):173-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19229240</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroscience. 2016 Jan 15;312:48-57</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26556065</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1995 Sep 29;269(5232):1880-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7569931</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cortex. 2012 Jun;48(6):746-57</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21397901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2012 Feb;135(Pt 2):582-95</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22345089</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2001 Jun 2;357(9270):1763-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11403816</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain Stimul. 2008 Oct;1(4):337-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20633392</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stroke. 2008 Mar;39(3):910-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18258825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Rep. 2016 Feb 24;6:21781</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26904967</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 1991 Feb;114 ( Pt 1B):615-27</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2004259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuron. 2013 Dec 4;80(5):1301-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24210907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Commun. 2013;4:2032</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23787780</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain Med. 2015 Apr;16(4):777-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25529640</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Pain. 2015 Jul;16(7):657-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25863170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 1999 Oct 23;354(9188):1464-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10543687</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2014 Jun;137(Pt 6):1741-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24740988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 2014 Jun;17(6):807-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24728268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Commun. 2013;4:1570</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23463013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hum Brain Mapp. 2015 Feb;36(2):508-18</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25256887</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Neurol. 2012 Mar;71(3):353-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22052728</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Transl Med. 2014 Feb 5;6(222):222ra19</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24500407</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain Pract. 2011 Jul-Aug;11(4):403-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21447079</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurosurgery. 2011 May;68(5):1252-7; discussion 1257-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21307799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroimage. 2008 Oct 1;42(4):1397-413</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18620066</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroimage. 2011 Jan 15;54(2):892-905</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20884361</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neurosci. 2001 May 15;21(10):3609-18</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11331390</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 1995 Oct 12;377(6549):489-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7566144</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2000 Aug 1;97(16):9281-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10908676</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroimage. 2004 Nov;23(3):806-26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15528082</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 1995 Jun 8;375(6531):482-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7777055</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2011 Dec 9;334(6061):1413-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22158821</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2013 Apr 11;368(15):1388-97</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23574118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pain. 2008 Aug 15;138(1):7-10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18621484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2015 Jul 02;10(7):e0131547</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26134845</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurorehabil Neural Repair. 2012 Jul-Aug;26(6):646-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22331213</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Anaesthesiol. 2000 Oct;13(5):561-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17016358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Neurosci. 2011 May;14(5):662-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21499255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neuroimage. 1999 Feb;9(2):179-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9931268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Pain. 2011 Aug;15(7):691.e1-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21316273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">27815698</PMID>
+      <DateCompleted>
+        <Year>2017</Year>
+        <Month>06</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>11</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1432-1262</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>32</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2017</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of colorectal disease</Title>
+          <ISOAbbreviation>Int J Colorectal Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparison of inflammatory responses following robotic and open colorectal surgery: a prospective study.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>399-407</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00384-016-2697-0</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Robotic colorectal surgery continues to rise in popularity, but there remains little evidence on the stress response following the procedure. The aim of this study was to evaluate the inflammatory response to robotic colorectal surgery and compare it with the response generated by open colorectal surgery.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This was a prospective nonrandomized comparative study involving 61 patients with colorectal cancer. The evaluation of inflammatory response to either robotic or open colorectal surgery was expressed as changes in interleukin-1β, interleukin-1 receptor antagonist, interleukin-6, tumor necrosis factor-α, C-reactive protein, and procalcitonin during the first three postoperative days.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the 61 patients, 33 underwent robotic colorectal surgery while 28 had open colorectal surgery. Groups were comparable with respect to age, sex, BMI, cancer stage, and type of resection. The relative increase of interleukin-1 receptor antagonist at 8 h postoperative, compared to baseline, was higher in the open group (P = 0.006). The decrease of interleukin-1 receptor antagonist on postoperative days 1 and 3, compared to the maximum at 8 h, was more pronounced in the open group than in the robotic group (P = 0.008, P = 0.006, respectively), and the relative increase of interleukin-6 at 8 h after incision was higher in the open group (P = 0.007). The relative increase of procalcitonin on postoperative days 1 and 3 was higher in the open group than the robotic group (P &lt; 0.001, P = 0.004, respectively).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study shows that when compared with open colorectal surgery, robotic colorectal surgery results in a less pronounced inflammatory response and more pronounced anti-inflammatory action.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zawadzki</LastName>
+            <ForeName>Marek</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-8957-5625</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgical Oncology, Regional Specialist Hospital, Research and Development Centre at Regional Specialist Hospital, ul. Kamienskiego 73a, 51-124, Wroclaw, Poland. zawadzkimd@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Krzystek-Korpacka</LastName>
+            <ForeName>Malgorzata</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Biochemistry, Wroclaw Medical University, ul. Chalubinskiego 10, 50-368, Wroclaw, Poland. malgorzata.krzystek-korpacka@umed.wroc.pl.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gamian</LastName>
+            <ForeName>Andrzej</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Biochemistry, Wroclaw Medical University, ul. Chalubinskiego 10, 50-368, Wroclaw, Poland.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Medical Microbiology, Ludwik Hirszfeld Institute of Immunology and Experimental Therapy, Polish Academy of Sciences, Wroclaw, Poland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Witkiewicz</LastName>
+            <ForeName>Wojciech</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgical Oncology, Regional Specialist Hospital, Research and Development Centre at Regional Specialist Hospital, ul. Kamienskiego 73a, 51-124, Wroclaw, Poland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016430">Clinical Trial</PublicationType>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2016</Year>
+          <Month>11</Month>
+          <Day>04</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Int J Colorectal Dis</MedlineTA>
+        <NlmUniqueID>8607899</NlmUniqueID>
+        <ISSNLinking>0179-1958</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>9007-12-9</RegistryNumber>
+          <NameOfSubstance UI="D002116">Calcitonin</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>9007-41-4</RegistryNumber>
+          <NameOfSubstance UI="D002097">C-Reactive Protein</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002097" MajorTopicYN="N">C-Reactive Protein</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002116" MajorTopicYN="N">Calcitonin</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003107" MajorTopicYN="N">Colorectal Surgery</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016207" MajorTopicYN="N">Cytokines</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003710" MajorTopicYN="N">Demography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007249" MajorTopicYN="N">Inflammation</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019990" MajorTopicYN="N">Perioperative Care</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012371" MajorTopicYN="Y">Robotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Colorectal cancer</Keyword>
+        <Keyword MajorTopicYN="N">Inflammatory response</Keyword>
+        <Keyword MajorTopicYN="N">Robotic surgery</Keyword>
+        <Keyword MajorTopicYN="N">Stress response</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2016</Year>
+          <Month>10</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2016</Year>
+          <Month>11</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>6</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2016</Year>
+          <Month>11</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">27815698</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00384-016-2697-0</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00384-016-2697-0</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>J Trauma Acute Care Surg. 2012 Oct;73(4):801-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22976420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tech Coloproctol. 2015 May;19(5):275-80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25762242</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2003 Apr;17(4):636-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12574925</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2004 May 13;350(20):2050-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15141043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Intensive Care Med. 1998 Jul;24(7):680-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9722037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 1998 Jul;89(1):93-104</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9667299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Surg. 1997 Mar;84(3):391-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9117320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2001 Jun;15(6):600-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11591950</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scand J Trauma Resusc Emerg Med. 2009 Sep 15;17:43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19754938</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2005 May 14-20;365(9472):1718-26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15894098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2013 May;257(5):916-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22735713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Langenbecks Arch Surg. 2000 Jan;385(1):2-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10664112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Colon Rectum. 1998 Jul;41(7):901-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9678378</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2012 Feb;255(2):216-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22241289</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Colon Rectum. 2003 Sep;46(9):1238-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12972969</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 1998 Aug;12(8):1035-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9685537</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2003 Jun;17(6):972-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12640542</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncologist. 2006 Apr;11(4):397-408</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16614236</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Colon Rectum. 2001 May;44(5):638-46</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11357021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oncotarget. 2011 Oct;2(10):739-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22036896</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2002 Jan;16(1):36-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11961601</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Cancer. 2010 Dec 15;127(12):2893-917</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21351269</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2016 Apr;30(4):1576-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26169638</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dis Colon Rectum. 2003 Feb;46(2):147-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12576886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Surg. 2000 Apr;231(4):506-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10749610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Colorectal Dis. 2011 Nov;26(11):1375-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21822596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Surg Res. 2010 Nov;164(1):28-37</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20828745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Immunol. 2013 Oct 08;4:289</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24115947</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Biol Sci. 2012;8(9):1248-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23136553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Oncol. 1987 Nov;5(11):1816-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3119787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

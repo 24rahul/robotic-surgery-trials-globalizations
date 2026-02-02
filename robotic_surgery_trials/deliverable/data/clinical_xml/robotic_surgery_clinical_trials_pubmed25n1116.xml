@@ -1,0 +1,635 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet><PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">34962110</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>04</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1598-6357</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>36</Volume>
+            <Issue>50</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Dec</Month>
+              <Day>27</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of Korean medical science</Title>
+          <ISOAbbreviation>J Korean Med Sci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Assessment of Perioperative Atelectasis Using Lung Ultrasonography in Patients Undergoing Pneumoperitoneum Surgery in the Trendelenburg Position: Aspects of Differences according to Ventilatory Mode.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e334</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3346/jkms.2021.36.e334</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">During robotic gynecologic pneumoperitoneum surgery in the Trendelenburg position, aeration loss leads to perioperative atelectasis. Recently developed ventilator mode pressure-controlled ventilation volume-guaranteed (PCV-VG) mode could provide adequate ventilation with lower inspiratory pressure compared to volume-controlled ventilation (VCV); we hypothesized that PCV-VG mode may be beneficial in reducing perioperative atelectasis via low tidal volume (V<sub>T</sub>) of 6 mL/kg ventilation during robotic gynecologic pneumoperitoneum surgery in the Trendelenburg position. We applied lung ultrasound score (LUS) for detecting perioperative atelectasis. We aimed to compare perioperative atelectasis between VCV and PCV-VG with a low V<sub>T</sub> of 6 mL/kg during pneumoperitoneum surgery in the Trendelenburg position using LUS.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Patients scheduled for robotic gynecologic surgery were randomly allocated to the VCV (n = 41) or PCV-VG group (n = 41). LUS, ventilatory, and hemodynamic parameters were evaluated at T1 (before induction), T2 (10 minutes after induction in the supine position), T3 (10 minutes after desufflation of CO<sub>2</sub> in the supine position), and T4 (30 minutes after emergence from anesthesia in the recovery room).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Eighty patients (40 with PCV-VG and 40 with VCV) were included. Demographic data showed no significant differences between the groups. The total LUS has changed from baseline to T4, 0.63 (95% confidence interval [CI], 0.32, 0.94) to 1.77 (95% CI, 1.42, 2.21) in the VCV group and 0.86 (95% CI, 0.56, 1.16) to 1.43 (95% CI, 1.08, 1.78) in the PCV-VG group (<i>P</i> = 0.170). In both groups, total LUS increased significantly compared to the baseline values.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Using a low V<sub>T</sub> of 6 mL/kg during pneumoperitoneum surgery in the Trendelenburg position, our study showed no evidence that PCV-VG ventilation was superior to VCV in terms of perioperative atelectasis.</AbstractText>
+          <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">Clinical Research Information Service Identifier: KCT0006404.</AbstractText>
+          <CopyrightInformation>© 2021 The Korean Academy of Medical Sciences.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Youn Young</ForeName>
+            <Initials>YY</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0001-6414-2436</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Ewha Womans University Mokdong Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Jong In</ForeName>
+            <Initials>JI</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-8231-7161</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Ewha Womans University Mokdong Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, College of Medicine, Ewha Womans University, Seoul, Korea. hanji@ewha.ac.kr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kang</LastName>
+            <ForeName>Bo Kyung</ForeName>
+            <Initials>BK</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0003-2744-1044</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Ewha Womans University Mokdong Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jeong</LastName>
+            <ForeName>Kyungah</ForeName>
+            <Initials>K</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-9673-1152</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Obstetrics and Gynecology, College of Medicine, Ewha Womans University, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Jong Wha</ForeName>
+            <Initials>JW</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0003-3574-191X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Ewha Womans University Mokdong Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, College of Medicine, Ewha Womans University, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Dong Yeon</ForeName>
+            <Initials>DY</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-4414-5653</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, Ewha Womans University Mokdong Hospital, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Anesthesiology and Pain Medicine, College of Medicine, Ewha Womans University, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>27</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Korea (South)</Country>
+        <MedlineTA>J Korean Med Sci</MedlineTA>
+        <NlmUniqueID>8703518</NlmUniqueID>
+        <ISSNLinking>1011-8934</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018475" MajorTopicYN="N">Head-Down Tilt</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008168" MajorTopicYN="N">Lung</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011027" MajorTopicYN="Y">Pneumoperitoneum</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001261" MajorTopicYN="Y">Pulmonary Atelectasis</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012121" MajorTopicYN="N">Respiration, Artificial</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014463" MajorTopicYN="N">Ultrasonography</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Atelectasis</Keyword>
+        <Keyword MajorTopicYN="N">Gynecologic Anesthesia</Keyword>
+        <Keyword MajorTopicYN="N">Lung Ultrasonography</Keyword>
+        <Keyword MajorTopicYN="N">Mechanical Ventilation</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors have no potential conflicts of interest to disclose.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>08</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>58</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34962110</ArticleId>
+        <ArticleId IdType="pii">36.e334</ArticleId>
+        <ArticleId IdType="doi">10.3346/jkms.2021.36.e334</ArticleId>
+        <ArticleId IdType="pmc">PMC8728588</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Minerva Anestesiol. 2012 May;78(5):596-604</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22415437</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Intensive Care Med. 2012 Apr;38(4):577-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22392031</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2005 Feb;102(2):293-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15681942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Expert Rev Respir Med. 2015 Feb;9(1):97-107</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25541220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2010 Sep;105(3):377-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20554634</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2014 Jun;120(6):1370-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24662376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ultraschall Med. 2017 Oct;38(5):530-537</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28291991</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Cardiothorac Vasc Anesth. 2016 Apr;30(2):501-14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26395394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Med. 2019 Nov 21;8(12):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31766358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Anesth. 2011 May;23(3):183-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21377341</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2019 Dec;123(6):898-913</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31587835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Med Sci. 2020 Sep 23;17(17):2728-2734</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33162800</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2015 Sep;123(3):692-713</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26120769</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ultrasound Med Biol. 2016 Dec;42(12):2775-2784</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27639431</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Best Pract Res Clin Anaesthesiol. 2010 Jun;24(2):227-41</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20608559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Anesth. 2016 Nov;34:55-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27687346</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2007 Sep;99(3):429-35</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17626027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Interv Aging. 2019 Jul 18;14:1319-1329</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31409981</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crit Care Med. 1992 Nov;20(11):1604-16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1424706</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2015 Feb;122(2):437-47</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25501898</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2005 Apr;102(4):838-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15791115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 1998 Feb 5;338(6):355-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9449728</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesth Analg. 2017 Feb;124(2):494-504</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27669555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Med. 2021 Mar 19;10(6):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33808607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Braz J Anesthesiol. 2019 Nov - Dec;69(6):553-560</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31836201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cardiovasc Ultrasound. 2014 Jul 04;12:25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24993976</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Korean Med Sci. 2020 Oct 12;35(39):e327</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33045769</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2015 Jul 14;351:h3646</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26174419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Can J Anaesth. 2015 Sep;62(9):979-87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25869025</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Korean J Anesthesiol. 2020 Jun;73(3):194-204</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32098009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Anaesth. 2008 May;100(5):709-16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18407943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Anesth. 2007 Mar;19(2):125-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17379125</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chest. 2004 Feb;125(2):592-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14769743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anesthesiology. 2013 Jan;118(1):114-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23196259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surg Endosc. 2017 Sep;31(9):3605-3613</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28039643</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Manual" Owner="NLM">
+      <PMID Version="1">34967863</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>12</Month>
+        <Day>31</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2168-619X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>148</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>02</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA otolaryngology-- head &amp; neck surgery</Title>
+          <ISOAbbreviation>JAMA Otolaryngol Head Neck Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Effect of Perioperative Patient Education via Animated Videos in Patients Undergoing Head and Neck Surgery: A Randomized Clinical Trial.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>173-179</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamaoto.2021.3765</ELocationID>
+        <Abstract>
+          <AbstractText Label="Importance">Patient education and engagement is a pivotal component of surgical recovery. Ensuring proper patient education involves a thorough understanding of one's diagnosis and recovery plan, while reducing language and learning barriers to help patients make informed decisions and improve their hospital experience.</AbstractText>
+          <AbstractText Label="Objective">To assess whether using an animated surgical guide will help patients who are undergoing head and neck surgery feel more satisfied with their surgery and recovery process.</AbstractText>
+          <AbstractText Label="Design, Setting, and Participants">A randomized clinical trial was conducted between January and August 2020 at a single tertiary care academic center in Montreal, Canada. A consecutive sample of individuals who were undergoing any of the following surgical procedures was recruited: head and neck cancer resection with or without reconstruction, parotidectomy, thyroidectomy, parathyroidectomy, laryngectomy, or transoral robotic resection. The treating team was masked to group allocation, while study participants in the nonintervention group were unaware of the multimedia platform to avoid introducing bias in their survey responses.</AbstractText>
+          <AbstractText Label="Interventions">Patients were randomly allocated to either the treatment arm, in which they obtained access to a multimedia patient education platform, or the control arm, in which they received traditional patient education methods via clinical visits.</AbstractText>
+          <AbstractText Label="Main Outcomes and Measures">Primary analysis compared patient satisfaction scores on the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire INFO 25, a validated questionnaire on the perceived quality of information received by patients with cancer (possible scores ranging from 20 to 80).</AbstractText>
+          <AbstractText Label="Results">A total of 100 patients (50 in each arm; 63 women [63%]; 6 African American [6%, 12 Hispanic/Latino [12%], 11 Middle Eastern [11%], and 78 White [78%] individuals) completed the preintervention and postintervention questionnaires. In those who received access to the patient education platform, there was an 11.3-point (Cohen d = 1.02; control group score, 61.1 of 80; treatment group score, 72.4 of 80) difference of greater postoperative satisfaction scores at 1 month. While both groups felt that they received an adequate amount of information concerning their disease process, patients in the treatment arm had significantly better satisfaction with information concerning their medical tests, treatments, and other services.</AbstractText>
+          <AbstractText Label="Conclusions and Relevance">This randomized clinical trial of patients undergoing head and neck cancer treatment demonstrates that multimedia patient education platforms may enhance current traditional methods, providing complementary information on patients' treatment plans and recovery process, mental health, family life, and supplementary services. Further research is currently underway to confirm whether this platform will lead to decreased hospital stay, shorter complication rates, and long-term effects.</AbstractText>
+          <AbstractText Label="Trial Registration">ClinicalTrials.gov Identifier: NCT04048538.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Turkdogan</LastName>
+            <ForeName>Sena</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, McGill University Health Centre, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Roy</LastName>
+            <ForeName>Catherine F</ForeName>
+            <Initials>CF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, McGill University Health Centre, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chartier</LastName>
+            <ForeName>Gabrielle</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, McGill University Health Centre, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Nursing, Jewish General Hospital, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Payne</LastName>
+            <ForeName>Richard</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, McGill University Health Centre, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, Jewish General Hospital, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mlynarek</LastName>
+            <ForeName>Alex</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, Jewish General Hospital, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Forest</LastName>
+            <ForeName>Veronique-Isabelle</ForeName>
+            <Initials>VI</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, Jewish General Hospital, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hier</LastName>
+            <ForeName>Michael</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology Head &amp; Neck Surgery, Jewish General Hospital, Montreal, Québec, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>ClinicalTrials.gov</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>NCT04048538</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JAMA Otolaryngol Head Neck Surg</MedlineTA>
+        <NlmUniqueID>101589542</NlmUniqueID>
+        <ISSNLinking>2168-6181</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006258" MajorTopicYN="N">Head and Neck Neoplasms</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010353" MajorTopicYN="N">Patient Education as Topic</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017060" MajorTopicYN="Y">Patient Satisfaction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057234" MajorTopicYN="N">Preoperative Period</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011795" MajorTopicYN="N">Surveys and Questionnaires</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>31</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>30</Day>
+          <Hour>12</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34967863</ArticleId>
+        <ArticleId IdType="pii">2787761</ArticleId>
+        <ArticleId IdType="doi">10.1001/jamaoto.2021.3765</ArticleId>
+        <ArticleId IdType="pmc">PMC8719273</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  
+
+</PubmedArticleSet>

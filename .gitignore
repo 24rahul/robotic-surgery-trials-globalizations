@@ -1,6 +1,6 @@
 # Large data files - XML files from PubMed
-robotic_surgery_trials/*.xml
-robotic_surgery_trials_clinical/*.xml
+raw_data/*.xml
+filtered_data/*.xml
 
 # Python
 __pycache__/
@@ -35,8 +35,10 @@ Thumbs.db
 # Zip files
 *.zip
 
-# Excel temp files
+# Office temp / lock files
 ~$*.xlsx
+~$*.docx
+~$*.doc
 
 # Environment
 .env

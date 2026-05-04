@@ -1,164 +1,110 @@
-# Robotic Surgery Clinical Trials - Global Equity Analysis
+# Robotic Surgery Clinical Trials — Global Equity Analysis
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Overview
+Bibliometric analysis of **25 years (2001–2025) of robotic surgery clinical trials** from PubMed/MEDLINE, examining geographic distribution, international collaboration, and income-tier inequity in research participation.
 
-This repository contains a comprehensive bibliometric analysis of **25 years (2001-2025) of robotic surgery clinical trials** from PubMed/MEDLINE. The study examines global equity in robotic surgery research, investigating geographic distribution, international collaboration patterns, and participation of low- and middle-income countries (LMICs).
-
----
-
-## ⭐ Quick Start - Final Presentation Figures
-
-**For the final, clean codebase that generates all presentation figures:**
+## Quick Start
 
 ```bash
-cd "Final Analysis - Robotic Trials/presentation_codebase"
-pip install pandas numpy matplotlib scipy cartopy geopandas
-python generate_all_figures.py
+pip install pandas numpy matplotlib scipy tqdm cartopy geopandas python-docx
+python pipeline/5_generate_figures.py     # main figures → output/
+python pipeline/6_generate_supplements.py # supplemental figs/tables → output/supplementary/
+python pipeline/7_convert_to_docx.py      # manuscript .docx files → manuscript/
 ```
-
-See [`Final Analysis - Robotic Trials/presentation_codebase/README.md`](Final%20Analysis%20-%20Robotic%20Trials/presentation_codebase/README.md) for detailed documentation.
-
----
 
 ## Repository Structure
 
 ```
 robotic_surgery_trials/
-│
-├── 📁 Final Analysis - Robotic Trials/
-│   │
-│   ├── ⭐ presentation_codebase/          ← FINAL CLEAN CODEBASE
-│   │   ├── generate_all_figures.py        # Single script generates all 8 figures
-│   │   ├── README.md                      # Detailed documentation
-│   │   ├── data/                          # Processed data files
-│   │   ├── shapefiles/                    # Geographic data
-│   │   └── output/                        # Generated figures
-│   │
-│   ├── data/                              # All processed data files
-│   ├── figures/                           # Initial figure iterations
-│   ├── figures_elegant/                   # Refined figures
-│   ├── tables/                            # Summary tables
-│   └── *.py                               # Various analysis scripts
-│
-├── 📁 robotic_surgery_trials/             # Raw PubMed data (all trials)
-│   └── *.xml                              # ~9000 XML files (not in git)
-│
-├── 📁 robotic_surgery_trials_clinical/    # Filtered clinical trials
-│   └── *.xml                              # ~3000 XML files (not in git)
-│
-├── 📁 presentation/                       # Earlier presentation drafts
-│
-└── *.py                                   # Data processing scripts
+├── pipeline/                 Ordered analysis scripts (1 → 7)
+│   ├── 1_filter_clinical_trials.py        raw_data/ → filtered_data/
+│   ├── 2_globalization_stats.py           filtered_data/ → data/*.tsv
+│   ├── 3_income_trend.py                  data/world_bank_income.csv → data/income_shares_by_year.csv
+│   ├── 3b_income_trend_time_varying.py    OGHIST → data/income_shares_by_year_tv.csv
+│   ├── 4_three_way_split.py               data/three_way_split.csv
+│   ├── 5_generate_figures.py              data/ → output/Figure_1..4.{png,pdf}
+│   ├── 6_generate_supplements.py          data/ → output/supplementary/Supplementary_Figure_S1..3 + Table S1..3
+│   └── 7_convert_to_docx.py               manuscript/manuscript.md → manuscript/*.docx
+├── data/                     Processed data (intermediates + figure inputs)
+├── raw_data/                 Raw PubMed MEDLINE XML (gitignored)
+├── filtered_data/            Clinical-trial-filtered XML (gitignored)
+├── shapefiles/               Natural Earth 1:110m country boundaries
+├── output/                   Final figures
+│   ├── Figure_1..4.{png,pdf}             Main manuscript figures (600 DPI)
+│   └── supplementary/                    Supplementary figures (PNG/PDF) + tables (CSV)
+├── manuscript/               Manuscript source + submission-ready Word documents
+│   ├── manuscript.md                     Markdown source of record
+│   ├── Manuscript.docx                   Main paper (text + tables + figures embedded)
+│   ├── Supplementary_Tables.docx
+│   └── Supplementary_Figures.docx
+└── archive/                  Superseded iterations and legacy artifacts
+    ├── final_analysis_iterations/
+    ├── legacy_deliverable/
+    ├── old_figures/                      Stale figures from initial codebase
+    ├── old_pipeline/                     Initial figure-generation script
+    ├── presentation/
+    └── root_scripts/
 ```
+
+## Pipeline
+
+Each script is idempotent and uses `pathlib` to resolve paths relative to the repo root — run from anywhere.
+
+| Step | Script | Reads | Writes |
+|---|---|---|---|
+| 1 | `1_filter_clinical_trials.py` | `raw_data/robotic_*.xml` | `filtered_data/robotic_*.xml` |
+| 2 | `2_globalization_stats.py` | `filtered_data/robotic_*.xml` | `data/per_year_metrics.tsv`, `data/top_countries_*.tsv` |
+| 3 | `3_income_trend.py` | `filtered_data/` + `data/world_bank_income.csv` | `data/income_shares_by_year.csv` |
+| 3b | `3b_income_trend_time_varying.py` | `filtered_data/` + `data/world_bank_income_historical.csv` | `data/income_shares_by_year_tv.csv` |
+| 4 | `4_three_way_split.py` | `data/income_shares_by_year.csv` | `data/three_way_split.csv` |
+| 5 | `5_generate_figures.py` | `data/` + `shapefiles/` | `output/Figure_1..4.{png,pdf}` |
+| 6 | `6_generate_supplements.py` | `data/` | `output/supplementary/` |
+| 7 | `7_convert_to_docx.py` | `manuscript/manuscript.md` + `output/` | `manuscript/*.docx` |
 
 ## Key Findings
 
-| Metric | 2001-2005 | 2021-2025 | Change |
-|--------|-----------|-----------|--------|
-| Annual trials | 27 | 194 | +618% |
-| Countries with trials | 10 | 26 | +16 |
-| LMIC share | 6% | 25% | +19pp |
-| International collaboration | 3% | 21% | +18pp |
-| HHI (concentration) | 2012 | 982 | -51% |
+| Metric | 2001–2005 | 2021–2025 |
+|---|---:|---:|
+| Annual trials | 27 | 194 |
+| Distinct contributing countries / yr | 10 | 26 |
+| HHI (geographic concentration) | 2,012 | 982 |
+| Multi-country collaboration share | 3.1% | 21.2% |
+| HIC share of country-trial participations | 87.0% | 75.1% |
+| LMIC share | 6.5% | 2.1% |
+| Non-HIC share *excluding China* | 9.4% | 6.2% |
 
-### Critical Equity Gaps
-
-- **China dominance**: 90% of LMIC trials come from China alone
-- **Lower-middle income**: Only 2.3% of trials
-- **Low income**: 0% of trials
-- **No South-South collaboration**: All international collaborations involve HICs
-
-## Data Pipeline
-
-### 1. Data Collection
-```bash
-# PubMed search query
-("Robotic Surgical Procedures"[MeSH] OR "robot-assisted"[tiab]) 
-AND ("Clinical Trial"[pt] OR "clinical trial"[tiab])
-```
-
-### 2. Filtering
-```bash
-python filter_robotic_surgery_trials.py    # Initial filter
-python filter_true_clinical_trials.py      # Strict clinical trial filter
-```
-
-### 3. Analysis
-```bash
-python robotic_trials_stats_true_clinical.py   # Generate metrics
-```
-
-### 4. Figure Generation
-```bash
-cd "Final Analysis - Robotic Trials/presentation_codebase"
-python generate_all_figures.py
-```
-
-## Generated Figures
-
-| # | Figure | Description |
-|---|--------|-------------|
-| 1 | `fig1_trial_growth.png` | 25-year trial growth with CAGR & R² |
-| 2a | `fig2a_hhi_concentration.png` | Geographic concentration declining |
-| 2b | `fig2b_collaboration.png` | International collaboration rising |
-| 3 | `fig3_regional_shift.png` | Regional distribution with χ² test |
-| 4 | `fig4_country_leaders.png` | Top 10 countries by income level |
-| 5 | `fig9_world_map.png` | Global map with HIC/LMIC bubbles |
-| 6 | `fig10a_income_distribution.png` | Trials by World Bank income level |
-| 7 | `fig_equity_summary.png` | 3-panel equity dashboard |
-
-## Requirements
-
-### Core
-```
-pandas>=1.3.0
-numpy>=1.20.0
-matplotlib>=3.4.0
-scipy>=1.7.0
-```
-
-### For World Maps
-```
-cartopy>=0.20.0
-geopandas>=0.10.0
-```
-
-### Installation
-```bash
-# Using pip
-pip install pandas numpy matplotlib scipy cartopy geopandas
-
-# Using conda (recommended for cartopy)
-conda install -c conda-forge pandas numpy matplotlib scipy cartopy geopandas
-```
+**Headline equity findings (2001–2025 cumulative, time-varying World Bank classification):**
+- 2,232 trials; 2,777 country-trial participations; 47 contributing countries
+- HIC 81.7% / UMIC 15.7% / LMIC 2.6% / LIC 0.04% (one trial)
+- Per-million population production: HIC 1.81 / UMIC 0.17 / LMIC 0.021 / LIC 0.001 (≈86-fold HIC–LMIC gap)
+- Aggregate non-HIC rise (13.0% → 24.9%) is entirely driven by China; non-HIC excluding China declined from 9.4% to 6.2%
 
 ## Data Sources
 
 | Data | Source | Notes |
-|------|--------|-------|
-| Clinical trials | PubMed/MEDLINE | 2001-2025, MeSH filtered |
-| Income classifications | World Bank | 2024-2025 fiscal year |
-| Geographic boundaries | Natural Earth | 110m resolution |
+|---|---|---|
+| Clinical trials | PubMed/MEDLINE | 2025 annual baseline + daily updates through 8 Aug 2025 |
+| Income classifications | World Bank OGHIST 1987–2021 + 2024–25 forward-fill | Turkey/Czechia pre-rename rows manually supplemented |
+| Country boundaries | Natural Earth | 1:110m resolution |
 
-## Raw Data
+### Raw XML
 
-The raw XML files from PubMed (~12,000 files) are excluded from git due to size.
+Raw PubMed XML files are excluded from git. To regenerate from scratch:
 
-To obtain the raw data:
-1. Search PubMed with the query above
-2. Export results in XML format
-3. Place in `robotic_surgery_trials/` and `robotic_surgery_trials_clinical/`
+1. Download the PubMed MEDLINE baseline into `raw_data/`
+2. Run `pipeline/1_filter_clinical_trials.py` (populates `filtered_data/`)
+3. Run steps 2 → 7 to regenerate `data/`, `output/`, and `manuscript/*.docx`
 
 ## Citation
 
 ```
-[Authors]. Global Equity in Robotic Surgery Research: 
-A 25-Year Bibliometric Analysis of Clinical Trials. [Conference], 2026.
+[Authors]. Shifting Geography of Robotic Surgery Clinical Trials:
+A 25-Year Bibliometric Analysis of Research Redistribution and
+Persistent Income-Tier Inequity. [Journal], 2026.
 ```
 
 ## License
 
-MIT License - see [LICENSE](Final%20Analysis%20-%20Robotic%20Trials/presentation_codebase/LICENSE) for details.
+MIT — see [LICENSE](LICENSE).
